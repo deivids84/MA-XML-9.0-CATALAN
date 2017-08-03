@@ -14,7 +14,6 @@
   <string name="check_config_hint">El dispositiu no està configurat correctament. Configureu el dispositiu.</string>
   <string name="choose_config_hit">Opcions de configuració</string>
   <string name="confirm">Confirma</string>
-  <string name="cur_value">Act:</string>
   <string name="current_config">Configuració MBN actual</string>
   <string name="data_roaming">Itinerància de dades: desactivada</string>
   <string name="device_type">Tipus de dispositiu:</string>
@@ -45,7 +44,6 @@
   <string name="phone_storage">Emmagatzematge del telèfon</string>
   <string name="qc_mbn">MBN de referència</string>
   <string name="quit">Surt</string>
-  <string name="ref_value">Ref:</string>
   <string name="rule1">s\'ha d\'establir a</string>
   <string name="rule2">per un sub primari cal establir-lo a</string>
   <string name="rule3">per un sub secundari cal establir-lo a</string>

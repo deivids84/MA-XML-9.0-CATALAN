@@ -22,7 +22,6 @@
   <string name="cancel_receive_stop">Continuar rebent</string>
   <string name="cancel_stop">Continuar enviant</string>
   <string name="file_not_support">"Aquest tipus de fitxer no està suportat"</string>
-  <string name="hello_world">Hola món!</string>
   <string name="help">Ajuda</string>
   <string name="i_know">Ho tinc</string>
   <string name="intro_page1_text1">Comparteix fitxers amb dispositius propers</string>
@@ -70,7 +69,6 @@
   <string name="sender_transfer_interrupt">"Transferència interrompuda, no apaguis el Wi-Fi durant la transferència"</string>
   <string name="sender_wait">Esperant</string>
   <string name="sender_wait_queue">Esperant</string>
-  <string name="title_activity_main">Activitat principal</string>
   <string name="transfer_interrupt">Transferència interrompuda</string>
   <string name="transmission_click_send">envia</string>
   <string name="transmission_connect">"No s'ha pogut trobar el receptor"</string>

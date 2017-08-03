@@ -114,20 +114,6 @@
     <item>4K (sobredimensionat, segur)</item>
     <item>720p, 1080p (pantalla dual)</item>
   </string-array>
-  <string-array name="overlay_display_devices_values">
-    <item></item>
-    <item>720x480/142</item>
-    <item>720x480/142,secure</item>
-    <item>1280x720/213</item>
-    <item>1280x720/213, segur</item>
-    <item>1920x1080/320</item>
-    <item>1920x1080/320, segur</item>
-    <item>3840x2160/320</item>
-    <item>3840x2160/320, segur</item>
-    <item>1920x1080/320|3840x2160/640</item>
-    <item>1920x1080/320 | 3840x2160/640, segur</item>
-    <item>1280x720/213;1920x1080/320</item>
-  </string-array>
   <string-array name="enable_opengl_traces_entries">
     <item>Cap</item>
     <item>Logcat</item>
@@ -138,11 +124,6 @@
     <item>Desactivat</item>
     <item>Dibuixa l\'àrea de tall no rectangular en blau</item>
     <item>Ressalta en color verd les ordres de dibuix verificades</item>
-  </string-array>
-  <string-array name="show_non_rect_clip_values">
-    <item>hide</item>
-    <item>regió</item>
-    <item>realça</item>
   </string-array>
   <string-array name="track_frame_time_entries">
     <item>Desactivat</item>
@@ -190,10 +171,5 @@
     <item>Colors millorats</item>
     <item>Colors naturals tal com els veu l\'ull</item>
     <item>Colors optimitzats per contingut digital</item>
-  </string-array>
-  <string-array name="organ_donor_values">
-    <item>Sí</item>
-    <item>No</item>
-    <item></item>
   </string-array>
 </resources>
