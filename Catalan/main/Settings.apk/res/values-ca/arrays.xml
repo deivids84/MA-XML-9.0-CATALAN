@@ -92,7 +92,7 @@
     <item>Cap</item>
     <item>Logcat</item>
     <item>Systrace (Gràfics)</item>
-    <item>Trucades en glGetError</item>
+    <item>Pila de crides a glGetError</item>
   </string-array>
   <string-array name="show_non_rect_clip_entries">
     <item>Apagat</item>
@@ -862,6 +862,8 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>gh</item>
     <item>gr</item>
     <item>gd</item>
+    <item>gr</item>
+    <item>gd</item>
     <item>gt</item>
     <item>gy</item>
     <item>ht</item>
@@ -887,6 +889,7 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>li</item>
     <item>lt</item>
     <item>lu</item>
+    <item>mo</item>
     <item>mk</item>
     <item>mw</item>
     <item>my</item>

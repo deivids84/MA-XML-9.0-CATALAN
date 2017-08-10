@@ -59,10 +59,10 @@
   <string name="monday">Dilluns</string>
   <string name="monday_short">Dl.</string>
   <string name="monday_shortest">Dl.</string>
-  <string name="month_april">abril</string>
+  <string name="month_april">d\'abril</string>
   <string name="month_april_short">Abr.</string>
   <string name="month_april_shortest">Abr.</string>
-  <string name="month_august">agost</string>
+  <string name="month_august">d\'agost</string>
   <string name="month_august_short">Ag.</string>
   <string name="month_august_shortest">Ag.</string>
   <string name="month_december">desembre</string>
@@ -92,7 +92,7 @@
   <string name="month_october">octubre</string>
   <string name="month_october_short">Oct.</string>
   <string name="month_october_shortest">Oct.</string>
-  <string name="month_september">setembre</string>
+  <string name="month_september">de setembre</string>
   <string name="month_september_short">Set.</string>
   <string name="month_september_shortest">Set.</string>
   <string name="more">Més</string>

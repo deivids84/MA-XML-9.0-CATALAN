@@ -73,14 +73,7 @@ Torneu a provar-ho d\'aquí %d segons."</string>
   <string name="open_camera_hint_text">Feu lliscar cap a l\'esquerra per obrir %s</string>
   <string name="open_remote_center_hint_text">Feu lliscar cap a la dreta per obrir %s</string>
   <string name="phone_locked_foget_password">Heu oblidat la contrasenya?</string>
-  <string name="phone_locked_foget_password_mehod_back">Enrere</string>
-  <string name="phone_locked_foget_password_method">Heu oblidat la contrasenya?</string>
-  <string name="phone_locked_foget_password_method_content">&lt;Data&gt;Heu d\' &amp;lt;font color=#a5220e&amp;gt;esborrar totes les dades &amp;lt;/font&amp;gt; al dispositiu, incloent fotos i contactes, i després establiu una nova contrasenya de bloqueig de pantalla.&lt;/Data&gt;</string>
-  <string name="phone_locked_foget_password_method_next">Següent</string>
   <string name="phone_locked_foget_password_ok">D\'acord</string>
-  <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data&gt;Apagueu el dispositiu, mantingueu premut el &amp;lt;font color=#a5220e&amp;gt;botó d\'encesa &amp;lt;/font&amp;gt; i el &amp;lt;font color=#a5220e&amp;gt;botó d\'apujar el volum &amp;lt;/font&amp;gt;simultàniament fins que vegeu ml.&lt;/Data&gt;</string>
-  <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data&gt;Seleccioneu &amp;lt;font color=#a5220e&amp;gt;\"Neteja &amp;amp;amp; Restableix\"&amp;lt;/font&amp;gt; i espereu fins que el dispositiu es reiniciï.&lt;/Data&gt;</string>
-  <string name="phone_locked_forget_password_suggesstions_title">Com esborrar les dades?</string>
   <string name="phone_locked_string">El telèfon ha estat bloquejat</string>
   <string name="unlock_string">Desbloqueja</string>
   <string name="unlocking_sim_card">S\'està desbloquejant la SIM</string>

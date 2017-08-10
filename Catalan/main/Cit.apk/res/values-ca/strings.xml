@@ -27,6 +27,8 @@
   <string name="abc_toolbar_collapse_description">Contrau</string>
   <string name="action_example">Acció d\'exemple</string>
   <string name="action_nothing">esperant el resultat de la prova</string>
+  <string name="audio_spk_cal_wait">Calibratge...</string>
+  <string name="audio_spk_def">Calibreu dels altaveus</string>
   <string name="baterry_temperature">"Temperatura de la Bateria: "</string>
   <string name="begin_to_save_finger_data">Comença a registrar les empremtes dels dits</string>
   <string name="button_ok">D\'acord</string>
