@@ -90,7 +90,6 @@
   <string name="administrative_disable">Administratiu deshabilitat</string>
   <string name="administrative_enable">Administratiu habilitat</string>
   <string name="advanced_settings">Paràmetres opcionals</string>
-  <string name="advanced_settings_container">contenidor de configuració avançada</string>
   <string name="advanced_settings_hide">▷ Toqueu per ocultar-ho tot</string>
   <string name="advanced_settings_show">▷ Toqueu per mostrar-ho tot</string>
   <string name="advertisements_disable">Anuncis desactivats</string>
@@ -941,7 +940,6 @@ Torneu a provar-ho o truqueu al servei d\'atenció al client per a més opcions.
   <string name="other_settings_category">Altres</string>
   <string name="overlay_display_devices_title">Simula pantalles secundàries</string>
   <string name="overseas_roaming_setting">Itinerància de dades</string>
-  <string name="password">Contrasenya</string>
   <string name="password_changed">La contrasenya s\'ha canviat</string>
   <string name="password_title">Contrasenya</string>
   <string name="path_answer_state_setting_title">Aplicacions de sistema/Telèfon/Paràmetres de trucades entrants</string>
@@ -1422,7 +1420,6 @@ Contacteu amb el vostre operador si persisteix aquest problema."</string>
   <string name="voicemail_default">El vostre operador</string>
   <string name="voicemail_notification_ringtone_title">So</string>
   <string name="voicemail_notification_vibarte_when_dialog_title">Vibració</string>
-  <string name="voicemail_notification_vibrate_when_default">mai</string>
   <string name="voicemail_notification_vibrate_when_title">Vibració</string>
   <string name="voicemail_number_not_set">&lt;No definit&gt;</string>
   <string name="voicemail_provider">Servei</string>

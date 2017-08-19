@@ -995,13 +995,6 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>2 hores</item>
     <item>8 hores</item>
   </string-array>
-  <string-array name="silent_mode_duration_value">
-    <item>0</item>
-    <item>30</item>
-    <item>60</item>
-    <item>120</item>
-    <item>480</item>
-  </string-array>
   <string-array name="alarm_repeat_type">
     <item>Cada dia</item>
     <item>Entre setmana</item>

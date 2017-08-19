@@ -847,7 +847,6 @@ Per afegir un contacte a la llista de favorits:
   <string name="path_wipe_data">Aplicacions del sistema/Contactes/Organitza els contactes/Esborra dades</string>
   <string name="payphone">Telèfon públic</string>
   <string name="people">Contactes</string>
-  <string name="percentage">%s%%</string>
   <string name="phoneLabelsGroup">Telèfon</string>
   <string name="phone_number_too_long_toast">Número massa llarg</string>
   <string name="phone_primary">Primària</string>
