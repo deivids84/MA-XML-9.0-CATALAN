@@ -6,6 +6,7 @@
   <string name="SMTP_username_text">Nom d\'usuari</string>
   <string name="accessibility_guide_first">A la següent pantalla, seleccioneu «Serveis» per activar la configuració automàtica de la bustia 139</string>
   <string name="accessibility_guide_second">A continuació, feu clic a l\'interruptor a la bora superior dreta, feu clic a «Continua» per continuar.</string>
+  <string name="account_cache_provider">Proveïdor de memòria cau de comptes</string>
   <string name="account_duplicate_dlg_message_fmt">"Ja esteu utilitzant aquest nom d'usuari pel compte \"%s\"."</string>
   <string name="account_duplicate_dlg_title">Compte duplicada</string>
   <string name="account_failure">Error del compte</string>
@@ -310,6 +311,7 @@
   <string name="contextmenu_send_mail">Envia el correu</string>
   <string name="contextmenu_sharelink">Compartir enllaç</string>
   <string name="contextmenu_sms_dot">SMS&#8230;</string>
+  <string name="conversation_content_provider">Proveïdor de contingut de conversa</string>
   <string name="conversation_folder_moved">Es va moure a %1$s</string>
   <string name="conversation_item_mark_read">Llegit</string>
   <string name="conversation_item_mark_unread">No llegit</string>
@@ -790,7 +792,7 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="qq_login_webview">S\'està iniciant sessió al correu QQ a través de la pagina web. Introduïu la contrasenya.</string>
   <string name="qq_next_generation_auth_toast">Completeu la sol·licitud de protecció de contrasenya de segona generació a través del navegador</string>
   <string name="qq_uthentication_failed">"Error d'autenticació, inicieu sessió una altra vegada"</string>
-  <string name="qq_webview_loading">S\'està ometen, espereu...</string>
+  <string name="qq_webview_loading">S\'està ometen, espereu…</string>
   <string name="questionnair_body_invisibility">"No es mostren els missatges"</string>
   <string name="questionnair_confirm_delete">Eliminar</string>
   <string name="questionnair_instability">Aplicació inestable, reinicis</string>
@@ -871,6 +873,10 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="reply_all">Respondre a tots</string>
   <string name="reply_attribution" formatted="false">En %s, %s va escriure:</string>
   <string name="report_phishing">Denunciar phishing</string>
+  <string name="report_rendering_improvement">Pinta bé</string>
+  <string name="report_rendering_improvement_desc">Aquest missatge pinta bé.</string>
+  <string name="report_rendering_problem">Pinta malament</string>
+  <string name="report_rendering_problem_desc">Aquest missatge pinta malament.</string>
   <string name="report_spam">Denunciar spam</string>
   <string name="request_entity_large">El fitxer és massa gran</string>
   <string name="request_permission_activity">Sol·licitud de permís</string>
@@ -881,7 +887,7 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="save_power_summary">Establir temps d\'estalvi de bateria</string>
   <string name="save_power_title">Estalvi de bateria</string>
   <string name="saved">Desat, %s</string>
-  <string name="saving">Desant...</string>
+  <string name="saving">Desant…</string>
   <string name="sdcard_cannot_use">"La targeta d'emmagatzematge no es pot utilitzar"</string>
   <string name="search_hint">Cerca correu</string>
   <string name="search_result">"Resultats"</string>
@@ -1016,6 +1022,7 @@ Voleu aturar-ho?"</string>
   <string name="wait_for_manual_sync_body">\"Aquest compte no està configurat per sincronitzar automàticament. 
 Toqui \" Sincronitza ara per sincronitzar el correu una vegada, o Canviar la configuració de sincronització per configurar la sincronització automàtica d\'aquest compte.\"</string>
   <string name="wait_for_sync_title">A l\'espera de sincronització</string>
+  <string name="wait_help_context">espereu</string>
   <string name="webview_logout">Realment voleu deixar d\'iniciar sessió? Va home, torneu-ho a provar!</string>
   <string name="webview_logout_cancel">No ho tornaré a provar</string>
   <string name="webview_logout_sure">Prova-ho una vegada més</string>

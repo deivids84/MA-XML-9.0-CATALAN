@@ -57,7 +57,7 @@
   <string name="document_ocr_result_title">Foto del document</string>
   <string name="document_ocr_tip_msg">S\'està llegint&#8230;</string>
   <string name="document_recognize_fail_tip">"No s'ha pogut llegir el document"</string>
-  <string name="document_recognize_null_tip">El resultat del document està buit</string>
+  <string name="document_recognize_null_tip">El document resultant està buit</string>
   <string name="document_rectify">Ajusta</string>
   <string name="document_rectify_tip_msg">S\'està ajustant&#8230;</string>
   <string name="document_save_succeed_tip">Document desat a %1$s</string>

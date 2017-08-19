@@ -20,6 +20,9 @@
   <string name="delete_failed">"No es pot eliminar"</string>
   <string name="delete_failed_retry">"No s'ha pogut eliminar, espereu %1$s i torneu-ho a provar"</string>
   <string name="delete_file">Voleu eliminar aquest fitxer?</string>
+  <string name="delete_files">Voleu eliminar %1$d fitxers?</string>
+  <string name="delete_folder">Voleu eliminar aquesta carpeta?</string>
+  <string name="delete_folders">Voleu eliminar %1$d carpetes?</string>
   <string name="delete_success">Fitxer suprimit</string>
   <string name="download_failed">"No s'ha pogut baixar"</string>
   <string name="downloading">S\'està baixant</string>
@@ -100,7 +103,6 @@
   <string name="sd_full">La targeta SD està plena.</string>
   <string name="sd_invalid">La targeta SD està malmesa.</string>
   <string name="send_to_midrive_failed">"Aquest tipus de fitxer no està suportat."</string>
-  <string name="source_file_missing">Falta el fitxer.</string>
   <string name="space_full">No hi ha prou espai al núvol.</string>
   <string name="start_use_xiaomi_account">Comenceu a utilitzar Mi Drive</string>
   <string name="system_alert">Connexió a Internet</string>

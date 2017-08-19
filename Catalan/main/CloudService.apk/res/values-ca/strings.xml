@@ -131,6 +131,7 @@ Si canvies de targeta SIM s\'enviarà un altre SMS automàticament per reactivar
   <string name="loading">Un moment&#8230;</string>
   <string name="loading_hint">Carregant</string>
   <string name="master_alert_notif_content">"%d dades no se sincronitzen."</string>
+  <string name="master_alert_notif_dspt_add">Elements esperant la sincronització: %s</string>
   <string name="master_alert_notif_dspt_no">S\'ha sincronitzat</string>
   <string name="master_alert_notif_title">Activar MiCloud</string>
   <string name="member_due_date">Vàlid fins a %s</string>
@@ -140,6 +141,8 @@ Si canvies de targeta SIM s\'enviarà un altre SMS automàticament per reactivar
   <string name="micloud_all_sub_2_intl_sms">S\'enviaran dos missatges de text internacionals per activar la vostra targeta SIM. El vostre operador us ho cobrarà.</string>
   <string name="micloud_all_sub_2_sms">S\'enviaran dos missatges de text normals per activar la vostra targeta SIM. El vostre operador us ho cobrarà.</string>
   <string name="micloud_all_sub_resend_sms">"Quan s'activa 'Trobar dispositiu', un SMS d'activació pot ser enviat després de canviar les targetes SIM."</string>
+  <string name="micloud_battery_low_notification_message">Connecteu el carregador per sincronitzar</string>
+  <string name="micloud_battery_low_notification_title">Bateria baixa</string>
   <string name="micloud_buy_member">Compte</string>
   <string name="micloud_buy_member_safe">Compra subscripció Mi Cloud</string>
   <string name="micloud_check_sim_notify_text">"Sembla que has canviat de SIM. Inicia la sessió 
@@ -269,6 +272,7 @@ Per solucionar això, podeu netejar alguns fitxers antics per deixar espai als n
   <string name="micloud_main_memory_low_message">"Per sincronitzar, elimina alguns dels elements emmagatzemats en el núvol."</string>
   <string name="micloud_main_memory_low_title">"No hi ha prou espai"</string>
   <string name="micloud_main_message_master_sync_off">La configuració de sincronització automàtica és a la barra de notificacions.</string>
+  <string name="micloud_main_message_not_synced">%s dades no sincronitzades</string>
   <string name="micloud_main_multi_user_error_message">"Vostè iniciant sessió amb el mateix compte ha provocat un error a Mi Cloud. Si voleu fer una còpia de seguretat de fitxers:
 
 1. Utilitzar un compte diferent.
@@ -300,8 +304,10 @@ Toca el botó de configuració de sincronització per veure més opcions\"</stri
   <string name="micloud_main_sync_pending">Esperant per sincronitzar</string>
   <string name="micloud_main_sync_setting">Configuració de sincronització</string>
   <string name="micloud_main_sync_stop">Sincronització parada</string>
+  <string name="micloud_main_synced_data_count">%d elements sincronitzats</string>
   <string name="micloud_main_syncing">Sincronitzant &#8230;</string>
   <string name="micloud_main_title_master_sync_off">Autosincronització apagada</string>
+  <string name="micloud_main_title_not_synced">No sincronitzat</string>
   <string name="micloud_main_title_sync_fail">"No es pot sincronitzar"</string>
   <string name="micloud_main_title_sync_off">Sincronització parada</string>
   <string name="micloud_main_title_sync_on_wifi">Utilitzar Wi-Fi</string>
@@ -311,6 +317,7 @@ Toca el botó de configuració de sincronització per veure més opcions\"</stri
   <string name="micloud_main_wait_wlan">S\'està esperant una connexió Wi-Fi</string>
   <string name="micloud_main_wait_wlan_charge">S\'està esperant una connexió Wi-Fi, s\'està connectant el carregador</string>
   <string name="micloud_main_wait_wlan_charge_sleep">S\'està esperant una connexió Wi-Fi, s\'està connectant el carregador i apagar la pantalla</string>
+  <string name="micloud_main_wlan_sync_data_count">Elements esperant la sincronització: %d</string>
   <string name="micloud_member">Membre Mi Cloud</string>
   <string name="micloud_member_advantage">Obtenir més espai d\'emmagatzematge.</string>
   <string name="micloud_member_buy_content" formatted="false">"Vàlid fins al %s-%s-%s
@@ -476,6 +483,7 @@ Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi."</
   <string name="start_micloud">Inicia</string>
   <string name="storage">Emmagatzematge</string>
   <string name="sub_alert_notif_content">Activar Micloud</string>
+  <string name="sub_alert_notif_dspt_add">Elements esperant la sincronització: %s</string>
   <string name="sub_alert_notif_dspt_no">S\'ha sincronitzat</string>
   <string name="sub_alert_notif_title">Sense sincronitzar</string>
   <string name="sub_sync_item_sms_summary">"Sincronitzar missatges que continguin fotos, àudio o bé el contingut multimèdia únicament quan estiguis connectat a una xarxa Wi-Fi"</string>

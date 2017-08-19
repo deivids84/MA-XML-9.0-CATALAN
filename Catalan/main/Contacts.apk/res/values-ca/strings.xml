@@ -87,6 +87,7 @@
   <string name="call_radio">Trucada a ràdio</string>
   <string name="call_record_setting_miui">Configuració d\'enregistrament</string>
   <string name="call_settings">Configuració</string>
+  <string name="call_settings_primary_user_only">La configuració de les trucades només la pot modificar l\'usuari principal.</string>
   <string name="call_sim1_menu_title">Marca a SIM 1</string>
   <string name="call_sim2_menu_title">Marca a SIM 2</string>
   <string name="call_sim_menu_title_suffix">(Primària)</string>
@@ -451,6 +452,7 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="force_touch_miprofile">Targeta de contacte</string>
   <string name="force_touch_new_contact">Contacte nou</string>
   <string name="foundTooManyContacts">Més de %d trobats.</string>
+  <string name="fraud_more_indemnity">Més</string>
   <string name="frequentList">Freqüents</string>
   <string name="full_name">Nom</string>
   <string name="gallery">Galeria</string>
@@ -466,8 +468,7 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="group_delete_success_toast">Grup eliminat</string>
   <string name="group_detail_label_placeholder">&#160;</string>
   <string name="group_edit_field_hint_text">Nom del grup</string>
-  <string name="group_member_remove_fail_toast">No s\'ha eliminat del grup</string>
-  <string name="group_member_remove_success_toast">Eliminat del grup</string>
+  <string name="group_member_remove_toast">Eliminat del grup</string>
   <string name="group_name">Els meus grups</string>
   <string name="group_name_hint">"Nom del grup"</string>
   <string name="group_read_only">No es pot modificar en aquest dispositiu.</string>
@@ -516,6 +517,15 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="import_to_xiaomi_account_title">Importar a compte Mi</string>
   <string name="import_vcard_description">"Importar contactes de la memòria interna del telèfon"</string>
   <string name="import_vcard_dialog_message">Importar vCard?</string>
+  <string name="import_weibo_dialog_title">Importa contactes de Weibo</string>
+  <string name="import_weibo_error_no_matched_contacts">No hi ha contactes coincidents</string>
+  <string name="import_weibo_error_no_network">"No es pot connectar a la xarxa. Comprova la teva connexió i torna a provar."</string>
+  <string name="import_weibo_error_no_xiaomi_phone">No hi ha números de telèfon emmagatzemats en el seu compte Mi.</string>
+  <string name="import_weibo_error_unknown">Error desconegut</string>
+  <string name="import_weibo_error_user_cancel">Importació cancel·lada</string>
+  <string name="import_weibo_fetch_followers">Combinant contactes…</string>
+  <string name="import_weibo_notification_title_done">S\'han actualitzat %s contactes</string>
+  <string name="import_weibo_progress_name">Coincideix \"%1$s\"…</string>
   <string name="importing_sim_contacts_miui">Importar contactes de la targeta SIM&#8230;</string>
   <string name="importing_sim_contacts_miui_prepare">S\'estan preparant els contactes&#8230;</string>
   <string name="importing_vcard_canceled_title">Exportació de %s cancel·lat</string>
@@ -837,6 +847,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="path_wipe_data">Aplicacions del sistema/Contactes/Organitza els contactes/Esborra dades</string>
   <string name="payphone">Telèfon públic</string>
   <string name="people">Contactes</string>
+  <string name="percentage">%s%%</string>
   <string name="phoneLabelsGroup">Telèfon</string>
   <string name="phone_number_too_long_toast">Número massa llarg</string>
   <string name="phone_primary">Primària</string>
@@ -1114,8 +1125,8 @@ Per afegir un contacte a la llista de favorits:
   <string name="success_message_import_from_account">Importació realitzada</string>
   <string name="summary_kind_title">Resum</string>
   <string name="t9_search_empty_create_contact">Nou contacte</string>
-  <string name="t9_search_empty_edit_contact">Afegeix-ho al contacte</string>
-  <string name="t9_search_empty_send_sms">Envia un missatge</string>
+  <string name="t9_search_empty_edit_contact">Afegeix-lo als contactes</string>
+  <string name="t9_search_empty_send_sms">Envia missatge</string>
   <string name="t9_search_empty_video_call">Videotrucada</string>
   <string name="t9_search_guide_pinyin_title1">Cerca ràpida de contactes en introduir lletres</string>
   <string name="t9_search_guide_pinyin_title2">Per exemple, ingresseu 2 i 3 per cercar a <font fgcolor="">A</font>lex <font fgcolor="">F</font>ont</string>
@@ -1123,6 +1134,8 @@ Per afegir un contacte a la llista de favorits:
   <string name="t9_search_guide_zhuyin_title2">Per exemple, ingresseu 5 i 6 per cercar a <font fgcolor="">J</font>osep <font fgcolor="">M</font>as</string>
   <string name="take_new_photo">Prendre foto nova</string>
   <string name="take_photo">Prendre foto</string>
+  <string name="telecom_fraud_insurance">Assegurança de frau telefònic</string>
+  <string name="telecom_fraud_insurance_description">Garantia de 1,36 € | Oferta exclusiva de Xiaomi | 1,3 € a l\'any</string>
   <string name="titleJoinContactDataWith">Combina contactes</string>
   <string name="title_other_devices">Altres dispositius disponibles</string>
   <string name="title_paired_devices">Dispositius aparellats</string>
@@ -1151,7 +1164,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="unknow_phone_number_mms_failed">"No es pot enviar un missatge a un número desconegut"</string>
   <string name="unknown">Desconegut</string>
   <string name="unknown_contact_name">Contacte desconegut</string>
-  <string name="unknown_details_new_contact">Nou contacte</string>
+  <string name="unknown_details_new_contact">Contacte nou</string>
   <string name="update_sim_contact_photo_toast">"No s'ha pogut definir la foto per als contactes SIM"</string>
   <string name="upgrade_in_progress">S\'està actualitzant la llista de contactes.</string>
   <string name="upgrade_out_of_memory">"Els contactes estan sent actualitzats.

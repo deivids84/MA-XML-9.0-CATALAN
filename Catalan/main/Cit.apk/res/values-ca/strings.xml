@@ -316,7 +316,7 @@ Després de col·locar «music.mp3» al directori de la targeta SD, toqueu la pa
   <string name="cit_tool_log_no_sdcard">Inseriu la targeta SD ara</string>
   <string name="cit_tool_log_ril">Registre de RIL</string>
   <string name="cit_tool_log_toast">Registre desat a %s</string>
-  <string name="cit_tool_log_toast_generate_bugreport">S\'està creant l\'informe d\'error... (Això triga aproximadament 1 minut)</string>
+  <string name="cit_tool_log_toast_generate_bugreport">S\'està creant l\'informe d\'error… (Això triga aproximadament 1 minut)</string>
   <string name="cit_tool_modem">Eines de proves del mòdem</string>
   <string name="cit_tool_modem_bugreport">Força el MÒDEM Coredump</string>
   <string name="cit_tool_modem_exit_ftm">Surt del mode FTM</string>
@@ -398,7 +398,6 @@ Després de col·locar «music.mp3» al directori de la targeta SD, toqueu la pa
   <string name="speak_from_mic">Parleu al MICRO, la reproducció dels altaveus. Jutgeu si hi ha so.</string>
   <string name="start">Inicia</string>
   <string name="testagain">Podeu prémer la tecla INICI per provar-ho de nou</string>
-  <string name="testing">S\'està executant l\'auto-test...</string>
   <string name="touch_auto">L\'auto-test del panell tàctil està en curs, si us plau espereu....</string>
   <string name="tp_color">Color TP:</string>
   <string name="tp_version">Versió del TP:</string>

@@ -220,6 +220,7 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
   <string name="debug_monitoring_category">Monitoratge</string>
   <string name="debug_networking_category">Xarxes</string>
   <string name="debug_view_attributes">Habilita l\'inspecció d\'atributs de visualització</string>
+  <string name="demo_mode">Mode de demostració</string>
   <string name="description_direction_left">Lliscar a l\'esquerra per %s.</string>
   <string name="description_direction_up">Lliscar amunt per %s.</string>
   <string name="description_target_search">Cercar</string>
@@ -317,9 +318,9 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="lockscreen_carrier_default">Sense servei</string>
   <string name="long_screenshot_not_support_msg">"L'aplicació actual no és compatible amb les captures de pantalla llargues"</string>
   <string name="long_screenshot_out_of_memory_error">No s\'ha pogut perquè la imatge es massa gran</string>
-  <string name="long_screenshot_processing">Processant...</string>
+  <string name="long_screenshot_processing">S\'està processant…</string>
   <string name="long_screenshot_stop">Aturar</string>
-  <string name="long_screenshot_top_msg">Prendre captura de pantalla llarga...</string>
+  <string name="long_screenshot_top_msg">Prendre captura de pantalla llarga…</string>
   <string name="long_screenshot_top_msg_manual">Retalleu la captura de pantalla i premeu el botó per finalitzar</string>
   <string name="managed_profile_foreground_toast">"Estas utilitzant el perfil de feina"</string>
   <string name="managed_user_title">Totes les aplicacions de feina</string>
@@ -445,6 +446,7 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="screenshot_dlg_delete_button">Elimina</string>
   <string name="screenshot_edit">Edita</string>
   <string name="screenshot_failed_text">"No s'ha pogut desar la captura de pantalla, a causa de problemes d'emmagatzematge o que no està permès per l'aplicació o la teva organització."</string>
+  <string name="screenshot_insert_failed">S\'ha produït un error en llegir la captura de pantalla, feu-ne una de nova o verifiqueu que la imatge és a l\'àlbum</string>
   <string name="screenshot_long_screenshot">Desplaça</string>
   <string name="screenshot_saved_text">Premeu per veure la captura.</string>
   <string name="screenshot_saved_title">Captura de pantalla efectuada</string>
@@ -469,6 +471,7 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="show_all_anrs_summary">Mostra el quadre d\'aplicacions que no responen en segon pla</string>
   <string name="show_cpu_usage">Mostra l\'ús de la CPU</string>
   <string name="show_cpu_usage_summary">Superposició en pantalla mostrant informació actual de la CPU</string>
+  <string name="show_demo_mode">Mostra el mode de demostració</string>
   <string name="show_hw_layers_updates">Mostra actualitzacions capes</string>
   <string name="show_hw_layers_updates_summary">Quan s\'actualitza il·lumina les capes de maquinari en verd</string>
   <string name="show_hw_screen_updates">Mostra les actualitzacions de visualització de la GPU</string>

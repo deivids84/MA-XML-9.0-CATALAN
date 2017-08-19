@@ -90,6 +90,7 @@
   <string name="administrative_disable">Administratiu deshabilitat</string>
   <string name="administrative_enable">Administratiu habilitat</string>
   <string name="advanced_settings">Paràmetres opcionals</string>
+  <string name="advanced_settings_container">contenidor de configuració avançada</string>
   <string name="advanced_settings_hide">▷ Toqueu per ocultar-ho tot</string>
   <string name="advanced_settings_show">▷ Toqueu per mostrar-ho tot</string>
   <string name="advertisements_disable">Anuncis desactivats</string>
@@ -246,6 +247,8 @@
   <string name="callFailed_channel_unacceptable">Canal inacceptable</string>
   <string name="callFailed_conditional_IE_error">Error d\'IE condicional</string>
   <string name="callFailed_congestion">Xarxa ocupada</string>
+  <string name="callFailed_data_limit_reached">S\'ha assolit el límit de dades. Trucada finalitzada.</string>
+  <string name="callFailed_data_limit_reached_description">La trucada s\'ha finalitzat perquè s\'ha assolit el límit de dades mòbils.</string>
   <string name="callFailed_destination_out_of_order">Destí fora de servei</string>
   <string name="callFailed_dialToDial">La petició DIAL s\'ha transformat en una DIAL amb un altre número.</string>
   <string name="callFailed_dialToSs">La petició DIAL s\'ha modificat a petició SS.</string>
@@ -417,6 +420,10 @@
   <string name="change_password">Canvia la contrasenya de restricció</string>
   <string name="change_pin">Canvia el PIN de la SIM</string>
   <string name="change_pin2">Canvia el PIN2</string>
+  <string name="change_pin_confirm_pin_header">Confirmeu el vostre PIN</string>
+  <string name="change_pin_confirm_pins_dont_match">"Els codis PIN no coincideixen"</string>
+  <string name="change_pin_continue_label">Continua</string>
+  <string name="change_pin_enter_new_pin_header">Estableix un nou PIN</string>
   <string name="charge_length_format">Fa %1$s</string>
   <string name="choose_profile">Seleccioneu un perfil</string>
   <string name="clear_adb_keys">Revoca autoritzacions de depuració USB</string>
@@ -447,10 +454,11 @@
   <string name="contactAddFailed">"No s'ha pogut afegir el contacte a la SIM."</string>
   <string name="contactAddSuccess">Contacte afegit a la SIM</string>
   <string name="contactPhoto">Foto del contacte</string>
-  <string name="contactUpdateFailed">No s\'ha pogut actualitzar el contacte a la SIM.</string>
+  <string name="contactUpdateFailed">"No s'ha pogut actualitzar el contacte a la SIM."</string>
   <string name="contactUpdateSuccess">Contacte actualitzat a la SIM.</string>
   <string name="contactdeleteFailed">"No s'ha pogut esborrar el contacte de la SIM."</string>
   <string name="contactdeleteSuccess">S\'ha eliminat el contacte de la SIM.</string>
+  <string name="content_description_menu_button">Menu</string>
   <string name="convert_to_fbe_warning">"Converteix la partició de dades en una criptografia basada en fitxers.
 Compte! S\'esborraran totes les dades.
 Aquesta funció és alfa i és possible que no funcioni correctament.
@@ -537,6 +545,7 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="domain_address_title">Servidor</string>
   <string name="doneButton">Fet</string>
   <string name="dtmf_tone_entries_long">Llarg</string>
+  <string name="dtmf_tone_entries_normal">Normal</string>
   <string name="dtmf_tones_summary">Defineix la durada dels tons DTMF</string>
   <string name="dtmf_tones_title">Tons DTMF</string>
   <string name="duration_disable_summary">La visualització de la durada està desactivada</string>
@@ -932,6 +941,7 @@ Torneu a provar-ho o truqueu al servei d\'atenció al client per a més opcions.
   <string name="other_settings_category">Altres</string>
   <string name="overlay_display_devices_title">Simula pantalles secundàries</string>
   <string name="overseas_roaming_setting">Itinerància de dades</string>
+  <string name="password">Contrasenya</string>
   <string name="password_changed">La contrasenya s\'ha canviat</string>
   <string name="password_title">Contrasenya</string>
   <string name="path_answer_state_setting_title">Aplicacions de sistema/Telèfon/Paràmetres de trucades entrants</string>
@@ -1169,6 +1179,8 @@ Les funcions relacionades amb el PIN2 es bloquejaran després d\'un altre intent
   <string name="select_automatically">Selecció automàtica</string>
   <string name="select_logd_size_dialog_title">Seleccioneu la mida del logger de la memòria intermèdia</string>
   <string name="select_logd_size_title">Mides de la memòria intermèdia del logger</string>
+  <string name="select_logpersist_dialog_title">Seleccioneu les memòries intermèdies de registre per emmagatzemar persistentment al dispositiu</string>
+  <string name="select_logpersist_title">Emmagatzema les dades del registrador de forma persistent en el dispositiu</string>
   <string name="select_usb_configuration_dialog_title">Seleccioneu la configuració USB</string>
   <string name="select_usb_configuration_title">Seleccioneu la configuració USB</string>
   <string name="select_voice_call_sim">Tria la targeta SIM</string>
@@ -1394,6 +1406,11 @@ El període següent comença en %2$d dies (%3$s)"</string>
   <string name="vibrate_after_connected_title">Vibració un cop connectat</string>
   <string name="vm_change_failed">"No s\'ha pogut canviar el número de bústia de veu.
 Contacteu amb el vostre operador si persisteix aquest problema."</string>
+  <string name="vm_change_pin_error_system_error">No es pot canviar el PIN</string>
+  <string name="vm_change_pin_error_too_long">El PIN nou és massa llarg.</string>
+  <string name="vm_change_pin_new_pin">PIN nou</string>
+  <string name="vm_change_pin_old_pin">PIN antic</string>
+  <string name="vm_change_pin_progress_message">Espereu si us plau.</string>
   <string name="vm_changed">S\'ha canviat el número de la bústia de veu.</string>
   <string name="voice_number_setting_primary_user_only">La configuració de la bústia de trucades de veu només pot ser modificat per l\'usuari principal.</string>
   <string name="voice_privacy">Privacitat de veu</string>
@@ -1405,6 +1422,7 @@ Contacteu amb el vostre operador si persisteix aquest problema."</string>
   <string name="voicemail_default">El vostre operador</string>
   <string name="voicemail_notification_ringtone_title">So</string>
   <string name="voicemail_notification_vibarte_when_dialog_title">Vibració</string>
+  <string name="voicemail_notification_vibrate_when_default">mai</string>
   <string name="voicemail_notification_vibrate_when_title">Vibració</string>
   <string name="voicemail_number_not_set">&lt;No definit&gt;</string>
   <string name="voicemail_provider">Servei</string>
@@ -1423,7 +1441,7 @@ Contacteu amb el vostre operador si persisteix aquest problema."</string>
   <string name="volte_switch_summary">Utilitza VoLTE per millorar la qualitat de les trucades de veu i de vídeo</string>
   <string name="volte_switch_title">Activa VoLTE</string>
   <string name="vpn_settings_not_available">La configuració de la VPN no està disponible per a aquest usuari</string>
-  <string name="wait_for_debugger">Espereu el depurador</string>
+  <string name="wait_for_debugger">Espera el depurador</string>
   <string name="wait_for_debugger_summary">Abans d\'executar-se, l\'aplicació de depuració espera que es connecti el depurador</string>
   <string name="wait_prompt_str">"Voleu enviar els tons següents?
 "</string>
@@ -1441,6 +1459,7 @@ Contacteu amb el vostre operador si persisteix aquest problema."</string>
   <string name="wifi_display_certification">Certificació de pantalla sense fil</string>
   <string name="wifi_display_certification_summary">Mostra les opcions de certificació de pantalla sense fil</string>
   <string name="wifi_fail_to_scan">"No es poden cercar xarxes"</string>
+  <string name="wifi_network_prefix_length_hint">24</string>
   <string name="wifi_no_internet">No s\'ha detectat accés a Internet, no s\'hi tornarà a connectar automàticament.</string>
   <string name="wifi_not_in_range">Fora de l\'abast</string>
   <string name="wifi_remembered">S\'ha desat</string>

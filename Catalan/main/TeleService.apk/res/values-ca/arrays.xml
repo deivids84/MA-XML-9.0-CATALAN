@@ -61,6 +61,12 @@
     <item>4M per registre de memòria</item>
     <item>16M per registre de memòria</item>
   </string-array>
+  <string-array name="select_logpersist_titles">
+    <item>Off</item>
+    <item>Tot</item>
+    <item>Tot excepte la ràdio</item>
+    <item>kernel only</item>
+  </string-array>
   <string-array name="window_animation_scale_entries">
     <item>Sense animacions</item>
     <item>Escala d\'animació 0,5x</item>
@@ -107,6 +113,14 @@
     <item>Logcat</item>
     <item>Systrace (gràfics)</item>
     <item>Call stack on glGetError</item>
+  </string-array>
+  <string-array name="app_process_limit_entries">
+    <item>Límit estàndard</item>
+    <item>No hi ha processos en segon pla</item>
+    <item>At most 1 process</item>
+    <item>At most 2 processes</item>
+    <item>At most 3 processes</item>
+    <item>At most 4 processes</item>
   </string-array>
   <string-array name="usb_configuration_titles">
     <item>Càrrega</item>
@@ -160,6 +174,8 @@
     <item>Només a casa</item>
     <item>Automàtic</item>
   </string-array>
+  <string-array name="tty_mode_entries">
+    </string-array>
   <string-array name="uplmn_prefer_network_mode_td_choices">
     <item>GSM</item>
     <item>TD-SCDMA</item>

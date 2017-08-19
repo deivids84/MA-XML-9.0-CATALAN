@@ -3,10 +3,10 @@
 <resources>
   <string-array name="wifi_status">
     <item></item>
-    <item>S\'està escanejant&#8230;</item>
-    <item>S\'està connectant&#8230;</item>
-    <item>S\'està autenticant&#8230;</item>
-    <item>S\'està obtenint l\'adreça IP&#8230;</item>
+    <item>S\'està escanejant…</item>
+    <item>S\'està connectant…</item>
+    <item>S\'està autenticant…</item>
+    <item>S\'està obtenint l\'adreça IP…</item>
     <item>Connectat</item>
     <item>Suspès</item>
     <item>S\'està desconnectant&#8230;</item>
@@ -38,6 +38,12 @@
     <item>No utilitzis mai la comprovació HDCP</item>
     <item>Utilitza la comprovació HDCP només per a contingut DRM</item>
     <item>Utilitza sempre la comprovació HDCP</item>
+  </string-array>
+  <string-array name="select_logd_size_lowram_titles">
+    <item>Apagat</item>
+    <item>64K</item>
+    <item>256K</item>
+    <item>1M</item>
   </string-array>
   <string-array name="select_logd_size_summaries">
     <item>Desactivat</item>
@@ -77,16 +83,16 @@
   <string-array name="overlay_display_devices_entries">
     <item>Cap</item>
     <item>480p</item>
-    <item>480p (secure)</item>
+    <item>480p (segur)</item>
     <item>720p</item>
-    <item>720p (secure)</item>
+    <item>720p (segur)</item>
     <item>1080p</item>
-    <item>1080p (secure)</item>
+    <item>1080p (segur)</item>
     <item>4K</item>
-    <item>4K (secure)</item>
-    <item>4K (upscaled)</item>
-    <item>4K (upscaled, secure)</item>
-    <item>720p, 1080p (dual screen)</item>
+    <item>4K (segur)</item>
+    <item>4K (ampliat)</item>
+    <item>4K (ampliat, segur)</item>
+    <item>720p, 1080p (pantalla dual)</item>
   </string-array>
   <string-array name="enable_opengl_traces_entries">
     <item>Cap</item>
@@ -120,7 +126,7 @@
   <string-array name="usb_configuration_titles">
     <item>Càrrega</item>
     <item>MTP (Protocol de Transferència de Multimèdia)</item>
-    <item>PTP (Picture Transfer Protocol)</item>
+    <item>PTP (Protocol de transferència d\'imatges)</item>
     <item>RNDIS (USB Ethernet)</item>
     <item>Font d\'àudio</item>
     <item>MIDI</item>
@@ -194,7 +200,7 @@
   </string-array>
   <string-array name="entries_font_size">
     <item>Petita</item>
-    <item>Normal</item>
+    <item>Predeterminat</item>
     <item>Grossa</item>
     <item>Molt grossa</item>
   </string-array>
@@ -448,7 +454,7 @@
     <item>Llarga</item>
   </string-array>
   <string-array name="captioning_typeface_selector_titles">
-    <item>Per defecte</item>
+    <item>Predeterminat</item>
     <item>Sans-serif</item>
     <item>Sans-serif condensada</item>
     <item>Sans serif monoespaiada</item>
@@ -982,6 +988,20 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>Feu clic a ajusta - Feu clic en el disparador</item>
     <item>Feu clic en ajusta - Clic perllongat en el disparador</item>
   </string-array>
+  <string-array name="silent_mode_duration_text">
+    <item>Sempre</item>
+    <item>30 minuts</item>
+    <item>1 hora</item>
+    <item>2 hores</item>
+    <item>8 hores</item>
+  </string-array>
+  <string-array name="silent_mode_duration_value">
+    <item>0</item>
+    <item>30</item>
+    <item>60</item>
+    <item>120</item>
+    <item>480</item>
+  </string-array>
   <string-array name="alarm_repeat_type">
     <item>Cada dia</item>
     <item>Entre setmana</item>
@@ -997,5 +1017,13 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>Fotos</item>
     <item>Fitxers</item>
     <item>Notes</item>
+  </string-array>
+  <string-array name="standard_configuration_version_description_primary">
+    <item>CPU</item>
+    <item>Capacitat de la bateria</item>
+    <item>Càmera posterior</item>
+    <item>Mida de la pantalla</item>
+    <item>Resolució</item>
+    <item>Versió d\'Android</item>
   </string-array>
 </resources>

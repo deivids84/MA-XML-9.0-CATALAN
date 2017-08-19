@@ -91,7 +91,7 @@
   <string name="incompatible_dialog_title">Problemes de compatibilitat</string>
   <string name="is_setting_wallpaper_message">S\'està establint el fons de pantalla&#8230;</string>
   <string name="live_wallpaper">Fons de pantalla animat</string>
-  <string name="loading">Un moment...</string>
+  <string name="loading">Un moment…</string>
   <string name="loading_resource_detail_fail">"No es pot carregar el recurs"</string>
   <string name="loading_resource_detail_info">Un moment&#8230;</string>
   <string name="local_resouce_creator_name">Desenvolupador: %1$s</string>
@@ -403,7 +403,6 @@
   <string name="uid_change_dialog_message">"Heu suprimit les actualitzacions. Reinicieu el dispositiu per poder utilitzar els temes."</string>
   <string name="uid_change_dialog_ok">Entesos</string>
   <string name="uid_change_dialog_title">Reinicia el dispositiu</string>
-  <string name="wallpaper_auto_change_title">Pantalla de bloqueig</string>
   <string name="wallpaper_crop">Retalla</string>
   <string name="wallpaper_decoded_error">"No es pot carregar el fons de pantalla"</string>
   <string name="wallpaper_scroll_type_tips">Fons de pantalla de desplaçament</string>
@@ -411,8 +410,5 @@
   <string name="wallpaper_set_as_destop">Estableix com a fons de pantalla</string>
   <string name="wallpaper_set_as_lockscreen">Estableix com a pantalla de bloqueig</string>
   <string name="wallpaper_settings">Configuració del fons de pantalla</string>
-  <string name="wallpaper_settings_change_wallpaper">Canvia</string>
-  <string name="wallpaper_settings_desktop_text">Pantalla d\'inici</string>
-  <string name="wallpaper_settings_lockscreen_text">Pantalla de bloqueig</string>
   <string name="wallpaper_settings_page_title">fons de pantalla</string>
 </resources>

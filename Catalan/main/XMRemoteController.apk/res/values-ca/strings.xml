@@ -19,6 +19,7 @@
   <string name="abc_shareactionprovider_share_with_application">Comparteix amb %s</string>
   <string name="abc_toolbar_collapse_description">Contrau</string>
   <string name="ac_gree">AC Gree</string>
+  <string name="ac_mode_auto">Automàtic</string>
   <string name="ac_mode_cold">Refrigeració</string>
   <string name="ac_mode_dry">Deshumidificació</string>
   <string name="ac_mode_fan">Ventilador</string>
@@ -186,6 +187,9 @@
   <string name="device_brand">Marca</string>
   <string name="device_responsed">El dispositiu ha respost</string>
   <string name="device_type">Tipus</string>
+  <string name="devicetype11">TV per satèl·lit</string>
+  <string name="devicetype12">Sintonitzador</string>
+  <string name="devicetype6">Ventilador</string>
   <string name="diagnose">Prova el comandament</string>
   <string name="diagnosis_intro">Comprova la connectivitat de la xarxa</string>
   <string name="dialog_install_assistant_content">Instal·leu la pantalla Mi per treure el màxim profit de la vostra TV Mi o descodificador Mi</string>
@@ -289,10 +293,17 @@
   <string name="fan_speed">Velocitat</string>
   <string name="faq">PMF</string>
   <string name="fav">Destacat</string>
+  <string name="favorite_channel">Canals recents</string>
   <string name="feedback">Comentaris</string>
+  <string name="feedback_desc_default">"Alguns botons no funcionen"</string>
+  <string name="feedback_desc_hint">Descriviu el problema</string>
   <string name="feedback_error">Informa d\'un error</string>
   <string name="feedback_error_success_tip">Enviat correctament</string>
   <string name="feedback_error_tips">Si teniu problemes amb aquest comandament, premeu per reportar un problema</string>
+  <string name="feedback_input_desc">Descriviu el problema aquí.</string>
+  <string name="feedback_issue_desc">Descriviu el problema</string>
+  <string name="feedback_keys">Feedback</string>
+  <string name="feedback_keys_tips">"Si no funcionen els botons, envieu-nos el vostre feedback"</string>
   <string name="find_adb_frame">S\'ha detectat %1$d dispositius ADB</string>
   <string name="find_milink_frame">S\'ha detectat %1$d dispositius Mi</string>
   <string name="fix_keys">Determina els botons</string>
@@ -315,6 +326,8 @@
   <string name="guid_two">· Turn off router AP Isolation</string>
   <string name="guid_zero">". El vostre dispositiu no és compatible amb dispositius d'IR."</string>
   <string name="guide">Guia</string>
+  <string name="guide_title_one">El vostre telèfon no incorpora infraroigs, no podreu controlar dispositius infraroigs</string>
+  <string name="guide_title_three">Instruccions</string>
   <string name="has_installed">Instal·lat</string>
   <string name="hd_channel_preferred">Vídeo HD preferentment</string>
   <string name="help">Utilitzeu l\'ajuda</string>

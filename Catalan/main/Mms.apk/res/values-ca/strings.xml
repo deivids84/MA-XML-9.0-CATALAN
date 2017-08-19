@@ -204,7 +204,7 @@
   <string name="hybrid_pull_to_refresh_pull_label">Llisqueu per actualitzar&#8230;</string>
   <string name="hybrid_pull_to_refresh_refreshing_label">Un moment&#8230;</string>
   <string name="hybrid_pull_to_refresh_release_label">Deixeu anar per actualitzar&#8230;</string>
-  <string name="hybrid_service_unavailiable">Servei no disponible</string>
+  <string name="hybrid_service_unavailiable">"Servei no disponible"</string>
   <string name="hybrid_try_again">Torneu-ho a provar</string>
   <string name="i_know">D\'acord</string>
   <string name="importing_progress_private_message">S\'està important&#8230;</string>
@@ -622,6 +622,10 @@ Intents realitzats: %s"</string>
   <string name="url_fraud_visit">Accedeix de totes maneres</string>
   <string name="url_result_safe">La URL és segura</string>
   <string name="url_scanning">S\'està comprovat la URL&#8230;</string>
+  <string name="user_agreement2">Condicions del servei</string>
+  <string name="user_agreement3">" i "</string>
+  <string name="user_agreement4">Política de privacitat</string>
+  <string name="user_agreement5">En pressionar «D\'acord», accepteu els nostres Termes d\'ús i Política de privacitat.</string>
   <string name="verification_code_list_title">Codis de verificació</string>
   <string name="view">Mostra</string>
   <string name="view_bookmark">Mostra el missatge original</string>

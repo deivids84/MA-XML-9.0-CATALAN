@@ -61,6 +61,18 @@
     <item>4M per registre de memòria</item>
     <item>16M per cada registre de memòria</item>
   </string-array>
+  <string-array name="select_logpersist_titles">
+    <item>Apagat</item>
+    <item>Tot</item>
+    <item>Tot excepte la ràdio</item>
+    <item>només el kernel</item>
+  </string-array>
+  <string-array name="select_logpersist_summaries">
+    <item>Desactivat</item>
+    <item>Totes les memòries intermèdies de registre</item>
+    <item>Tot excepte les memòries intermèdies de registre de la ràdio</item>
+    <item>només la memòria intermèdia de registre del kernel</item>
+  </string-array>
   <string-array name="window_animation_scale_entries">
     <item>Sense animacions</item>
     <item>Escala d\'animació 0.5x</item>
@@ -133,8 +145,8 @@
   </string-array>
   <string-array name="usb_configuration_titles">
     <item>S\'està carregant</item>
-    <item>MTP (Media Transfer Protocol)</item>
-    <item>PTP (Picture Transfer Protocol)</item>
+    <item>MTP (Protocol de transferència de multimèdia)</item>
+    <item>PTP (Protocol de transferència d\'imatges)</item>
     <item>RNDIS (USB Ethernet)</item>
     <item>Font d\'àudio</item>
     <item>MIDI</item>

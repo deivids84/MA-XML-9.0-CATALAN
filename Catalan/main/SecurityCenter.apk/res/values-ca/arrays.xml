@@ -67,6 +67,12 @@
     <item>Ordena per l\'ús de dades</item>
     <item>Ordena per l\'ús de la bateria</item>
   </string-array>
+  <string-array name="title_app_info">
+    <item>Origen de la instal·lació</item>
+    <item>Data d\'instal·lació</item>
+    <item>Origen de la darrera actualització</item>
+    <item>Data de la darrera actualització</item>
+  </string-array>
   <string-array name="sms_report_type">
     <item>Ús de dades</item>
     <item>Saldo del telèfon</item>

@@ -117,11 +117,9 @@
   <string name="cloud_empty_message">No hi ha cançons al Mi Cloud</string>
   <string name="cloud_empty_summary">Feu una còpia de seguretat al Mi Cloud per accedir des d\'altres dispositius</string>
   <string name="cloud_enable">Sincronitza música amb Mi Cloud</string>
-  <string name="cloud_loading_message">S\'estan cercant cançons...</string>
+  <string name="cloud_loading_message">S\'estan cercant cançons…</string>
   <string name="cloud_music">Música al núvol</string>
   <string name="cloud_settings">Configuració de la sincronització</string>
-  <string name="cloud_space_full">Sense espai d\'emmagatzematge</string>
-  <string name="cloud_space_full_message">Sense espai a Mi Cloud per afegir més cançons. Per obtenir més espai, actualitzeu el vostre Compte Mi.</string>
   <string name="cloud_state_cloud_space_full">No hi ha prou espai al Mi Cloud, s\'ha pausat la còpia de seguretat</string>
   <string name="cloud_state_low_power">Connecteu el carregador per reprendre la còpia de seguretat</string>
   <string name="cloud_state_network_data">"No s'ha pogut trobar una xarxa Wi-Fi, s'ha pausat la còpia de seguretat"</string>
@@ -201,7 +199,6 @@
   <string name="disable_auto_payment_success_message">"Es va desactivar la renovació automàtica. Després que finalitzi la vostra subscripció actual, haureu de tornar-vos a inscriure's per baixar cançons."</string>
   <string name="disallow_add_to_fm">"No es poden afegir cançons a la ràdio FM"</string>
   <string name="disallow_add_to_personal_radio">"No es poden afegir cançons a la ràdio personal"</string>
-  <string name="do_not_remind_again">"No tornis a mostrar-ho"</string>
   <string name="doc_filter">Documents</string>
   <string name="done">Fet</string>
   <string name="download">Baixa</string>
@@ -535,7 +532,6 @@
   <string name="no_song_downloaded">"No s'ha pogut connectar al servidor"</string>
   <string name="normal_quality">Bona</string>
   <string name="not_login">No s\'ha iniciat sessió</string>
-  <string name="not_now">No ara</string>
   <string name="not_selected">Trieu una cançó</string>
   <string name="notif_text_engine_off">L\'accelerador Xunlei està desactivat.</string>
   <string name="notif_text_engine_on">S\'està accelerant&#8230;</string>
@@ -753,7 +749,7 @@
   <string name="sort_by_time">Data</string>
   <string name="source_from">Font: %1$s</string>
   <string name="start_download_music">S\'estan baixant actualitzacions per a la Música.</string>
-  <string name="start_shuffle">Inicia la reproducció aleatòria...</string>
+  <string name="start_shuffle">Inicia la reproducció aleatòria…</string>
   <string name="start_to_download">S\'està baixant&#8230;</string>
   <string name="start_to_play">Reprodueix</string>
   <string name="start_to_use">Obre Música</string>
@@ -788,6 +784,9 @@
   <string name="talkback_download">Baixa</string>
   <string name="talkback_favorite">M\'agrada aquesta cançó</string>
   <string name="talkback_mode">Repeteix la llista de reproducció</string>
+  <string name="talkback_mode_repeat_all">Mode repetició de la llista</string>
+  <string name="talkback_mode_repeat_current">Mode repetició individual</string>
+  <string name="talkback_mode_repeat_shuffle">Mode de reproducció aleatòria</string>
   <string name="talkback_more">Més opcions</string>
   <string name="talkback_next">Propera cançó</string>
   <string name="talkback_play">Reprodueix/Atura</string>
@@ -829,6 +828,7 @@
   <string name="track_main_fragment_tab_album">Àlbums</string>
   <string name="track_main_fragment_tab_track">Cançons</string>
   <string name="track_search_title">Pista</string>
+  <string name="track_view">Cançó</string>
   <string name="traffic_free_to_play">Utilitzeu el pla de dades de música</string>
   <string name="traffic_network_alert">Pla de dades Música Mi</string>
   <string name="traffic_network_alert_message">"Esteu utilitzant el pla de dades de Música Mi proporcionada per Xina Unicom. Hauríeu de connectar-vos a una xarxa de 3gnet per reproduir cançons sense gastar dades mòbils. Assegureu-vos de verificar la configuració de xarxa per a la transmissió de música."</string>
@@ -843,7 +843,6 @@
   <string name="upgrade">Actualitza:</string>
   <string name="upgrade_force">"Vam deixar de donar servei al nostre servei de transmissió actual per problemes de copyright. Actualitzeu a la darrera versió de la nostra aplicació Música per escoltar música d'alta qualitat."</string>
   <string name="upgrade_immediate">Actualitza ara</string>
-  <string name="upgrade_membership">Obtingueu més espai</string>
   <string name="upgrade_music">Actualitza Música</string>
   <string name="upgrade_music_message">Les actualitzacions estan a punt. Reinicieu per actualitzar.</string>
   <string name="upgrade_nobeta">"Suspenem el servei de transmissió de música mentre solucionem assumptes de copyright. Disculpeu els inconvenients :("</string>

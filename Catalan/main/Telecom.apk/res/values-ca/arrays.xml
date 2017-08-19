@@ -61,6 +61,18 @@
     <item>4M per registre de memòria</item>
     <item>16M per registre de memòria</item>
   </string-array>
+  <string-array name="select_logpersist_titles">
+    <item>Apagat</item>
+    <item>Tot</item>
+    <item>All but radio</item>
+    <item>només kernel</item>
+  </string-array>
+  <string-array name="select_logpersist_summaries">
+    <item>Apagat</item>
+    <item>All log buffers</item>
+    <item>All but radio log buffers</item>
+    <item>kernel log buffer only</item>
+  </string-array>
   <string-array name="window_animation_scale_entries">
     <item>Sense animacions</item>
     <item>Escala d\'animació 0.5x</item>

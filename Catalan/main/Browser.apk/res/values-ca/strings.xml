@@ -476,6 +476,8 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(WiFi) Comproveu la seva %s1configuració del servidor intermediari%s2.</string>
   <string name="miuichromium_error_page_suggestion_clear_cache" formatted="false">Esborra la memòria cau (%s1Configuració%s2 - Esborra les dades).</string>
   <string name="miuichromium_error_page_suggestion_clear_cache_and_cookies" formatted="false">Esborra la memòria cau i les galetes (%s1Configuració%s2 - Esborra les dades, la informació de compte es pot perdre).</string>
+  <string name="miuichromium_error_page_suggestion_clear_cache_and_cookies_no_invoke">Neteja la memòria cau i les galetes (la informació del vostre compte es podria perdre).</string>
+  <string name="miuichromium_error_page_suggestion_clear_cache_no_invoke">Neteja la memòria cau.</string>
   <string name="miuichromium_error_page_suggestion_connect_and_retry">Torna a carregar després de connectar-se a Internet</string>
   <string name="miuichromium_error_page_suggestion_contact_admin">Contacteu amb el vostre administrador del sistema.</string>
   <string name="miuichromium_error_page_suggestion_correct_url">"Comproveu l'adreça que heu introduït i proveu a utilitzar la URL correcta."</string>
@@ -652,7 +654,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="pull_to_refresh_pull_label">Llisqueu per actualitzar</string>
   <string name="pull_to_refresh_release_label">Allibereu per recomanar i actualitzar</string>
   <string name="qr_code_title">Codi QR</string>
-  <string name="qr_description">Escaneja el codi QR</string>
+  <string name="qr_description">Escaneja un codi QR</string>
   <string name="quicklink_bookmark_save">UBICACIÓ DEL MARCADOR</string>
   <string name="quicklink_cannot_save_url">"Aquest URL no es pot afegir."</string>
   <string name="quicklink_folder_text">Aplicacions més importants</string>
@@ -754,6 +756,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="ssl_certificate">Certificat de Seguretat</string>
   <string name="ssl_certificate_is_valid">Aquest certificat és vàlid.</string>
   <string name="ssl_continue">Continua</string>
+  <string name="ssl_date_error_warnings_header">"El certificat d'aquest lloc ha caducat o encara no és vàlid. Se us recomana que abandoneu aquesta pàgina."</string>
   <string name="ssl_date_invalid">Aquest certificat té una data no vàlida.</string>
   <string name="ssl_expired">Aquest certificat ha caducat.</string>
   <string name="ssl_go_back">Torna</string>

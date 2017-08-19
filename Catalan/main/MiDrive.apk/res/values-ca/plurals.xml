@@ -69,12 +69,4 @@
     <item quantity="other">"%1$d fitxers no s'han transferit."</item>
     <item quantity="one">"%1$d fitxer no s'ha transferit."</item>
   </plurals>
-  <plurals name="delete_folders">
-    <item quantity="other">Voleu eliminar %1$d carpetes?</item>
-    <item quantity="one">Voleu eliminar aquesta carpeta?</item>
-  </plurals>
-  <plurals name="delete_files">
-    <item quantity="other">Voleu eliminar %1$d fitxers?</item>
-    <item quantity="one">Voleu eliminar aquest fitxer?</item>
-  </plurals>
 </resources>

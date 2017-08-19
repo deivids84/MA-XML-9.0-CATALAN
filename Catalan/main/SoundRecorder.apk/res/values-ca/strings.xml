@@ -7,7 +7,7 @@
   <string name="app_name">Gravadora</string>
   <string name="back">Enrere</string>
   <string name="btn_clear_records">Elimina les gravacions (%d elements)</string>
-  <string name="button_queue_for_wifi">Espereu</string>
+  <string name="button_queue_for_wifi">Espera</string>
   <string name="button_start_now">Baixa</string>
   <string name="call_record">Trucades enregistrades</string>
   <string name="choose_call_records_count">%d elements</string>

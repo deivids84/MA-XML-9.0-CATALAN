@@ -126,8 +126,8 @@
     <item quantity="one">Minut</item>
   </plurals>
   <plurals name="callNoAnswerTimeFormat">
-    <item quantity="other">Ha sonat %d vegades</item>
-    <item quantity="one">Ha sonat %d vegada</item>
+    <item quantity="other">Ha sonat durant %1$d tons</item>
+    <item quantity="one">Ha sonat durant %1$d to</item>
   </plurals>
   <plurals name="contacts_count">
     <item quantity="other">%1$d contactes</item>

@@ -148,6 +148,8 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="debug_networking_category">Xarxes</string>
   <string name="debug_view_attributes">Habilita l\'inspecció d\'atributs de visualització</string>
   <string name="default_permission_description">realitza una acció desconeguda</string>
+  <string name="dev_logpersist_clear_warning_message">Quan ja no monitorem més amb el registrador persistent, se\'ns demanarà d\'esborrar el registrador de dades resident del vostre dispositiu.</string>
+  <string name="dev_logpersist_clear_warning_title">Voleu netejar l\'emmagatzematge del registrador persistent?</string>
   <string name="dev_settings_warning_message">Aquesta configuració només està prevista per a desenvolupament. Pot fer que el dispositiu i les aplicacions s\'interrompin o no funcionin correctament.</string>
   <string name="dev_settings_warning_title">Voleu permetre la configuració de desenvolupament?</string>
   <string name="development_settings_enable">Activa les opcions per a desenvolupadors</string>
@@ -334,10 +336,12 @@ Es mantindran totes les dades d\'usuari prèvies."</string>
   <string name="screen_zoom_summary_large">Gran</string>
   <string name="screen_zoom_summary_small">Petit</string>
   <string name="screen_zoom_summary_very_large">Més gran</string>
+  <string name="search_menu_title">Cerca</string>
   <string name="security_settings_desc">Permet a aquesta aplicació:</string>
   <string name="select_application">Seleccioneu l\'aplicació</string>
   <string name="select_logd_size_dialog_title">Seleccioneu la mida del logger de la memòria intermèdia</string>
   <string name="select_logd_size_title">Mides de la memòria intermèdia del logger</string>
+  <string name="select_logpersist_dialog_title">Seleccioneu el memòries intermèdies de registre per emmagatzemar persistentment al dispositiu</string>
   <string name="select_usb_configuration_dialog_title">Seleccioneu la configuració USB</string>
   <string name="select_usb_configuration_title">Seleccioneu la configuració USB</string>
   <string name="select_webview_provider_dialog_title">Establiu la implementació del WebView</string>
@@ -439,6 +443,7 @@ Es mantindran totes les dades d\'usuari prèvies."</string>
   <string name="wifi_display_certification_summary">Mostra les opcions de certificació de pantalla sense fil</string>
   <string name="wifi_fail_to_scan">"No es poden cercar xarxes"</string>
   <string name="wifi_no_internet">No s\'ha detectat accés a Internet, no s\'hi tornarà a connectar automàticament.</string>
+  <string name="wifi_no_internet_no_reconnect">"No s'ha detectat accés a Internet, no es tornarà a connectar automàticament."</string>
   <string name="wifi_not_in_range">Fora de l\'abast</string>
   <string name="wifi_remembered">S\'ha desat</string>
   <string name="wifi_security_none">Cap</string>

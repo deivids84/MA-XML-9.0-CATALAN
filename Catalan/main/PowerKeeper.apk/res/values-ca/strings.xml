@@ -32,6 +32,7 @@
 L\'estalvi de bateria tractarà de forma selectiva les aplicacions importants."</string>
   <string name="config_suggest_suffix_title">Estalvi de bateria MIUI (recomanat)</string>
   <string name="config_suggest_title">Estalvi de bateria MIUI</string>
+  <string name="confirm">Confirma</string>
   <string name="disable_hide_mode">Desactiva l\'estalvi de bateria MIUI</string>
   <string name="disable_hide_mode_warning">En desactivar l\'estalvi de bateria MIUI pot causar més consum d\'energia</string>
   <string name="disabled">Apagat</string>
@@ -141,7 +142,7 @@ L\'estalvi de bateria tractarà de forma selectiva les aplicacions importants."<
   <string name="power_dialog_lcd_mode_title">Mode de pantalla</string>
   <string name="power_dialog_new_event_fail">"No s'ha pogut afegir nous esdeveniments"</string>
   <string name="power_dialog_ok">D\'acord</string>
-  <string name="power_dialog_power_keeper_disable">Apagar l\'estalvi de bateria?</string>
+  <string name="power_dialog_power_keeper_disable">Apaga l\'estalvi de bateria?</string>
   <string name="power_dialog_power_keeper_enable">Voleu activar l\'estalvi de bateria?</string>
   <string name="power_dialog_screen_brightness_title">Brillantor</string>
   <string name="power_event_user_define_title">Nous esdeveniments</string>
@@ -178,6 +179,7 @@ L\'estalvi de bateria tractarà de forma selectiva les aplicacions importants."<
   <string name="sleep_config_enhance_title">Modes d\'estalvi de son</string>
   <string name="still">Imatge</string>
   <string name="ui">Estándard</string>
+  <string name="update_profile_failture_not_connect_wifi">L\'actualització ha fallat, no hi ha connexió Wi-Fi</string>
   <string name="user_define_mode">Nom</string>
   <string name="vip_feedback">Comentaris VIP</string>
   <string name="vip_feedback_enable">Activa els comentaris automàtics VIP</string>

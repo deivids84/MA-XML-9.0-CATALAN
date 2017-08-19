@@ -336,7 +336,7 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="voice_report_incoming_call">Trucada entrant</string>
   <string name="voice_report_unknown_num">Número desconegut</string>
   <string name="vpn_settings_not_available">La configuració de la VPN no està disponible per a aquest usuari</string>
-  <string name="wait_for_debugger">Espereu el depurador</string>
+  <string name="wait_for_debugger">Espera el depurador</string>
   <string name="wait_for_debugger_summary">Abans d\'executar-se, l\'aplicació de depuració espera que es connecti el depurador</string>
   <string name="wifi_aggressive_handover">Transferència forçada des de Wi-Fi a mòbil</string>
   <string name="wifi_aggressive_handover_summary">Si s\'activa, quan el senyal de Wi-Fi és baix es forçarà la transferència de dades des de Wi-Fi a mòbil</string>

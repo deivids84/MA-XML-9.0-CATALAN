@@ -45,8 +45,6 @@
   <string name="birthday_event_description_a_week_later">Falta una setmana per</string>
   <string name="birthday_event_description_day_after_tomorrow">Demà passat és</string>
   <string name="birthday_event_description_day_before_yesterday">Abans d\'ahir era</string>
-  <string name="birthday_event_description_days_ago">Fa %1$s dies de</string>
-  <string name="birthday_event_description_days_later">Falten %1$s dies per</string>
   <string name="birthday_event_description_default">"%1$s de %2$s %3$s %4$s"</string>
   <string name="birthday_event_description_special">"%1$s és el %3$s %4$s %5$s de %2$s"</string>
   <string name="birthday_event_description_today">Avui és</string>
@@ -144,7 +142,6 @@
   <string name="downloading_wallpaper">S\'està baixant el fons de pantalla</string>
   <string name="edit_date_calculate_days_backward_error_hint">"No es pot calcular cap endavant"</string>
   <string name="edit_date_calculate_days_empty_hint">Introduïu el número de dies</string>
-  <string name="edit_date_calculate_days_error_hint">Introduïu els dies en %1$d</string>
   <string name="edit_date_calculate_days_forward_error_hint">"No es pot calcular cap enrere"</string>
   <string name="edit_event_all_day_label">Tot el dia</string>
   <string name="edit_event_anniversary_name_empty_hint">Introduïu una celebració</string>
@@ -152,7 +149,6 @@
   <string name="edit_event_birthday_import_from_contact">Importa aniversaris dels contactes</string>
   <string name="edit_event_birthday_name_empty_hint">Introduïu un nom</string>
   <string name="edit_event_birthday_name_hint">Nom</string>
-  <string name="edit_event_birthday_reminder_3_days_before">Recorda 3 dies abans</string>
   <string name="edit_event_birthday_reminder_time">Hora de recordatori</string>
   <string name="edit_event_calendar_label">Calendari</string>
   <string name="edit_event_choose_date">Trieu la data</string>
@@ -179,7 +175,6 @@
   <string name="email_picker_label">Envia un correu amb</string>
   <string name="email_subject_prefix">"Re: "</string>
   <string name="empty_event">No s\'ha creat l\'esdeveniment buit</string>
-  <string name="english_premium_league">English Premium League</string>
   <string name="event_account">Compte</string>
   <string name="event_action_delete">Elimina</string>
   <string name="event_action_edit">Edita</string>
@@ -214,7 +209,7 @@
   <string name="gadget_title">Calendari</string>
   <string name="global_action_text_card_manager">Un calendari més interessant</string>
   <string name="global_cricket_no_match">Avui no hi ha competicions de cricket, podeu revisar els aspectes més destacats de les competicions anteriors o proveu un altre partit. Meravellós esdeveniment, val la pena l\'espera!</string>
-  <string name="global_football_no_match">No hi ha partits de futbol per avui.</string>
+  <string name="global_football_no_match">No hi ha programat cap partit de futbol per avui.</string>
   <string name="guide_card_hint_text">Toqueu per obrir Mi Cloud</string>
   <string name="hint_attendees">Convidats</string>
   <string name="hint_description">Descripció</string>
@@ -385,6 +380,7 @@
   <string name="subscribe_card_success">订阅“%1$s”成功</string>
   <string name="subscribe_card_success_for_homepage">S\'ha subscrit amb èxit a «%1$s»</string>
   <string name="subscribe_channel_bottom_hint">—— Calendari Mi ——</string>
+  <string name="subscribe_channel_click_hint">Cal subscripció</string>
   <string name="subscribe_channel_footer_button">Gestiona les subscripcions</string>
   <string name="subscribe_channel_footer_desc">Reviseu les subscripcions o cancel·leu-la</string>
   <string name="subscribe_channel_footer_title">Subscrit</string>
