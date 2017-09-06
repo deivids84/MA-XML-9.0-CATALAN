@@ -17,6 +17,10 @@
     <item quantity="other">Aquesta conversa conté diversos missatges. Voleu eliminar-la de totes maneres?</item>
     <item quantity="one">Aquesta conversa conté diversos missatges. Voleu eliminar-la de totes maneres?</item>
   </plurals>
+  <plurals name="confirm_delete_draft">
+    <item quantity="one">Voleu eliminar %1$d esborrany?</item>
+    <item quantity="other">Voleu eliminar %1$d esborranys?</item>
+  </plurals>
   <plurals name="contact_num_selected">
     <item quantity="other">%d seleccionats</item>
     <item quantity="one">%d seleccionat</item>
@@ -32,6 +36,10 @@
   <plurals name="conversation_folder_changed">
     <item quantity="other">Carpetes canviades.</item>
     <item quantity="one">Carpeta canviada.</item>
+  </plurals>
+  <plurals name="conversation_msg_header_count">
+    <item quantity="other">… %1$d persones</item>
+    <item quantity="one">… %1$d persona</item>
   </plurals>
   <plurals name="conversation_muted">
     <item quantity="other">%1$d silenciades.</item>

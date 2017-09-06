@@ -14,6 +14,7 @@ aquesta característica s\'afegirà al Segon espai automàticament."</string>
   <string name="air_space_setting">Configuració de l\'espai</string>
   <string name="airspace_users_full">"No es poden crear més espais de treball"</string>
   <string name="appData">Aplicacions instal·lades</string>
+  <string name="app_name">Component central de seguretat</string>
   <string name="back">Enrere</string>
   <string name="can_not_delete_when_calling">"No es poden eliminar espais durant una trucada"</string>
   <string name="can_not_switch_when_calling">"No es pot canviar d'espai durant una trucada"</string>
@@ -67,6 +68,7 @@ aquesta característica s\'afegirà al Segon espai automàticament."</string>
   <string name="delete_src_photo">Elimina les fotos</string>
   <string name="dir_switch_out_all_photos">Galeria del Segon espai</string>
   <string name="disable">Apagar</string>
+  <string name="do_not_ask">"No ho preguntis més"</string>
   <string name="dont_import">Ara no</string>
   <string name="downloading_space">S\'està baixant&#8230;</string>
   <string name="enable">Engega</string>
@@ -88,8 +90,13 @@ aquesta característica s\'afegirà al Segon espai automàticament."</string>
   <string name="finger_print_of_use">Utilitzar l\'empremta</string>
   <string name="fingerprint_removal_failed">"No s'ha pogut eliminar l'empremta"</string>
   <string name="function_not_support">No és compatible amb aquest espai</string>
+  <string name="gms_message">La creació d\'aplicacions duals requereix treballar amb els serveis de Google. Voleu crear una aplicació dual per als serveis de Google?</string>
+  <string name="gms_open_button">Activa</string>
+  <string name="gms_title">Activa els serveis de Google</string>
   <string name="goToSecondSpacce">Anar al Segon espai</string>
   <string name="go_on_import">Mantenir la importació</string>
+  <string name="gpg_message">La creació d\'aplicacions duals per a jocs requereix treballar amb Google Play Games. Voleu crear una aplicació dual per a Google Play Games?</string>
+  <string name="gpg_title">Aplicació dual per a Google Play Games</string>
   <string name="guide_contact_sub_title_desc">"Els contactes afegits al Segon espai seran privats.
 Els missatges només apareixeran en el Segon espai."</string>
   <string name="guide_contact_suc_sub_title_desc">Només els contactes privats i els missatges es mostraran en el Segon espai</string>
@@ -174,6 +181,9 @@ Els missatges només apareixeran en el Segon espai."</string>
   <string name="scanner_fingerprint_tips_desc">"Seleccioneu una empremta existent per entrar al Segon espai. No podreu utilitzar-la en el Primer espai."</string>
   <string name="scanner_fingerprint_tips_title">Entrar al Segon espai utilitzant una empremta existent</string>
   <string name="scanner_second_space_fingerprint">Escanejar empremta del Segon espai</string>
+  <string name="sdcardfs_dialog_message">Desactiveu l\'«Optimització de la targeta SD simulada» a les opcions del desenvolupador abans d\'entrar al segon espai.</string>
+  <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
+  <string name="search_result_text">"No s'ha trobat cap aplicació"</string>
   <string name="secondSpace">Segon espai</string>
   <string name="second_owner_finger_print">Empremta del Segon espai</string>
   <string name="second_space_finger_printf_desc">Afegir empremta específica per entrar al Segon espai</string>
@@ -216,6 +226,7 @@ Els missatges només apareixeran en el Segon espai."</string>
   <string name="start_new_fingerprint_tips">Utilitzeu l\'empremta del Segon espai per entrar al Segon espai des de la pantalla de bloqueig</string>
   <string name="start_setting_guide_desc_title">Hi ha algunes coses per configurar</string>
   <string name="summary_switch_apps_settings">Seleccioneu aplicacions del Segon espai</string>
+  <string name="support_desc">Serveis de seguretat subministrats per Graphite</string>
   <string name="sure_to_use">Confirmeu</string>
   <string name="switchDataSummary">Moure elements entre espais</string>
   <string name="switch_apps_settings">Configuració de l\'aplicació</string>

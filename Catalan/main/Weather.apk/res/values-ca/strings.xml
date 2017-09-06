@@ -18,6 +18,7 @@
   <string name="activity_main_update_time">Actualitzat %1$s</string>
   <string name="activity_main_update_time_expire">Les dades han caducat</string>
   <string name="activity_main_update_time_right_now">ara mateix</string>
+  <string name="activity_minute_rain_location_fail_msg">S\'ha produït un error en trobar la ubicació, la ubicació predeterminada del mapa és Beijing</string>
   <string name="activity_weathermain_locationg">S\'està ubicant&#8230;</string>
   <string name="activity_weathermain_locationg_error">"No s'ha pogut ubicar"</string>
   <string name="add_city">Afegeix</string>
@@ -61,12 +62,15 @@
   <string name="button_exit">Surt</string>
   <string name="button_not_allow">Cancel·la</string>
   <string name="button_sure_abandon">Voleu descartar els canvis?</string>
+  <string name="card_vote_item_vs">CONTRA</string>
   <string name="change_alert">Comproveu la connexió a la xarxa i torneu a provar-ho</string>
   <string name="city_exceeded_warning">Podeu afegir fins a 10 ciutats</string>
   <string name="commercial">Publicitat</string>
   <string name="common_loading_text">Un moment&#8230;</string>
   <string name="connect_fail">"La connexió de xarxa és anormal. Torneu-ho a provar més tard."</string>
   <string name="content_desc_activity_main_add_city">Afegeix ciutat</string>
+  <string name="content_desc_activity_main_add_city_manage">Gestió de la ciutat</string>
+  <string name="content_desc_activity_main_more_settings">Més configuracions</string>
   <string name="daily_forcast_drawer_on_bottom">Amaga</string>
   <string name="daily_forcast_no_stable_direction">Sense vent</string>
   <string name="daily_forcast_no_wind">&lt;12 km/h</string>
@@ -128,6 +132,7 @@ Tireu cap avall per actualitzar o comproveu la configuració de la xarxa"</strin
   <string name="international_details_title">Detalls</string>
   <string name="international_details_uv_index_title">ÍNDEX UV</string>
   <string name="international_details_wind_title">VENT</string>
+  <string name="it_is_going_to_rain">Plourà</string>
   <string name="locate_fail_detail_err">"No es pot ubicar el dispositiu
 Toqueu la pantalla per afegir una ciutat manualment o moure-la"</string>
   <string name="location_tag">Ubica</string>
@@ -148,13 +153,17 @@ Toqueu la pantalla per afegir una ciutat manualment o moure-la"</string>
   <string name="more_details">Més detalls</string>
   <string name="network_not_available">"No es pot connectar a la xarxa"</string>
   <string name="network_unavailable">"No es pot connectar a la xarxa."</string>
+  <string name="night_not_disturb_settings_summary">No rebreu totes les notificacions meteorològiques de les 23:00 a les 7:00 a l\'endemà després d\'obrir-la</string>
+  <string name="night_not_disturb_settings_title">Sense molèsties per la nit</string>
   <string name="no_network_btn">Torna-ho a provar</string>
   <string name="no_vote_ratio">cons %1$s%%</string>
   <string name="open">Obre</string>
   <string name="open_browser">Obre al navegador</string>
   <string name="open_now">Obre\'l ara</string>
   <string name="other">Altres</string>
+  <string name="other_warning_settings">Altres configuracions d\'avís</string>
   <string name="particulate_matter_exceeded">Alta</string>
+  <string name="particulate_matter_not_exceeded">Normal</string>
   <string name="particulate_matter_serious_exceeded">Molt alta</string>
   <string name="precipitation_degree_five">tempesta</string>
   <string name="precipitation_degree_four">intensa</string>
@@ -163,11 +172,14 @@ Toqueu la pantalla per afegir una ciutat manualment o moure-la"</string>
   <string name="precipitation_degree_two">lleugera</string>
   <string name="pressure_connect">%1$s mbar</string>
   <string name="radar_cloud_image_title">Mapa de radar</string>
+  <string name="rainfall_settings_summary">Configuració de les precipitacions</string>
+  <string name="rainfall_settings_title">Avís de les precipitacions</string>
   <string name="realtime_aqi_title">Índex de qualitat de l\'aire</string>
   <string name="realtime_humidity_title">Humitat relativa</string>
   <string name="realtime_temperature_no_data">N/D</string>
   <string name="realtime_wind_default_title">Vent</string>
   <string name="refresh_fail">"No s'ha pogut connectar a la xarxa"</string>
+  <string name="reminder_from_xiaomi_weather_app">Recordatori des de l\'aplicació El temps de Xiaomi</string>
   <string name="retry">Torna-ho a provar</string>
   <string name="search_weather">El temps</string>
   <string name="search_weather_keywords">Temperatura;Previsió meteorològica;El temps;Qualitat de l\'aire;Grau de contaminació;Humitat</string>
@@ -193,6 +205,9 @@ Toqueu la pantalla per afegir una ciutat manualment o moure-la"</string>
   <string name="unit">Unitats</string>
   <string name="unit_temperature">Unitats de temperatura</string>
   <string name="unit_wind">Unitats de velocitat del vent</string>
+  <string name="update_night_setting_summary_text">No s\'actualitzarà automàticament de les 23:00 a les 07:00 després de tancar-la</string>
+  <string name="update_night_setting_title_text">Actualitza-ho automàticament per la nit</string>
+  <string name="update_setting_title_text">Configuració d\'actualització</string>
   <string name="view_forecast_item_yesterday">Ahir</string>
   <string name="view_indexes_item_today">Avui</string>
   <string name="view_indexes_item_tommorrow">Demà</string>
@@ -203,4 +218,5 @@ Toqueu la pantalla per afegir una ciutat manualment o moure-la"</string>
   <string name="xiaomi_weather_description_content">"El temps li proporciona informació meteorològica exacta. Sense aquesta aplicació, la barra d'estat i el giny del temps de la pantalla d'inici no funcionaran correctament. Assegureu-vos que podeu prescindir d'aquestes funcions abans de desinstal·lar l'aplicació."</string>
   <string name="xiaomi_weather_description_title">Quant al temps</string>
   <string name="yes_vote_ratio">pros %1$s%%</string>
+  <string name="your_location">La vostra ubicació</string>
 </resources>

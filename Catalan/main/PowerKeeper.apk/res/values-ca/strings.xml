@@ -18,6 +18,11 @@
   <string name="app_list_title">Selecciona aplicacions</string>
   <string name="app_name">Estalvi de bateria</string>
   <string name="background">L\'aplicació s\'executa en segon pla</string>
+  <string name="base_info">Informació base</string>
+  <string name="cloud_addr_info">Amaga la informació del mode núvol</string>
+  <string name="cloud_china_addr">Actualitza les dades del servidor xinès</string>
+  <string name="cloud_international_addr">Actualitza les dades del servidor internacional</string>
+  <string name="cloud_staging_addr">Actualitza les dades del servidor de posada a disposició</string>
   <string name="config_description">"MIUI pot identificar aplicacions amb processos en segon pla específics (p. ex. aplicacions de missatgeria i navegació, reproductors multimèdia), i aplicar l'estalvi de bateria de manera que no pertorbi gaire la seva activitat en segon pla."</string>
   <string name="config_mode_title">Configuració de segon pla</string>
   <string name="config_no_restrict_description">"L'estalvi de bateria no restringeix l'activitat de les aplicacions"</string>
@@ -33,12 +38,16 @@ L\'estalvi de bateria tractarà de forma selectiva les aplicacions importants."<
   <string name="config_suggest_suffix_title">Estalvi de bateria MIUI (recomanat)</string>
   <string name="config_suggest_title">Estalvi de bateria MIUI</string>
   <string name="confirm">Confirma</string>
+  <string name="current_cloud_addr_is">L\'adreça del servidor de control del núvol és:</string>
   <string name="disable_hide_mode">Desactiva l\'estalvi de bateria MIUI</string>
   <string name="disable_hide_mode_warning">En desactivar l\'estalvi de bateria MIUI pot causar més consum d\'energia</string>
   <string name="disabled">Apagat</string>
   <string name="empty_title_apps_container_list">Sense aplicacions</string>
   <string name="enable_hide_mode">Activa l\'estalvi de bateria MIUI</string>
   <string name="error_filename_too_long">Nom de fitxer massa llarg.</string>
+  <string name="extreme_power_config_mode_category">Estalviador de bateria extrem</string>
+  <string name="extreme_power_config_mode_title">Mode estalviador de bateria extrem</string>
+  <string name="failure">error</string>
   <string name="foreground_change">Aplicació en primer pla</string>
   <string name="fragment_nonesys_listempty">No hi ha aplicacions instal·lades</string>
   <string name="fragment_tab_title_nonsys">Aplicacions instal·lades</string>
@@ -51,7 +60,10 @@ L\'estalvi de bateria tractarà de forma selectiva les aplicacions importants."<
   <string name="hide_system_app">Amaga les aplicacions del sistema</string>
   <string name="high">Rendiment</string>
   <string name="hints_loading_text">Un moment&#8230;</string>
+  <string name="important_warning">Avís</string>
   <string name="invalid_size_value">"No s'ha pogut obtenir la mida del paquet."</string>
+  <string name="lasttime_applist_cloud">Última actualització de la llista d\'aplicacions:</string>
+  <string name="lasttime_feature_cloud">Última actualització de funcions:</string>
   <string name="location_disable_description">Les aplicacions en segon pla només poden accedir als serveis de localització per períodes curts de temps, mentre que l\'accés permanent està restringit</string>
   <string name="location_disable_title">Limitar</string>
   <string name="location_enable_description">Les aplicacions poden utilitzar els serveis d\'ubicació en segon pla</string>
@@ -178,10 +190,12 @@ L\'estalvi de bateria tractarà de forma selectiva les aplicacions importants."<
   <string name="sleep_config_enhance_description">MIUI millorarà l\'espera nocturna</string>
   <string name="sleep_config_enhance_title">Modes d\'estalvi de son</string>
   <string name="still">Imatge</string>
+  <string name="sucess">amb èxit</string>
   <string name="ui">Estándard</string>
   <string name="update_profile_failture_not_connect_wifi">L\'actualització ha fallat, no hi ha connexió Wi-Fi</string>
   <string name="user_define_mode">Nom</string>
   <string name="vip_feedback">Comentaris VIP</string>
   <string name="vip_feedback_enable">Activa els comentaris automàtics VIP</string>
   <string name="warm_configure">Configuració del control de temperatura</string>
+  <string name="warm_performance_tip">En els escenaris d\'alta càrrega, la temperatura del telèfon és superior al mode predeterminat</string>
 </resources>

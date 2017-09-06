@@ -65,6 +65,7 @@ Localització: %s
   <string name="hide_files_tips">Oculta fitxers</string>
   <string name="hide_filter_folder_tips">Oculta la carpeta de filtres</string>
   <string name="history">Històric</string>
+  <string name="home_tab_featured">Destacat</string>
   <string name="home_tab_hot">Recent</string>
   <string name="home_tab_local_video">Local</string>
   <string name="illegal_input_tips">Entrada il·legal</string>
@@ -80,6 +81,7 @@ Localització: %s
 Durada: %s 
 
 "</string>
+  <string name="network_stream">Transmissió de xarxa</string>
   <string name="no_filter_folder_tips">No hi ha carpeta de filtres</string>
   <string name="no_folder_found">No s\'ha trobat cap carpeta de vídeo</string>
   <string name="no_hidden_files_tips">No hi ha arxius ocults</string>
@@ -106,6 +108,7 @@ Durada: %s
   <string name="replace_num_files">%d arxius</string>
   <string name="replace_num_videos">%d vídeos</string>
   <string name="ringtone_error">S\'ha produït un error en configurar el to de trucada.</string>
+  <string name="ringtone_set">"El fitxer «%1$s» s'ha definit com a to de trucada."</string>
   <string name="sdcard_text">Targeta SD</string>
   <string name="sdcard_tips">Sdcard/</string>
   <string name="search">Cerca</string>
@@ -129,10 +132,12 @@ Durada: %s
   <string name="synchronization">Sincronització</string>
   <string name="toast_player_list_header">Llista de reproducció</string>
   <string name="toast_player_list_none">No hi ha més contingut</string>
+  <string name="toast_screen_text_add">Afegit amb èxit</string>
   <string name="toast_screen_text_default">Mida Predeterminada</string>
   <string name="toast_screen_text_full">Pantalla sencera</string>
   <string name="toast_screen_text_horizontal">Redimensionament horitzontal</string>
   <string name="toast_screen_text_scaling">Redimensionament</string>
+  <string name="toast_screen_text_stream">Feu clic al botó transmissió</string>
   <string name="toast_screen_text_vertical">Redimensionament vertical</string>
   <string name="track_audio">Pista d\'àudio</string>
   <string name="track_text">Pista de subtítols</string>

@@ -25,6 +25,11 @@
   <string name="both_all_apply_failured">"No es pot aplicar el fons de pantalla"</string>
   <string name="both_all_apply_success">S\'ha aplicat el fons de pantalla</string>
   <string name="browser_local_resource">Recursos locals</string>
+  <string name="can_not_apply">No es pot aplicar</string>
+  <string name="card_data_request_error">Excepció de sol·licitud de dades, torneu-ho a provar més tard~</string>
+  <string name="card_loading">S\'està carregant...</string>
+  <string name="card_no_network">Ara no hi ha xarxa, connecteu-la i torneu-ho a intentar~</string>
+  <string name="card_retry">Reintenta</string>
   <string name="change_host_hint">Canvia l\'amfitrió</string>
   <string name="change_wallpaper">Fons de pantalla</string>
   <string name="close">Tanca</string>
@@ -52,6 +57,7 @@
   <string name="fail_to_add_account">"No es pot afegir el compte"</string>
   <string name="favorite_list">Favorits</string>
   <string name="favorite_list_format">Favorit %1$s</string>
+  <string name="find_more_wallpapers">Troba\'n més</string>
   <string name="gift_anonymous">Anònim</string>
   <string name="gift_operation_fail_dlg_abandon">Cancel·la</string>
   <string name="gift_operation_fail_dlg_retry">Torneu a provar-ho</string>
@@ -86,20 +92,25 @@
   <string name="gift_used">Enviat</string>
   <string name="home_apply_failured">"No es pot aplicar el fons de la pantalla d'inici"</string>
   <string name="home_apply_success">S\'ha aplicat el fons de pantalla d\'inici</string>
+  <string name="in_the_end">No hi ha més</string>
   <string name="incompatible_dialog_message">Aquest tema no és del tot compatible amb MIUI 8. Alguns elements es poden mostrar incorrectament.</string>
   <string name="incompatible_dialog_ok">D\'acord</string>
   <string name="incompatible_dialog_title">Problemes de compatibilitat</string>
   <string name="is_setting_wallpaper_message">S\'està establint el fons de pantalla&#8230;</string>
+  <string name="item_resource_audio_optional_color_ring">color de l\'anell</string>
+  <string name="item_resource_audio_optional_notification_ring">anell de notificació</string>
   <string name="live_wallpaper">Fons de pantalla animat</string>
   <string name="loading">Un moment…</string>
   <string name="loading_resource_detail_fail">"No es pot carregar el recurs"</string>
   <string name="loading_resource_detail_info">Un moment&#8230;</string>
+  <string name="local_photos">Fotos locals</string>
   <string name="local_resouce_creator_name">Desenvolupador: %1$s</string>
   <string name="lockscreen_apply_failured">"No es pot aplicar el fons de la pantalla de bloqueig"</string>
   <string name="lockscreen_apply_failured_but_home_apply_success">"S'ha aplicat el fons de la pantalla d'inici, però no s'ha pogut aplicar el de la pantalla de bloqueig"</string>
   <string name="lockscreen_apply_success">S\'ha aplicat el fons de pantalla de bloqueig</string>
   <string name="lockscreen_apply_success_but_home_apply_failured">"S'ha aplicat el fons de la pantalla de bloqueig, però no s'ha pogut aplicar el de la pantalla d'inici"</string>
   <string name="lockscreen_magazine_subscribe">%1$s seguidors</string>
+  <string name="lockscreen_magazine_summary">Categories</string>
   <string name="lockscreen_magazine_system_subscribe">%1$s fons de pantalla</string>
   <string name="lockscreen_magazine_system_title">Local</string>
   <string name="lockscreen_magazine_title">Pantalles de bloqueig diàries</string>
@@ -115,6 +126,8 @@
   <string name="my_gifts_received">Rebuts</string>
   <string name="no_data">"No s'ha pogut connectar a la xarxa"</string>
   <string name="online_no_network">"No s'ha pogut connectar a la xarxa"</string>
+  <string name="online_precust_dreams">Somnis</string>
+  <string name="online_precust_midnight">Mitjanit</string>
   <string name="online_search_hint">Cerca recursos en línia</string>
   <string name="present_local_themes">Baixats</string>
   <string name="present_online_themes">Aconsegueix més temes de franc</string>
@@ -124,6 +137,7 @@
   <string name="provision_title">Trieu un tema</string>
   <string name="purchased_list">Comprats</string>
   <string name="purchased_list_legacy">Temes heretats</string>
+  <string name="recently_used">Utilitzats recentment</string>
   <string name="reload">Torneu a provar-ho</string>
   <string name="resource_account_abnormal_state">Error en el compte. Espereu un o dos minuts i torneu-ho a provar.</string>
   <string name="resource_account_fail_to_add">"No es pot afegir el compte"</string>
@@ -257,9 +271,11 @@
   <string name="resource_purchase_verifying_payment">S\'està verificar la informació del pagament&#8230;</string>
   <string name="resource_purchase_vip_pay_failed">"Ha fallat el pagament VIP."</string>
   <string name="resource_purchase_waiting_payment">S\'està esperant la informació del pagament&#8230;</string>
+  <string name="resource_ranking">Popular</string>
   <string name="resource_ranking_free">De franc</string>
   <string name="resource_ranking_purchase">De pagament</string>
   <string name="resource_ringtone_default">Tons</string>
+  <string name="resource_ringtone_playing_error">Error</string>
   <string name="resource_ringtone_volume_mute">El timbre està silenciat</string>
   <string name="resource_save_to_note">Desa a Notes</string>
   <string name="resource_search_color_hint_blue">Blau</string>
@@ -287,6 +303,8 @@
   <string name="resource_tab_to_view">Premeu per veure.</string>
   <string name="resource_tip_select_none">Cap seleccionat</string>
   <string name="resource_title">Detalls</string>
+  <string name="resource_title_category">Categories</string>
+  <string name="resource_title_hot_subject">Popular</string>
   <string name="resource_title_local">Local</string>
   <string name="resource_title_rank">Populars</string>
   <string name="resource_title_select_ringtone">Seleccioneu un to</string>
@@ -311,6 +329,7 @@
   <string name="resource_user_know">D\'acord</string>
   <string name="resource_waiting_download">S\'està esperant</string>
   <string name="resource_waiting_pause">Pausa</string>
+  <string name="ringtone_set_success">S\'ha establert amb èxit</string>
   <string name="sdcard_not_mounted_dialog_message">"Inseriu la targeta SD ara.
 "</string>
   <string name="sdcard_not_mounted_dialog_title">Targeta SD no detectada</string>
@@ -342,6 +361,7 @@
   <string name="theme_component_title_boot_audio">Àudio d\'arrencada</string>
   <string name="theme_component_title_clock">Rellotge</string>
   <string name="theme_component_title_contact">Teclat de marcatge</string>
+  <string name="theme_component_title_font">Tipus de lletra</string>
   <string name="theme_component_title_framework">Vores</string>
   <string name="theme_component_title_icon">Icones</string>
   <string name="theme_component_title_launcher">Safata de favorits</string>
@@ -403,6 +423,7 @@
   <string name="uid_change_dialog_message">"Heu suprimit les actualitzacions. Reinicieu el dispositiu per poder utilitzar els temes."</string>
   <string name="uid_change_dialog_ok">Entesos</string>
   <string name="uid_change_dialog_title">Reinicia el dispositiu</string>
+  <string name="wallpaper_apply">Aplica</string>
   <string name="wallpaper_crop">Retalla</string>
   <string name="wallpaper_decoded_error">"No es pot carregar el fons de pantalla"</string>
   <string name="wallpaper_scroll_type_tips">Fons de pantalla de desplaçament</string>
@@ -410,5 +431,8 @@
   <string name="wallpaper_set_as_destop">Estableix com a fons de pantalla</string>
   <string name="wallpaper_set_as_lockscreen">Estableix com a pantalla de bloqueig</string>
   <string name="wallpaper_settings">Configuració del fons de pantalla</string>
+  <string name="wallpaper_settings_loading_text">S\'està carregant</string>
+  <string name="wallpaper_settings_no_history">No hi ha historial</string>
+  <string name="wallpaper_settings_pad_more_page_title">Més fons de pantalla</string>
   <string name="wallpaper_settings_page_title">fons de pantalla</string>
 </resources>

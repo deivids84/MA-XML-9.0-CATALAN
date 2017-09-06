@@ -50,6 +50,7 @@
   <string name="currency_character">iuans</string>
   <string name="custom_mark_category">Personalitzat</string>
   <string name="data_error">S\'ha produït un error</string>
+  <string name="data_error_w">S\'ha produït un error</string>
   <string name="delete">Elimina</string>
   <string name="do_not_remind_me">"No ho mostris més"</string>
   <string name="dont_enable">Desactiva</string>
@@ -418,12 +419,14 @@ Total: %3$s iuans"</string>
   <string name="turn_off_hint_title">Voleu desactivat la identitat de trucades?</string>
   <string name="turn_off_phone_event_hint">"No podreu veure informació de números desconeguts."</string>
   <string name="turn_off_smart_antispam_hint">"No podreu veure informació de trucades de números desconeguts."</string>
+  <string name="turn_on_online_antispam_enable">Activa</string>
+  <string name="turn_on_online_antispam_summary">Activa l\'identificador de trucades per reconèixer números desconeguts.</string>
+  <string name="turn_on_online_antispam_title">Activa l\'identificador de trucades</string>
   <string name="turn_on_phone_event_dialog_title">Actualitza la base de dades</string>
   <string name="turn_on_phone_event_summary">Puja l\'estat dels telèfons dels números de serveis</string>
   <string name="turn_on_phone_event_title">Rep informació de servei</string>
   <string name="turn_on_smart_antispam_hint">Identifica les trucades de números desconeguts</string>
-  <string name="turn_on_smart_antispam_summary_off">Puja i identifica els números desconeguts del registre de trucades i del missatges de text</string>
-  <string name="turn_on_smart_antispam_summary_on">Puja i identifica els números desconeguts del registre de trucades i del missatges de text</string>
+  <string name="turn_on_smart_antispam_summary">Penja i identifica números de telèfon desconeguts de l\'historial de trucades i missatges de text</string>
   <string name="turn_on_smart_antispam_title">Identitat de trucada</string>
   <string name="turn_on_yellowpage_service_title">Utilitza la identitat de trucades</string>
   <string name="uploads_disabled">Les pujades de fitxers estan desactivades</string>

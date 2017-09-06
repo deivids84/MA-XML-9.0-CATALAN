@@ -18,6 +18,7 @@
   <string name="no_effects">Efectes no disponibles.</string>
   <string name="none">Cap</string>
   <string name="picker_title">Tauler de control dels efectes musicals</string>
+  <string name="plate">Placa</string>
   <string name="power_on_prompt">Premeu el botó d\'activació a la part superior dreta.</string>
   <string name="pr_dialog_title">Configuració de reverberació</string>
   <string name="pr_summary">Efectes addicionals de reverberació d\'habitació</string>

@@ -64,14 +64,14 @@
   <string-array name="select_logpersist_titles">
     <item>Apagat</item>
     <item>Tot</item>
-    <item>All but radio</item>
+    <item>Tot excepte la ràdio</item>
     <item>només kernel</item>
   </string-array>
   <string-array name="select_logpersist_summaries">
     <item>Apagat</item>
-    <item>All log buffers</item>
-    <item>All but radio log buffers</item>
-    <item>kernel log buffer only</item>
+    <item>Totes les memòries intermèdies de registre</item>
+    <item>Tot excepte les memòries intermèdies de registre de la ràdio</item>
+    <item>només la memòria intermèdia de registre del nucli</item>
   </string-array>
   <string-array name="window_animation_scale_entries">
     <item>Sense animacions</item>
@@ -103,16 +103,16 @@
   <string-array name="overlay_display_devices_entries">
     <item>Cap</item>
     <item>480p</item>
-    <item>480p (secure)</item>
+    <item>480p (segur)</item>
     <item>720p</item>
-    <item>720p (secure)</item>
+    <item>720p (segur)</item>
     <item>1080p</item>
-    <item>1080p (secure)</item>
+    <item>1080p (segur)</item>
     <item>4K</item>
-    <item>4K (secure)</item>
-    <item>4K (upscaled)</item>
-    <item>4K (upscaled, secure)</item>
-    <item>720p, 1080p (dual screen)</item>
+    <item>4K (segur)</item>
+    <item>4K (sobredimensionat)</item>
+    <item>4K (sobredimensionat, segur)</item>
+    <item>720p, 1080p (pantalla doble)</item>
   </string-array>
   <string-array name="enable_opengl_traces_entries">
     <item>Cap</item>
@@ -145,9 +145,9 @@
   </string-array>
   <string-array name="usb_configuration_titles">
     <item>S\'està carregant</item>
-    <item>MTP (Media Transfer Protocol)</item>
-    <item>PTP (Picture Transfer Protocol)</item>
-    <item>RNDIS (USB Ethernet)</item>
+    <item>MTP (Protocol de transferència multimèdia)</item>
+    <item>PTP (Protocol de transferència d\'imatges)</item>
+    <item>RNDIS (Ethernet USB)</item>
     <item>Font d\'àudio</item>
     <item>MIDI</item>
   </string-array>

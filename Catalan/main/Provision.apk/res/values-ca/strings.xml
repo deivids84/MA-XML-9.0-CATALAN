@@ -4,6 +4,7 @@
   <string name="agree">D\'acord</string>
   <string name="agree_terms">"He llegit i accepto les condicions d'ús de la política de privacitat."</string>
   <string name="app_name">Provisions</string>
+  <string name="application_permissions">Permisos de l\'aplicació</string>
   <string name="back">Enrere</string>
   <string name="cm_terms_content">"Per millorar els serveis que li oferim, l'operador de xarxa mòbil de la vostra elecció pot carregar les seves dades personals i la informació sobre aquest dispositiu als seus servidors mitjançant xarxes Wi-Fi o connexió de dades. Aquesta informació només s'utilitzarà amb finalitats estadístiques per millorar la qualitat dels serveis i oferir un contingut més personalitzat. Aquesta informació no serà utilitzada per identificar-vos personalment i no serà revelada a tercers."</string>
   <string name="cm_terms_title">Acord d\'operador de xarxa mòbil</string>
@@ -18,6 +19,7 @@
   <string name="enable_accessibility_dialog_message">Vau activar TalkBack prement la pantalla amb 2 dits durant més de 10 segons. TalkBack proporciona comentaris de veu per a persones amb impediments visuals. Si ho va activar per accident, toqueu el botó Cancel·la i a continuació, toqueu dues vegades la pantalla.</string>
   <string name="enable_accessibility_dialog_negative_btn">Cancel·la</string>
   <string name="enable_accessibility_dialog_positive_btn">Confirma</string>
+  <string name="fail_to_generate_qr_code">Ha fallit la generació del codi QR, torneu a introduir aquesta pàgina.</string>
   <string name="ime_privacy_policy">Política de Privadesa del teclat seleccionat</string>
   <string name="ime_privacy_policy_no_network">Sense connexió de xarxa. Vegeu la política de privadesa d\'aquest teclat a %s.</string>
   <string name="input_method_category">"Seleccioneu el teclat predeterminat que s'utilitzarà per escriure correus electrònics, notes i gairebé tota la resta. Recordeu que també podeu instal·lar teclats de tercers."</string>
@@ -55,11 +57,13 @@
   <string name="sim_redetection">Torna-ho a comprovar</string>
   <string name="skip_underline">Omet aquest pas</string>
   <string name="summary_not_set">No s\'ha configurat</string>
-  <string name="terms_of_use">Termes i Condicions</string>
+  <string name="terms_of_use">Termes i condicions</string>
   <string name="terms_of_use_label">"La vostra privadesa és cabdal per a nosaltres. Si us plau, llegiu les condicions del servei i la política de privadesa per entendre quina informació recollim, com la utilitzem i quines opcions podeu utilitzar.
 
 Abans de poder utilitzar MIUI, heu d\'acceptar els termes de servei i política de privadesa. Per activar els serveis de Mi Services, Find Device i Mi Home cal connexió a internet."</string>
   <string name="title_fingerprint">Afegiu l\'empremta</string>
+  <string name="two_dimensional_code_scan">Escaneja el codi QR</string>
   <string name="user_agreement">Condicions del servei</string>
+  <string name="user_strayed_warning">La pàgina està dissenyada per a la prova de fàbrica, feu clic al botó enrere per sortir.</string>
   <string name="welcome">Benvinguts</string>
 </resources>

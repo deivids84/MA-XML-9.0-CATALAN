@@ -12,7 +12,6 @@
   <string name="accessibility_action_divider_top_70">Superior 70%</string>
   <string name="accessibility_action_divider_top_full">Pantalla superior completa</string>
   <string name="accessibility_airplane_mode">Mode avió.</string>
-  <string name="accessibility_assistant">Menú de dreceres</string>
   <string name="accessibility_back">Enrere</string>
   <string name="accessibility_battery_level">Percentatge de bateria %d.</string>
   <string name="accessibility_bluetooth_connected">Bluetooth connectat.</string>
@@ -244,6 +243,7 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
   <string name="dlg_error_title">L\'operació USB ha fallat</string>
   <string name="dlg_ok">D\'acord</string>
   <string name="dock_forced_resizable">És possible que l\'aplicació no funcioni amb la pantalla dividida.</string>
+  <string name="dock_keyguard_locked_failed_to_dock_text">El KeyGuard no és compatible amb finestres múltiples, tanqueu el mode multi finestra.</string>
   <string name="dock_non_resizeble_failed_to_dock_text">L\'aplicació no admet la pantalla dividida.</string>
   <string name="drive_mode_tip">"Estàs en mode cotxe"</string>
   <string name="enable_adb">Depuració USB activada</string>
@@ -417,6 +417,7 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="recents_incompatible_app_message">"L'aplicació no admet la pantalla dividida"</string>
   <string name="recents_launch_disabled_message">%s està desactivat en el mode segur.</string>
   <string name="recents_launch_error_message">%s no s\'ha pogut iniciar.</string>
+  <string name="recents_multi_window_mode">Mode de pantalla dividida</string>
   <string name="recents_stack_action_button_label">Esborra-ho tot</string>
   <string name="reject_call">Rebutjar trucada</string>
   <string name="remaining_length_format">Falten %1$s</string>

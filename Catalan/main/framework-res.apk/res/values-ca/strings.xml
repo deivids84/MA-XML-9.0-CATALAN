@@ -954,6 +954,7 @@ per al compte %s»</string>
   <string name="permlab_writeSyncSettings">activa i desactiva la sincronització</string>
   <string name="perms_description_app">Proporcionat per %1$s</string>
   <string name="perms_new_perm_prefix">NOU:</string>
+  <string name="petabyteShort">PB</string>
   <string name="phoneTypeAssistant">Assistent</string>
   <string name="phoneTypeCallback">Devolució de trucada</string>
   <string name="phoneTypeCar">Cotxe</string>
@@ -964,6 +965,7 @@ per al compte %s»</string>
   <string name="phoneTypeHome">Casa</string>
   <string name="phoneTypeIsdn">XDSI</string>
   <string name="phoneTypeMain">Principal</string>
+  <string name="phoneTypeMms">MMS</string>
   <string name="phoneTypeMobile">Mòbil</string>
   <string name="phoneTypeOther">Altre</string>
   <string name="phoneTypeOtherFax">Altres faxos</string>
@@ -1234,6 +1236,19 @@ Si escolteu sons a un volum alt durant llargs períodes de temps es podrien dany
   <string name="usb_mtp_notification_title">USB per transferir fitxers</string>
   <string name="usb_notification_message">Toqueu per veure més opcions.</string>
   <string name="usb_ptp_notification_title">USB per transferir fotos</string>
+  <string name="usb_storage_activity_title">Emmagatzematge massiu USB</string>
+  <string name="usb_storage_button_mount">Activa l\'emmagatzematge USB</string>
+  <string name="usb_storage_error_message">"Hi ha un problema per a la utilització de l'emmagatzematge USB com a emmagatzematge massiu USB."</string>
+  <string name="usb_storage_message">"Esteu connectat a l'ordinador per USB. Toqueu el botó de sota si voleu copiar fitxers entre l'ordinador i l'emmagatzematge USB de l'Android."</string>
+  <string name="usb_storage_notification_message">Toqueu per copiar fitxers a/des de l\'ordinador.</string>
+  <string name="usb_storage_notification_title">USB connectat</string>
+  <string name="usb_storage_stop_button_mount">Desactiva l\'emmagatzematge USB</string>
+  <string name="usb_storage_stop_error_message">"Hi ha hagut un problema en desactivar l'emmagatzematge USB. Comproveu que heu desmuntat l'USB amfitrió i torneu-ho a intentar."</string>
+  <string name="usb_storage_stop_message">"Abans de desactivar l'emmagatzematge USB, desmunteu («expulseu») l'emmagatzematge USB de l'ordinador."</string>
+  <string name="usb_storage_stop_notification_message">Toqueu per desactivar l\'emmagatzematge USB.</string>
+  <string name="usb_storage_stop_notification_title">Desactiva l\'emmagatzematge USB</string>
+  <string name="usb_storage_stop_title">Emmagatzematge USB en ús</string>
+  <string name="usb_storage_title">USB connectat</string>
   <string name="usb_supplying_notification_title">L\'USB proporciona energia al dispositiu connectat</string>
   <string name="use_a_different_app">Utilitza una altra aplicació</string>
   <string name="user_creation_account_exists">Voleu permetre a %1$s crear un usuari nou amb %2$s?</string>

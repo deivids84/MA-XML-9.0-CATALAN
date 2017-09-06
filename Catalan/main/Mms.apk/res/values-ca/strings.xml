@@ -539,6 +539,8 @@
   <string name="slide_show_part">Part %1$s/%2$s</string>
   <string name="slide_up_to_cancel">Feu lliscar amunt per cancel·lar</string>
   <string name="slideshow_activity">Presentació</string>
+  <string name="sms_card_partner_label">"Soci de targetes SMS: "</string>
+  <string name="sms_card_teddy_mobile">Teddy Mobile</string>
   <string name="sms_content">Contingut:</string>
   <string name="sms_full_body">"Missatge entrant rebutjat: no hi ha prou espai en aquest dispositiu."</string>
   <string name="sms_full_title">Memòria de missatges de text completa</string>
@@ -555,6 +557,8 @@
   <string name="sp_category_bank">Missatges de notificació del banc</string>
   <string name="sp_conversation_title">Notificacions</string>
   <string name="sp_mark_as_read_menu_title">Marca com a llegit</string>
+  <string name="sqlite_disk_full">La base de dades o el disc estan plens</string>
+  <string name="sqlite_low_memory">Poca memòria</string>
   <string name="status_failed">Sense èxit</string>
   <string name="status_label">"Estat: "</string>
   <string name="status_pending">Pendent</string>
@@ -622,10 +626,6 @@ Intents realitzats: %s"</string>
   <string name="url_fraud_visit">Accedeix de totes maneres</string>
   <string name="url_result_safe">La URL és segura</string>
   <string name="url_scanning">S\'està comprovat la URL&#8230;</string>
-  <string name="user_agreement2">Condicions del servei</string>
-  <string name="user_agreement3">" i "</string>
-  <string name="user_agreement4">Política de privacitat</string>
-  <string name="user_agreement5">En pressionar «D\'acord», accepteu els nostres Termes d\'ús i Política de privacitat.</string>
   <string name="verification_code_list_title">Codis de verificació</string>
   <string name="view">Mostra</string>
   <string name="view_bookmark">Mostra el missatge original</string>

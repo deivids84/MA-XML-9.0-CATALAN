@@ -15,6 +15,7 @@
   <string name="birthday">Aniversari</string>
   <string name="check_phone_error_title">Sincronització desactivada</string>
   <string name="check_phone_io_error">"No es pot connectar a la xarxa"</string>
+  <string name="clearable_edittext_clear_description">esborra</string>
   <string name="close">Tanca</string>
   <string name="copyright">Drets d\'autor</string>
   <string name="date_picker_dialog_title">Defineix la data</string>

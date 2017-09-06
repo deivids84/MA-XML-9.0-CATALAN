@@ -298,7 +298,7 @@ Toca el botó de configuració de sincronització per veure més opcions\"</stri
   <string name="micloud_main_sync_init">Obtenint informació</string>
   <string name="micloud_main_sync_need_charge_or_sleep">Carregueu el dispositiu i desactiveu la pantalla</string>
   <string name="micloud_main_sync_now">Sincronitza ara</string>
-  <string name="micloud_main_sync_on">Sincronitzar</string>
+  <string name="micloud_main_sync_on">Sincronitza</string>
   <string name="micloud_main_sync_on_wifi">Esperant Wi-Fi</string>
   <string name="micloud_main_sync_pause">Sincronització pausada</string>
   <string name="micloud_main_sync_pending">Esperant per sincronitzar</string>
@@ -500,7 +500,7 @@ Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi."</
   <string name="sync_dspt_provision">"Sincronitza les teves fotos, contactes, notes, etc. entre els teus dispositius i accedeix a ells des de"</string>
   <string name="sync_dspt_provision3">". Podeu activar o desactivar aquesta característica en qualsevol moment a Configuració.
 "</string>
-  <string name="sync_dspt_provision_header">Sincronitzar</string>
+  <string name="sync_dspt_provision_header">Sincronitza</string>
   <string name="sync_item_calllog_summary">Sincronitzar registres de trucades fetes i rebudes en aquest telèfon</string>
   <string name="sync_item_calllog_title">Sincronitzar registres de trucades</string>
   <string name="sync_item_sms_summary">Sincronitzar els teus SMS enviats i rebuts en aquest telèfon</string>

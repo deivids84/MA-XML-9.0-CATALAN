@@ -23,6 +23,7 @@
   <string name="cta_dialog_content">Aquesta aplicació necessita connectar-se a Internet per funcionar amb normalitat.</string>
   <string name="cta_dialog_title">Connexió a Internet</string>
   <string name="cta_not_show_again">"No tornis a mostrar-ho"</string>
+  <string name="default_text_view">TextView</string>
   <string name="description">Descriviu el problema</string>
   <string name="dialog_ask_delete">Elimina</string>
   <string name="dialog_ask_quit">Tanca</string>
@@ -33,6 +34,7 @@
   <string name="err_type">Tipus d\'error</string>
   <string name="err_type_app">Aplicacions</string>
   <string name="err_type_appstore">Botiga d\'aplicacions</string>
+  <string name="err_type_bluetooth">Bluetooth</string>
   <string name="err_type_camera">Càmera</string>
   <string name="err_type_hardware">Maquinari</string>
   <string name="err_type_hardware_summary">Botons, càrrega, sensors, etc.</string>
@@ -47,13 +49,16 @@
   <string name="err_type_systemapp">Aplicacions MIUI</string>
   <string name="err_type_translate">Idioma</string>
   <string name="err_type_wifi">Wi-Fi</string>
+  <string name="err_type_xiaomi_family">Mi Home</string>
   <string name="err_type_xiaomi_service">Servei al client</string>
   <string name="error_no_connection">"No s'ha pogut connectar a la xarxa"</string>
   <string name="feedback_bug_status_change_notification_desc">%1$s problema \"%2$s\"</string>
   <string name="feedback_choose_module">Trieu un element</string>
   <string name="feedback_choose_module_hint">Necessari</string>
   <string name="feedback_collect_log_failed">"No s'han pogut obtenir els registres"</string>
+  <string name="feedback_contact_info_hint">Número de telèfon/correu</string>
   <string name="feedback_continue">Continua amb els comentaris</string>
+  <string name="feedback_delete_images">Elimina les imatges</string>
   <string name="feedback_description">Descripció</string>
   <string name="feedback_description_bugreport_hint">En alguns casos (&#8230;) el meu telèfon té errors (&#8230;).</string>
   <string name="feedback_description_label">Descripció</string>
@@ -62,6 +67,7 @@
   <string name="feedback_empty_report_list">Encara no hi ha informes</string>
   <string name="feedback_guess">La nostra suposició</string>
   <string name="feedback_history_remind_login_desc">"Inicieu sessió amb el vostre Compte Mi per veure els detalls i el progrés de l'informe"</string>
+  <string name="feedback_id">ID: %d</string>
   <string name="feedback_jira_key">Clau JIRA: %s</string>
   <string name="feedback_package_log_failed">"No s'han pogut comprimir els registres"</string>
   <string name="feedback_phone_model_label">Model de telèfon</string>
@@ -71,6 +77,7 @@
   <string name="feedback_report_remind_login_desc2">"També podeu veure el progrés dels informes a «Els meus informes»."</string>
   <string name="feedback_retest_label">Passos per reproduir-lo</string>
   <string name="feedback_select_images">Afegeix imatges</string>
+  <string name="feedback_select_modem_log">Afegeix els registres del mòdem</string>
   <string name="feedback_select_problem">Problemes</string>
   <string name="feedback_select_suggestion">Suggeriments</string>
   <string name="feedback_select_upload_log">Afegeix registres</string>
@@ -92,8 +99,9 @@
   <string name="feedback_submit_failed_notification_retry">Envia de nou</string>
   <string name="feedback_submit_failed_notification_title">"No s'ha pogut enviar l'informe"</string>
   <string name="feedback_submit_hint">Informeu d\'errors cada vegada que tingueu algun problema per ajudar a resoldre\'ls més de pressa.</string>
-  <string name="feedback_submit_hint1">"Us informarem sobre el progrés de l'informe"</string>
+  <string name="feedback_submit_hint1">"Us avisarem sobre el progrés de l'informe"</string>
   <string name="feedback_submit_hint2">Aneu a «Els meus informes» per veure\'n els detalls</string>
+  <string name="feedback_submit_hint_gone">Missatge tancat</string>
   <string name="feedback_submit_succ">S\'ha enviat correctament</string>
   <string name="feedback_submit_succ_button">Fet</string>
   <string name="feedback_submitting">S\'està enviant</string>
@@ -190,6 +198,7 @@
   <string name="module_data">Emmagatzematge i Aplicacions duals</string>
   <string name="module_desktop">Pantalla d\'inici i Configuració</string>
   <string name="module_finance">Finances i Mi Wallet</string>
+  <string name="module_google_apps">Aplicacions de Google</string>
   <string name="module_item_less">​​Amaga</string>
   <string name="module_item_more">Més</string>
   <string name="module_medias">Multimèdia</string>
@@ -282,6 +291,7 @@
   <string name="toast_report_copied_to_clipboard">Informe copiat al porta-retalls</string>
   <string name="toast_report_sent_failed">"No es pot enviar l'informe"</string>
   <string name="toast_report_sent_succeed">S\'ha enviat l\'informe</string>
+  <string name="toast_screenshot_too_large">"No es poden penjar fitxers de més de 10 MB."</string>
   <string name="toast_third_packagename_required">Introduïu el nom de l\'aplicació</string>
   <string name="toast_title_required">Descriviu el problema</string>
   <string name="try_again">Torneu a provar-ho</string>

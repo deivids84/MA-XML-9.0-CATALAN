@@ -30,6 +30,7 @@
   <string name="audio_spk_cal_wait">Calibratge...</string>
   <string name="audio_spk_def">Calibreu dels altaveus</string>
   <string name="baterry_temperature">"Temperatura de la Bateria: "</string>
+  <string name="battery_info">Informació relacionada amb la càrrega de la bateria</string>
   <string name="begin_to_save_finger_data">Comença a registrar les empremtes dels dits</string>
   <string name="button_ok">D\'acord</string>
   <string name="camera_capture">Captura</string>
@@ -186,6 +187,8 @@ Toqueu la pantalla per iniciar el GPS&#8230;"</string>
   <string name="cit_gps_satellite_snr">SNR: %s</string>
   <string name="cit_gyroscope_sensor_check_summary">Els valors per a les coordenades X, Y, Z, s\'han d\'introduir a continuació</string>
   <string name="cit_gyroscope_sensor_check_title">Giroscopi</string>
+  <string name="cit_hardware_info_summary">S\'està processant la informació del maquinari d\'aquest dispositiu</string>
+  <string name="cit_hardware_info_title">Informació del maquinari</string>
   <string name="cit_headset_button_check_summary">Quan els auriculars estiguin connectats, premeu els botons en els auriculars remots (sovint situats en el cable). El text corresponent a la pantalla ha de canviar a verd.</string>
   <string name="cit_headset_button_check_title">Botons dels auriculars</string>
   <string name="cit_headset_button_click">Premeu els botons en els auriculars</string>
@@ -398,6 +401,7 @@ Després de col·locar «music.mp3» al directori de la targeta SD, toqueu la pa
   <string name="speak_from_mic">Parleu al MICRO, la reproducció dels altaveus. Jutgeu si hi ha so.</string>
   <string name="start">Inicia</string>
   <string name="testagain">Podeu prémer la tecla INICI per provar-ho de nou</string>
+  <string name="testcase_name">Nom</string>
   <string name="touch_auto">L\'auto-test del panell tàctil està en curs, si us plau espereu....</string>
   <string name="tp_color">Color TP:</string>
   <string name="tp_version">Versió del TP:</string>

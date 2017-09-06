@@ -193,4 +193,24 @@ Per obtenir més informació sobre aquest certificat, contacteu amb l\'administr
     <item quantity="other">No ho desactivis mai per a %d aplicacions</item>
     <item quantity="one">No ho desactivis mai per a 1 aplicació</item>
   </plurals>
+  <plurals name="lockpassword_pin_too_short">
+    <item quantity="other">El PIN ha de tenir com a mínim %d números</item>
+    <item quantity="one">El PIN ha de tenir com a mínim %d número</item>
+  </plurals>
+  <plurals name="lockpassword_pin_too_long">
+    <item quantity="other">El PIN pot contenir fins a %d números</item>
+    <item quantity="one">El PIN pot contenir fins a %d número</item>
+  </plurals>
+  <plurals name="lockpattern_recording_incorrect_too_short">
+    <item quantity="other">Connecteu almenys %d punts. Torneu-ho a provar.</item>
+    <item quantity="one">Connecteu almenys %d punt. Torneu-ho a provar.</item>
+  </plurals>
+  <plurals name="lockpattern_too_many_failed_confirmation_attempts">
+    <item quantity="other">Heu superat el límit d\'intents. Espereu-vos %d segons.</item>
+    <item quantity="one">Heu superat el límit d\'intents. Espereu-vos %d segon.</item>
+  </plurals>
+  <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
+    <item quantity="other">Espereu %d segons i torneu-ho a provar.</item>
+    <item quantity="one">Espereu %d segon i torneu-ho a provar.</item>
+  </plurals>
 </resources>

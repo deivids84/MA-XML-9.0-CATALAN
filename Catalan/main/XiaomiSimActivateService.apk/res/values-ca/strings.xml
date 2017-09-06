@@ -10,6 +10,7 @@
   <string name="activate_feature_default_name">Serveis Mi</string>
   <string name="activate_feature_find_device">Troba dispositiu</string>
   <string name="activate_feature_live_talk">Recàrrega</string>
+  <string name="activate_feature_mi_roaming">Mi Roaming</string>
   <string name="activate_feature_mms_sync">Sincronització dels missatges</string>
   <string name="activate_feature_mx">Missatges Mi</string>
   <string name="activate_feature_mx_and_voip">Missatges i veu Mi</string>
@@ -104,9 +105,16 @@ Introduïu el número de telèfon associat amb la vostra targeta SIM nova per a 
   <string name="activate_status_desc_wait_for_sms_success">S\'ha rebut l\'SMS d\'activació del servidor</string>
   <string name="activate_status_title_activating">Activant la targeta SIM&#8230;</string>
   <string name="activate_status_title_activating_msim">Activant la targeta SIM %s&#8230;</string>
+  <string name="agree">D\'acord</string>
   <string name="app_name">Servei d\'activació SIM de Xiaomi</string>
   <string name="explain_send_sms_permission_button">Verifica</string>
   <string name="explain_send_sms_permission_msg">Per activar %s, el servei Framework de Xiaomi enviarà un SMS per verificar el vostre número de telèfon. Se us cobrarà per l\'SMS enviat segons les tarifes de la vostra companyia.</string>
   <string name="explain_send_sms_permission_title">Verifiqueu el vostre número de telèfon</string>
+  <string name="phone_get_processing">s\'està obtenint…</string>
+  <string name="phone_get_text">Esteu d\'acord amb %1$s per obtenir el vostre número de telèfon: %2$s</string>
+  <string name="phone_get_title">Accepteu %1$s per obtenir el vostre número de telèfon</string>
+  <string name="phone_verify_processing">s\'està verificant…</string>
+  <string name="phone_verify_text">%1$s no obtindrà el vostre número de telèfon, simplement verifiqueu que el vostre número de telèfon sigui coincident.</string>
+  <string name="phone_verify_title">Accepteu %1$s per verificar el vostre número de telèfon</string>
   <string name="sim_unactivated_title">"La vostra targeta SIM no està activada"</string>
 </resources>

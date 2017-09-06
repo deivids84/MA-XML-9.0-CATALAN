@@ -11,6 +11,10 @@
     <item>Àries</item>
     <item>21/3 - 19/4</item>
   </string-array>
+  <string-array name="bundesliga">
+    <item>2</item>
+    <item>Bundesliga</item>
+  </string-array>
   <string-array name="cancer_info">
     <item>càncer</item>
     <item>Càncer</item>
@@ -45,10 +49,18 @@
     <item>Aquest i els esdeveniments futurs</item>
     <item>Tots els esdeveniments</item>
   </string-array>
+  <string-array name="english_premium_league">
+    <item>4</item>
+    <item>@string/english_premium_league</item>
+  </string-array>
   <string-array name="gemini_info">
     <item>gèminis</item>
     <item>Gèminis</item>
     <item>21/5 - 21/6</item>
+  </string-array>
+  <string-array name="la_liga">
+    <item>3</item>
+    <item>La Liga</item>
   </string-array>
   <string-array name="leo_info">
     <item>lleó</item>
@@ -59,6 +71,10 @@
     <item>balança</item>
     <item>Balança</item>
     <item>23/9 - 23/10</item>
+  </string-array>
+  <string-array name="ligue_1">
+    <item>5</item>
+    <item>Ligue 1</item>
   </string-array>
   <string-array name="ordinal_labels">
     <item>primer</item>
@@ -182,6 +198,10 @@
     <item>escorpió</item>
     <item>Escorpió</item>
     <item>24/10 - 22/11</item>
+  </string-array>
+  <string-array name="serie_a">
+    <item>1</item>
+    <item>Serie A</item>
   </string-array>
   <string-array name="taurus_info">
     <item>taure</item>

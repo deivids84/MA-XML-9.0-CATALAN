@@ -13,4 +13,8 @@
     <item quantity="other">%d notificacions en el Segon espai</item>
     <item quantity="one">%d notificacio en el Segon espai</item>
   </plurals>
+  <plurals name="search_app_count_txt_na">
+    <item quantity="other">Cerca %d aplicacions</item>
+    <item quantity="one">Cerca %d aplicació</item>
+  </plurals>
 </resources>

@@ -15,13 +15,9 @@
     <item>Notes</item>
     <item>Relació</item>
   </string-array>
-  <string-array name="resent_via_entries_sms">
-    <item>SMS</item>
-    <item>Missatge Mi</item>
-  </string-array>
-  <string-array name="resent_via_entries_mms">
-    <item>SMS</item>
-    <item>Missatge Mi</item>
+  <string-array name="entries_mms_validity_period">
+    <item>Màxim</item>
+    <item>2 dies</item>
   </string-array>
   <string-array name="entries_sms_validity_period">
     <item>No establert</item>
@@ -31,13 +27,18 @@
     <item>1 dia</item>
     <item>Màxim</item>
   </string-array>
-  <string-array name="entries_mms_validity_period">
-    <item>Màxim</item>
-    <item>2 dies</item>
+  <string-array name="prefEntries_vibrateWhen">
+    <item>Sempre</item>
+    <item>Només en silenci</item>
+    <item>Mai</item>
   </string-array>
-  <string-array name="switch_sdk">
+  <string-array name="resent_via_entries_mms">
+    <item>SMS</item>
     <item>Missatge Mi</item>
-    <item>CMCC SMS intel·ligent</item>
+  </string-array>
+  <string-array name="resent_via_entries_sms">
+    <item>SMS</item>
+    <item>Missatge Mi</item>
   </string-array>
   <string-array name="select_dialog_items">
     <item>1 segon</item>
@@ -52,9 +53,8 @@
     <item>10 segons</item>
     <item>Altre</item>
   </string-array>
-  <string-array name="prefEntries_vibrateWhen">
-    <item>Sempre</item>
-    <item>Només en silenci</item>
-    <item>Mai</item>
+  <string-array name="switch_sdk">
+    <item>Missatge Mi</item>
+    <item>CMCC SMS intel·ligent</item>
   </string-array>
 </resources>

@@ -175,6 +175,7 @@
   <string name="email_picker_label">Envia un correu amb</string>
   <string name="email_subject_prefix">"Re: "</string>
   <string name="empty_event">No s\'ha creat l\'esdeveniment buit</string>
+  <string name="english_premium_league">English Premium League</string>
   <string name="event_account">Compte</string>
   <string name="event_action_delete">Elimina</string>
   <string name="event_action_edit">Edita</string>
@@ -209,6 +210,7 @@
   <string name="gadget_title">Calendari</string>
   <string name="global_action_text_card_manager">Un calendari més interessant</string>
   <string name="global_cricket_no_match">Avui no hi ha competicions de cricket, podeu revisar els aspectes més destacats de les competicions anteriors o proveu un altre partit. Meravellós esdeveniment, val la pena l\'espera!</string>
+  <string name="global_football_final">FINAL</string>
   <string name="global_football_no_match">No hi ha programat cap partit de futbol per avui.</string>
   <string name="guide_card_hint_text">Toqueu per obrir Mi Cloud</string>
   <string name="hint_attendees">Convidats</string>

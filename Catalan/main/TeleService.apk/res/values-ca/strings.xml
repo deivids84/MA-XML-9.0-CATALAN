@@ -97,6 +97,7 @@
   <string name="alert_dialog_close">Tanca el perfil</string>
   <string name="alert_dialog_dismiss">Omet</string>
   <string name="alert_dialog_in_ecm_call">"L'acció seleccionada no està disponible durant una trucada d'emergència."</string>
+  <string name="alert_dialog_no">No</string>
   <string name="alert_dialog_ok">D\'acord</string>
   <string name="alert_dialog_yes">Sí</string>
   <string name="alertdialogtitle">Resultats</string>
@@ -117,9 +118,11 @@
   <string name="app_process_limit_title">Límit de procés en segon pla</string>
   <string name="atr_disable">Informes de trànsit d\'àrea desactivats</string>
   <string name="atr_enable">Informes del trànsit de la zona activats</string>
+  <string name="audio_mode_bluetooth">Bluetooth</string>
   <string name="audio_mode_earpiece">Auricular mans lliures</string>
   <string name="audio_mode_speaker">Altaveu</string>
   <string name="audio_mode_wired_headset">Auriculars amb cable</string>
+  <string name="auth_username">Nom d\'usuari d\'autenticació</string>
   <string name="auth_username_summary">Nom d\'usuari utilitzat per a l\'autenticació</string>
   <string name="auth_username_title">Nom d\'usuari d\'autenticació</string>
   <string name="auto_answer_delay_entries_delay_10s">10 segons</string>
@@ -234,6 +237,7 @@
   <string name="bugreport_in_power">Drecera de l\'informe d\'errors</string>
   <string name="bugreport_in_power_summary">Mostra un botó al menú d\'encesa per crear un informe d\'errors</string>
   <string name="button_convert_fbe">Esborra i converteix&#8230;</string>
+  <string name="callEnded_pulled">Trucada transferida a un altre dispositiu.</string>
   <string name="callFailed_QOS_unavailable">Qualitat del servei no disponible</string>
   <string name="callFailed_access_information_discarded">S\'ha descartat l\'accés a la informació</string>
   <string name="callFailed_bearer_capability_not_authorized">Capacitat de la portadora no autoritzada</string>
@@ -246,6 +250,7 @@
   <string name="callFailed_channel_unacceptable">Canal inacceptable</string>
   <string name="callFailed_conditional_IE_error">Error d\'IE condicional</string>
   <string name="callFailed_congestion">Xarxa ocupada</string>
+  <string name="callFailed_data_disabled">La trucada es va finalitzar perquè les dades mòbils estaven desactivades.</string>
   <string name="callFailed_data_limit_reached">S\'ha assolit el límit de dades. Trucada finalitzada.</string>
   <string name="callFailed_data_limit_reached_description">La trucada s\'ha finalitzat perquè s\'ha assolit el límit de dades mòbils.</string>
   <string name="callFailed_destination_out_of_order">Destí fora de servei</string>
@@ -268,6 +273,7 @@
   <string name="callFailed_invalid_transaction_identifier">El valor de l\'identificador de la transacció no és vàlida</string>
   <string name="callFailed_invalid_transit_NW_selection">La selecció de xarxa de trànsit no és vàlida</string>
   <string name="callFailed_limitExceeded">S\'ha excedit el límit ACM</string>
+  <string name="callFailed_maximum_reached">Totes les línies disponibles estan en ús. Per realitzar una trucada, finalitzeu una de las trucades d\'aquest dispositiu o d\'un dels altres dispositius.</string>
   <string name="callFailed_message_not_compatible_with_protocol_state">Missatge incompatible amb l\'estat de protocol</string>
   <string name="callFailed_message_type_non_implemented">Tipus de missatge inexistent o no implementat</string>
   <string name="callFailed_message_type_not_compatible_with_protocol_state">Tipus de missatge incompatible amb l\'estat de protocol</string>
@@ -384,7 +390,9 @@
   <string name="card_title_outgoing_barred">Trucades sortints restringides</string>
   <string name="card_title_redialing">Tornant a marcar</string>
   <string name="card_title_unconditionalCF">Desviament incondicional de trucades activat</string>
+  <string name="carrier_info">Informació de l\'operador</string>
   <string name="carrier_settings_title">Configuració de l\'operador</string>
+  <string name="category_personal">Personal</string>
   <string name="category_work">Laboral</string>
   <string name="cb_sms_settings">Configuració de difusió mòbil d\'SMS</string>
   <string name="cdma_activate_device">Activa dispositiu</string>
@@ -419,10 +427,18 @@
   <string name="change_password">Canvia la contrasenya de restricció</string>
   <string name="change_pin">Canvia el PIN de la SIM</string>
   <string name="change_pin2">Canvia el PIN2</string>
+  <string name="change_pin_cancel_label">Cancel·la</string>
   <string name="change_pin_confirm_pin_header">Confirmeu el vostre PIN</string>
   <string name="change_pin_confirm_pins_dont_match">"Els codis PIN no coincideixen"</string>
   <string name="change_pin_continue_label">Continua</string>
   <string name="change_pin_enter_new_pin_header">Estableix un nou PIN</string>
+  <string name="change_pin_enter_new_pin_hint">El PIN ha de tenir entre %1$d-%2$d dígits.</string>
+  <string name="change_pin_enter_old_pin_header">Confirmeu el vostre PIN vell</string>
+  <string name="change_pin_enter_old_pin_hint">Introduïu el vostre PIN de correu de veu per continuar.</string>
+  <string name="change_pin_ok_label">D\'acord</string>
+  <string name="change_pin_succeeded">S\'ha actualitzat el PIN del correu de veu</string>
+  <string name="change_pin_system_error">No es pot fixar el PIN</string>
+  <string name="change_pin_title">Canvia el PIN del correu de veu</string>
   <string name="charge_length_format">Fa %1$s</string>
   <string name="choose_profile">Seleccioneu un perfil</string>
   <string name="clear_adb_keys">Revoca autoritzacions de depuració USB</string>
@@ -443,6 +459,7 @@
   <string name="confirm_pin2_label">Confirmeu el PIN2 nou</string>
   <string name="confirm_pin_label">Confirmeu el PIN nou</string>
   <string name="connect_disconnect_vibrate_none">Cap</string>
+  <string name="connect_disconnect_vibrate_normal">Normal</string>
   <string name="connect_disconnect_vibrate_summary">"Vibra quan la persona que esteu trucant contesti la trucada"</string>
   <string name="connect_disconnect_vibrate_title">Vibra quan despengin</string>
   <string name="connect_disconnect_vibrate_weak">Llum</string>
@@ -494,6 +511,10 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="debug_view_attributes">Habilita l\'inspecció d\'atributs de visualització</string>
   <string name="default_notification_description">So predeterminat (%1$s)</string>
   <string name="default_preference_summary">&lt;No establert&gt;</string>
+  <string name="default_preference_summary_domain_address">&lt;No s\'ha configurat&gt;</string>
+  <string name="default_preference_summary_password">&lt;No s\'ha configurat&gt;</string>
+  <string name="default_preference_summary_username">&lt;No s\'ha configurat&gt;</string>
+  <string name="default_transport">UDP</string>
   <string name="delete">Elimina</string>
   <string name="delete_fdn_contact">Esborra número de marcatge predefinit</string>
   <string name="deleting_fdn_contact">S\'està eliminant el número de marcatge predefinit&#8230;</string>
@@ -514,6 +535,8 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="description_image_button_three">tres</string>
   <string name="description_image_button_two">dos</string>
   <string name="description_voicemail_button">bústia de veu</string>
+  <string name="dev_logpersist_clear_warning_message">Quan ja no monitoritzem més amb el registrador persistent, se\'ns demanarà d\'esborrar el registrador de dades resident del vostre dispositiu.</string>
+  <string name="dev_logpersist_clear_warning_title">Voleu netejar l\'emmagatzematge del registrador persistent?</string>
   <string name="dev_settings_warning_message">Aquesta configuració només està prevista per a desenvolupament. Pot fer que el dispositiu i les aplicacions s\'interrompin o no funcionin correctament.</string>
   <string name="dev_settings_warning_title">Voleu permetre la configuració de desenvolupament?</string>
   <string name="development_settings_enable">Activa les opcions per a desenvolupadors</string>
@@ -539,8 +562,10 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="disable_sim_pin">Esborra el PIN de la SIM</string>
   <string name="disabled_by_admin">S\'ha desactivat per l\'administrador</string>
   <string name="disabled_by_admin_summary_text">Controlat per l\'administrador</string>
+  <string name="display_name">Nom de visualització</string>
   <string name="display_name_summary">&lt;Igual que el nombre d\'usuari&gt;</string>
   <string name="display_name_title">Mostra nom</string>
+  <string name="domain_address">Domini SIP</string>
   <string name="domain_address_title">Servidor</string>
   <string name="doneButton">Fet</string>
   <string name="dtmf_tone_entries_long">Llarg</string>
@@ -574,12 +599,15 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="enable_disable_eo">Oportunitats de feina</string>
   <string name="enable_disable_international">Internacional</string>
   <string name="enable_disable_lafs">Horaris de vols de l\'aeroport local</string>
+  <string name="enable_disable_local">Local</string>
   <string name="enable_disable_local_weather">Clima local</string>
   <string name="enable_disable_lodgings">Allotjaments</string>
   <string name="enable_disable_maintenance">Manteniment</string>
   <string name="enable_disable_mhh">Medicina, salut i hospitals</string>
   <string name="enable_disable_multi_category">Categoria múltiple</string>
   <string name="enable_disable_national">Nacional</string>
+  <string name="enable_disable_regional">Regional</string>
+  <string name="enable_disable_restaurants">Restaurants</string>
   <string name="enable_disable_retail_directory">Directori de Comerços</string>
   <string name="enable_disable_stock_quotes">Cotitzacions d\'Accions</string>
   <string name="enable_disable_technology_news">Notícies de tecnologia</string>
@@ -607,6 +635,7 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="enhanced_4g_lte_mode_on_failed">"No s'ha pogut activar VoLTE."</string>
   <string name="enhanced_4g_lte_mode_summary">Utilitza els serveis d\' LTE per millorar veu i altres comunicacions (recomanat)</string>
   <string name="enhanced_4g_lte_mode_title">Mode 4G LTE millorada</string>
+  <string name="enhanced_4g_lte_mode_title_variant">Trucades avançades</string>
   <string name="enter_callbarring_password">Introduïu la contrasenya de restricció de trucades (4 dígits)</string>
   <string name="enter_input" formatted="false">Un missatge USSD ha de tenir entre %d i %d caràcters. Si us plau torneu a provar.</string>
   <string name="enter_pin_text">PIN de la SIM:</string>
@@ -680,6 +709,7 @@ Voleu canviar al nou proveïdor igualment?"</string>
   <string name="inactive_app_inactive_summary">Aplicació inactiva. Premeu per activar-la.</string>
   <string name="inactive_apps_title">Aplicacions inactives</string>
   <string name="incall_error_call_failed">No es pot trucar.</string>
+  <string name="incall_error_cannot_add_call">En aquest moment no es pot afegir la trucada.</string>
   <string name="incall_error_ecm_emergency_only">Surt del mode de devolució de trucada d\'emergència per fer un altre tipus de trucada.</string>
   <string name="incall_error_emergency_only">No s\'ha registrat a la xarxa.</string>
   <string name="incall_error_missing_voicemail_number">Número de bústia de veu desconegut.</string>
@@ -688,6 +718,7 @@ Voleu canviar al nou proveïdor igualment?"</string>
   <string name="incall_error_out_of_service_wfc">La xarxa mòbil no està disponible. Connecteu amb una xarxa sense fil per fer una trucada.</string>
   <string name="incall_error_power_off">Desactiveu el mode avió per fer una trucada.</string>
   <string name="incall_error_power_off_wfc">Sortiu del mode avió o connecteu a una xarxa sense fil per fer una trucada.</string>
+  <string name="incall_error_promote_wfc">Activeu les trucades Wi-Fi per fer una trucada.</string>
   <string name="incall_error_supp_service_conference">No es poden fer trucades multiconferència.</string>
   <string name="incall_error_supp_service_hangup">"No es pot despenjar la trucada."</string>
   <string name="incall_error_supp_service_hold">"No es pot retenir trucades."</string>
@@ -820,6 +851,7 @@ Voleu canviar al nou proveïdor igualment?"</string>
   <string name="msim_mode_progress_activating_message">Activant</string>
   <string name="msim_mode_progress_deactivating_message">Desactivant</string>
   <string name="msim_not_set_summary">No establert</string>
+  <string name="msim_pref_title_data">Internet</string>
   <string name="msim_pref_title_voice">Marcatge</string>
   <string name="msim_set_icc_card_error">Error de targeta ICC</string>
   <string name="msim_set_sub_not_supported_phone_in_call">"Mentre es truca no es pot establir"</string>
@@ -977,6 +1009,7 @@ Torneu a provar-ho o truqueu al servei d\'atenció al client per a més opcions.
   <string name="path_telocation_enable_title">Aplicacions del sistema/Telèfon/Ubicació/Mostra ubicació</string>
   <string name="path_turnover_mute_title">Aplicacions de sistema/Telèfon/Configuració de trucades entrants/Passa a mode silenciós</string>
   <string name="path_voicemail_settings">Aplicacions de sistema/Telèfon/Configuració avançada/Configuració de bústia de veu</string>
+  <string name="pause_prompt_no">No</string>
   <string name="pause_prompt_str">"Enviant tons
 "</string>
   <string name="pause_prompt_yes">Sí</string>
@@ -1019,6 +1052,7 @@ Les funcions relacionades amb el PIN2 es bloquejaran després d\'un altre intent
   <string name="pin_progress_unlock_icc">S\'està desbloquejant la targeta SIM&#8230;</string>
   <string name="pointer_location">Ubicació del punter</string>
   <string name="pointer_location_summary">Pantalla de superposició que mostra les dades tàctils actuals</string>
+  <string name="port">Port</string>
   <string name="port_title">Número de port</string>
   <string name="power_charging_duration">%1$s - %2$s fins carregar-la</string>
   <string name="power_charging_duration_ac">%1$s - %2$s fins carregar-la per CA</string>
@@ -1094,6 +1128,9 @@ Les funcions relacionades amb el PIN2 es bloquejaran després d\'un altre intent
   <string name="private_num">Número privat</string>
   <string name="process_kernel_label">SO Android</string>
   <string name="progress_dialog_exiting_ecm">Sortint del mode de devolució de trucada d\'emergència</string>
+  <string name="proximity_mode_title">Activeu el sensor de proximitat</string>
+  <string name="proximity_off_summary">Quan respongueu una trucada, la pantalla sempre estarà encesa.</string>
+  <string name="proximity_on_summary">Quan respongueu una trucada, la pantalla s\'apagarà per estalviar energia.</string>
   <string name="proxy_address_title">Adreça externa del servidor intermediari</string>
   <string name="pstn_connection_service_label">Targetes SIM integrades</string>
   <string name="pstn_phone">Trucada de telèfon mòbil</string>
@@ -1210,6 +1247,7 @@ Les funcions relacionades amb el PIN2 es bloquejaran després d\'un altre intent
   <string name="simContacts_emptyLoading">S\'està llegint de la targeta SIM&#8230;</string>
   <string name="simContacts_title">Gestiona els contactes de la targeta SIM</string>
   <string name="simFdnContacts_empty">No hi ha contactes de marcatge predefinit.</string>
+  <string name="sim_card_num">SIM %s</string>
   <string name="sim_contact_name">Nom</string>
   <string name="sim_contact_number">Número</string>
   <string name="sim_description_default">Targeta SIM %s</string>
@@ -1271,8 +1309,8 @@ Les funcions relacionades amb el PIN2 es bloquejaran després d\'un altre intent
   <string name="sum_cfu_enabled_indicator">S\'està desviant totes les trucades</string>
   <string name="sum_cfu_enabled_indicator_by_sim">Totes les trucades a la SIM %s es reenviaran</string>
   <string name="sum_cfu_enabled_no_number">El número no està disponible</string>
-  <string name="sum_cw_disabled">Durant una trucada, notifiqueu-me les trucades entrants</string>
-  <string name="sum_cw_enabled">Durant una trucada, notifiqueu-me les trucades entrants</string>
+  <string name="sum_cw_disabled">Durant una trucada, avisa\'m de les trucades entrants</string>
+  <string name="sum_cw_enabled">Durant una trucada, avisa\'m de les trucades entrants</string>
   <string name="sum_default_caller_id">Utilitza la configuració predeterminada de l\'operador per mostrar el meu número a les trucades sortints</string>
   <string name="sum_fdn">Gestiona els números de marcatge predefinit</string>
   <string name="sum_fdn_change_pin">Canvia el PIN per accedir als NMP</string>
@@ -1345,6 +1383,7 @@ El període següent comença en %2$d dies (%3$s)"</string>
   <string name="time_end_minute">minut límit final</string>
   <string name="time_formate_am">am</string>
   <string name="time_formate_pm">pm</string>
+  <string name="time_next_day">" proper dia "</string>
   <string name="time_start">"Des de"</string>
   <string name="time_start_hour">hora límit inicial</string>
   <string name="time_start_minute">minut límit inicial</string>
@@ -1352,6 +1391,7 @@ El període següent comença en %2$d dies (%3$s)"</string>
   <string name="title_convert_fbe">S\'està convertint a xifrat basat en fitxers</string>
   <string name="track_frame_time">Perfil de la renderització de la GPU</string>
   <string name="transition_animation_scale_title">Escalat de l\'animació de transició</string>
+  <string name="transport">Protocol</string>
   <string name="transport_title">Tipus de transport</string>
   <string name="tts_default_lang_summary">Defineix la llengua utilitzada per a la síntesi de veu</string>
   <string name="tts_default_lang_title">Idioma</string>
@@ -1365,6 +1405,7 @@ El període següent comença en %2$d dies (%3$s)"</string>
   <string name="tts_engine_security_warning">Pot ser que aquesta base de síntesi de la parla pugui aplegar tot el text que es digui en veu alta, incloses les dades personals, com ara les contrasenyes i els números de les targetes de crèdit. Ve de la base %s. Voleu activar l\'ús d\'aquest motor de síntesi de la parla?</string>
   <string name="tts_engine_settings_button">Obre la configuració de la base</string>
   <string name="tts_engine_settings_title">Configuració de %s</string>
+  <string name="tts_general_section_title">General</string>
   <string name="tts_install_data_summary">Instal·la les dades de veu que calguin per a la síntesi de veu</string>
   <string name="tts_install_data_title">Instal·lació de les dades de veu</string>
   <string name="tts_lang_not_selected">No s\'ha seleccionat cap idioma</string>
@@ -1396,16 +1437,22 @@ El període següent comença en %2$d dies (%3$s)"</string>
   <string name="usb_audio_disable_routing">Desactiva l\'encaminament d\'àudio USB</string>
   <string name="usb_audio_disable_routing_summary">Desactiva l\'encaminament automàtic als perifèrics d\'àudio USB</string>
   <string name="user_guest">Convidat</string>
+  <string name="username">Nom d\'usuari</string>
   <string name="username_title">Nom d\'usuari</string>
   <string name="ussdRunning">El codi USSD està funcionant&#8230;</string>
+  <string name="ussd_dialog_sep">----------</string>
   <string name="verify_apps_over_usb_summary">Comprova les aplicacions instal·lades mitjançant ADB/ADT per detectar possibles comportaments perillosos.</string>
   <string name="verify_apps_over_usb_title">Verificació d\'aplicacions per USB</string>
   <string name="vibrate_after_connected_summary">Vibra en respondre</string>
   <string name="vibrate_after_connected_title">Vibració un cop connectat</string>
   <string name="vm_change_failed">"No s\'ha pogut canviar el número de bústia de veu.
 Contacteu amb el vostre operador si persisteix aquest problema."</string>
+  <string name="vm_change_pin_error_invalid">El nou PIN conté caràcters no vàlids.</string>
+  <string name="vm_change_pin_error_mismatch">El PIN anterior no coincideix.</string>
   <string name="vm_change_pin_error_system_error">No es pot canviar el PIN</string>
   <string name="vm_change_pin_error_too_long">El PIN nou és massa llarg.</string>
+  <string name="vm_change_pin_error_too_short">El PIN nou és massa curt.</string>
+  <string name="vm_change_pin_error_too_weak">El PIN nou és massa feble. Una contrasenya segura no hauria de tenir seqüències contínues o dígits repetits.</string>
   <string name="vm_change_pin_new_pin">PIN nou</string>
   <string name="vm_change_pin_old_pin">PIN antic</string>
   <string name="vm_change_pin_progress_message">Espereu si us plau.</string>
@@ -1417,6 +1464,7 @@ Contacteu amb el vostre operador si persisteix aquest problema."</string>
   <string name="voice_report_unknown_num">Número desconegut</string>
   <string name="voicemail">Bústia de veu</string>
   <string name="voicemail_abbreviated">BV:</string>
+  <string name="voicemail_change_pin_dialog_title">Canvia el PIN</string>
   <string name="voicemail_default">El vostre operador</string>
   <string name="voicemail_notification_ringtone_title">So</string>
   <string name="voicemail_notification_vibarte_when_dialog_title">Vibració</string>
@@ -1424,6 +1472,7 @@ Contacteu amb el vostre operador si persisteix aquest problema."</string>
   <string name="voicemail_number_not_set">&lt;No definit&gt;</string>
   <string name="voicemail_provider">Servei</string>
   <string name="voicemail_provider_summary">Trieu un servei de bústia de veu</string>
+  <string name="voicemail_set_pin_dialog_title">Estableix el PIN</string>
   <string name="voicemail_settings">Configuració de la bústia de veu</string>
   <string name="voicemail_settings_number_hint">Introduïu el número de bústia de veu</string>
   <string name="voicemail_settings_number_label">Número de bústia de veu</string>
@@ -1438,6 +1487,7 @@ Contacteu amb el vostre operador si persisteix aquest problema."</string>
   <string name="volte_switch_summary">Utilitza VoLTE per millorar la qualitat de les trucades de veu i de vídeo</string>
   <string name="volte_switch_title">Activa VoLTE</string>
   <string name="vpn_settings_not_available">La configuració de la VPN no està disponible per a aquest usuari</string>
+  <string name="vvm_unsupported_message_format">Tipus de missatge no compatible, truqueu a %s per escoltar-lo.</string>
   <string name="wait_for_debugger">Espera el depurador</string>
   <string name="wait_for_debugger_summary">Abans d\'executar-se, l\'aplicació de depuració espera que es connecti el depurador</string>
   <string name="wait_prompt_str">"Voleu enviar els tons següents?
@@ -1458,6 +1508,7 @@ Contacteu amb el vostre operador si persisteix aquest problema."</string>
   <string name="wifi_fail_to_scan">"No es poden cercar xarxes"</string>
   <string name="wifi_network_prefix_length_hint">24</string>
   <string name="wifi_no_internet">No s\'ha detectat accés a Internet, no s\'hi tornarà a connectar automàticament.</string>
+  <string name="wifi_no_internet_no_reconnect">"No s'ha detectat accés a Internet, no es tornarà a connectar automàticament."</string>
   <string name="wifi_not_in_range">Fora de l\'abast</string>
   <string name="wifi_remembered">S\'ha desat</string>
   <string name="wifi_security_none">Cap</string>

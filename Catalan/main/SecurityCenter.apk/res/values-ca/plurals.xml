@@ -137,6 +137,10 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
     <item quantity="other">S\'estan protegint %d aplicacions</item>
     <item quantity="one">S\'està protegint %d aplicació</item>
   </plurals>
+  <plurals name="title_virus_clean">
+    <item quantity="other">S\'han esborrat %d virus</item>
+    <item quantity="one">S\'han esborrat %d virus</item>
+  </plurals>
   <plurals name="hints_auto_start_enable_title">
     <item quantity="other">%d aplicacions poden iniciar automàticament</item>
     <item quantity="one">%d aplicació és capaç iniciar automàticament</item>

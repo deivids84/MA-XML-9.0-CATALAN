@@ -57,6 +57,7 @@
   <string name="default_folder_title_recommend">Més aplicacions</string>
   <string name="default_folder_title_security">Sistema</string>
   <string name="default_folder_title_tools">Eines</string>
+  <string name="default_screen_preview_title">Configuració de la pantalla predeterminada</string>
   <string name="delete">Elimina</string>
   <string name="delete_screen">Elimina la pantalla</string>
   <string name="delete_wallpaper_message">Voleu eliminar %1$d fons de pantalla?</string>
@@ -77,7 +78,6 @@
   <string name="failed_to_delete_temporary">"No es pot eliminar"</string>
   <string name="failed_to_drop">"No es pot moure"</string>
   <string name="failed_to_drop_widget_invalid">El giny no és vàlid</string>
-  <string name="failed_to_drop_widget_nospace">No queda més espai en aquesta pantalla</string>
   <string name="failed_to_load_image">"No es pot carregar la imatge"</string>
   <string name="folder_name">Carpeta</string>
   <string name="frame_load_failed">"No es pot carregar el marc"</string>
@@ -153,6 +153,7 @@
   <string name="menu_back_desktop">Torna a la pantalla d\'inici</string>
   <string name="menu_cell_setting">Configuració de pantalla</string>
   <string name="menu_customize">Configuració</string>
+  <string name="menu_default_screen_preview">Configuració de la pantalla predeterminada</string>
   <string name="menu_edit">Edita la pantalla d\'inici</string>
   <string name="menu_exit_scene">Surt del Mi Space</string>
   <string name="menu_item_add_item">Afegeix a la pantalla d\'inici</string>
@@ -171,6 +172,7 @@
   <string name="mtzgadget_missing_text">"El giny no és disponible"</string>
   <string name="multi_selecting_tips">Recolliu una aplicació arrossegant-la i deixant-la aquí</string>
   <string name="no_detail_page">No hi ha pàgina de detalls</string>
+  <string name="no_space_toast">Sense espai</string>
   <string name="normal_wallpaper">Fons de pantalla</string>
   <string name="notification_installed">S\'ha instal·lat correctament</string>
   <string name="notification_open_button">Obre</string>

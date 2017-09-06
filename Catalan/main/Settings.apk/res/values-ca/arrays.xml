@@ -156,6 +156,16 @@
     <item>Combinat</item>
     <item>Separat</item>
   </string-array>
+  <string-array name="status_bar_show_carrier_entries">
+    <item>Mostra només a la pantalla de bloqueig i al tauler de notificacions</item>
+    <item>Mostra sempre el nom de l\'operador</item>
+    <item>No mostris mai el nom de l\'operador</item>
+  </string-array>
+  <string-array name="status_bar_show_carrier_values">
+    <item>0</item>
+    <item>1</item>
+    <item>2</item>
+  </string-array>
   <string-array name="timezone_filters">
     <item>Amèrica</item>
     <item>Europa</item>

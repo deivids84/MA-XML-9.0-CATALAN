@@ -24,6 +24,7 @@
   <string name="add_contact_dlg_message_fmt">Voleu afegir \"%s\" a contactes?</string>
   <string name="add_display_photo_entry">Afegeix foto del perfil</string>
   <string name="add_field">Afegeix un altre camp</string>
+  <string name="add_field_toast">No hi ha més camps per afegir.</string>
   <string name="add_incall_show_entry">Afegeix vídeo</string>
   <string name="add_new_account">Afegeix un compte nou</string>
   <string name="add_new_entry_for_section">Afegeix nou</string>
@@ -452,7 +453,6 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="force_touch_miprofile">Targeta de contacte</string>
   <string name="force_touch_new_contact">Contacte nou</string>
   <string name="foundTooManyContacts">Més de %d trobats.</string>
-  <string name="fraud_more_indemnity">Més</string>
   <string name="frequentList">Freqüents</string>
   <string name="full_name">Nom</string>
   <string name="gallery">Galeria</string>
@@ -700,7 +700,6 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="multi_number_menu_message">Missatge</string>
   <string name="multi_number_title">Conferència</string>
   <string name="multipleContactDeleteConfirmation">Eliminar aquest contacte eliminarà la informació en diversos comptes.</string>
-  <string name="multipleContactDeleteConfirmationDetail">En eliminar \"%s\" serà eliminat de diversos comptes.</string>
   <string name="my_phone_not_provider_bluetooth">El meu telèfon no té Bluetooth</string>
   <string name="my_phone_provider_bluetooth">El meu telèfon té Bluetooth</string>
   <string name="nameLabelsGroup">Nom</string>
@@ -950,7 +949,6 @@ Per afegir un contacte a la llista de favorits:
   <string name="quit_dialog_confirm_message">"No has fusionat cap contacte"</string>
   <string name="quit_dialog_confirm_title">Cancel·la la fusió de contactes</string>
   <string name="readOnlyContactDeleteConfirmation">Aquest contacte conté informació de diversos comptes. Aquesta informació és de només lectura i s\'ocultarà en la seva llista de contactes, però no s\'eliminarà.</string>
-  <string name="readOnlyContactDeleteConfirmationDetail">"\"%s\" conté informació de diversos comptes. Qualsevol informació que no es pugui eliminar s'ocultarà de la vostra llista de contactes."</string>
   <string name="readOnlyContactWarning">"No pots eliminar contactes de comptes de només lectura, però pots ocultar-los de les teves llistes de contactes."</string>
   <string name="readingSimContacts">Llegint targeta SIM&#8230;</string>
   <string name="reading_vcard_canceled_title">Lectura de vCard cancel·lada</string>
@@ -1024,7 +1022,8 @@ Per afegir un contacte a la llista de favorits:
   <string name="search_wipe_data">Organitza;Contactes</string>
   <string name="searching_vcard_message">Cercant vCard a l\'emmagatzematge&#8230;</string>
   <string name="select_all">Selecciona-ho tot</string>
-  <string name="select_done">No hi ha més per seleccionar</string>
+  <string name="select_all_exceed">"Seleccioneu no més de %1$d, no podeu seleccionar-ho tot"</string>
+  <string name="select_exceed">Seleccioneu no més de %1$d</string>
   <string name="select_groups">Grups seleccionats</string>
   <string name="select_none">Res seleccionat</string>
   <string name="select_show_contacts">Llista de contactes</string>
@@ -1056,8 +1055,6 @@ Per afegir un contacte a la llista de favorits:
   <string name="sim_capacity_content" formatted="false">Capacitat total %d | Usada %d </string>
   <string name="sim_card_no_free_space_message">No hi ha espai suficient</string>
   <string name="sim_card_no_free_space_title">Targeta SIM plena</string>
-  <string name="sim_contact_dropdown_menu_deselect_all_miui">Desseleccionar tot</string>
-  <string name="sim_contact_dropdown_menu_select_all_miui">Seleccionar tot</string>
   <string name="sim_contact_existing">El contacte ja existeix</string>
   <string name="sim_contact_invalid">Contacte SIM no vàlid</string>
   <string name="sim_contact_search_error">S\'ha produït un error</string>
@@ -1133,8 +1130,6 @@ Per afegir un contacte a la llista de favorits:
   <string name="t9_search_guide_zhuyin_title2">Per exemple, ingresseu 5 i 6 per cercar a <font fgcolor="">J</font>osep <font fgcolor="">M</font>as</string>
   <string name="take_new_photo">Prendre foto nova</string>
   <string name="take_photo">Prendre foto</string>
-  <string name="telecom_fraud_insurance">Assegurança de frau telefònic</string>
-  <string name="telecom_fraud_insurance_description">Garantia de 1,36 € | Oferta exclusiva de Xiaomi | 1,3 € a l\'any</string>
   <string name="titleJoinContactDataWith">Combina contactes</string>
   <string name="title_other_devices">Altres dispositius disponibles</string>
   <string name="title_paired_devices">Dispositius aparellats</string>

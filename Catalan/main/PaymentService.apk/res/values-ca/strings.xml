@@ -38,6 +38,7 @@
   <string name="mibi_button_retry">Torna a intentar-ho</string>
   <string name="mibi_cancel">Cancel·la</string>
   <string name="mibi_change_security_lock">Més bloquejos de pantalla</string>
+  <string name="mibi_click_retry">%1$s, feu clic per tornar-ho a intentar</string>
   <string name="mibi_deduct_goods_name">Article</string>
   <string name="mibi_deduct_open_prompt">%1$s us podrà carregar automàticament utilitzant %2$s sense verificació. Podeu aturar aquesta funció en %1$s</string>
   <string name="mibi_deduct_order_price">Preu</string>
@@ -125,6 +126,7 @@ Contacteu amb el servei al client de Xiaomi"</string>
   <string name="mibi_giftcard_title">Targeta regal Mi Credit</string>
   <string name="mibi_giftcard_will_expire">Caduca al %1$s</string>
   <string name="mibi_giftcard_with_num">%1$s Cupó Mi Credit disponible</string>
+  <string name="mibi_header_network_error">"No s'ha pogut connectar a la xarxa."</string>
   <string name="mibi_illegal_intent">Intent de sol·licitud il·legal</string>
   <string name="mibi_is_what">Què puc comprar amb Mi Credits?</string>
   <string name="mibi_label_balance">Saldo</string>
@@ -234,6 +236,8 @@ Contacteu amb el servei al client de Xiaomi"</string>
   <string name="mibi_push_set_accept_time_success">Establiu el temps d\'acceptació %1$s - %2$s correcte.</string>
   <string name="mibi_push_set_alias_fail">Establiu el temps de fallida per a %1$s.</string>
   <string name="mibi_push_set_alias_success">Establiu l\'àlies «%1$s» correcte.</string>
+  <string name="mibi_push_unset_alias_fail">L\'àlies no configurat falla a %1$s.</string>
+  <string name="mibi_push_unset_alias_success">L\'àlies no configurat «%1$s» correcte.</string>
   <string name="mibi_recharge_grid_error_denomination">La quantitat ha de ser entreMi Credits %1$s i %2$s.</string>
   <string name="mibi_recharge_grid_item_more">Més</string>
   <string name="mibi_recharge_grid_mibi_picker_hint">Seleccioneu una quantitat</string>
@@ -242,6 +246,10 @@ Contacteu amb el servei al client de Xiaomi"</string>
   <string name="mibi_recharge_other">Mostra altres mètodes</string>
   <string name="mibi_recharge_push_notification_prime_title">%1$d afegits %2$s Mi Credits al vostre compte</string>
   <string name="mibi_recharge_push_notification_sub_title">S\'ha completat la recàrrega.</string>
+  <string name="mibi_recharge_value_money">Compra %s CNY pel valor dels Crèdits Mi</string>
+  <string name="mibi_recharge_value_money_special_unit">Compra %1$s %2$s pel valor dels Crèdits Mi</string>
+  <string name="mibi_recharge_value_money_with_tip">"Compra %s CNY pel valor dels Crèdits Mi &lt;font color=red&gt;(No puc gastar els Crèdits Mi a Mi.com)&lt;/font&gt;"</string>
+  <string name="mibi_recharge_value_money_with_tip_special_unit">"Compra %1$s %2$s pel valor dels Crèdits Mi &lt;font color=red&gt;(No puc gastar els Crèdits Mi a Mi.com)&lt;/font&gt;"</string>
   <string name="mibi_scan_prompt_number">Escaneja el número de la targeta de prepagament %1$s</string>
   <string name="mibi_scan_prompt_password">Escaneja la contrasenya de la targeta de prepagament %1$s</string>
   <string name="mibi_scan_prompt_voucher">Escaneja la contrasenya Mi Credit</string>

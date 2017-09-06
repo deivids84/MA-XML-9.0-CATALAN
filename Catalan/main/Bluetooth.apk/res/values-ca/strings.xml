@@ -93,7 +93,7 @@
   <string name="notification_sent">Bluetooth: %1$s enviat</string>
   <string name="notification_sent_complete">100% completat</string>
   <string name="notification_sent_fail">Bluetooth: No s\'ha enviat el fitxer %1$s</string>
-  <string name="notify_server">Notifica al servidor TCP</string>
+  <string name="notify_server">Informa al servidor TCP</string>
   <string name="ok_button">D\'acord</string>
   <string name="outbound_history_title">Transferències sortints</string>
   <string name="outbound_noti_title">Bluetooth: Fitxers enviats</string>

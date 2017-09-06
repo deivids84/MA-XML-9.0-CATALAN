@@ -147,7 +147,7 @@
     <item>S\'està carregant</item>
     <item>MTP (Protocol de transferència de multimèdia)</item>
     <item>PTP (Protocol de transferència d\'imatges)</item>
-    <item>RNDIS (USB Ethernet)</item>
+    <item>RNDIS (Ethernet USB)</item>
     <item>Font d\'àudio</item>
     <item>MIDI</item>
   </string-array>

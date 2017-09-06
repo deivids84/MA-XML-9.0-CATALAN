@@ -342,6 +342,7 @@ Es mantindran totes les dades d\'usuari prèvies."</string>
   <string name="select_logd_size_dialog_title">Seleccioneu la mida del logger de la memòria intermèdia</string>
   <string name="select_logd_size_title">Mides de la memòria intermèdia del logger</string>
   <string name="select_logpersist_dialog_title">Seleccioneu el memòries intermèdies de registre per emmagatzemar persistentment al dispositiu</string>
+  <string name="select_logpersist_title">Emmagatzema les dades del registrador de forma persistent en el dispositiu</string>
   <string name="select_usb_configuration_dialog_title">Seleccioneu la configuració USB</string>
   <string name="select_usb_configuration_title">Seleccioneu la configuració USB</string>
   <string name="select_webview_provider_dialog_title">Establiu la implementació del WebView</string>

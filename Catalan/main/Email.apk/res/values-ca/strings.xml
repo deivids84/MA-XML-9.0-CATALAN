@@ -49,6 +49,8 @@
   <string name="account_settings_notify_summary">Envia una notificació quan arribi email</string>
   <string name="account_settings_param">Configuració del compte</string>
   <string name="account_settings_policies">Polítiques de seguretat</string>
+  <string name="account_settings_preference_add_account">Afegeix un compte de bústia</string>
+  <string name="account_settings_preference_notify">Avís</string>
   <string name="account_settings_retry_label">Intentar sincronitzar</string>
   <string name="account_settings_retry_summary">Premeu per sincronitzar el compte</string>
   <string name="account_settings_ringtone">Triar el to de trucada</string>
@@ -62,6 +64,7 @@
   <string name="account_settings_sync_email_summary">Sincronitza email per aquest compte</string>
   <string name="account_settings_unsupported_label">Polítiques no admeses</string>
   <string name="account_settings_unsupported_summary">Cap</string>
+  <string name="account_settings_user_usage">Configuració del compte</string>
   <string name="account_settings_using_ringtone">To de trucada</string>
   <string name="account_settings_vibrate_when_label">Vibra</string>
   <string name="account_setup_account_type_instructions">Quin tipus de compte és aquest?</string>
@@ -120,6 +123,7 @@
   <string name="account_setup_incoming_username_label">Nom d\'usuari</string>
   <string name="account_setup_incoming_username_label_default_hint">Pots incloure el domini</string>
   <string name="account_setup_need_password_verification">El vostre compte té autenticació amb contrasenya secundària. Cal la autenticació completa.</string>
+  <string name="account_setup_options_actionbar_title">Configuració comuna</string>
   <string name="account_setup_options_mail_check_frequency_10min">Cada 10 minuts</string>
   <string name="account_setup_options_mail_check_frequency_12hour">Cada 12 hores</string>
   <string name="account_setup_options_mail_check_frequency_1hour">Cada hora</string>
@@ -146,6 +150,8 @@
   <string name="account_setup_server_acc_manager_title">Comptes</string>
   <string name="account_setup_username_password_toast">Introduïu una adreça electrònica i una contrasenya.</string>
   <string name="account_sync_off">Sincronització de compte esta apagada.</string>
+  <string name="account_sync_settings_settings">Sincronitza els contactes i els calendaris del compte</string>
+  <string name="account_sync_settingstip_description">Sincronitzar la configuració</string>
   <string name="account_waiting_for_folders_msg">Carregant llista de carpetes</string>
   <string name="actionbar_large_unread_count">%1$d no llegit</string>
   <string name="activity_folder_selection">Trieu carpeta</string>
@@ -310,10 +316,14 @@
   <string name="contextmenu_send_mail">Envia el correu</string>
   <string name="contextmenu_sharelink">Compartir enllaç</string>
   <string name="contextmenu_sms_dot">SMS&#8230;</string>
+  <string name="conversation_detail_hide">Amaga</string>
+  <string name="conversation_detail_show">Detalls</string>
   <string name="conversation_folder_moved">Es va moure a %1$s</string>
   <string name="conversation_item_mark_read">Llegit</string>
   <string name="conversation_item_mark_unread">No llegit</string>
+  <string name="conversation_msg_header_collapsed_sent_to">"Enviat a "</string>
   <string name="conversation_photo_welcome_text">Toqui una imatge del remitent per a seleccionar aquesta conversa.</string>
+  <string name="conversation_pull_ad_content">Administrador de correu eficient</string>
   <string name="conversation_quick_button_approve">D\'acord</string>
   <string name="conversation_quick_button_disapprove">En desacord</string>
   <string name="conversation_quick_button_received">S\'ha rebut</string>
@@ -382,6 +392,7 @@
   <string name="due">Venciment</string>
   <string name="due_date_text">Amortització final</string>
   <string name="edit_quick_response_dialog">Resposta ràpida</string>
+  <string name="edit_signature">Edita la signatura</string>
   <string name="email_address">Adreça de correu</string>
   <string name="email_setting">Correu</string>
   <string name="email_setting_keywords">Compte;Afegeix un compte;comptes de correu;afegeix un compte de correu;confirma abans d\'eliminar;confirmació de supressió;confirma abans d\'enviar;confirmació d\'enviament;flux de supressió de missatge;redirecció de supressió;visualització de conversa;conversa de correu;estalviador de bateria;bateria de correu;envia comentaris;puja registres</string>
@@ -515,6 +526,7 @@
   <string name="login139">Inicia sessió amb una tecla CMCC</string>
   <string name="login_failed_ticker">%s inici de sessió infructuós.</string>
   <string name="login_failed_title">"No es pot iniciar sessió"</string>
+  <string name="login_support_tip_text">Compatible amb totes les bústies de correu comuns</string>
   <string name="long_press_to_select_tip">Toqueu sense deixar anar per seleccionar una conversa, a continuació toqui una altra per seleccionar més.</string>
   <string name="mail">Correu</string>
   <string name="mail_body_turncated">Aquest e-mail és massa gran per carregar i només es mostra part d\'ell, per visualitzar-lo complet utilitzeu un PC</string>
@@ -523,6 +535,7 @@
   <string name="mail_header_network_not_available">"No té connexió de xarxa."</string>
   <string name="mailbox_list_account_selector_combined_view">Compte combinat</string>
   <string name="mailbox_name_display_ad">Publicitat i notificacions</string>
+  <string name="mailbox_name_display_add_account">Afegeix un compte de bústia</string>
   <string name="mailbox_name_display_circular">Notificacions</string>
   <string name="mailbox_name_display_drafts">Esborranys</string>
   <string name="mailbox_name_display_inbox">Entrada</string>
@@ -631,6 +644,7 @@
   <string name="network_unavailable">Xarxa no disponible</string>
   <string name="new_incoming_messages_one">Nou missatge de %s. vol mostrar.</string>
   <string name="new_messages">%1$d missatges nous</string>
+  <string name="new_signature_has_saved">S\'ha desat la nova signatura</string>
   <string name="next_action">Següent</string>
   <string name="no_application_found">Cap aplicació pot obrir aquest accessori per a la seva visualització.</string>
   <string name="no_application_found_title">Obre aquest fitxer adjunt.</string>
@@ -880,9 +894,11 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="save_draft_failed">Desar esborrany ha fallat</string>
   <string name="save_power_summary">Establir temps d\'estalvi de bateria</string>
   <string name="save_power_title">Estalvi de bateria</string>
+  <string name="save_this_new_signature">Voleu desar aquesta nova signatura?</string>
   <string name="saved">Desat, %s</string>
   <string name="saving">Desant…</string>
   <string name="sdcard_cannot_use">"La targeta d'emmagatzematge no es pot utilitzar"</string>
+  <string name="search_bar_text">Cerca correu, remitent</string>
   <string name="search_hint">Cerca correu</string>
   <string name="search_result">"Resultats"</string>
   <string name="search_tabs_name_all">Tot</string>
@@ -980,6 +996,7 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="too_large_to_attach_multiple">"Un o més fitxers no adjuntats. Límit de %1$s."</string>
   <string name="too_large_to_attach_single">"No es poden adjuntar fitxers més grans que %1$s."</string>
   <string name="topic_merge">Combina temes</string>
+  <string name="topic_merge_summary">Mode organitzat per fil</string>
   <string name="translation_loading">S\'està carregant&#8230;</string>
   <string name="translation_no_result">No s\'han trobat resultats</string>
   <string name="translation_pronunciation_am">ArE</string>
@@ -1001,6 +1018,7 @@ Voleu aturar-ho?"</string>
   <string name="unsent_messages_in_outbox">%1$s no enviats a %2$s</string>
   <string name="unzip_file_failed">"No s'ha pogut descomprimir el fitxer"</string>
   <string name="update_date_format_templete">HH:mm aa, dd MMMM</string>
+  <string name="update_to_wps_mail">Per funcions més avançades, actualitzeu a WPS-mail</string>
   <string name="updated_at">Última actualització %1$s</string>
   <string name="upload_log">Pujar registres</string>
   <string name="upload_log_failed">"La pujada dels registres ha fallat"</string>
