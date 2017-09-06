@@ -246,10 +246,6 @@ Contacteu amb el servei al client de Xiaomi"</string>
   <string name="mibi_recharge_other">Mostra altres mètodes</string>
   <string name="mibi_recharge_push_notification_prime_title">%1$d afegits %2$s Mi Credits al vostre compte</string>
   <string name="mibi_recharge_push_notification_sub_title">S\'ha completat la recàrrega.</string>
-  <string name="mibi_recharge_value_money">Compra %s CNY pel valor dels Crèdits Mi</string>
-  <string name="mibi_recharge_value_money_special_unit">Compra %1$s %2$s pel valor dels Crèdits Mi</string>
-  <string name="mibi_recharge_value_money_with_tip">"Compra %s CNY pel valor dels Crèdits Mi &lt;font color=red&gt;(No puc gastar els Crèdits Mi a Mi.com)&lt;/font&gt;"</string>
-  <string name="mibi_recharge_value_money_with_tip_special_unit">"Compra %1$s %2$s pel valor dels Crèdits Mi &lt;font color=red&gt;(No puc gastar els Crèdits Mi a Mi.com)&lt;/font&gt;"</string>
   <string name="mibi_scan_prompt_number">Escaneja el número de la targeta de prepagament %1$s</string>
   <string name="mibi_scan_prompt_password">Escaneja la contrasenya de la targeta de prepagament %1$s</string>
   <string name="mibi_scan_prompt_voucher">Escaneja la contrasenya Mi Credit</string>

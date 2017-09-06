@@ -257,8 +257,6 @@ amb un cos més clar i un retrat més bonic"</string>
   <string name="pref_camera_tilt_shift_default">cercle</string>
   <string name="pref_camera_tilt_shift_entry_circle">Cercle</string>
   <string name="pref_camera_tilt_shift_entry_parallel">Paral·lel</string>
-  <string name="pref_camera_tilt_shift_entryvalue_circle">cercle</string>
-  <string name="pref_camera_tilt_shift_entryvalue_parallel">paral·lel</string>
   <string name="pref_camera_tilt_shift_title">Efecte maqueta</string>
   <string name="pref_camera_touchafaec_entry_off">Apagat</string>
   <string name="pref_camera_touchafaec_entry_on">Activat</string>

@@ -122,7 +122,6 @@
   <string name="audio_mode_earpiece">Auricular mans lliures</string>
   <string name="audio_mode_speaker">Altaveu</string>
   <string name="audio_mode_wired_headset">Auriculars amb cable</string>
-  <string name="auth_username">Nom d\'usuari d\'autenticació</string>
   <string name="auth_username_summary">Nom d\'usuari utilitzat per a l\'autenticació</string>
   <string name="auth_username_title">Nom d\'usuari d\'autenticació</string>
   <string name="auto_answer_delay_entries_delay_10s">10 segons</string>
@@ -514,7 +513,6 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="default_preference_summary_domain_address">&lt;No s\'ha configurat&gt;</string>
   <string name="default_preference_summary_password">&lt;No s\'ha configurat&gt;</string>
   <string name="default_preference_summary_username">&lt;No s\'ha configurat&gt;</string>
-  <string name="default_transport">UDP</string>
   <string name="delete">Elimina</string>
   <string name="delete_fdn_contact">Esborra número de marcatge predefinit</string>
   <string name="deleting_fdn_contact">S\'està eliminant el número de marcatge predefinit&#8230;</string>
@@ -562,10 +560,8 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="disable_sim_pin">Esborra el PIN de la SIM</string>
   <string name="disabled_by_admin">S\'ha desactivat per l\'administrador</string>
   <string name="disabled_by_admin_summary_text">Controlat per l\'administrador</string>
-  <string name="display_name">Nom de visualització</string>
   <string name="display_name_summary">&lt;Igual que el nombre d\'usuari&gt;</string>
   <string name="display_name_title">Mostra nom</string>
-  <string name="domain_address">Domini SIP</string>
   <string name="domain_address_title">Servidor</string>
   <string name="doneButton">Fet</string>
   <string name="dtmf_tone_entries_long">Llarg</string>
@@ -1052,7 +1048,6 @@ Les funcions relacionades amb el PIN2 es bloquejaran després d\'un altre intent
   <string name="pin_progress_unlock_icc">S\'està desbloquejant la targeta SIM&#8230;</string>
   <string name="pointer_location">Ubicació del punter</string>
   <string name="pointer_location_summary">Pantalla de superposició que mostra les dades tàctils actuals</string>
-  <string name="port">Port</string>
   <string name="port_title">Número de port</string>
   <string name="power_charging_duration">%1$s - %2$s fins carregar-la</string>
   <string name="power_charging_duration_ac">%1$s - %2$s fins carregar-la per CA</string>
@@ -1391,7 +1386,6 @@ El període següent comença en %2$d dies (%3$s)"</string>
   <string name="title_convert_fbe">S\'està convertint a xifrat basat en fitxers</string>
   <string name="track_frame_time">Perfil de la renderització de la GPU</string>
   <string name="transition_animation_scale_title">Escalat de l\'animació de transició</string>
-  <string name="transport">Protocol</string>
   <string name="transport_title">Tipus de transport</string>
   <string name="tts_default_lang_summary">Defineix la llengua utilitzada per a la síntesi de veu</string>
   <string name="tts_default_lang_title">Idioma</string>
@@ -1437,7 +1431,6 @@ El període següent comença en %2$d dies (%3$s)"</string>
   <string name="usb_audio_disable_routing">Desactiva l\'encaminament d\'àudio USB</string>
   <string name="usb_audio_disable_routing_summary">Desactiva l\'encaminament automàtic als perifèrics d\'àudio USB</string>
   <string name="user_guest">Convidat</string>
-  <string name="username">Nom d\'usuari</string>
   <string name="username_title">Nom d\'usuari</string>
   <string name="ussdRunning">El codi USSD està funcionant&#8230;</string>
   <string name="ussd_dialog_sep">----------</string>
