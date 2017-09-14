@@ -58,7 +58,6 @@
   <string name="can_not_use">"No es pot fer servir"</string>
   <string name="cancel">Cancel·la</string>
   <string name="card_title_answering">Responent la trucada</string>
-  <string name="card_title_answering_fail">"No s'ha pogut respondre la trucada, torneu-ho a provar."</string>
   <string name="card_title_call_ended">"Trucada finalitzada "</string>
   <string name="card_title_conf_call">Trucada de conferència</string>
   <string name="card_title_dialing">S\'està trucant</string>
@@ -138,10 +137,6 @@
   <string name="ivr_menu_dialing_msg_no_mute">Vés al servei seleccionat… [La correcció automàtica d\'errors està activada]</string>
   <string name="ivr_menu_list_sub_menu_count_format">Premeu %s</string>
   <string name="ivr_menu_list_title">Menú de veu</string>
-  <string name="jeejen_answer_call_text">Respondre la trucada</string>
-  <string name="jeejen_end_call_text">Finalitza la trucada</string>
-  <string name="jeejen_reject_call_text">Rebutja la trucada</string>
-  <string name="jeejen_toggle_dialpad_text">Marcador</string>
   <string name="keep_wait_call_back">Segueix esperant</string>
   <string name="livetalk_dial">Utilitza paquet de recàrrega</string>
   <string name="livetalk_hangup">Penja</string>

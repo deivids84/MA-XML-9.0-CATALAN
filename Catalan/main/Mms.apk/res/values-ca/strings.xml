@@ -160,7 +160,7 @@
   <string name="expire_on">Caduca: %s</string>
   <string name="exporting_progress_private_message">S\'està exportant&#8230;</string>
   <string name="fail_to_add_attachment">"No s'ha pogut afegir el fitxer adjunt"</string>
-  <string name="fail_to_view_attachment">l\'adjunt no està disponible</string>
+  <string name="fail_to_view_attachment">"l'adjunt no està disponible"</string>
   <string name="failed_to_add_media">"No pot afegir aquest %1$s al missatge."</string>
   <string name="failed_to_resize_image">Foto no redimensionada.</string>
   <string name="fake_cell_alert_hint">Sembla que aquest missatge va ser enviat des d\'un número de telèfon que és diferent del que es mostra. Aneu amb compte amb els SMS que contenen peticions financeres.</string>
@@ -329,8 +329,8 @@
   <string name="mx_type_guide">Missatge Mi li permet enviar missatges a altres usuaris de MIUI de franc</string>
   <string name="need_download">S\'està sincronitzant&#8230;</string>
   <string name="networking_allow_continue">D\'acord</string>
-  <string name="networking_allow_desc">"Els missatges intel·ligents li permeten enviar missatges de text i veu gratuïts, reconèixer nombres desconeguts, filtrar correu no desitjat, etc. Mitjançant l'ús d'aquest servei, vostè es compromet i està d'acord amb els %1$s i %2$s de Xiaomi. Ara haureu d'activar les Pàgines Grogues i connectar-vos a Internet per utilitzar aquest servei."</string>
-  <string name="networking_allow_desc_without_mx">"Els missatges intel·ligent li permeten identificar els números desconeguts, filtre d'spam etc. En utilitzar aquest servei, accepteu els %1$s i %2$s de Xiaomi. Haureu d'activar l'aplicació Pàgines grogues i tenir accés a Internet per utilitzar aquest servei."</string>
+  <string name="networking_allow_desc">Els missatges intel·ligents li permeten enviar missatges de text i veu gratuïts, reconèixer nombres desconeguts, filtrar correu no desitjat, etc. Mitjançant l\'ús d\'aquest servei, vostè es compromet i està d\'acord amb els %1$s i %2$s de Xiaomi. Ara haureu d\'activar les Pàgines Grogues i connectar-vos a Internet per utilitzar aquest servei.</string>
+  <string name="networking_allow_desc_without_mx">Els missatges intel·ligent li permeten identificar els números desconeguts, filtre d\'spam etc. En utilitzar aquest servei, accepteu els %1$s i %2$s de Xiaomi. Haureu d\'activar l\'aplicació Pàgines grogues i tenir accés a Internet per utilitzar aquest servei.</string>
   <string name="networking_allow_title">Atenció</string>
   <string name="new_message">Redacta</string>
   <string name="new_message_arrived">Teniu un missatge nou</string>

@@ -240,7 +240,7 @@
   <string name="calendar_remind_gridview_pick_date">Triar data</string>
   <string name="cancel">Cancel·la</string>
   <string name="cancel_action">Cancel·la</string>
-  <string name="cancel_pop3_attchemt_downloading">La cancel·lació de qualsevol arxiu adjunt baixat no està disponible per a un tipus de compte POP3.</string>
+  <string name="cancel_pop3_attchemt_downloading">"La cancel·lació de qualsevol arxiu adjunt baixat no està disponible per a un tipus de compte POP3."</string>
   <string name="cant_move_or_change_labels">"\"\"No es pot moure perquè la selecció conté diversos 
          comptes.\"\""</string>
   <string name="cc_attribution">Cc: %1$s</string>

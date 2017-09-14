@@ -48,9 +48,9 @@
     <item>Calitja</item>
   </string-array>
   <string-array name="editing_mode_entries">
-    <item>Temes</item>
+    <item>Fons de pantalla</item>
     <item>Ginys</item>
-    <item>Fons</item>
+    <item>Configuració</item>
   </string-array>
   <string-array name="quality_business_devices">
     <item>Lithium</item>

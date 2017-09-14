@@ -243,8 +243,8 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
   <string name="dlg_error_title">L\'operació USB ha fallat</string>
   <string name="dlg_ok">D\'acord</string>
   <string name="dock_forced_resizable">És possible que l\'aplicació no funcioni amb la pantalla dividida.</string>
-  <string name="dock_keyguard_locked_failed_to_dock_text">El KeyGuard no és compatible amb finestres múltiples, tanqueu el mode multi finestra.</string>
-  <string name="dock_non_resizeble_failed_to_dock_text">L\'aplicació no admet la pantalla dividida.</string>
+  <string name="dock_keyguard_locked_failed_to_dock_text">"El KeyGuard no és compatible amb finestres múltiples, tanqueu el mode multi finestra."</string>
+  <string name="dock_non_resizeble_failed_to_dock_text">"L'aplicació no admet la pantalla dividida."</string>
   <string name="drive_mode_tip">"Estàs en mode cotxe"</string>
   <string name="enable_adb">Depuració USB activada</string>
   <string name="enable_adb_summary">Activa el mode de depuració quan el dispositiu estigui connectat per USB</string>
@@ -411,12 +411,12 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="recents_caption_resize">Selecciona el disseny de la tasca nova</string>
   <string name="recents_drag_hint_message">Arrossegueu-ho aquí per utilitzar la pantalla dividida</string>
   <string name="recents_empty_message">No hi ha cap element recent</string>
-  <string name="recents_empty_message_dismissed_all">"Ho heu esborrat tot"</string>
+  <string name="recents_empty_message_dismissed_all">Ho heu esborrat tot</string>
   <string name="recents_empty_message_multi_window">Aneu a l\'inici per obrir una aplicació</string>
   <string name="recents_exit_multi_window_mode">Surt del mode de pantalla dividida</string>
   <string name="recents_incompatible_app_message">"L'aplicació no admet la pantalla dividida"</string>
   <string name="recents_launch_disabled_message">%s està desactivat en el mode segur.</string>
-  <string name="recents_launch_error_message">%s no s\'ha pogut iniciar.</string>
+  <string name="recents_launch_error_message">"%s no s'ha pogut iniciar."</string>
   <string name="recents_multi_window_mode">Mode de pantalla dividida</string>
   <string name="recents_stack_action_button_label">Esborra-ho tot</string>
   <string name="reject_call">Rebutjar trucada</string>
@@ -447,7 +447,7 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="screenshot_dlg_delete_button">Elimina</string>
   <string name="screenshot_edit">Edita</string>
   <string name="screenshot_failed_text">"No s'ha pogut desar la captura de pantalla, a causa de problemes d'emmagatzematge o que no està permès per l'aplicació o la teva organització."</string>
-  <string name="screenshot_insert_failed">S\'ha produït un error en llegir la captura de pantalla, feu-ne una de nova o verifiqueu que la imatge és a l\'àlbum</string>
+  <string name="screenshot_insert_failed">"S'ha produït un error en llegir la captura de pantalla, feu-ne una de nova o verifiqueu que la imatge és a l'àlbum"</string>
   <string name="screenshot_long_screenshot">Desplaça</string>
   <string name="screenshot_saved_text">Premeu per veure la captura.</string>
   <string name="screenshot_saved_title">Captura de pantalla efectuada</string>

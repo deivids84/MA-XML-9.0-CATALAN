@@ -18,7 +18,7 @@
   <string name="activity_main_update_time">Actualitzat %1$s</string>
   <string name="activity_main_update_time_expire">Les dades han caducat</string>
   <string name="activity_main_update_time_right_now">ara mateix</string>
-  <string name="activity_minute_rain_location_fail_msg">S\'ha produït un error en trobar la ubicació, la ubicació predeterminada del mapa és Beijing</string>
+  <string name="activity_minute_rain_location_fail_msg">"S'ha produït un error en trobar la ubicació, la ubicació predeterminada del mapa és Beijing"</string>
   <string name="activity_weathermain_locationg">S\'està ubicant&#8230;</string>
   <string name="activity_weathermain_locationg_error">"No s'ha pogut ubicar"</string>
   <string name="add_city">Afegeix</string>
@@ -132,7 +132,7 @@ Tireu cap avall per actualitzar o comproveu la configuració de la xarxa"</strin
   <string name="international_details_title">Detalls</string>
   <string name="international_details_uv_index_title">ÍNDEX UV</string>
   <string name="international_details_wind_title">VENT</string>
-  <string name="it_is_going_to_rain">Plourà</string>
+  <string name="it_is_going_to_rain">"Plourà"</string>
   <string name="locate_fail_detail_err">"No es pot ubicar el dispositiu
 Toqueu la pantalla per afegir una ciutat manualment o moure-la"</string>
   <string name="location_tag">Ubica</string>
@@ -154,7 +154,7 @@ Toqueu la pantalla per afegir una ciutat manualment o moure-la"</string>
   <string name="network_not_available">"No es pot connectar a la xarxa"</string>
   <string name="network_unavailable">"No es pot connectar a la xarxa."</string>
   <string name="night_not_disturb_settings_summary">No rebreu totes les notificacions meteorològiques de les 23:00 a les 7:00 a l\'endemà després d\'obrir-la</string>
-  <string name="night_not_disturb_settings_title">Sense molèsties per la nit</string>
+  <string name="night_not_disturb_settings_title">"Sense molèsties per la nit"</string>
   <string name="no_network_btn">Torna-ho a provar</string>
   <string name="no_vote_ratio">cons %1$s%%</string>
   <string name="open">Obre</string>

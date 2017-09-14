@@ -1245,7 +1245,7 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»</string>
   <string name="device_rear_camera">Càmera posterior</string>
   <string name="device_reset_title">Reinicia el dispositiu</string>
   <string name="device_screen_resolution">Resolució de pantalla</string>
-  <string name="device_screen_size">Mida de la pantalla</string>
+  <string name="device_screen_size">Pantalla</string>
   <string name="device_sd_memory">Targeta SD</string>
   <string name="device_share_loading">S\'està creant la imatge</string>
   <string name="device_status">Estat</string>
@@ -1560,7 +1560,7 @@ Us ajuda a protegir les dades en dispositius perduts o robats.»</string>
   <string name="finish_application">Força el tancament</string>
   <string name="finish_button">finalitza</string>
   <string name="finish_button_label">Finalitza</string>
-  <string name="firmware_version">Versió d\'Android</string>
+  <string name="firmware_version">Android</string>
   <string name="floating_window_switch_label">Activa les finestres flotants</string>
   <string name="floating_window_switch_label_disable">Desactiva les finestres flotants</string>
   <string name="fluency_mode">Animacions del sistema</string>
@@ -1695,7 +1695,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="gsm_to_wifi_connect_type_title">GSM a Wi-Fi</string>
   <string name="handy_mode">Disposició per a una sola mà</string>
   <string name="handy_mode_enable">Operació amb una mà</string>
-  <string name="handy_mode_size">Mida de la pantalla</string>
+  <string name="handy_mode_size">Pantalla</string>
   <string name="handy_mode_tips">Feu lliscar a l\'esquerra o a la dreta des del botó Home per acostar la pantalla a un costat o a un altre.</string>
   <string name="haptic_feedback_enable_title">Vibra en tocar</string>
   <string name="haptic_feedback_level">Vibració</string>
@@ -2554,15 +2554,6 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="oem_unlock_enable">Desbloqueig d\'OEM</string>
   <string name="oem_unlock_enable_summary">Permet desbloquejar el bootloader</string>
   <string name="okay">D\'acord</string>
-  <string name="oldman_mode_confirm_title">Voleu reiniciar el dispositiu?</string>
-  <string name="oldman_mode_confirm_will_normal_mode_text">El telèfon es reiniciarà per sortir del mode bàsic.</string>
-  <string name="oldman_mode_confirm_will_oldman_mode_text">El telèfon es reiniciarà per sortir del mode bàsic.</string>
-  <string name="oldman_mode_enabled_name">Mode bàsic</string>
-  <string name="oldman_mode_entry_name">Mode bàsic</string>
-  <string name="oldman_mode_entry_title">Mode bàsic</string>
-  <string name="oldman_mode_settings_caption">Configuració del mode bàsic</string>
-  <string name="oldman_mode_summary">Utilitza la pantalla d\'inici i els menús simplificats</string>
-  <string name="oldman_mode_summary_cta">Per a funcionar amb normalitat en el mode bàsic li cal connexió a internet, llegir els contactes, missatges i la ubicació.</string>
   <string name="one_cacrt">un certificat CA</string>
   <string name="one_usercrt">un certificat d\'usuari</string>
   <string name="one_userkey">una clau d\'usuari</string>
@@ -4101,7 +4092,7 @@ Podeu compartir la connexió a internet del dispositiu Android amb l\'ordinador 
   <string name="turn_on_keyguard_password_alert_foget_ok">Entesos</string>
   <string name="turn_on_keyguard_password_alert_foget_ok_time">Entesos (%d segon)</string>
   <string name="turn_on_keyguard_password_alert_forget_content">"Recordeu la contrasenya de la vostra pantalla de bloqueig. Si la oblideu, haureu d'esborrar totes les dades del vostre dispositiu, incloses les fotos i els contactes i, a continuació, configurar-ne un de nova."</string>
-  <string name="turn_on_keyguard_password_alert_forget_title">"Si la oblideu, no podreu restaurar-la."</string>
+  <string name="turn_on_keyguard_password_alert_forget_title">Si la oblideu, no podreu restaurar-la.</string>
   <string name="turn_on_security_lock">Tria un bloqueig de pantalla</string>
   <string name="turn_on_wifi_dialog_text">La Wi-Fi es desactiva quan el punt d\'accés s\'activa. Per activar el Wi-Fi heu de desactivar el punt d\'accés.</string>
   <string name="turn_on_wifi_dialog_title">Activa la Wi-Fi</string>
@@ -4643,7 +4634,6 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="wifi_eap_ca_cert">Certificat de CA</string>
   <string name="wifi_eap_domain">Domini</string>
   <string name="wifi_eap_identity">Identitat</string>
-  <string name="wifi_eap_info_reconnect">Error d\'autenticació. Torneu-ho a provar!</string>
   <string name="wifi_eap_method">Mètode EAP</string>
   <string name="wifi_eap_sim_simcard">Tria la SIM</string>
   <string name="wifi_eap_user_cert">Certificat d\'usuari</string>

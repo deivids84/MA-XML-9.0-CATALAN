@@ -991,7 +991,6 @@ Feu més fotos als vostres amics!"</string>
   <string name="video_editor_text_edit_input_open_hint">Introduïu el títol</string>
   <string name="video_editor_text_edit_start">Títol</string>
   <string name="video_editor_text_input_empty_tips">"Sembla que encara no heu introduït text"</string>
-  <string name="video_editor_text_none">Cap</string>
   <string name="video_editor_trim">Retalla</string>
   <string name="video_editor_unsupport_audio_file">Fitxer d\'àudio no compatible</string>
   <string name="video_err">"No es pot reproduir el vídeo"</string>

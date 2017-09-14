@@ -303,7 +303,7 @@
   <string name="background_restrict_app_dialog_message">La restricció de l\'accés a la xarxa en segon pla per a aquesta aplicació pot fer que l\'aplicació no funcioni correctament, rebre missatges, baixar contingut, etc. Voleu restringir-lo de totes maneres?</string>
   <string name="background_traffic">Fons %s</string>
   <string name="backsound_set_hint">Voleu configurar un missatge d\'absència per a %s?</string>
-  <string name="battery_capacity_title">Capacitat de la bateria</string>
+  <string name="battery_capacity_title">Bateria</string>
   <string name="battery_charge_estimating">Calculant&#8230;</string>
   <string name="battery_charge_full">Carregat</string>
   <string name="battery_charging_prompt">S\'està carregant </string>
@@ -950,7 +950,6 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="name">Nom</string>
   <string name="net_booster">Augment de velocitat de la xarxa</string>
   <string name="net_booster_expire_notification">La sessió d\'augment de la velocitat de la xarxa està a punt de finalitzar</string>
-  <string name="net_booster_expire_notification_tip">%d d restants abans de finalitzar la sessió d\'augment de la velocitat de xarxa. Renoveu la sessió per evitar problemes de velocitat de xarxa.</string>
   <string name="net_booster_overdue_notification">La sessió d\'augment de la velocitat de la xarxa està a punt de finalitzar</string>
   <string name="net_booster_overdue_notification_tip">La sessió d\'augment de la velocitat de xarxa finalitzarà aviat. Voleu renovar la sessió?</string>
   <string name="net_booster_tip">Activeu l\'augment de la velocitat de xarxa per fer que la connexió Wi-Fi sigui més estable i reduir el retard de la xarxa.</string>
@@ -1614,7 +1613,6 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="start_diagnostic_botton">Iniciar</string>
   <string name="start_downloading_app">S\'està iniciant la baixada: %1$s</string>
   <string name="start_game">Inicia</string>
-  <string name="start_tc_button">Calibra</string>
   <string name="still_retain_btn">Mantén</string>
   <string name="suggest_app_tolock">Suggeriments</string>
   <string name="suggest_scan_again">Es proposa una anàlisi completa per garantir la seguretat.</string>
@@ -1757,7 +1755,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="title_consume_power_rank">Ús de la bateria</string>
   <string name="title_data_flow">Establir un avís d\'ús de dades</string>
   <string name="title_data_flow_monitor">El monitor d\'ús de dades està activat</string>
-  <string name="title_dev_model_off">"Les opcions de desenvolupament estan desactivades"</string>
+  <string name="title_dev_model_off">Les opcions de desenvolupament estan desactivades</string>
   <string name="title_dev_no">Opcions de desenvolupador activades</string>
   <string name="title_dev_yes">Opcions de desenvolupador desactivades</string>
   <string name="title_device_not_root">"L'accés arrel no s'ha concedit"</string>
@@ -1851,7 +1849,6 @@ Dades extres en ús"</string>
   <string name="traffic_over_purchase_link">"Ha arribat al límit d'ús del pla de dades mòbils.&lt;br/&gt;Si sobrepassa el límit d'ús del pla de dades mòbils, el seu operador podria cobrar despeses addicionals.&lt;br/&gt;&lt;br/&gt;&lt;font color='#ccffffff'&gt;&lt;u&gt;Premi per recarregar el seu saldo.&lt;/u&gt;&amp;lt;/font&amp;gt;"</string>
   <string name="traffic_purchase_body">Premi per recarregar el seu saldo.</string>
   <string name="traffic_setting_fragment_area">Local</string>
-  <string name="traffic_setting_fragment_area_dual">%s Local</string>
   <string name="traffic_setting_fragment_brand">Marca</string>
   <string name="traffic_setting_fragment_button1_text">Cancel·la</string>
   <string name="traffic_setting_fragment_button2_text">Desar</string>

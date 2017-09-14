@@ -627,15 +627,6 @@
     <item>Mostra la safata d\'aplicacions recents</item>
     <item>Mostra el menú</item>
   </string-array>
-  <string-array name="screen_key_long_press_action">
-    <item>Cap</item>
-    <item>Mostra la safata d\'aplicacions recents</item>
-    <item>Obre l\'auxiliar</item>
-    <item>Obre Google now</item>
-    <item>Tanca l\'aplicació actual</item>
-    <item>Execució ràpida de la cerca</item>
-    <item>Mostra el menú</item>
-  </string-array>
   <string-array name="screen_key_long_press_timeout">
     <item>0,5 segons</item>
     <item>1 segon</item>
@@ -751,7 +742,7 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>Connecta\'t manualment</item>
   </string-array>
   <string-array name="traffic_balance_entries">
-    <item>close</item>
+    <item>Off</item>
     <item>mode normal</item>
     <item>mode extrem</item>
   </string-array>
@@ -873,77 +864,149 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>gh</item>
     <item>gr</item>
     <item>gd</item>
+    <item>cr</item>
+    <item>ci</item>
+    <item>hr</item>
+    <item>cu</item>
+    <item>cy</item>
+    <item>cz</item>
+    <item>dk</item>
+    <item>dj</item>
+    <item>dm</item>
+    <item>do</item>
+    <item>tl</item>
+    <item>ec</item>
+    <item>eg</item>
+    <item>sv</item>
+    <item>gq</item>
+    <item>er</item>
+    <item>ee</item>
+    <item>et</item>
+    <item>fk</item>
+    <item>fo</item>
+    <item>fj</item>
+    <item>fi</item>
+    <item>fr</item>
+    <item>gf</item>
+    <item>pf</item>
+    <item>ga</item>
+    <item>gm</item>
+    <item>ge</item>
+    <item>de</item>
+    <item>gh</item>
+    <item>gi</item>
     <item>gr</item>
+    <item>gl</item>
     <item>gd</item>
+    <item>gu</item>
     <item>gt</item>
+    <item>gg</item>
+    <item>gn</item>
+    <item>gw</item>
     <item>gy</item>
     <item>ht</item>
     <item>hn</item>
     <item>hk</item>
     <item>hu</item>
+    <item>is</item>
     <item>in</item>
     <item>id</item>
     <item>ir</item>
     <item>iq</item>
+    <item>ie</item>
+    <item>im</item>
     <item>il</item>
     <item>it</item>
     <item>jm</item>
     <item>jp</item>
+    <item>je</item>
     <item>jo</item>
     <item>kz</item>
     <item>ke</item>
+    <item>ki</item>
+    <item>xk</item>
     <item>kw</item>
+    <item>kg</item>
+    <item>la</item>
     <item>lv</item>
     <item>lb</item>
     <item>ls</item>
+    <item>lr</item>
     <item>ly</item>
     <item>li</item>
     <item>lt</item>
     <item>lu</item>
     <item>mo</item>
     <item>mk</item>
+    <item>mg</item>
     <item>mw</item>
     <item>my</item>
+    <item>mv</item>
+    <item>ml</item>
     <item>mt</item>
+    <item>mh</item>
     <item>mr</item>
     <item>mu</item>
+    <item>yt</item>
     <item>mx</item>
+    <item>fm</item>
     <item>md</item>
+    <item>mn</item>
     <item>me</item>
+    <item>ms</item>
     <item>ma</item>
     <item>mz</item>
     <item>mm</item>
     <item>na</item>
+    <item>nr</item>
     <item>np</item>
     <item>nl</item>
-    <item>ni</item>
+    <item>nc</item>
+    <item>nz</item>
     <item>ni</item>
     <item>ng</item>
+    <item>nu</item>
+    <item>nf</item>
     <item>kp</item>
+    <item>mp</item>
     <item>no</item>
     <item>om</item>
     <item>pk</item>
+    <item>pw</item>
     <item>ps</item>
     <item>pa</item>
+    <item>pg</item>
     <item>py</item>
     <item>pe</item>
     <item>ph</item>
     <item>pl</item>
     <item>pt</item>
+    <item>pr</item>
     <item>qa</item>
     <item>ro</item>
     <item>ru</item>
     <item>rw</item>
+    <item>sh</item>
+    <item>lc</item>
+    <item>pm</item>
+    <item>vc</item>
+    <item>ws</item>
+    <item>sm</item>
+    <item>st</item>
     <item>sa</item>
     <item>sn</item>
     <item>rs</item>
+    <item>sc</item>
+    <item>sl</item>
     <item>sg</item>
     <item>sk</item>
     <item>si</item>
+    <item>sb</item>
     <item>so</item>
     <item>za</item>
     <item>gs</item>
     <item>kr</item>
+    <item>ss</item>
     <item>es</item>
     <item>lk</item>
     <item>kn</item>
@@ -956,12 +1019,17 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>ch</item>
     <item>sy</item>
     <item>tw</item>
+    <item>tj</item>
     <item>tz</item>
     <item>th</item>
+    <item>tg</item>
+    <item>tk</item>
+    <item>to</item>
+    <item>tt</item>
     <item>tn</item>
     <item>tr</item>
     <item>tm</item>
-    <item>tt</item>
+    <item>tv</item>
     <item>ug</item>
     <item>ua</item>
     <item>ae</item>
@@ -969,6 +1037,7 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>us</item>
     <item>uy</item>
     <item>uz</item>
+    <item>vu</item>
     <item>ve</item>
     <item>vn</item>
     <item>ye</item>
@@ -1018,10 +1087,10 @@ Nota: Només per a Ubuntu 8.04!"</item>
   </string-array>
   <string-array name="standard_configuration_version_description_primary">
     <item>CPU</item>
-    <item>Capacitat de la bateria</item>
+    <item>Bateria</item>
     <item>Càmera posterior</item>
-    <item>Mida de la pantalla</item>
+    <item>Pantalla</item>
     <item>Resolució</item>
-    <item>Versió d\'Android</item>
+    <item>Android</item>
   </string-array>
 </resources>

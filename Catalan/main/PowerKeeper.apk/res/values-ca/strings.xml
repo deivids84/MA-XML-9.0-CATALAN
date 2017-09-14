@@ -46,6 +46,7 @@ L\'estalvi de bateria tractarà de forma selectiva les aplicacions importants."<
   <string name="enable_hide_mode">Activa l\'estalvi de bateria MIUI</string>
   <string name="error_filename_too_long">Nom de fitxer massa llarg.</string>
   <string name="extreme_power_config_mode_category">Estalviador de bateria extrem</string>
+  <string name="extreme_power_config_mode_desc">Si activeu aquesta opció es desactivaran la sincronització, Bluetooth, GPS, NFC, doble clic, llums dels botons, la pantalla de notificacions, leds de d\'avís,... i el mode de la bateria canviarà a Ultimate</string>
   <string name="extreme_power_config_mode_title">Mode estalviador de bateria extrem</string>
   <string name="failure">error</string>
   <string name="foreground_change">Aplicació en primer pla</string>

@@ -411,6 +411,5 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="verify_phone_prompt">Seleccioneu el número de telèfon a verificar</string>
   <string name="verify_phone_title">Verifica el número de telèfon</string>
   <string name="vip_account_settings">Configuració VIP</string>
-  <string name="vip_more_info">Més informació Vip</string>
   <string name="xiao_mi_vip">Mi VIP</string>
 </resources>

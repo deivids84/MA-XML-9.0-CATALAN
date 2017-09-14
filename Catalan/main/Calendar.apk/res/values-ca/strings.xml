@@ -35,12 +35,9 @@
   <string name="alarm_label">Descarta</string>
   <string name="alert_reminder_expired">Caducat</string>
   <string name="alert_title">Notificacions del calendari</string>
-  <string name="anniversary_card_title">Celebració</string>
   <string name="anniversary_event_title">[Celebració]%1$s</string>
   <string name="app_label">Calendari</string>
   <string name="birthday_calendar_display_name">Recordatori d\'aniversaris</string>
-  <string name="birthday_card_other_day_title">Aniversari</string>
-  <string name="birthday_card_title">"Aniversaris d'avui"</string>
   <string name="birthday_event_description_a_week_ago">Fa una setmana</string>
   <string name="birthday_event_description_a_week_later">Falta una setmana per</string>
   <string name="birthday_event_description_day_after_tomorrow">Demà passat és</string>
@@ -82,7 +79,6 @@
   <string name="chongsha">Fantasmes</string>
   <string name="copy_email">Copia l\'adreça de correu electrònic</string>
   <string name="copy_number">Copia el número de telèfon</string>
-  <string name="countdown_card_title">Compte enrere de dies</string>
   <string name="countdown_event_title">[Countdown]%1$s</string>
   <string name="countdown_notify_before_3_day_title">[Countdown]%1$s en 3 dies</string>
   <string name="countdown_notify_title">[Countdown]%1$s</string>
@@ -96,14 +92,10 @@
   <string name="credit">Targeta de crèdit</string>
   <string name="credit_card_date_label">Data de caducitat:</string>
   <string name="credit_card_number_label">Número de targeta:</string>
-  <string name="credit_card_overdue">Targeta caducada</string>
-  <string name="credit_card_repayment_count">Últims %1$s dies</string>
-  <string name="credit_card_source">Recordatori d\'amortització per SMS</string>
   <string name="credit_currency">Dòlar</string>
   <string name="credit_detail_amount_label">Saldo</string>
   <string name="credit_detail_sms_content">Text original</string>
   <string name="credit_detail_today">Avui:</string>
-  <string name="credit_event_card_title">Pagaments amb targeta de crèdit</string>
   <string name="credit_event_delete_successfully">S\'ha eliminat correctament l\'esdeveniment de pagament de targeta</string>
   <string name="credit_event_title">Factura de la targeta de crèdit</string>
   <string name="daily">Diàriament</string>
@@ -128,7 +120,6 @@
   <string name="delete_recurring_event_title">Voleu eliminar %s?</string>
   <string name="delete_this_event_title">Voleu eliminar aquest esdeveniment?</string>
   <string name="deleting_calendar">Cancel·la la subscripció</string>
-  <string name="departure">Sortida</string>
   <string name="description_calendar">Aplicacions del sistema/Calendari</string>
   <string name="description_calendar_edit_event">Aplicacions del sistema/Calendari/Agenda</string>
   <string name="directory_searching_fmt">S\'està cercant %s&#8230;</string>
@@ -187,7 +178,6 @@
   <string name="event_edit">Edita l\'esdeveniment</string>
   <string name="event_info_descrip">Descripció\u0009\u0009\u0009</string>
   <string name="event_info_end">Final\u0009\u0009\u0009</string>
-  <string name="event_info_from">Des de</string>
   <string name="event_info_jump_to_email">Vés al correu</string>
   <string name="event_info_reminders_label">Recordatoris</string>
   <string name="event_info_reminders_label_1">Recordatori</string>
@@ -374,8 +364,6 @@
   <string name="setting_title_about">Quant a</string>
   <string name="setting_title_holiday_display">Mostra els dies festius</string>
   <string name="show_day_view">Mostra el dia</string>
-  <string name="show_newer_events">Toqueu per veure els esdeveniments posteriors a %1$s</string>
-  <string name="show_older_events">Toqueu per veure els esdeveniments anteriors a %1$s</string>
   <string name="sms_import_description">Una millor gestió dels missatges d\'esdeveniments relacionats amb el temps</string>
   <string name="start_date_calculate">Calcula</string>
   <string name="subscribe_card">立即订阅</string>
@@ -405,9 +393,7 @@ També podeu afegir recordatoris perquè no us perdeu res important. "</string>
   <string name="timezone_label">Fus horari</string>
   <string name="today">Avui</string>
   <string name="today_at_time_fmt">Avui a les %s</string>
-  <string name="today_flight_event">Vol</string>
   <string name="today_no_events">No hi ha esdeveniments</string>
-  <string name="today_train_event">Tren</string>
   <string name="tomorrow">Demà</string>
   <string name="tomorrow_at_time_fmt">Demà a les %s</string>
   <string name="too_long_content">El contingut és massa llarg</string>
@@ -419,9 +405,6 @@ També podeu afegir recordatoris perquè no us perdeu res important. "</string>
   <string name="travel_eta_advice">%2$s minuts en cotxe fins %1$s.</string>
   <string name="travel_ets_advice">Marxeu cap a %2$s abans de les %1$s.</string>
   <string name="travel_event_add_successfully">S\'ha creat l\'esdeveniment</string>
-  <string name="travel_event_add_unsuccessfully">"No s'ha pogut crear l'esdeveniment"</string>
-  <string name="travel_event_added">S\'ha creat l\'esdeveniment</string>
-  <string name="travel_event_delete_successfully">S\'ha eliminat l\'esdeveniment</string>
   <string name="travel_event_title_flight">Vol: %1$s-%2$s %3$s</string>
   <string name="travel_event_title_train">Tren: %1$s-%2$s %3$s</string>
   <string name="travel_event_title_train_only_dep">Tren: %1$s %2$s</string>
