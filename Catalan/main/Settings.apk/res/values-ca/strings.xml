@@ -2305,7 +2305,6 @@ Hi ha altres usuaris presents en aquest dispositiu.
   <string name="mi_shopping_mall">El meu centre comercial</string>
   <string name="misc_files">Fitxers diversos</string>
   <string name="misc_files_selected_count">Seleccionats %1$d de %2$d</string>
-  <string name="misc_files_selected_count_bytes">%1$s de %2$s</string>
   <string name="miui_allow_alarm">Alarmes</string>
   <string name="miui_allow_light">Llum de notificació</string>
   <string name="miui_allow_music">Multimèdia</string>
