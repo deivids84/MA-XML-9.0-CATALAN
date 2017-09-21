@@ -205,8 +205,8 @@ Toqueu la pantalla per afegir una ciutat manualment o moure-la"</string>
   <string name="unit">Unitats</string>
   <string name="unit_temperature">Unitats de temperatura</string>
   <string name="unit_wind">Unitats de velocitat del vent</string>
-  <string name="update_night_setting_summary_text">No s\'actualitzarà automàticament de les 23:00 a les 07:00 després de tancar-la</string>
-  <string name="update_night_setting_title_text">Actualitza-ho automàticament per la nit</string>
+  <string name="update_night_setting_summary_text">Actualitza la informació meteorològica entre les 23:00 i les 07:00</string>
+  <string name="update_night_setting_title_text">Actualitza-ho de nit automàticament</string>
   <string name="update_setting_title_text">Configuració d\'actualització</string>
   <string name="view_forecast_item_yesterday">Ahir</string>
   <string name="view_indexes_item_today">Avui</string>

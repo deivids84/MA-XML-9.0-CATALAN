@@ -98,6 +98,7 @@
   <string name="permission_group_title_privacy_related">Privadesa</string>
   <string name="permission_group_title_settings_related">Configuració</string>
   <string name="permission_warning_template">Voleu permetre a %1$s %2$s?</string>
+  <string name="permission_warning_template_ask">Doneu a %1$s els següents permisos?</string>
   <string name="permisson_reject_notice_toast_text2">"no té permís per a %1$s."</string>
   <string name="screen_overlay_button">Obre la configuració</string>
   <string name="screen_overlay_message">Per a canviar la configuració d\'aquest permís, abans heu de desactivar la superposició de pantalla a Configuració &gt; Aplicacions</string>

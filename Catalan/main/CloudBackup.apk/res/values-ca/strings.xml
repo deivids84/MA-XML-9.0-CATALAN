@@ -110,6 +110,7 @@ Nota: Les dades de les aplicacions instal·lades no es copiaran al Mi Cloud."</s
   <string name="remove_task_in_process">S\'està eliminant&#8230;</string>
   <string name="remove_task_unfinished">Encara no s\'ha eliminat</string>
   <string name="restore_data_summary">Aquesta funcionalitat requereix una connexió a Internet.</string>
+  <string name="restore_data_title">Restauració de dades</string>
   <string name="restore_from_cloud">Restaurar des del Mi Cloud</string>
   <string name="restore_from_this_device">Restaura usant aquesta còpia</string>
   <string name="restore_home_screen_apps">Restaurar des d\'una còpia del Mi Cloud</string>

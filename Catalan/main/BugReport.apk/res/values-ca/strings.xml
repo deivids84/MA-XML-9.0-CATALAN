@@ -14,6 +14,8 @@
   <string name="bugreport_dump_complete_notification_title">S\'ha creat l\'informe d\'error</string>
   <string name="bugreport_dump_start_notification_summary">Tardarà diversos minuts.</string>
   <string name="bugreport_dump_start_notification_title">S\'està creant l\'informe d\'error&#8230;</string>
+  <string name="bugreport_tool_log_dumping_desc">Trigarà un minut</string>
+  <string name="bugreport_tool_log_dumping_title">S\'està creant l\'informe d\'error</string>
   <string name="close_feedback_main">​​Amaga</string>
   <string name="cta_cancel">Cancel·la</string>
   <string name="cta_confirm">D\'acord</string>
@@ -186,6 +188,10 @@
   <string name="mobile_data_note_dialog_content">L\'ús de dades mòbils per pujar registres pot generar càrrecs addicionals.</string>
   <string name="mobile_data_note_dialog_content_with_file_size">La pujada de registres utilitzant la connexió de dades mòbils requerirà %s Mb de dades.</string>
   <string name="mobile_data_note_dialog_title">Avís d\'ús de dades</string>
+  <string name="modem_tool_log_dumping_desc">Premeu la icona per aturar</string>
+  <string name="modem_tool_log_dumping_title">S\'estan capturant els registres del mòdem</string>
+  <string name="modem_tool_log_finish_desc">Registre desat com a %s</string>
+  <string name="modem_tool_log_finish_title">S\'han capturat els registres del mòdem</string>
   <string name="module_communication">Comunicació</string>
   <string name="module_data">Emmagatzematge i Aplicacions duals</string>
   <string name="module_desktop">Pantalla d\'inici i Configuració</string>

@@ -13,6 +13,7 @@
   <string name="accounts">Comptes i sincronització</string>
   <string name="acct_not_synced">"Aquest compte no s'està sincronitzant, de manera que és possible que els calendaris no estiguin actualitzats."</string>
   <string name="acessibility_selected_marker_description">Esdeveniment seleccionat</string>
+  <string name="action_bar_more_menu_view_description">més</string>
   <string name="action_text_card_manager">Canal</string>
   <string name="action_text_today">Avui</string>
   <string name="ad_card_connecting">Connexió</string>
@@ -37,6 +38,7 @@
   <string name="alert_title">Notificacions del calendari</string>
   <string name="anniversary_event_title">[Celebració]%1$s</string>
   <string name="app_label">Calendari</string>
+  <string name="app_name">comú</string>
   <string name="birthday_calendar_display_name">Recordatori d\'aniversaris</string>
   <string name="birthday_event_description_a_week_ago">Fa una setmana</string>
   <string name="birthday_event_description_a_week_later">Falta una setmana per</string>
@@ -162,6 +164,7 @@
   <string name="edit_event_tab_countdown">Compte enrere</string>
   <string name="edit_event_tab_event">Esdeveniment</string>
   <string name="edit_event_to_label">Fins a</string>
+  <string name="electricity_amount_label">Consum d\'electricitat</string>
   <string name="email_guests_label">Envia un correu als convidats</string>
   <string name="email_picker_label">Envia un correu amb</string>
   <string name="email_subject_prefix">"Re: "</string>
@@ -258,6 +261,7 @@
   <string name="monthly_on_day">Mensualment (el mateix dia)</string>
   <string name="monthly_on_day_count">Mensualment (%1$s %2$s)</string>
   <string name="network_not_available">"No es pot connectar a la xarxa"</string>
+  <string name="new_event_description">nou</string>
   <string name="new_event_dialog_label">Nou esdeveniment</string>
   <string name="new_event_dialog_option">Nou esdeveniment</string>
   <string name="no_contact_birthday_hint">No hi ha aniversaris a importar</string>

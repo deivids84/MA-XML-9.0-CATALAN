@@ -530,6 +530,7 @@
   <string name="no_scanned_songs">Buit</string>
   <string name="no_song">No hi ha cançons</string>
   <string name="no_song_downloaded">"No s'ha pogut connectar al servidor"</string>
+  <string name="no_system_cropper_find">"El sistema no té retallador per a la imatge"</string>
   <string name="normal_quality">Bona</string>
   <string name="not_login">No s\'ha iniciat sessió</string>
   <string name="not_selected">Trieu una cançó</string>

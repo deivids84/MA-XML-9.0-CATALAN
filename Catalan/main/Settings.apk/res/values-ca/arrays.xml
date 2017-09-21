@@ -161,6 +161,16 @@
     <item>Mostra sempre el nom de l\'operador</item>
     <item>No mostris mai el nom de l\'operador</item>
   </string-array>
+  <string-array name="check_importance_entries">
+    <item>Recomanat</item>
+    <item>Important</item>
+    <item>No important</item>
+  </string-array>
+  <string-array name="check_importance_summary">
+    <item>Jutge intel·ligent, les notificacions no importants apareixeran en una carpeta separada</item>
+    <item>Les notificacions apareixeran directament en l\'àrea de notificacions</item>
+    <item>Totes les notificacions apareixeran en una carpeta separada</item>
+  </string-array>
   <string-array name="timezone_filters">
     <item>Amèrica</item>
     <item>Europa</item>
@@ -1068,6 +1078,19 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>1 hora</item>
     <item>2 hores</item>
     <item>8 hores</item>
+  </string-array>
+  <string-array name="vip_mode_text">
+    <item>De qualsevol</item>
+    <item>Només dels contactes</item>
+    <item>Només dels contactes destacats</item>
+    <item>Cap</item>
+  </string-array>
+  <string-array name="special_locale_names_global">
+    <item>简体中文 (中国)</item>
+    <item>繁體中文 (台湾)</item>
+    <item>繁體中文 (香港)</item>
+    <item>Espanyol (Amèrica)</item>
+    <item>Portuguès (Brasil)</item>
   </string-array>
   <string-array name="alarm_repeat_type">
     <item>Cada dia</item>

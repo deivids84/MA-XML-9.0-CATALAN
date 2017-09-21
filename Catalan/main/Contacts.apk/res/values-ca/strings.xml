@@ -1068,6 +1068,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="sim_error_password_error">La contrasenya és incorrecta</string>
   <string name="sim_error_storage_full">L\'emmagatzematge de la targeta SIM està ple</string>
   <string name="sim_error_text_too_long">El nom és massa llarg</string>
+  <string name="sim_export_error">La SIM no està preparada, torneu-ho a provar més tard</string>
   <string name="sim_export_loading">Llegint targeta SIM&#8230;</string>
   <string name="sim_indexed_contact_not_exist">La posició %1$d en la targeta SIM no és vàlida. Aquesta posició ha d\'estar entre %2$d i %3$d.</string>
   <string name="sim_no_contact">No hi ha contactes a la targeta SIM</string>
@@ -1143,6 +1144,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="toast_for_saving_nickname">Sobrenom guardat</string>
   <string name="toast_join_with_empty_contact">Introduïu el nom del contacte abans de combinar-ho amb un altre</string>
   <string name="toast_making_personal_copy">Creant una còpia personal&#8230;</string>
+  <string name="toast_start_intent_failed">No s\'ha trobat cap aplicació per gestionar-ho</string>
   <string name="toast_text_copied">Text copiat</string>
   <string name="today">Avui</string>
   <string name="tomorrow">Demà</string>

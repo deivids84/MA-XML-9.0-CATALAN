@@ -58,6 +58,7 @@
   <string name="can_not_use">"No es pot fer servir"</string>
   <string name="cancel">Cancel·la</string>
   <string name="card_title_answering">Responent la trucada</string>
+  <string name="card_title_answering_time_out">"No s'ha pogut respondre a la trucada, torneu-ho a provar."</string>
   <string name="card_title_call_ended">"Trucada finalitzada "</string>
   <string name="card_title_conf_call">Trucada de conferència</string>
   <string name="card_title_dialing">S\'està trucant</string>

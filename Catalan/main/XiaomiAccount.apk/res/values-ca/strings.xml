@@ -21,6 +21,7 @@
   <string name="account_error_user_birthday">L\'aniversari que heu introduït no és vàlid</string>
   <string name="account_has_been_set">Modifica</string>
   <string name="account_limit_update_birthday">"No es pot actualitzar l'aniversari en aquest moment"</string>
+  <string name="account_mibi_center">Crèdit Mi</string>
   <string name="account_no_set">Cap</string>
   <string name="account_none">Cap</string>
   <string name="account_none_binded_info">Cap</string>
@@ -64,6 +65,7 @@
   <string name="auth_fail_warning">La sessió ha expirat, torneu a iniciar la sessió més tard</string>
   <string name="authorize_title">Autorització</string>
   <string name="bind_facebook">Vinculeu el vostre compte de Facebook</string>
+  <string name="bind_safe_phone_msg">Afegiu el vostre número de telèfon per poder iniciar sessió la propera vegada al Compte Mi.</string>
   <string name="bind_settings">Comptes</string>
   <string name="bind_sina_weibo">Vincula amb el compte Sina Weibo</string>
   <string name="bind_sns_description">Inicieu sessió amb %s</string>
@@ -149,6 +151,7 @@
   <string name="logout_account">Tanca sessió</string>
   <string name="logout_failed">"No s'ha pogut tancar sessió"</string>
   <string name="mi_account_identity_title">Verifiqueu la vostra identitat</string>
+  <string name="mi_vip_info">Mostra els privilegis</string>
   <string name="mipay">Paga</string>
   <string name="mipay_balance">Saldo</string>
   <string name="mipay_bank_card">Targeta bancària</string>
@@ -203,6 +206,7 @@ Per activar el vostre compte, seguiu l\'enllaç
  que li hem enviat a la safata d\'entrada."</string>
   <string name="passport_completed">Finalitza</string>
   <string name="passport_confirm_recycle_account">Sí</string>
+  <string name="passport_continue">Continua</string>
   <string name="passport_copy_message_text_success">S\'ha copiat correctament</string>
   <string name="passport_copy_message_vcode">Codi de còpia</string>
   <string name="passport_delete_account">Tanca la sessió</string>
@@ -256,10 +260,13 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_login_instead_reg_with_email">Utilitza aquest correu</string>
   <string name="passport_login_other_account">Un altre compte</string>
   <string name="passport_login_prompt">Un compte Mi. Tots els serveis Mi.</string>
+  <string name="passport_login_recycle_account_no">No</string>
+  <string name="passport_login_recycle_account_yes">Sí</string>
   <string name="passport_login_title">Inicia una sessió al vostre compte Mi</string>
   <string name="passport_login_using_other_ways">Altres maneres per iniciar la sessió</string>
   <string name="passport_message_dialog_title">SMS amb els codis de verificació</string>
   <string name="passport_next">Següent</string>
+  <string name="passport_no">No</string>
   <string name="passport_notification_title">Error d\'inici de sessió per a %1$s</string>
   <string name="passport_password_phone_login">Inicieu la sessió amb el compte Mi</string>
   <string name="passport_password_req_notice">La contrasenya ha de tenir de 8 a 16 caràcters i incloure números i lletres (sensible a majúscules).</string>
@@ -275,6 +282,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_quick_login_dialog_title">Verifica la contrasenya</string>
   <string name="passport_quick_login_step2_title">Verificació en 2 passos</string>
   <string name="passport_quick_login_title">Introduïu la vostra contrasenya</string>
+  <string name="passport_quick_register">Registra\'t</string>
   <string name="passport_quick_register_notice">&lt;u&gt;\"No teniu un Compte Mi? Creu-ne un.\"&lt;/u&gt;</string>
   <string name="passport_re_get_verify_code">Obtén el codi de nou</string>
   <string name="passport_re_register">Inicia sessió de nou</string>
@@ -284,6 +292,8 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_reg_failed">"No es pot configurar el compte"</string>
   <string name="passport_reg_new_account">Crea un compte</string>
   <string name="passport_reg_prompt">"No teniu un compte Mi? Creeu-ne un de franc."</string>
+  <string name="passport_reg_recycle_account_no">No</string>
+  <string name="passport_reg_recycle_account_yes">Sí</string>
   <string name="passport_reg_success">S\'ha creat el compte</string>
   <string name="passport_reg_success_summary">%1$s s\'ha unit al vostre compte. Podeu utilitzar-lo per iniciar la sessió o per restablir la contrasenya.</string>
   <string name="passport_reg_type_email">Utilitza adreça de correu electrònic</string>
@@ -322,12 +332,15 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_send_vcode_failed">"No s'ha pogut enviar el codi"</string>
   <string name="passport_sending_vcode">Enviant codi…</string>
   <string name="passport_set">Establert</string>
+  <string name="passport_set_password_no_phone_msg">Afegiu el vostre número de telèfon per protegir el compte.</string>
   <string name="passport_setting">S\'està configurant&#8230;</string>
   <string name="passport_skip_login">Omet</string>
   <string name="passport_skip_register">Omet registre</string>
   <string name="passport_skip_setup_account_msg">Podeu configurar després un compte Mi a Configuració.</string>
   <string name="passport_skip_setup_account_title">Omet configuració</string>
   <string name="passport_sms_send_success">Enviat</string>
+  <string name="passport_sync_account_data">S\'està sincronitzant la informació del compte…</string>
+  <string name="passport_sync_account_data_failed_warning">La informació del vostre compte s\'està sincronitzant, podeu iniciar la sessió amb l\'ID del Compte Mi. Si voleu iniciar la sessió amb el telèfon o correu, espereu fins que la informació estigui completament sincronitzada.</string>
   <string name="passport_title_reg">Crea un compte</string>
   <string name="passport_trust_device">Confia en aquest dispositiu</string>
   <string name="passport_trying_read_verify_code_sms">Obtenint el codi de verificació&#8230;</string>
@@ -341,6 +354,9 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_user_agreement_p2">Acord d\'usuari</string>
   <string name="passport_user_agreement_p3">&#160;i</string>
   <string name="passport_user_agreement_p4">Política de privadesa</string>
+  <string name="passport_user_id_notice">El vostre ID del Compte Mi és %s.</string>
+  <string name="passport_user_reg_region">País/regió</string>
+  <string name="passport_user_reg_region_warning">"No podreu canviar el país/regió un cop s'hagi creat el compte."</string>
   <string name="passport_vcode_notification_title">La vostra verificació d\'inici de sessió no s\'ha completat</string>
   <string name="passport_vcode_prompt_long">Introduïu el codi de verificació</string>
   <string name="passport_vcode_sms_send_prompt">Envia codi de verificació a %s</string>
@@ -351,6 +367,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_wrong_captcha">El codi que heu introduït és incorrecte</string>
   <string name="passport_wrong_phone_number_format">El format del número de telèfon que heu introduït no és vàlid</string>
   <string name="passport_wrong_vcode">El codi que heu introduït és incorrecte</string>
+  <string name="passport_yes">Sí</string>
   <string name="phone_activated">%s activat</string>
   <string name="photoPickerNotFoundText">No hi ha fotos disponibles.</string>
   <string name="push_notification_content">Feu clic i obtén el codi de verificació</string>
@@ -411,5 +428,6 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="verify_phone_prompt">Seleccioneu el número de telèfon a verificar</string>
   <string name="verify_phone_title">Verifica el número de telèfon</string>
   <string name="vip_account_settings">Configuració VIP</string>
+  <string name="vip_settings_info">Configuració VIP</string>
   <string name="xiao_mi_vip">Mi VIP</string>
 </resources>

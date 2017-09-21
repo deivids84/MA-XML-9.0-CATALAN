@@ -17,6 +17,7 @@
   <string name="accessibility_bluetooth_connected">Bluetooth connectat.</string>
   <string name="accessibility_bluetooth_disconnected">Bluetooth desconnectat.</string>
   <string name="accessibility_bluetooth_tether">Connexió compartida per Bluetooth.</string>
+  <string name="accessibility_brightness_slider">Regulador de lluentor</string>
   <string name="accessibility_camera_button">Càmera</string>
   <string name="accessibility_clear_all">Esborra totes les notificacions.</string>
   <string name="accessibility_data_four_bars">Dades 4 barres.</string>
@@ -55,6 +56,8 @@
   <string name="accessibility_ringer_silent">Timbre en silenci.</string>
   <string name="accessibility_ringer_vibrate">Vibració.</string>
   <string name="accessibility_search_light">Cerca</string>
+  <string name="accessibility_search_scanner">Escàner</string>
+  <string name="accessibility_settings">Configuració</string>
   <string name="accessibility_tty_enabled">Teletip activat.</string>
   <string name="accessibility_wifi_off">Wifi apagat.</string>
   <string name="accessibility_wifi_one_bar">Wi-Fi una barra.</string>

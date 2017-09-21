@@ -16,6 +16,8 @@
   <string name="dialog_3g_title">Avís!</string>
   <string name="dialog_btn_3g">Continua de totes maneres</string>
   <string name="dialog_btn_wifi">Canvia a Wi-Fi</string>
+  <string name="dialog_stop_desc">Esteu segurs d\'aturar una baixada en curs? Es perdrà tot el progrés i no es podrà reprendre. El proper intent de baixada començarà des del principi.</string>
+  <string name="dialog_stop_title">Voleu aturar la baixada?</string>
   <string name="download_done">S\'ha baixat amb èxit!</string>
   <string name="download_fail">S\'ha produït un error durant la baixada!</string>
   <string name="download_fail_desc">La suma MD5 no coincideix…</string>

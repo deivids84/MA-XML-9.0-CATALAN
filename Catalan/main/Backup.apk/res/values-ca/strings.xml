@@ -164,6 +164,7 @@
   <string name="notif_trans_receiving_failed">"No s'han pogut rebre les dades"</string>
   <string name="notif_trans_sending_completed">Dades enviades correctament</string>
   <string name="notif_trans_sending_failed">"No s'han pogut enviar les dades"</string>
+  <string name="notif_trans_wait_for_reconnecting">El dispositiu remot està desconnectat. Torneu-lo a connectar.</string>
   <string name="page_loading">Un moment&#8230;</string>
   <string name="progress_backup_hint">S\'està fent una còpia de seguretat&#8230;</string>
   <string name="progress_restore_hint">S\'està restaurant&#8230;</string>
@@ -171,6 +172,7 @@
   <string name="prompt_sending">S\'està pujant&#8230;</string>
   <string name="prompt_writing">S\'està desant&#8230;</string>
   <string name="read_encrypt_fail">"No es pot llegir la còpia de seguretat xifrada"</string>
+  <string name="reconnect">Torna a connectar</string>
   <string name="refresh">Actualitza</string>
   <string name="remote_receive">Rep</string>
   <string name="restore">Restaura</string>
@@ -262,6 +264,7 @@
   <string name="trans_calculating_base_size">S\'està calculant la mida de les dades</string>
   <string name="trans_cancel_confirm">S\'està transferint, ho voleu aturar?</string>
   <string name="trans_cancelling">S\'està cancel·lant&#8230;</string>
+  <string name="trans_connect_failed_device_incompatible">dispositiu incompatible. Cancel·leu el progrés de transferència i torneu-ho a provar.</string>
   <string name="trans_connect_failed_message">"Error de connexió, torneu-ho a provar o reinicieu el sistema. A l'altre dispositiu, aneu a a Configuració &gt; Configuració addicional &gt; Mi Mover, Premeu [Sóc un emissor], o rellanceu Mi Mover un cop s'hagi reiniciat."</string>
   <string name="trans_connect_failed_title">"No s'ha pogut connectar"</string>
   <string name="trans_connect_failed_toast">"No s'ha pogut connectar"</string>
@@ -272,6 +275,7 @@
   <string name="trans_detail_category_sysdata">Dades del sistema</string>
   <string name="trans_detail_category_userdata">Aplicacions</string>
   <string name="trans_device_disconnected">S\'ha desconnectat el dispositiu</string>
+  <string name="trans_device_wait_for_reconnecting">Dispositiu desconnectat. Torneu-lo a connectar.</string>
   <string name="trans_generate_qr_code_failed">"No s'ha pogut crear el codi QR"</string>
   <string name="trans_main_tutor">Desplaça els contactes, el registre de trucades, els missatges, la disposició de la pantalla d\'inici, les aplicacions, les configuracions, etc. a un nou dispositiu</string>
   <string name="trans_my_device">El meu dispositiu</string>
@@ -286,6 +290,10 @@ Premeu [Sóc un receptor] per crear el codi QR"</string>
 2. Obriu l\'aplicació i seleccioneu [Sóc un emissor]
 3. Escanegeu el codi QR amb el dispositiu antic"</string>
   <string name="trans_operate_old_phone_tips2">"Des de Configuració &gt; Configuració addicional &gt; Mi Mover, Premeu [Sóc un emissor]"</string>
+  <string name="trans_operate_reconnect_new_tips">"Espereu fins que aparegui «Dispositiu desconnectat\" al telèfon nou».
+A continuació, premeu [Torna a connectar] per crear un codi QR."</string>
+  <string name="trans_operate_reconnect_old_tips">"Espereu fins que aparegui «Dispositiu desconnectat».
+A continuació, premeu [Torna a connectar] per escanejar el codi QR."</string>
   <string name="trans_please_waiting">Un moment&#8230;</string>
   <string name="trans_progress_subdescript_br_receiver">S\'està restaurant %1$s, %2$s completat</string>
   <string name="trans_progress_subdescript_br_sender">S\'està copiant %1$s, %2$s completat</string>

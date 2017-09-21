@@ -435,7 +435,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="miuichromium_error_page_network_off">Activeu la Wi-Fi o les dades mòbils</string>
   <string name="miuichromium_error_page_no_network">"No es pot connectar a la xarxa"</string>
   <string name="miuichromium_error_page_problem_access_denied">S\'ha denegat l\'accés a %s0</string>
-  <string name="miuichromium_error_page_problem_cache_miss">Aquesta pàgina no es pot carregar des de la memòria cau</string>
+  <string name="miuichromium_error_page_problem_cache_miss">"Aquesta pàgina no es pot carregar des de la memòria cau"</string>
   <string name="miuichromium_error_page_problem_cannot_open_page">"No es pot obrir la pàgina"</string>
   <string name="miuichromium_error_page_problem_cannot_reach_site">"No es pot accedir a aquest lloc"</string>
   <string name="miuichromium_error_page_problem_connection_interrupted">La connexió s\'ha interromput</string>

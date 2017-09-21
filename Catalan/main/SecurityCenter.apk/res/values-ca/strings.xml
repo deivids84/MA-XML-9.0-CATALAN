@@ -378,11 +378,13 @@
   <string name="btn_text_stop">Atura</string>
   <string name="button_text_accept">D\'acord</string>
   <string name="button_text_accept_timer">D\'acord (%d)</string>
+  <string name="button_text_clear">Esborra</string>
   <string name="button_text_delete">Elimina</string>
   <string name="button_text_delete_from_virus_white_list">elimina</string>
   <string name="button_text_deny">Denega</string>
   <string name="button_text_disconnect_now">Desconnectar</string>
   <string name="button_text_fix_now">Corregeix-ho</string>
+  <string name="button_text_forbid_now">Prohibeix</string>
   <string name="button_text_ignore">Ignora</string>
   <string name="button_text_ignore_alert_title">Ignorar aquesta alerta?</string>
   <string name="button_text_known">D\'acord</string>
@@ -701,6 +703,8 @@
   <string name="hints_handle_item_text_virus">Virus: %d</string>
   <string name="hints_input_roaming_daily_limit">Introduïu el límit d\'ús de dades</string>
   <string name="hints_loading_text">S\'està carregant&#8230;</string>
+  <string name="hints_risk_descx_title">Descripció:</string>
+  <string name="hints_risk_name_title">Risc:</string>
   <string name="hints_scan_danger_result">trobat un risc, corretgiu-lo ara</string>
   <string name="hints_scan_result_no_finish">"L'anàlisi no està acabada. Cliqueu per reiniciar."</string>
   <string name="hints_scan_result_phone_safe">Tot sembla correcte</string>
@@ -708,7 +712,9 @@
   <string name="hints_scanning">S\'està escanejant&#8230;</string>
   <string name="hints_scanning_text">S\'està escanejant&#8230;</string>
   <string name="hints_virus_apk_list_item_summary">Virus (apk)</string>
+  <string name="hints_virus_apk_summary">%s (apk)</string>
   <string name="hints_virus_app_list_item_summary">Virus (app)</string>
+  <string name="hints_virus_app_summary">%s (aplicacions)</string>
   <string name="hints_virus_lib_update_default_summary">Ultima actualització desconeguda</string>
   <string name="hot">Popular</string>
   <string name="hot_today">Popular avui</string>
@@ -1002,6 +1008,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="network_speed_for_apps_others">Altres</string>
   <string name="network_speed_for_apps_title">Connexió</string>
   <string name="network_speed_for_apps_total">Velocitat de connexió</string>
+  <string name="network_test_speed">Prova de velocitat Wi-Fi</string>
   <string name="networkchanged_exception_summary">Ha canviat la connexió de xarxa. Si us plau provi una altra vegada.</string>
   <string name="networkchanged_exception_title">Connexió canviada</string>
   <string name="never">1 cop</string>
@@ -1434,7 +1441,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="setting">Configuració</string>
   <string name="setting_privacy_password">Estableix la contrasenya de protecció de la privacitat</string>
   <string name="settings">Configuració d\'ús de dades</string>
-  <string name="settings_battery_consume_abnormal_summary">Rep notificacions quan la bateria es descarregui ràpidament</string>
+  <string name="settings_battery_consume_abnormal_summary">Recepció de notificacions quan la bateria es descarregui ràpidament</string>
   <string name="settings_battery_consume_abnormal_title">Notificacions de consum excessiu de bateria</string>
   <string name="settings_category_other">Altres paràmetres</string>
   <string name="settings_category_overheat">Sobreescalfament</string>
@@ -1852,9 +1859,13 @@ Dades extres en ús"</string>
   <string name="traffic_setting_fragment_brand">Marca</string>
   <string name="traffic_setting_fragment_button1_text">Cancel·la</string>
   <string name="traffic_setting_fragment_button2_text">Desar</string>
+  <string name="traffic_setting_fragment_city">Ciutat</string>
+  <string name="traffic_setting_fragment_default">Trieu</string>
   <string name="traffic_setting_fragment_find_brand">"&lt;font color='#33b4ff'&gt;&lt;U&gt;No esteu segur de la operadora?&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="traffic_setting_fragment_loacation_alert_nomore">"No tornar a mostrar"</string>
   <string name="traffic_setting_fragment_operator">Operador</string>
+  <string name="traffic_setting_fragment_operator_setting">Configuració de l\'operador</string>
+  <string name="traffic_setting_fragment_province">Província</string>
   <string name="traffic_setting_fragment_send_num">Número de l\'operador</string>
   <string name="traffic_setting_fragment_send_num_tips">Introduïu el número de telèfon</string>
   <string name="traffic_setting_fragment_sms_content">Contingut del missatge</string>

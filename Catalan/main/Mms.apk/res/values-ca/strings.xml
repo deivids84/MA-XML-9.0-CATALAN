@@ -7,6 +7,7 @@
   <string name="activity_not_found_uri">No s\'ha trobat cap aplicació per gestionar aquesta acció</string>
   <string name="addBlackList">Bloqueja</string>
   <string name="add_attachment">Afegeix fitxers adjunts</string>
+  <string name="add_miui_contact">Targeta Mi</string>
   <string name="add_music">Afegeix música</string>
   <string name="add_number_to_sender">Afegeix número a %s</string>
   <string name="add_picture">Afegeix imatge</string>
@@ -380,11 +381,13 @@
   <string name="pref_show_sms_template_in_summary">Detecta automàticament contrasenya d\'ús únic en missatges SMS</string>
   <string name="pref_show_sms_template_summary">Activa per utilitzar les funcions intel·ligents de Missatge Mi, com ara còpia de codis, consulta de saldo, etc.</string>
   <string name="pref_smart_messages_settings">Missatges intel·ligents</string>
+  <string name="pref_sms_storage_title">Emmagatzematge</string>
   <string name="pref_sms_theme_title">Pantalla</string>
   <string name="pref_summary_allow_si_sl_push">Permet als missatges carregar continguts de llocs web</string>
+  <string name="pref_summary_auto_delete">Elimina missatges antics a mesura que s\'assoleixen els límits</string>
   <string name="pref_summary_delete_limit">%1$s missatges per conversa</string>
   <string name="pref_summary_delivery_reports">Mostra l\'estat de lliurament dels missatges enviats</string>
-  <string name="pref_summary_delivery_ringtone">Rep notificacions de so per al missatge enviat.</string>
+  <string name="pref_summary_delivery_ringtone">Recepció de notificacions de so pels missatges lliurats.</string>
   <string name="pref_summary_manage_sim_messages">Administra els missatges emmagatzemats en la targeta SIM</string>
   <string name="pref_summary_mms_auto_retrieval">Baixa automàticament les fotos i vídeos dels missatges</string>
   <string name="pref_summary_mms_read_reports">Mostra una notificació a la vista de conversa quan el destinatari baixi continguts MMS</string>
@@ -399,6 +402,7 @@
   <string name="pref_system_title">Sistema</string>
   <string name="pref_title_about_smart_sms">Quant al soci per als missatges intel·ligents</string>
   <string name="pref_title_allow_si_sl_push">Permeteu missatges WAP (SI/SL)</string>
+  <string name="pref_title_auto_delete">Elimina missatges antics</string>
   <string name="pref_title_card_format">Format de targeta compartida</string>
   <string name="pref_title_delivery_reports">Estat de lliurament</string>
   <string name="pref_title_fwd_sender_info">Reenvia informació del remitent</string>
@@ -407,6 +411,8 @@
   <string name="pref_title_mms_auto_retrieval">Baixa automaticament el contingut de l\'MMS</string>
   <string name="pref_title_mms_delete">Límit de missatge multimèdia</string>
   <string name="pref_title_mms_read_reports">Llegir informes</string>
+  <string name="pref_title_mms_retrieval_during_international_roaming">Baixa el contingut dels MMS en itinerància internacional</string>
+  <string name="pref_title_mms_retrieval_during_national_roaming">Baixa el contingut dels MMS en itinerància nacional</string>
   <string name="pref_title_mms_retrieval_during_roaming">Baixa el contingut dels MMS en itinerància</string>
   <string name="pref_title_mms_validity_period">Caducitat de l\'MMS</string>
   <string name="pref_title_notification_body_enabled">Mostra missatges a la pantalla de bloqueig</string>

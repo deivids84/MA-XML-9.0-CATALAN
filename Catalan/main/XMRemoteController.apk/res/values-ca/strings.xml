@@ -73,11 +73,11 @@
   <string name="app_install">Instal·la a Mi TV</string>
   <string name="app_install_count">%1$s instal·lat</string>
   <string name="app_install_dialog_install_complete">S\'ha instal·lat amb èxit</string>
-  <string name="app_install_dialog_install_failed">No s\'ha pogut instal·lar</string>
+  <string name="app_install_dialog_install_failed">"No s'ha pogut instal·lar"</string>
   <string name="app_install_dialog_installing">S\'està instal·lant…</string>
   <string name="app_install_dialog_negative_text">Cancel·la</string>
   <string name="app_install_dialog_positive_text">Instal·la</string>
-  <string name="app_install_dialog_search_failed">No s\'han pogut trobar aplicacions</string>
+  <string name="app_install_dialog_search_failed">"No s'han pogut trobar aplicacions"</string>
   <string name="app_install_dialog_searching">S\'està cercant aplicacions…</string>
   <string name="app_installing">Instal·lant&#8230;</string>
   <string name="app_lastest">Darrer</string>
@@ -228,7 +228,7 @@
   <string name="epg_comment_action_bar_title">Comentari: %1$s</string>
   <string name="epg_comment_agree_user">Com jo</string>
   <string name="epg_comment_list_title">Comentaris (%1$d)</string>
-  <string name="epg_comment_no_reply">Puntuació baixa, no ha rebut cap comentari positiu</string>
+  <string name="epg_comment_no_reply">"Puntuació baixa, no ha rebut cap comentari positiu"</string>
   <string name="epg_comment_reply">Respon</string>
   <string name="epg_detail_title_text">Descripció</string>
   <string name="epg_details_episode">Episodi %1$s</string>
@@ -251,7 +251,7 @@
   <string name="epg_more_comment_list_title">Més comentaris principals (%1$d)</string>
   <string name="epg_name">Programes de televisió</string>
   <string name="epg_no_booking_data">No hi ha dades de la programació</string>
-  <string name="epg_no_more_latest_comment">No hi ha més comentaris</string>
+  <string name="epg_no_more_latest_comment">"No hi ha més comentaris"</string>
   <string name="epg_no_program_data">No hi ha dades de la programació</string>
   <string name="epg_no_search_result">No hi ha resultats de la cerca</string>
   <string name="epg_no_sys_notification">Temporalment no hi ha sistema de notificació</string>
@@ -537,7 +537,7 @@ Llavors responeu la pregunta"</string>
   <string name="no_program">Aquí no hi ha contingut</string>
   <string name="no_qq">Instal·leu primer QQ</string>
   <string name="no_save_brand_service">Afegeix altra vegada aquest comandament</string>
-  <string name="no_video">No s\'ha pogut trobar el contingut que voleu</string>
+  <string name="no_video">"No s'ha pogut trobar el contingut que voleu"</string>
   <string name="none">Buit</string>
   <string name="none_apk_note">No hi ha c
 ap arxiu d\'instal·lació</string>
@@ -950,7 +950,7 @@ Per canviar, premeu contínuament el botó d\'encesa del TV"</string>
   <string name="video">Vídeos</string>
   <string name="video_actor_label">"Repartiment: "</string>
   <string name="video_area_label">"País: "</string>
-  <string name="video_comment_get_reply_failed">获取评论失败, 点击重试</string>
+  <string name="video_comment_get_reply_failed">"获取评论失败, 点击重试"</string>
   <string name="video_comment_no_reply">暂无评论, 点击发表</string>
   <string name="video_history_before_yestory">Fa 2 dies</string>
   <string name="video_history_earlier">Anteriorment</string>

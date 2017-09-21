@@ -73,6 +73,7 @@
   <string name="account_setup_autodiscover_dlg_authfail_message">Confirmar el nom d\'usuari, contrasenya i compte, els ajustos són correctes.</string>
   <string name="account_setup_autodiscover_dlg_authfail_title">"Problema amb la configuració del compte"</string>
   <string name="account_setup_basics_email_label">Adreça de correu electrònic</string>
+  <string name="account_setup_basics_login_gmail_without_proxy">Utilitza la connexió de xarxa actual</string>
   <string name="account_setup_basics_manual_setup_action">Configuració manual</string>
   <string name="account_setup_basics_password_label">Contrasenya</string>
   <string name="account_setup_basics_title">Afegeix un compte</string>
@@ -342,6 +343,7 @@
   <string name="default_">PER DEFECTE</string>
   <string name="default_setup">CONFIGURACIÓ PER DEFECTE</string>
   <string name="default_signature">Enviat des del meu Xiaomi</string>
+  <string name="default_signature_2">Enviat des del meu %s</string>
   <string name="del_account_questionnair_hint">"Ens podeu dir per què esteu eliminant aquest compte?"</string>
   <string name="delete">Elimina</string>
   <string name="delete_message_flow">Elimina el flux de missatges</string>
@@ -678,6 +680,10 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="oauth_login_continue_qq">Obtén un codi d\'autorització per a iniciar sessió &gt;</string>
   <string name="ok">D\'acord</string>
   <string name="okay_action">D\'acord</string>
+  <string name="open_calendar_and_contacts_permission">Activeu el permís de calendari i contactes a la configuració del sistema</string>
+  <string name="open_external_storage_and_calendar_permission">Activeu el permís d\'emmagatzematge extern i calendari a la configuració del sistema</string>
+  <string name="open_external_storage_and_contacts_and_calendar_permission">Activeu el permís d\'emmagatzematge extern, calendari i contactes a la configuració del sistema</string>
+  <string name="open_external_storage_and_contacts_permission">Activeu el per d\'emmagatzematge extern i contactes a la configuració del sistema</string>
   <string name="outbox_alert_button_no_resend">"No enviar"</string>
   <string name="outbox_alert_button_resend">Reenvia</string>
   <string name="outbox_alert_certificate_error">"Excepció de certificat a email, si us plau actualitzi"</string>
@@ -967,6 +973,7 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="str_select_all">Selecciona-ho tot</string>
   <string name="str_select_none">Anul·la la selecció</string>
   <string name="subject_hint">Assumpte</string>
+  <string name="sync_contacts_req_per_ignored">El contacte del telèfon no està obert i no es poden sincronitzar els contactes</string>
   <string name="sync_error">"No s'ha pogut sincronitzar."</string>
   <string name="sync_error_message">"El dispositiu no té prou espai d'emmagatzematge per sincronitzar."</string>
   <string name="syncing_wait_restart">Feu clic a reintenta</string>

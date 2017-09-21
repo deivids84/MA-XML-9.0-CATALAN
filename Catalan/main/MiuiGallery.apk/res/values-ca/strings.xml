@@ -380,6 +380,7 @@
   <string name="error_connect_timeout_msg">Connecteu a una xarxa diferent i torneu-ho a provar.</string>
   <string name="error_connect_timeout_tip">Temps de connexió exhaurit.</string>
   <string name="error_decode_tip">"El format no està suportat o els fitxers estan corromputs."</string>
+  <string name="error_download_tip">"No s'ha pogut baixar"</string>
   <string name="error_external_sdcard_write_action">Canvia d\'emmagatzematge</string>
   <string name="error_external_sdcard_write_msg">Aneu a Configuració &gt; Emmagatzematge, canvieu-hi l\'emmagatzematge i torneu-ho a provar.</string>
   <string name="error_external_sdcard_write_tip">"No es poden desar elements a la targeta SD."</string>
@@ -802,6 +803,7 @@ Feu més fotos als vostres amics!"</string>
   <string name="search_title_album">Àlbum</string>
   <string name="search_title_history">Historial de cerca</string>
   <string name="search_title_location">Ubicacions</string>
+  <string name="search_title_more">Més</string>
   <string name="search_title_others">Tots els resultats</string>
   <string name="search_title_people">Persones</string>
   <string name="search_title_recommend">Recomanat</string>
