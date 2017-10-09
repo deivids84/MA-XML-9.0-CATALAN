@@ -80,7 +80,6 @@
   <string name="daily_forcast_wind_connect">%1$s %2$s</string>
   <string name="daily_forecast_detail">Detall de la previsió</string>
   <string name="daily_forecast_detail_date">d/M</string>
-  <string name="daily_forecast_detail_date_format">del %1$s al %2$s</string>
   <string name="daily_forecast_no_data">"No s\'ha pogut obtenir la informació meteorològica
 Tireu cap avall per actualitzar o comproveu la configuració de la xarxa"</string>
   <string name="data_provided_by">Dades proporcionades per</string>
@@ -192,7 +191,6 @@ Toqueu la pantalla per afegir una ciutat manualment o moure-la"</string>
   <string name="share_subject">Comparteix</string>
   <string name="share_title">Comparteix el temps</string>
   <string name="share_weather_desc">\#El temps de MIUI#Avui a les %1$s %2$s</string>
-  <string name="share_weather_desc_alert">%1$s %2$s</string>
   <string name="share_weather_save_pic_fail">"No s'ha pogut realitzar la captura"</string>
   <string name="some_where_on_earth">En algun lloc de la Terra</string>
   <string name="sunrise">Alba</string>
