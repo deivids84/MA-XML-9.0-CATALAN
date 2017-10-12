@@ -328,10 +328,4 @@
     <item>08-01-1980</item>
     <item>10-01-1982</item>
   </string-array>
-  <string-array name="global_criket_match">
-    <item>IPL</item>
-    <item>Internacional</item>
-    <item>Nacional</item>
-    <item>Lligues T20</item>
-  </string-array>
 </resources>

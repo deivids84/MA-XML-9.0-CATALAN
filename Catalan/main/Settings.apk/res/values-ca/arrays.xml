@@ -41,9 +41,9 @@
   </string-array>
   <string-array name="select_logd_size_lowram_titles">
     <item>Apagat</item>
-    <item>64K</item>
-    <item>256K</item>
-    <item>1M</item>
+    <item>64KB</item>
+    <item>256KB</item>
+    <item>1MB</item>
   </string-array>
   <string-array name="select_logd_size_summaries">
     <item>Desactivat</item>
@@ -874,8 +874,6 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>gh</item>
     <item>gr</item>
     <item>gd</item>
-    <item>cr</item>
-    <item>ci</item>
     <item>hr</item>
     <item>cu</item>
     <item>cy</item>
@@ -884,7 +882,6 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>dj</item>
     <item>dm</item>
     <item>do</item>
-    <item>tl</item>
     <item>ec</item>
     <item>eg</item>
     <item>sv</item>
@@ -934,7 +931,6 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>kz</item>
     <item>ke</item>
     <item>ki</item>
-    <item>xk</item>
     <item>kw</item>
     <item>kg</item>
     <item>la</item>
@@ -997,6 +993,7 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>ru</item>
     <item>rw</item>
     <item>sh</item>
+    <item>kn</item>
     <item>lc</item>
     <item>pm</item>
     <item>vc</item>
@@ -1019,9 +1016,6 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>ss</item>
     <item>es</item>
     <item>lk</item>
-    <item>kn</item>
-    <item>lc</item>
-    <item>vc</item>
     <item>sd</item>
     <item>sr</item>
     <item>sz</item>
@@ -1032,6 +1026,7 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>tj</item>
     <item>tz</item>
     <item>th</item>
+    <item>tl</item>
     <item>tg</item>
     <item>tk</item>
     <item>to</item>
@@ -1102,18 +1097,18 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>Entre setmana</item>
     <item>Personalitzada</item>
   </string-array>
+  <string-array name="standard_configuration_version_description_primary">
+    <item>CPU</item>
+    <item>Bateria</item>
+    <item>Càmera</item>
+    <item>Pantalla</item>
+    <item>Resolució</item>
+    <item>Android</item>
+  </string-array>
   <string-array name="privacy_password_function_specfication_names">
     <item>Missatges</item>
     <item>Fotos</item>
     <item>Fitxers</item>
     <item>Notes</item>
-  </string-array>
-  <string-array name="standard_configuration_version_description_primary">
-    <item>CPU</item>
-    <item>Bateria</item>
-    <item>Càmera posterior</item>
-    <item>Pantalla</item>
-    <item>Resolució</item>
-    <item>Android</item>
   </string-array>
 </resources>

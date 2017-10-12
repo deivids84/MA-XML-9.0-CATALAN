@@ -57,7 +57,7 @@
   <string name="document_ocr_result_title">Foto del document</string>
   <string name="document_ocr_tip_msg">S\'està llegint&#8230;</string>
   <string name="document_recognize_fail_tip">"No s'ha pogut llegir el document"</string>
-  <string name="document_recognize_null_tip">El document resultant està buit</string>
+  <string name="document_recognize_null_tip">"El document resultant està buit"</string>
   <string name="document_rectify">Ajusta</string>
   <string name="document_rectify_tip_msg">S\'està ajustant&#8230;</string>
   <string name="document_save_succeed_tip">Document desat a %1$s</string>
@@ -70,7 +70,7 @@
   <string name="error_cannot_connect_camera">"No es pot accedir a la Càmera"</string>
   <string name="error_day_limit">Massa intents en 1 dia</string>
   <string name="error_empty_result">"No s'han pogut trobar resultats"</string>
-  <string name="error_get_image">no s\'ha pogut obtenir la imatge</string>
+  <string name="error_get_image">"no s'ha pogut obtenir la imatge"</string>
   <string name="error_hour_limit">Massa intents en 1 hora</string>
   <string name="error_image_error">"No pot reconèixer aquesta foto"</string>
   <string name="error_invalid_request">Error d\'autenticació</string>
@@ -95,6 +95,8 @@
   <string name="keywords_search_shopping">Compres;Escàner;Escaneja productes;Escaneja un producte;Consulta el preu;Productes;Taobao;Tmall;Preus;Compres en línia</string>
   <string name="keywords_search_study">Escàner;Problemes;Resoldre problemes;Deures;L\'escola;Física;Química;Mates;Matemàtiques;Anglès;Història;Xinès</string>
   <string name="keywords_search_translation">Escàner;Tradueix;Diccionari;Anglès;Llengua estrangera;Llengua;Llengües;Anglès a xinès;Italià;Alemany;Japonès;Coreà;Castellà;Francès;Traductor Baidu;Diccionari Youdao;Diccionari Baidu;Traductor Google</string>
+  <string name="label_choose_picture">Trieu una imatge</string>
+  <string name="label_flash_light">Llum del flaix</string>
   <string name="language_entry_chinese_cn">Xinès simplificat</string>
   <string name="language_entry_chinese_tw">Xinès tradicional</string>
   <string name="language_entry_danish">Danès</string>

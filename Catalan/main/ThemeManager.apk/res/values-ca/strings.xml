@@ -28,7 +28,7 @@
   <string name="can_not_apply">No es pot aplicar</string>
   <string name="card_data_request_error">Excepció de sol·licitud de dades, torneu-ho a provar més tard~</string>
   <string name="card_loading">S\'està carregant...</string>
-  <string name="card_no_network">Ara no hi ha xarxa, connecteu-la i torneu-ho a intentar~</string>
+  <string name="card_no_network">"Ara no hi ha xarxa, connecteu-la i torneu-ho a intentar~"</string>
   <string name="card_retry">Reintenta</string>
   <string name="change_host_hint">Canvia l\'amfitrió</string>
   <string name="change_wallpaper">Fons de pantalla</string>

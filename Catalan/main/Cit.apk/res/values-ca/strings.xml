@@ -236,7 +236,7 @@ Toqueu la pantalla per iniciar el GPS&#8230;"</string>
 3.Premeu l\'obturador
 4.Premeu la icona de Prova. El sistema desarà la foto automàticament.
 5.La foto que heu fet s\'hauria de mostrar a sota. Premeu Eliminar per completar la prova."</string>
-  <string name="cit_main_camera_check_title">Càmera posterior</string>
+  <string name="cit_main_camera_check_title">Càmera</string>
   <string name="cit_name">Proves de maquinari</string>
   <string name="cit_not_available">"Aquesta prova no està disponible en aquesta versió de MIUI"</string>
   <string name="cit_notificationlight">Llum de notificació</string>

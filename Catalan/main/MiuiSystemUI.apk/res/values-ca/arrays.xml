@@ -41,17 +41,17 @@
   </string-array>
   <string-array name="select_logd_size_titles">
     <item>Inactiu</item>
-    <item>64K</item>
-    <item>256K</item>
-    <item>1M</item>
-    <item>4M</item>
-    <item>16M</item>
+    <item>64KB</item>
+    <item>256KB</item>
+    <item>1MB</item>
+    <item>4MB</item>
+    <item>16MB</item>
   </string-array>
   <string-array name="select_logd_size_lowram_titles">
     <item>Apagat</item>
-    <item>64K</item>
-    <item>256K</item>
-    <item>1M</item>
+    <item>64KB</item>
+    <item>256KB</item>
+    <item>1MB</item>
   </string-array>
   <string-array name="select_logd_size_summaries">
     <item>Desactivat</item>

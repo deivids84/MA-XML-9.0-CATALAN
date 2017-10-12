@@ -24,41 +24,6 @@
     <item>SoundRecorderRewind</item>
     <item>bateria baixa</item>
   </string-array>
-  <string-array name="wallpaper_settings_precust_cover_name">
-    <item>Entreteniment</item>
-    <item>Horitzontal</item>
-    <item>Cel estrellat</item>
-    <item>Botànica</item>
-    <item>Animal</item>
-  </string-array>
-  <string-array name="wallpaper_settings_precust_global_cover_name">
-    <item>Paisatge</item>
-    <item>Animal</item>
-    <item>Planta</item>
-    <item>Creatiu</item>
-    <item>Estil de vida</item>
-  </string-array>
-  <string-array name="wallpaper_settings_precust_india_cover_name">
-    <item>Animal</item>
-    <item>Edifici</item>
-    <item>Creatiu</item>
-    <item>Dibuixos</item>
-    <item>Paisatge</item>
-  </string-array>
-  <string-array name="wallpaper_settings_precust_brazil_cover_name">
-    <item>Paisatge</item>
-    <item>Animal</item>
-    <item>Creatiu</item>
-    <item>Planta</item>
-    <item>Estil de vida</item>
-  </string-array>
-  <string-array name="wallpaper_settings_precust_hong_kong_cover_name">
-    <item>Paisatge</item>
-    <item>Animal</item>
-    <item>Creatiu</item>
-    <item>Planta</item>
-    <item>Estil de vida</item>
-  </string-array>
   <string-array name="disable_package_replacement">
     <item>desactiva el nom del paquet</item>
   </string-array>

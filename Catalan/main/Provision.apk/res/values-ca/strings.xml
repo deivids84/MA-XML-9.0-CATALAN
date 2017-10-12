@@ -18,7 +18,7 @@
   <string name="enable_accessibility_dialog_message">Vau activar TalkBack prement la pantalla amb 2 dits durant més de 10 segons. TalkBack proporciona comentaris de veu per a persones amb impediments visuals. Si ho va activar per accident, toqueu el botó Cancel·la i a continuació, toqueu dues vegades la pantalla.</string>
   <string name="enable_accessibility_dialog_negative_btn">Cancel·la</string>
   <string name="enable_accessibility_dialog_positive_btn">Confirma</string>
-  <string name="fail_to_generate_qr_code">Ha fallit la generació del codi QR, torneu a introduir aquesta pàgina.</string>
+  <string name="fail_to_generate_qr_code">"Ha fallit la generació del codi QR, torneu a introduir aquesta pàgina."</string>
   <string name="ime_privacy_policy">Política de Privadesa del teclat seleccionat</string>
   <string name="ime_privacy_policy_no_network">Sense connexió de xarxa. Vegeu la política de privadesa d\'aquest teclat a %s.</string>
   <string name="input_method_category">"Seleccioneu el teclat predeterminat que s'utilitzarà per escriure correus electrònics, notes i gairebé tota la resta. Recordeu que també podeu instal·lar teclats de tercers."</string>

@@ -412,7 +412,6 @@ També podeu afegir recordatoris perquè no us perdeu res important. "</string>
   <string name="travel_event_title_flight">Vol: %1$s-%2$s %3$s</string>
   <string name="travel_event_title_train">Tren: %1$s-%2$s %3$s</string>
   <string name="travel_event_title_train_only_dep">Tren: %1$s %2$s</string>
-  <string name="travel_item_hotel">Hotel</string>
   <string name="travel_item_reminder">Recordatori</string>
   <string name="travel_item_reminder_overdue">Recordatori</string>
   <string name="travel_item_trafic">Trànsit</string>

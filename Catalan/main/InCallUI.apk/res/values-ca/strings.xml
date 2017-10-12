@@ -142,7 +142,6 @@
   <string name="livetalk_dial">Utilitza paquet de recàrrega</string>
   <string name="livetalk_hangup">Penja</string>
   <string name="manageConferenceLabel">Gestiona la trucada de conferència</string>
-  <string name="miprofile_stranger_card">Desconeguda</string>
   <string name="modify_call_failure_str">"Petició de modificació de trucada fallida
 "</string>
   <string name="modify_call_option_title">Quin tipus de trucada?</string>

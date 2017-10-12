@@ -688,7 +688,7 @@ Voleu canviar al nou proveïdor igualment?"</string>
   <string name="gsm_umts_options">Opcions de GSM/UMTS</string>
   <string name="hac_mode_summary">Activa compatibilitat amb audiòfons</string>
   <string name="hac_mode_title">Audiòfons</string>
-  <string name="handon_ringer_summary">"Redueix el volum del so de trucada entrant quan el telèfon es posi dret. Aquesta reducció no funcionarà amb la vibració per trucades entrants."</string>
+  <string name="handon_ringer_summary">Redueix el volum del so de trucada entrant quan el telèfon es posi dret. Aquesta reducció no funcionarà amb la vibració per trucades entrants.</string>
   <string name="handon_ringer_title">Deixa de sonar quan s\'agafi</string>
   <string name="hdcp_checking_dialog_title">Estableix el comportament de la comprovació d\'HDCP</string>
   <string name="hdcp_checking_title">S\'està comprovant l\'HDCP</string>
@@ -1418,7 +1418,7 @@ El període següent comença en %2$d dies (%3$s)"</string>
   <string name="tty_mode_not_allowed_video_call">No es pot canviar el mode TTY durant una videotrucada</string>
   <string name="tty_mode_option_summary">Estableix mode TTY</string>
   <string name="tty_mode_option_title">Mode TTY</string>
-  <string name="turnover_mute_summary">"Quan el telèfon s'hagi girat horitzontalment, poseu-lo cap per vall per silenciar les trucades. Aquesta opció no s'activa si ja teniu activada la vibració per les trucades entrants."</string>
+  <string name="turnover_mute_summary">Quan el telèfon s\'hagi girat horitzontalment, poseu-lo cap per vall per silenciar les trucades. Aquesta opció no s\'activa si ja teniu activada la vibració per les trucades entrants.</string>
   <string name="turnover_mute_title">Gira per silenciar la trucada</string>
   <string name="undefined">Cap</string>
   <string name="unknown">Desconegut</string>

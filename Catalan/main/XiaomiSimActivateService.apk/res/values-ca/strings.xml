@@ -114,7 +114,7 @@ Introduïu el número de telèfon associat amb la vostra targeta SIM nova per a 
   <string name="phone_get_text">Esteu d\'acord amb %1$s per obtenir el vostre número de telèfon: %2$s</string>
   <string name="phone_get_title">Accepteu %1$s per obtenir el vostre número de telèfon</string>
   <string name="phone_verify_processing">s\'està verificant…</string>
-  <string name="phone_verify_text">%1$s no obtindrà el vostre número de telèfon, simplement verifiqueu que el vostre número de telèfon sigui coincident.</string>
+  <string name="phone_verify_text">"%1$s no obtindrà el vostre número de telèfon, simplement verifiqueu que el vostre número de telèfon sigui coincident."</string>
   <string name="phone_verify_title">Accepteu %1$s per verificar el vostre número de telèfon</string>
   <string name="sim_unactivated_title">"La vostra targeta SIM no està activada"</string>
 </resources>

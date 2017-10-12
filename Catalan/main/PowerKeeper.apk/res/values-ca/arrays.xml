@@ -68,11 +68,11 @@
     <item>S\'està despertant el dispositiu freqüentment</item>
   </string-array>
   <string-array name="power_checker_recent_group_titles">
-    <item>Kernel WakeLock</item>
-    <item>WakeLock</item>
+    <item>Blocking deep sleep mode</item>
+    <item>Blocking sleep mode</item>
     <item>Escaneig Wi-Fi</item>
-    <item>GPS</item>
-    <item>CPU</item>
+    <item>Using GPS</item>
+    <item>Occupying CPU</item>
     <item>Desperta</item>
   </string-array>
   <string-array name="power_checker_group_suffix">

@@ -121,10 +121,6 @@
     <item quantity="other">Voleu desbloquejar %1$d números?</item>
     <item quantity="one">Voleu desbloquejar %1$d número?</item>
   </plurals>
-  <plurals name="livetalk_unit">
-    <item quantity="other">Minuts</item>
-    <item quantity="one">Minut</item>
-  </plurals>
   <plurals name="callNoAnswerTimeFormat">
     <item quantity="other">Ha sonat durant %1$d tons</item>
     <item quantity="one">Ha sonat durant %1$d to</item>

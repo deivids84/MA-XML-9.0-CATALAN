@@ -57,6 +57,8 @@ Per obtenir més espai d\'emmagatzematge, visiteu mi.com/micloud."</string>
   <string name="cloud_storage_is_full">Ple</string>
   <string name="cloudservice_new_sync">Sincronitzar %s amb Mi Cloud</string>
   <string name="cmcc_micloud_dspt">Utilitzar Mi Cloud per sincronitzar dades, localitzar el teu dispositiu,</string>
+  <string name="confirm_delete">Elimina</string>
+  <string name="confirm_save">Mantén</string>
   <string name="connect_network">Connectar a Wi-Fi o inserir una targeta SIM</string>
   <string name="connect_wlan">Connectar a Wi-Fi</string>
   <string name="contact">Contactes</string>
@@ -192,7 +194,7 @@ amb el vostre compte Mi per reactivar Mi Cloud."</string>
   <string name="micloud_detail_lastest_with_off">S\'ha sincronitzat</string>
   <string name="micloud_detail_need_charge_or_sleep">Connecteu el carregador i apagueu la pantalla per reprendre la sincronització</string>
   <string name="micloud_detail_not_sync">%d esperant per sincronitzar</string>
-  <string name="micloud_detail_not_syncable">No es pot sincronitzar</string>
+  <string name="micloud_detail_not_syncable">"No es pot sincronitzar"</string>
   <string name="micloud_detail_not_synced">No sincronitzat</string>
   <string name="micloud_detail_ok">D\'acord</string>
   <string name="micloud_detail_pause">Sincronització pausada</string>
@@ -461,6 +463,7 @@ Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi."</
   <string name="search_finddevice_pref_desc">Activa/desactiva Troba el dispositiu</string>
   <string name="search_finddevice_pref_key_words">trobaeldispositiu, troba el dispositiu</string>
   <string name="search_finddevice_pref_path">El meu Compte/El meu Núvo/Troba dispositiu</string>
+  <string name="secret_photo">Fotos ocultes</string>
   <string name="setting">Configuració</string>
   <string name="settings_backup_title">Configuració de còpia de seguretat del sistema</string>
   <string name="share_cancel">Compartir cancel·lat</string>
@@ -490,7 +493,7 @@ Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi."</
   <string name="sub_sync_item_sms_title_wifi_only">Utilitzar només Wi-Fi per sincronitzar MMS</string>
   <string name="success_upgraded_space">%s afegits</string>
   <string name="sync_dspt">Activar sincronització</string>
-  <string name="sync_dspt_entrance_provision">"Sincronitza les teves fotos, contactes, historial de trucades i missatges a través de tots els seus dispositius. Entreu a les coses sincronitzades des de qualsevol navegador a %s. "</string>
+  <string name="sync_dspt_entrance_provision">Sincronitza les teves fotos, contactes, historial de trucades i missatges a través de tots els seus dispositius. Entreu a les coses sincronitzades des de qualsevol navegador a %s. </string>
   <string name="sync_dspt_entrance_provision_2">Saber més</string>
   <string name="sync_dspt_entrance_provision_confirm_close">"No utilitzar"</string>
   <string name="sync_dspt_entrance_provision_confirm_content">"Les aplicacions integrades de MIUI necessiten Mi Cloud per fer còpia de seguretat de les seves fotos, contactes i més. Mi Cloud és gratuït i llest per usar-se."</string>
@@ -540,4 +543,5 @@ Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi."</
   <string name="wipe_data_dialog_msg_and_on">i d\'altres elements</string>
   <string name="wipe_data_dialog_msg_separator">,</string>
   <string name="wipe_data_dialog_title">"Alguns elements no s'han sincronitzat"</string>
+  <string name="wipe_secret_photo_dialog_title">"Les fotos ocultes no es sincronitzen"</string>
 </resources>

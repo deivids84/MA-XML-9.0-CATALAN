@@ -45,6 +45,8 @@
   <string name="operation_delete">Elimina</string>
   <string name="operation_send">Envia</string>
   <string name="quit_recording">Tanca l\'enregistrador de pantalla</string>
+  <string name="recording_failure">"La darrera gravació ha fallat, torneu a iniciar la gravació de pantalla"</string>
+  <string name="recording_max_size">"S'ha aturat la gravació i s'ha desat automàticament per arribar a la mida màxima de vídeo. Podeu iniciar una altra gravació si voleu continuar gravant."</string>
   <string name="resolution">Resolució</string>
   <string name="resolution_summary">Els vídeos amb una resolució més gran es veuen més nítids</string>
   <string name="screen_orientation">Orientació</string>
@@ -59,7 +61,9 @@
   <string name="sound_source">Font de so</string>
   <string name="sound_source_summary">Sons del sistema o micròfon</string>
   <string name="start">Inicia</string>
+  <string name="start_recording">Inicia la gravació</string>
   <string name="stop_by_second_space">En canviar d\'usuari s\'aturarà l\'enregistrament de pantalla</string>
   <string name="stop_record_while_locking">Bloqueja la pantalla per finalitzar</string>
   <string name="stop_record_while_locking_summary">Finalitza l\'enregistrament i desa el vídeo quan la pantalla està bloquejada</string>
+  <string name="stop_recording">Atura la gravació</string>
 </resources>

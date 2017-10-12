@@ -487,7 +487,7 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="battery_sugg_bluetooth_headset">Proveu de connectar-ho a un altre dispositiu</string>
   <string name="battery_sugg_display">Reduiu la brillantor de la pantalla i/o el temps d\'apagada</string>
   <string name="battery_sugg_radio">Per estalviar energia en zones sense cobertura activeu el mode d\'avió</string>
-  <string name="battery_sugg_wifi">Apagueu el Wi-Fi quan no l\'utilitzeu o no sigui disponible</string>
+  <string name="battery_sugg_wifi">"Apagueu el Wi-Fi quan no l'utilitzeu o no sigui disponible"</string>
   <string name="battery_summary">%1$d%% d\'ús des de la darrera càrrega</string>
   <string name="bearer">Portadora</string>
   <string name="billing_cycle">Cicle de facturació</string>
@@ -1124,7 +1124,7 @@ Quan el consum de dades comptabilitzat pel telèfon i el subministrat per l\'ope
   <string name="data_usage_other_apps">Altres aplicacions que utilitzen dades</string>
   <string name="data_usage_pick_cycle_day">Dia del mes per a restablir el cicle d\'ús de dades:</string>
   <string name="data_usage_received_sent">%1$s rebuts, %2$s enviats</string>
-  <string name="data_usage_restrict_background">Si restringiu les dades mòbils en segon pla, algunes aplicacions i serveis no funcionaran si no esteu connectat a una xarxa Wi-Fi.</string>
+  <string name="data_usage_restrict_background">"Si restringiu les dades mòbils en segon pla, algunes aplicacions i serveis no funcionaran si no esteu connectat a una xarxa Wi-Fi."</string>
   <string name="data_usage_restrict_background_multiuser">«Si restringiu l\'ús de dades mòbils en segon pla, algunes aplicacions i serveis deixaran de funcionar fins que us connecteu a una xarxa Wi-Fi.
 
 Aquesta configuració afecta a tots els usuaris del telèfon.»</string>
@@ -1249,7 +1249,7 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»</string>
   <string name="device_name_input_overlength">Més enllà del límit de les paraules</string>
   <string name="device_name_usage_point">Altres dispositius propers poden veure aquest nom</string>
   <string name="device_picker">Tria un dispositiu Bluetooth</string>
-  <string name="device_rear_camera">Càmera posterior</string>
+  <string name="device_rear_camera">Càmera</string>
   <string name="device_reset_title">Reinicia el dispositiu</string>
   <string name="device_screen_resolution">Resolució de pantalla</string>
   <string name="device_screen_size">Pantalla</string>
@@ -1816,6 +1816,9 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="keep_screen_on">Mantén-te actiu</string>
   <string name="keep_screen_on_summary">La pantalla no entra mai en mode d\'espera si el dispositiu s\'està carregant</string>
   <string name="kernel_version">Versió del Kernel</string>
+  <string name="key_combination_power_back">Encesa + enrere</string>
+  <string name="key_combination_power_home">Encesa + inici</string>
+  <string name="key_combination_power_menu">Encesa + menú</string>
   <string name="key_gesture_function_dialog_message">%1$s és una drecera per a %2$s. Voleu reemplaça-la amb %3$s?</string>
   <string name="key_gesture_function_dialog_negative">Cancel·la</string>
   <string name="key_gesture_function_dialog_positive">Reemplaça</string>
@@ -2070,7 +2073,7 @@ Podeu establir un altre bloqueig de pantalla per al dispositiu i el perfil profe
  pel segon espai»</string>
   <string name="lockpassword_confirm_for_second_user">Confirma la contrasenya pel segon espai</string>
   <string name="lockpassword_confirm_passwords_dont_match">Les contrasenyes no coincideixen</string>
-  <string name="lockpassword_confirm_pins_dont_match">Els codis PIN no coincideixen</string>
+  <string name="lockpassword_confirm_pins_dont_match">"Els codis PIN no coincideixen"</string>
   <string name="lockpassword_confirm_workspace_password">Verifiqueu la contrasenya d\'espai de treball</string>
   <string name="lockpassword_confirm_your_lock_password_header">Confirmeu la contrasenya</string>
   <string name="lockpassword_confirm_your_lock_pattern_header">Confirmeu el patró</string>
@@ -2100,7 +2103,7 @@ Podeu establir un altre bloqueig de pantalla per al dispositiu i el perfil profe
   <string name="lockpassword_pattern_set_toast">S\'ha establert el patró</string>
   <string name="lockpassword_pin_contains_non_digits">El PIN només pot contenir números</string>
   <string name="lockpassword_pin_no_sequential_digits">No es permet una seqüència de dígits ascendents, descendents ni repetits</string>
-  <string name="lockpassword_pin_recently_used">L\'administrador del dispositiu no permet l\'ús de codi PIN</string>
+  <string name="lockpassword_pin_recently_used">"L'administrador del dispositiu no permet l'ús de codi PIN"</string>
   <string name="lockpassword_pin_set_toast">S\'ha definit el PIN</string>
   <string name="lockpassword_pin_too_long">El PIN ha de tenir menys de %d números</string>
   <string name="lockpassword_pin_too_short">El PIN ha de tenir com a mínim %d números</string>
@@ -2156,6 +2159,11 @@ Podeu establir un altre bloqueig de pantalla per al dispositiu i el perfil profe
   <string name="login_account_dialog_message">Inicia la sessió amb el compte de Mi i activa la sincronització amb Mi Cloud.</string>
   <string name="login_account_dialog_title">Inicia la sessió amb el compte Mi</string>
   <string name="login_action">Inicia la sessió</string>
+  <string name="long_press_back_key">Pulsació llarga del botó enrrere</string>
+  <string name="long_press_buttom_key">Pulsació llarga al botó inici a la pantalla de bloqueig</string>
+  <string name="long_press_home_key">Pulsació llarga del botó inici</string>
+  <string name="long_press_menu_key">Pulsació llarga del botó menú</string>
+  <string name="long_press_menu_key_when_lock">Pulsació llarga al botó menú a la pantalla de bloqueig</string>
   <string name="long_press_volume_down">Mantén premut per abaixar el volum</string>
   <string name="lte_4g_settings_4gdisable_summary">S\'ha desactivat el 4G</string>
   <string name="lte_4g_settings_4genable_summary">S\'ha activat el 4G</string>
@@ -2305,6 +2313,7 @@ Hi ha altres usuaris presents en aquest dispositiu.
   <string name="mi_shopping_mall">El meu centre comercial</string>
   <string name="misc_files">Fitxers diversos</string>
   <string name="misc_files_selected_count">Seleccionats %1$d de %2$d</string>
+  <string name="misc_files_selected_count_bytes">%1$s de %2$s</string>
   <string name="miui_allow_alarm">Alarmes</string>
   <string name="miui_allow_light">Llum de notificació</string>
   <string name="miui_allow_music">Multimèdia</string>
@@ -2990,6 +2999,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="remove_managed_profile_label">Suprimeix el perfil professional</string>
   <string name="repeat">Repeteix</string>
   <string name="repeat_call">Recordatori de trucades repetides</string>
+  <string name="repeat_call_info">Permet so per a les trucades repetides d\'aquí a 15 minuts en mode silenci</string>
   <string name="repeat_title">Repeteix</string>
   <string name="reset_aaid">Reinicia l\'identificador de publicitat</string>
   <string name="reset_app_preferences">Reinicia les preferències de les aplicacions</string>
@@ -3530,17 +3540,10 @@ Per fer-ho:
   <string name="settings_safetylegal_title">Informació de seguretat</string>
   <string name="settings_shortcut">Configuració de les dreceres</string>
   <string name="settings_toggle_position_divider_list">Els commutadors sobre d\'aquesta barra són actius</string>
-  <string name="setup_add_fingerprint_failed_retry_text">"No s'ha pogut afegir l'empremta"</string>
   <string name="setup_choose_unlock_fingerprint_msg">Establiu el bloqueig de la pantalla abans d\'afegir l\'empremta.</string>
-  <string name="setup_choose_unlock_mixed_password_color_normal">&lt;Data&gt;&amp;lt;font color=#000000&amp;gt;Contrasenya&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
-  <string name="setup_choose_unlock_mixed_password_color_pressed">&lt;Data&gt;&amp;lt;font color=#009dff&amp;gt;Contrasenya&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
   <string name="setup_choose_unlock_mixpassword_title">Estableix la contrasenya</string>
-  <string name="setup_choose_unlock_password_color_normal">&lt;Data&gt;&amp;lt;font color=#000000&amp;gt;PIN&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
-  <string name="setup_choose_unlock_password_color_pressed">&lt;Data&gt;&amp;lt;font color=#009dff&amp;gt;PIN&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
   <string name="setup_choose_unlock_password_msg">Introduïu 4 números</string>
   <string name="setup_choose_unlock_password_title">Estableix el PIN</string>
-  <string name="setup_choose_unlock_pattern_color_normal">&lt;Data&gt;&amp;lt;font color=#000000&amp;gt;Patró&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
-  <string name="setup_choose_unlock_pattern_color_pressed">&lt;Data&gt;&amp;lt;font color=#009dff&amp;gt;Patró&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
   <string name="setup_choose_unlock_pattern_title">Dibuixa un patró de desbloqueig</string>
   <string name="setup_choose_unlock_type_title">Estableix la contrasenya</string>
   <string name="setup_fingerprint_enroll_enrolling_skip_message">Heu optat per utilitzar l\'empremta com una manera de desbloquejar el telèfon. Si ara ometeu aquest pas, haureu de configurar-ho després. Aquest procés només triga un parell de minuts.</string>
@@ -4677,7 +4680,7 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="wifi_eap_method">Mètode EAP</string>
   <string name="wifi_eap_sim_simcard">Tria la SIM</string>
   <string name="wifi_eap_user_cert">Certificat d\'usuari</string>
-  <string name="wifi_empty_list_user_restricted">No teniu permís per a canviar la xarxa.</string>
+  <string name="wifi_empty_list_user_restricted">"No teniu permís per a canviar la xarxa."</string>
   <string name="wifi_empty_list_wifi_off">Per veure les xarxes disponibles, activa el Wi-Fi</string>
   <string name="wifi_empty_list_wifi_on">S\'estan cercant xarxes Wi-Fi&#8230;</string>
   <string name="wifi_enable">Wi-Fi</string>
@@ -4761,7 +4764,7 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="wifi_p2p_wps_setup">Configuració WPS</string>
   <string name="wifi_password">Contrasenya</string>
   <string name="wifi_poor_network_detection">Només connexions estables</string>
-  <string name="wifi_poor_network_detection_summary">No utilitzeu una xarxa Wi-Fi si no té una bona connexió a Internet</string>
+  <string name="wifi_poor_network_detection_summary">"No utilitzeu una xarxa Wi-Fi si no té una bona connexió a Internet"</string>
   <string name="wifi_priority_changed" formatted="false">Valor anterior %s | Valor nou %s</string>
   <string name="wifi_priority_label">Prioritat</string>
   <string name="wifi_priority_settings_label">Configuració de la prioritat</string>
@@ -4816,7 +4819,7 @@ Voleu permetre-ho per a totes les aplicacions que vulguin cercar xarxes?»</stri
 Toqueu \"&lt;b&gt;Enrere&lt;/b&gt; per connectar a una altra xarxa Wi-Fi.</string>
   <string name="wifi_setup_description_connecting">S\'està connectant, un moment&#8230;</string>
   <string name="wifi_setup_detail">Detalls de la xarxa</string>
-  <string name="wifi_setup_eap_not_supported">No podeu configurar una connexió Wi-Fi EAP durant la instal·lació. Un cop finalitzada, feu-ho des de Configuració &gt; Wi-Fi i xarxes.</string>
+  <string name="wifi_setup_eap_not_supported">"No podeu configurar una connexió Wi-Fi EAP durant la instal·lació. Un cop finalitzada, feu-ho des de Configuració &gt; Wi-Fi i xarxes."</string>
   <string name="wifi_setup_forget">Oblida-la</string>
   <string name="wifi_setup_next">Següent</string>
   <string name="wifi_setup_not_connected">Sense connexió</string>

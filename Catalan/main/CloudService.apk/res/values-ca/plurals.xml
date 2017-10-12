@@ -57,6 +57,10 @@
     <item quantity="other">%d entrades a la llista de bloqueig</item>
     <item quantity="one">%d entrada a la llista de bloqueig</item>
   </plurals>
+  <plurals name="dirty_secretphoto_count">
+    <item quantity="other">"%d fotos ocultes no se sincronitzen. Tanqueu la sessió després de sincronitzar tots els elements per mantenir-los; en cas contrari, els elements s'eliminaran."</item>
+    <item quantity="one">"%d foto oculta no se sincronitza. Tanqueu la sessió després de sincronitzar tots els elements per mantenir-los; en cas contrari, els elements s'eliminaran."</item>
+  </plurals>
   <plurals name="micloud_main_resume_sync_hour">
     <item quantity="other">Reprèn la sincronització després de %d hores</item>
     <item quantity="one">Reprèn la sincronització després d\'%d hora</item>

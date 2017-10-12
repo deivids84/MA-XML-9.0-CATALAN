@@ -264,7 +264,7 @@
   <string name="trans_calculating_base_size">S\'està calculant la mida de les dades</string>
   <string name="trans_cancel_confirm">S\'està transferint, ho voleu aturar?</string>
   <string name="trans_cancelling">S\'està cancel·lant&#8230;</string>
-  <string name="trans_connect_failed_device_incompatible">dispositiu incompatible. Cancel·leu el progrés de transferència i torneu-ho a provar.</string>
+  <string name="trans_connect_failed_device_incompatible">"dispositiu incompatible. Cancel·leu el progrés de transferència i torneu-ho a provar."</string>
   <string name="trans_connect_failed_message">"Error de connexió, torneu-ho a provar o reinicieu el sistema. A l'altre dispositiu, aneu a a Configuració &gt; Configuració addicional &gt; Mi Mover, Premeu [Sóc un emissor], o rellanceu Mi Mover un cop s'hagi reiniciat."</string>
   <string name="trans_connect_failed_title">"No s'ha pogut connectar"</string>
   <string name="trans_connect_failed_toast">"No s'ha pogut connectar"</string>
