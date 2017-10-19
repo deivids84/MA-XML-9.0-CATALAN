@@ -465,11 +465,8 @@
   <string name="wednesday_short">dc.</string>
   <string name="wednesday_shortest">dc.</string>
   <string name="wf_word_figure">Caràcters financers</string>
-  <string name="xiaomi_bytes_unit">%1$s B</string>
   <string name="xiaomi_connect_download_manager_fail">Error en connectar-se al Gestor de baixades. Comproveu l\'estat del Gestor de baixades a l\'Administrador d\'aplicacions.</string>
   <string name="xiaomi_external_storage_unavailable">L\'emmagatzematge no està disponible, comproveu la targeta SD.</string>
-  <string name="xiaomi_kilobytes_unit">%1$s kB</string>
-  <string name="xiaomi_megabytes_unit">%1$s MB</string>
   <string name="xiaomi_mobile">Mòbil Mi</string>
   <string name="xiaomi_update_dialog_message">"Presentació de la versió %1$s
 Mida: %2$s"</string>
