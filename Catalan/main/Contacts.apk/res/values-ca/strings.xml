@@ -468,6 +468,8 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="group_delete_success_toast">Grup eliminat</string>
   <string name="group_detail_label_placeholder">&#160;</string>
   <string name="group_edit_field_hint_text">Nom del grup</string>
+  <string name="group_member_remove_fail_toast">No s\'ha eliminat del grup</string>
+  <string name="group_member_remove_success_toast">Eliminat del grup</string>
   <string name="group_name">Els meus grups</string>
   <string name="group_name_hint">"Nom del grup"</string>
   <string name="group_read_only">No es pot modificar en aquest dispositiu.</string>
@@ -482,7 +484,7 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="hint_more_contact">Combinar contactes duplicats</string>
   <string name="hybrid_check_network">Configuració de la xarxa</string>
   <string name="hybrid_data_error">s\'ha produït un error</string>
-  <string name="hybrid_locating_fail">"No s'ha pogut accedir a la seva localització"</string>
+  <string name="hybrid_locating_fail">"No s'ha pogut accedir a la seva ubicació"</string>
   <string name="hybrid_network_unavaliable">"No s'ha pogut accedir a la xarxa"</string>
   <string name="hybrid_service_unavailiable">Sense servei</string>
   <string name="hybrid_try_again">Intenta-ho de nou</string>
@@ -1154,6 +1156,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="unknow_phone_number_mms_failed">"No es pot enviar un missatge a un número desconegut"</string>
   <string name="unknown">Desconegut</string>
   <string name="unknown_contact_name">Contacte desconegut</string>
+  <string name="unknown_details_add_to_contact">Existent</string>
   <string name="unknown_details_new_contact">Contacte nou</string>
   <string name="update_sim_contact_photo_toast">"No s'ha pogut definir la foto per als contactes SIM"</string>
   <string name="upgrade_in_progress">S\'està actualitzant la llista de contactes.</string>

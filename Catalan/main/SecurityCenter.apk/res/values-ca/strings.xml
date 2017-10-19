@@ -86,6 +86,7 @@
   <string name="antivirus_choose_engine_title">Definicions</string>
   <string name="antivirus_longtime_no_update">Sembla que les definicions de virus són velles. Les actualitzacions periòdiques ajuden a obtenir millors resultats d\'escanejat. Voleu permetre que seguretat es connecti a internet i actualitzi les definicions de virus?</string>
   <string name="antivirus_longtime_no_update1">Sembla que les definicions de virus són velles. Les actualitzacions periòdiques ajuden a obtenir millors resultats d\'escanejat. Actualitzi les definicions i torneu a provar-ho.</string>
+  <string name="antivirus_main_activity_back">Tornar a l\'escaneig de seguretat</string>
   <string name="antivirus_monitor_btn_text_clean_risk">Elimina aplicacions perilloses</string>
   <string name="antivirus_monitor_btn_text_clean_virus">Elimina virus</string>
   <string name="antivirus_monitor_clean_tips">S\'han eliminat %s elements</string>
@@ -132,6 +133,7 @@
   <string name="app_manager_back">Enrere</string>
   <string name="app_manager_bipartition">Aplicacions duals</string>
   <string name="app_manager_card_permission_title">Permisos</string>
+  <string name="app_manager_clear_cache">Esborra la memòria cau</string>
   <string name="app_manager_clear_data_dlg_message">Totes aquestes aplicacions es suprimiran permanentment. Inclou tots els fitxers, configuracions, comptes, bases de dades, etc.</string>
   <string name="app_manager_clear_data_dlg_title">Voleu eliminar les dades de l\'aplicació?</string>
   <string name="app_manager_clear_failed_dlg_message">No s\'han pogut suprimir les dades de l\'aplicació.</string>
@@ -141,17 +143,27 @@
   <string name="app_manager_default_open">Obre de manera predeterminada</string>
   <string name="app_manager_default_open_summary">S\'ha definit aquesta aplicació com a predeterminada per fer algunes accions.</string>
   <string name="app_manager_default_open_title">Suprimeix els predeterminats</string>
+  <string name="app_manager_defaults_setting">Per defecte</string>
   <string name="app_manager_details_electric_title">Bateria</string>
   <string name="app_manager_details_storage_title">Emmagatzematge</string>
   <string name="app_manager_details_traffic_title">Ús de dades mòbils</string>
   <string name="app_manager_disable">"No ho permetis"</string>
+  <string name="app_manager_disable_dlg_text">Si desactiveu aquesta aplicació, és possible que altres aplicacions deixin de funcionar com espereu.</string>
+  <string name="app_manager_disable_dlg_title">Voleu desactivar l\'aplicació integrada?</string>
+  <string name="app_manager_disable_text">Desactiva</string>
+  <string name="app_manager_disabled">Desactivada</string>
   <string name="app_manager_dlg_cancel">Cancel·la</string>
   <string name="app_manager_dlg_ok">D\'acord</string>
+  <string name="app_manager_enable_text">Activa</string>
+  <string name="app_manager_enabled">Activada</string>
   <string name="app_manager_factory_reset">Desinstal·la actualitzacions</string>
   <string name="app_manager_factory_reset_dlg_msg">Es desinstal·laran totes les actualitzacions d\'aquesta aplicació de sistema Android.</string>
   <string name="app_manager_factory_reset_dlg_title">Voleu desinstal·lar actualitzacions?</string>
   <string name="app_manager_force_stop_dlg_text">Si forceu el tancament d\'una aplicació, és possible que no funcioni correctament.</string>
   <string name="app_manager_force_stop_dlg_title">Voleu forçar el tancament?</string>
+  <string name="app_manager_globel_other_perm_title">Altres permisos</string>
+  <string name="app_manager_globel_perm_summary">Gestioneu els permisos relacionats amb la ubicació, l\'emmagatzematge, el telèfon, els missatges i els contactes.</string>
+  <string name="app_manager_globel_perm_title">Permisos d\'aplicacions</string>
   <string name="app_manager_have_not_consume">Cap</string>
   <string name="app_manager_hide_system_server">Amaga els serveis del sistema</string>
   <string name="app_manager_instruction">Instrucció</string>
@@ -182,6 +194,17 @@
   <string name="app_manager_reduce_wakepath_dialog">Minimitza l\'inici de la cadena</string>
   <string name="app_manager_reduce_wakepath_summary">La restricció de l\'inici automàtic minimitzarà l\'inici de la cadena. Voleu restringir l\'inici automàtic de %s?</string>
   <string name="app_manager_reject_count_over">Bloquejat 100000+ vegades</string>
+  <string name="app_manager_reset_app_preferences">Reinicia les preferències de les aplicacions</string>
+  <string name="app_manager_reset_app_preferences_button">Reinicia les aplicacions</string>
+  <string name="app_manager_reset_app_preferences_desc">"Es reiniciaran totes les preferències de:
+
+ \"&lt;li&gt;Aplicacions desactivades&lt;/li&gt;\"
+ \"&lt;li&gt;Notificacions d\'aplicacions desactivades&lt;/li&gt;\"
+ \"&lt;li&gt;Aplicacions predeterminades&lt;/li&gt;\"
+ \"&lt;li&gt;Restriccions de dades en segon pla per a aplicacions&lt;/li&gt;\"
+
+ No es perdran les dades de les aplicacions."</string>
+  <string name="app_manager_reset_app_preferences_title">Voleu reiniciar les preferències de les aplicacions?</string>
   <string name="app_manager_show_all_apps">Mostra totes les aplicacions</string>
   <string name="app_manager_show_detail_infos">Mostra-ho tot</string>
   <string name="app_manager_sort">Ordena per</string>
@@ -195,6 +218,8 @@
   <string name="app_manager_stop_wp_dialog_uninstall">Desinstal·la</string>
   <string name="app_manager_system_mobile_disable">Desactiva les dades</string>
   <string name="app_manager_title">Administra les aplicacions</string>
+  <string name="app_manager_uninstall_protected_dlg_msg">En desinstal·lar les aplicacions del sistema podeu impedir que alguns components de MIUI funcionin correctament. Voleu desinstal·lar-la de totes maneres?</string>
+  <string name="app_manager_uninstall_protected_dlg_title">Desinstal·lació d\'aplicacions del sistema</string>
   <string name="app_manager_uninstall_with_xspace_app_dlg_msg">Les aplicacions duals es suprimiran conjuntament amb les dades de l\'aplicació.</string>
   <string name="app_manager_uninstall_xspace_app_dlg_msg">Si desinstal·leu les aplicacions duals, es suprimiran totes les dades de l\'aplicació.</string>
   <string name="app_manager_uninstall_xspace_app_dlg_title">Voleu desinstal·lar l\'aplicació dual?</string>
@@ -300,6 +325,8 @@
   <string name="auto_task_operation_sync">Sincronitza</string>
   <string name="auto_task_operation_vibration">Vibració</string>
   <string name="auto_task_operation_wifi">Wi-Fi</string>
+  <string name="back_app_name">Torna al bloqueig d\'aplicacions</string>
+  <string name="back_modifypassword">Vés enrere per canviar la contrasenya</string>
   <string name="background_restrict_app_dialog_message">La restricció de l\'accés a la xarxa en segon pla per a aquesta aplicació pot fer que l\'aplicació no funcioni correctament, rebre missatges, baixar contingut, etc. Voleu restringir-lo de totes maneres?</string>
   <string name="background_traffic">Fons %s</string>
   <string name="backsound_set_hint">Voleu configurar un missatge d\'absència per a %s?</string>
@@ -497,6 +524,8 @@
   <string name="daily_limit_network_available_body">Toqui per veure les estadístiques d\'ús de dades.</string>
   <string name="daily_limit_over_message">"Ha superat el límit de dades diàri."</string>
   <string name="daily_pkg_traffic">Límit màxim de dades</string>
+  <string name="data_booster_desc">Desactiva altres ranures SIM per mantenir la connexió estable</string>
+  <string name="data_booster_title">Estabilitza la connexió de dades</string>
   <string name="data_network_blocked_notification_title">No hi ha connexió a internet</string>
   <string name="data_usage_correction_timeout_title">Esgotat el temps per sincronitzar ús de dades</string>
   <string name="data_usage_disabled_dialog">"Ha arribat al límit d'ús de dades. L'ús excessiu de la seva tarifa de dades pot ocasionar despeses addicionals"</string>
@@ -650,6 +679,7 @@
   <string name="fw_blocked">Llista de bloqueig</string>
   <string name="fw_blocked_count">"Bloquejat "</string>
   <string name="fw_blocked_join">" i "</string>
+  <string name="game_anti_disturb_msg">Joc no molestis</string>
   <string name="game_booster">Accelerador de velocitat dels jocs</string>
   <string name="game_booster_intro">Quant a l\'accelerador de velocitat dels jocs</string>
   <string name="game_booster_title">Potenciador</string>
@@ -661,6 +691,7 @@
   <string name="game_net_text2">"Augmenta la velocitat de connexió del joc mentre es limita la velocitat de baixada en segon pla per reduir el retard de la xarxa"</string>
   <string name="game_net_title">Optimitza la velocitat de connexió</string>
   <string name="game_setting">Configuració del joc</string>
+  <string name="gamebooster_main_activity_back">Torna a l\'accelerador de velocitat dels jocs</string>
   <string name="gamebooster_network_dialog_message">Voleu permetre a la seguretat connectar-se a la xarxa per poder utilitzar totes les funcions de l\'accelerador de velocitat dels jocs?</string>
   <string name="gamebooster_network_dialog_title">"Algunes característiques no estan disponibles"</string>
   <string name="gateway_exception_summary">Comprovi el seu router i torneu a provar.</string>
@@ -738,6 +769,7 @@
   <string name="install_sucess">%s s\'ha instal·lat amb èxit</string>
   <string name="install_title">Instal·lació a través d\'USB</string>
   <string name="installing">S\'està instal·lant</string>
+  <string name="international_Ad">Anunci</string>
   <string name="international_roaming_setting">Itinerància en ultramar</string>
   <string name="intro_improve">Accelera l\'experiència de joc segons el nivell</string>
   <string name="intro_skip">Omet</string>
@@ -971,11 +1003,11 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="network_diagnostics">Comproveu l\'estat de la xarxa</string>
   <string name="network_mobile_exception_detail">"El dispositiu no es pot connectar a internet:
 
- 1. Assegureu-vos que no he superat el límit de dades mòbils del pla del seu operador.
+ 1. Assegureu-vos que no heu superat el límit de dades mòbils del pla del vostre operador.
 
  2. Si vostè acaba de aumentar el saldo del seu dispositiu, reinicialitzeu el dispositiu i torneu a provar.
 
- 3. El senyal de la xarxa del seu operador pot ser feble en la seva localització actual."</string>
+ 3. El senyal de la xarxa del vostre operador pot ser feble en la seva ubicació actual."</string>
   <string name="network_operator_exception_summary">"No podia activa la targeta SIM. Assegureu-vos que la targeta SIM està inserida correctament i que s'ha activat el seu pla mòbil per la vostra companyia."</string>
   <string name="network_permission_exception_tips">"No podeu utilitzar dades mòbils per connectar a la xarxa"</string>
   <string name="network_roaming_exception_tips">"No podeu utilitzar dades mòbils mentre estigueu connectat en itinerància a la xarxa."</string>
@@ -1425,6 +1457,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="save_energy_title">Optimitza la bateria</string>
   <string name="sc_allow_network_dialog_message">Cal permetre a aquesta aplicació connectar-se a internet perquè funcioni normalment.</string>
   <string name="sc_allow_network_dialog_tiltle">"No es pot fer servir l'Estalvi de dades"</string>
+  <string name="sc_system_risk_fix_info_xspace">El risc no es pot corregir en xspace, canvieu a l\'espai del propietari per arreglar-lo.</string>
   <string name="scan_installed_games">S\'està comprovant els jocs instal·lats…</string>
   <string name="scan_status_risk">Arriscat</string>
   <string name="scan_status_safe">Segur</string>
@@ -1934,4 +1967,5 @@ Dades extres en ús"</string>
   <string name="wlan_change_protection_detail">"No canviïs a Wi-Fi automàticament quan estigui connectat a una xarxa de dades"</string>
   <string name="wlan_change_protection_title">Evita el canvi de xarxa</string>
   <string name="xunyou_pay_webview">Serveis Xunyou</string>
+  <string name="xunyou_server_expired">La sessió ha expirat.</string>
 </resources>

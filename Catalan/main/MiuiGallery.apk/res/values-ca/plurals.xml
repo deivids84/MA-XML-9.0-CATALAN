@@ -185,4 +185,20 @@
     <item quantity="other">S\'han trobat %1$d fotos noves</item>
     <item quantity="one">S\'ha trobat una foto nova</item>
   </plurals>
+  <plurals name="search_feedback_done_mark_false_positive">
+    <item quantity="other">S\'ha suprimit %1$d fotos de «%2$s».</item>
+    <item quantity="one">S\'ha suprimit %1$d foto de «%2$s».</item>
+  </plurals>
+  <plurals name="search_feedback_done_mark_and_contribute_false_positive">
+    <item quantity="other">S\'ha suprimit %1$d fotos de «%2$s» i s\'ha afegit a la base de dades.</item>
+    <item quantity="one">S\'ha suprimit %1$d foto de «%2$s» i s\'ha afegit a la base de dades.</item>
+  </plurals>
+  <plurals name="search_feedback_done_mark_false_negative">
+    <item quantity="other">S\'ha afegit %1$d fotos a «%2$s».</item>
+    <item quantity="one">S\'ha afegit %1$d foto a «%2$s».</item>
+  </plurals>
+  <plurals name="search_feedback_done_mark_and_contribute_false_negative">
+    <item quantity="other">S\'ha afegit %1$d fotos a «%2$s» i s\'ha afegit a la base de dades.</item>
+    <item quantity="one">S\'ha afegit %1$d foto a «%2$s» i s\'ha afegit a la base de dades.</item>
+  </plurals>
 </resources>

@@ -97,6 +97,8 @@
   <string name="quota_info">Mi Drive: %1$s disponible, %2$s total</string>
   <string name="rename_alert">"Si canvieu l'extensió d'aquest fitxer, pot ser que no pugueu obrir-lo."</string>
   <string name="rename_failed">Ja existeix un fitxer amb el mateix nom.</string>
+  <string name="request_permission_msg">Permet que Mi Drive accedeixi a la informació del compte perquè funcioni amb normalitat.</string>
+  <string name="request_permission_title">Es requereixen permisos</string>
   <string name="sd_full">La targeta SD està plena.</string>
   <string name="sd_invalid">La targeta SD està malmesa.</string>
   <string name="send_to_midrive_failed">"Aquest tipus de fitxer no està suportat."</string>
@@ -115,6 +117,8 @@
   <string name="wait_wifi">S\'està esperant una conexió Wi-Fi</string>
   <string name="waiting">S\'està esperant</string>
   <string name="wangpan_root_path">La meva unitat</string>
+  <string name="xiaomi_drive_description_content">El Mi Drive és una eina d\'emmagatzematge en línia que us permet mantenir els fitxers en línia i alliberar l\'emmagatzematge al dispositiu. Voleu deixar d\'utilitzar Mi Drive?</string>
+  <string name="xiaomi_drive_description_title">Quant al Mi Drive</string>
   <string name="year_month_day_format">dd, MMM yyyy</string>
   <string name="yesterday">Ahir</string>
 </resources>

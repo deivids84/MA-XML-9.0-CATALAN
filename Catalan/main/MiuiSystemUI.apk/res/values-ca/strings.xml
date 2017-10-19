@@ -103,6 +103,7 @@
   <string name="battery_low_title">Connecteu el carregador</string>
   <string name="battery_profiles">Perfils d\'ús de bateria</string>
   <string name="block_notification_content_text">"%1$s notificacions no es mostraran de nou. Podeu canviar això a la configuració."</string>
+  <string name="block_notification_desc">"Les notificacions de l'aplicació no es tornaran a mostrar. Podeu canviar això a la configuració."</string>
   <string name="block_notification_text">​​Amaga</string>
   <string name="block_record_notification_text">Ocultant notificacions de %1$s.</string>
   <string name="block_record_notification_title">Notificacions ocultes</string>
@@ -161,6 +162,7 @@
   <string name="bugreport_in_power_summary">Mostra un botó en el menú d\'encesa per informar d\'un error</string>
   <string name="button_convert_fbe">Esborra i converteix&#8230;</string>
   <string name="call_status_dialing">Marcant</string>
+  <string name="call_status_holding">Retén</string>
   <string name="call_status_ringing">Sonant</string>
   <string name="camera_key_action_app_title">Obrir aplicació</string>
   <string name="camera_key_action_category_title">Utilitzeu si no està oberta l\'aplicació Càmera</string>
@@ -289,7 +291,7 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
   <string name="force_resizable_activities_summary">Permet ajustar la mida de totes les activitats per al mode multifinestra, independentment dels valors definits.</string>
   <string name="force_rtl_layout_all_locales">Força l\'orientació del RTL</string>
   <string name="force_rtl_layout_all_locales_summary">Força l\'orientació de la pantalla dreta-esquerra en totes les llengües</string>
-  <string name="gps_notification_found_text">Localització establerta per GPS</string>
+  <string name="gps_notification_found_text">Ubicació establerta per GPS</string>
   <string name="gps_notification_searching_text">Cercant GPS</string>
   <string name="hdcp_checking_dialog_title">Estableix el comportament de la comprovació d\'HDCP</string>
   <string name="hdcp_checking_title">S\'està comprovant HDCP</string>
@@ -418,7 +420,7 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="recents_empty_message_multi_window">Aneu a l\'inici per obrir una aplicació</string>
   <string name="recents_exit_multi_window_mode">Surt del mode de pantalla dividida</string>
   <string name="recents_incompatible_app_message">"L'aplicació no admet la pantalla dividida"</string>
-  <string name="recents_launch_disabled_message">%s està desactivat en el mode segur.</string>
+  <string name="recents_launch_disabled_message">"%s està desactivat en el mode segur."</string>
   <string name="recents_launch_error_message">"%s no s'ha pogut iniciar."</string>
   <string name="recents_multi_window_mode">Mode de pantalla dividida</string>
   <string name="recents_stack_action_button_label">Esborra-ho tot</string>
@@ -458,6 +460,7 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="screenshot_saving_ticker">S\'està desant la captura de pantalla…</string>
   <string name="screenshot_saving_title">S\'està desant la captura de pantalla…</string>
   <string name="screenshot_send">Envia</string>
+  <string name="search_hint">Cerqueu llocs web, aplicacions, contactes, vídeos...</string>
   <string name="select_application">Seleccioneu l\'aplicació</string>
   <string name="select_logd_size_dialog_title">Selecciona la mida Logger de la memòria intermèdia</string>
   <string name="select_logd_size_title">Mides memòria intermèdia Logger</string>
@@ -611,6 +614,7 @@ d MMMM"</string>
   <string name="vpn_title_long">Connectant a VPN usant %s</string>
   <string name="wait_for_debugger">Espereu el depurador</string>
   <string name="wait_for_debugger_summary">Abans d\'executar-se, l\'aplicació de depuració espera que es connecti el depurador</string>
+  <string name="weather_description_no_aqi">%1$s &gt;</string>
   <string name="weather_publish_time">Actualitzat %1$s</string>
   <string name="wifi_aggressive_handover">Transferència forçada des de Wi-Fi a mòbil</string>
   <string name="wifi_aggressive_handover_summary">Si s\'activa, quan el senyal de Wi-Fi és baix es forçarà la transferència de dades des de Wi-Fi a mòbil</string>

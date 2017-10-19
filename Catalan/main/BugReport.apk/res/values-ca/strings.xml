@@ -22,6 +22,9 @@
   <string name="cta_dialog_content">Aquesta aplicació necessita connectar-se a Internet per funcionar amb normalitat.</string>
   <string name="cta_dialog_title">Connexió a Internet</string>
   <string name="cta_not_show_again">"No tornis a mostrar-ho"</string>
+  <string name="customer_service_apply">Sol·licita atenció al client</string>
+  <string name="customer_service_complain">Informa a l\'atenció al client</string>
+  <string name="customer_service_station">Ubicacions de servei</string>
   <string name="default_text_view">TextView</string>
   <string name="description">Descriviu el problema</string>
   <string name="dialog_ask_delete">Elimina</string>

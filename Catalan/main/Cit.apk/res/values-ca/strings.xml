@@ -397,6 +397,7 @@ Després de col·locar «music.mp3» al directori de la targeta SD, toqueu la pa
   <string name="magnetic_info_hint">Gireu el dispositiu formant un 8</string>
   <string name="mic1_spk_loop">Reprodueix el micro als altaveus</string>
   <string name="micphone_test">MIC i SPK</string>
+  <string name="nfc_disable_tip">Activeu la funció NFC</string>
   <string name="remove_headset_and_starttest">Desconnecteu l\'auricular i premeu inicia per provar-ho</string>
   <string name="speak_from_mic">Parleu al MICRO, la reproducció dels altaveus. Jutgeu si hi ha so.</string>
   <string name="start">Inicia</string>

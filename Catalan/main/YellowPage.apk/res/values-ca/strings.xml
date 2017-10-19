@@ -399,6 +399,7 @@ Total: %3$s iuans"</string>
   <string name="search_keywords_express">urgent;shunfeng;shentong;debang;kuaidi;danhao;</string>
   <string name="search_title_express">Consulta o enviament urgent</string>
   <string name="select_package_before_buy">Seleccioneu un paquet</string>
+  <string name="send_shortcut_already_exists">La pantalla d\'inici ja existeix</string>
   <string name="send_shortcut_failed">"No s'ha pogut enviar"</string>
   <string name="send_shortcut_success">S\'ha afegit a la pantalla d\'inici</string>
   <string name="sending_shortcut">S\'està enviant&#8230;</string>

@@ -56,7 +56,7 @@ L\'estalvi de bateria tractarà de forma selectiva les aplicacions importants."<
   <string name="full_screen_enter">Entreu a pantalla completa</string>
   <string name="full_screen_exit">Surt de la pantalla completa</string>
   <string name="google_base_app_install_choice">«%s» requerix de les aplicacions de Google Service Framework per funcionar amb normalitat, voleu baixar-les i instal·lar-les?</string>
-  <string name="hide_mode_desc">Quan una aplicació s\'executa en segon pla, les seves activitats seran supervisades per reduir el consum de bateria. La connexió de xarxa, els serveis de localització, la ràdio, el rellotge, etc. es poden veure afectats per aquesta funció. Aquesta configuració és adequada per a la majoria de les aplicacions, però si alguna aplicació en particular es comporta de forma incorrecta quan s\'està executant en segon pla, pot personalitzar la configuració per a cada aplicació.</string>
+  <string name="hide_mode_desc">Quan una aplicació s\'executa en segon pla, les seves activitats seran supervisades per reduir el consum de bateria. La connexió de xarxa, els serveis d\'ubicació, la ràdio, el rellotge, etc. es poden veure afectats per aquesta funció. Aquesta configuració és adequada per a la majoria de les aplicacions, però si alguna aplicació en particular es comporta de forma incorrecta quan s\'està executant en segon pla, pot personalitzar la configuració per a cada aplicació.</string>
   <string name="hide_mode_ultimate_desc">El mode Ultimate està actiu. Les aplicacions en segon pla es congelaran. Desactiveu l\'estalviador de bateria per sortir del mode Ultimate.</string>
   <string name="hide_system_app">Amaga les aplicacions del sistema</string>
   <string name="high">Rendiment</string>
@@ -65,11 +65,11 @@ L\'estalvi de bateria tractarà de forma selectiva les aplicacions importants."<
   <string name="invalid_size_value">"No s'ha pogut obtenir la mida del paquet."</string>
   <string name="lasttime_applist_cloud">Última actualització de la llista d\'aplicacions:</string>
   <string name="lasttime_feature_cloud">Última actualització de funcions:</string>
-  <string name="location_disable_description">Les aplicacions en segon pla només poden accedir als serveis de localització per períodes curts de temps, mentre que l\'accés permanent està restringit</string>
+  <string name="location_disable_description">Les aplicacions en segon pla només poden accedir als serveis d\'ubicació per períodes curts de temps, mentre que l\'accés permanent està restringit</string>
   <string name="location_disable_title">Limitar</string>
   <string name="location_enable_description">Les aplicacions poden utilitzar els serveis d\'ubicació en segon pla</string>
   <string name="location_enable_title">Permet</string>
-  <string name="location_mode_title">Localització en segon pla</string>
+  <string name="location_mode_title">Ubicació en segon pla</string>
   <string name="low">Estalvi de bateria</string>
   <string name="media">Mode multimèdia</string>
   <string name="menu_text_power_analysis">Comprovar bateria</string>
@@ -83,6 +83,8 @@ L\'estalvi de bateria tractarà de forma selectiva les aplicacions importants."<
   <string name="new_group_name">Mode personalitzat</string>
   <string name="no_applications">Buit</string>
   <string name="none">No hi ha processos</string>
+  <string name="nonui_mode_config_description">"No encenguis la pantalla per a notificacions, desactiva la llum de notificació, l'empremta digital i els controls tàctils quan el dispositiu es trobi a la butxaca."</string>
+  <string name="nonui_mode_config_title">Mode no interactiu</string>
   <string name="normal">Mode per defecte</string>
   <string name="operation_create_group">Nom</string>
   <string name="operation_create_group_message">Introdueix el nou nom del grup</string>
@@ -133,8 +135,8 @@ L\'estalvi de bateria tractarà de forma selectiva les aplicacions importants."<
   <string name="power_config_keyguard_notification_title">Notificacions en pantalla de bloqueig</string>
   <string name="power_config_lcd_mode_dialog_title">Mode LCD</string>
   <string name="power_config_lcd_mode_title">Mode LCD</string>
-  <string name="power_config_location_summary">"Permet a l'aplicació veure la teva localització"</string>
-  <string name="power_config_location_title">Accés a localització</string>
+  <string name="power_config_location_summary">"Permet a l'aplicació veure la vostra ubicació"</string>
+  <string name="power_config_location_title">Accés a la ubicació</string>
   <string name="power_config_mode_title">Modes d\'estalvi de bateria</string>
   <string name="power_config_phone_charging_title">Carregant</string>
   <string name="power_config_phone_idle_title">Inactiu</string>

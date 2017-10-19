@@ -166,6 +166,7 @@
   <string name="edit_event_to_label">Fins a</string>
   <string name="electricity_amount_label">Consum d\'electricitat</string>
   <string name="email_guests_label">Envia un correu als convidats</string>
+  <string name="email_install_hint">El correu s\'ha desinstal·lat. En reinstal·lar-lo, podeu restaurar les dades del compte del calendari o afegir-ne un de nou.</string>
   <string name="email_picker_label">Envia un correu amb</string>
   <string name="email_subject_prefix">"Re: "</string>
   <string name="empty_event">No s\'ha creat l\'esdeveniment buit</string>
@@ -191,7 +192,7 @@
   <string name="event_info_where">On\u0009</string>
   <string name="event_reminder_allday_day_zero">Aquell dia a les %2$s</string>
   <string name="event_reminder_value_zero">Abans de l\'esdeveniment</string>
-  <string name="event_reminders_to_max">Podeu configurar %d recordatoris</string>
+  <string name="event_reminders_to_max">Podeu configurar %d recordatoris com a màxim</string>
   <string name="event_title">Títol</string>
   <string name="event_view">Mostra l\'esdeveniment</string>
   <string name="every_weekday">Entre setmana (dl.-dv.)</string>
@@ -227,9 +228,13 @@
   <string name="insert_event_dialog_title">Avís</string>
   <string name="insert_event_toast_add_failed">"No s'ha pogut afegir"</string>
   <string name="insert_event_toast_add_success">S\'ha creat l\'esdeveniment</string>
+  <string name="install_email_app">Instal·la el correu</string>
+  <string name="install_email_finished">S\'ha instal·lat el correu</string>
+  <string name="installing_email">S\'està instal·lant...</string>
   <string name="item_num_selected">%1$d seleccionat(s)</string>
   <string name="joke_card_icon_text">%1$s les persones riuen</string>
   <string name="jump_date_full">Vés a la data</string>
+  <string name="life_assistant_group_title">Assistent de vida</string>
   <string name="load_more_hint">Actualitza els esdeveniments de %1$d</string>
   <string name="loading">Un moment&#8230;</string>
   <string name="local_calendar_display_name">Calendari local</string>

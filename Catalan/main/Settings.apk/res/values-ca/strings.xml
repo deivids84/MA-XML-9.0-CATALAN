@@ -1911,6 +1911,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="launch_defaults_none">No s\'ha definit cap valor predeterminat</string>
   <string name="launch_defaults_some">S\'han definit alguns valors predeterminats</string>
   <string name="launch_google_search">Obre Google Assistant</string>
+  <string name="launch_recents">Executa recents</string>
   <string name="launch_voice_assistant">Obre l\'assistent de veu</string>
   <string name="launcher_auto_fill_empty_title">Emplena cel·les buides</string>
   <string name="launcher_title">Pantalla d\'inici</string>
@@ -2318,6 +2319,7 @@ Hi ha altres usuaris presents en aquest dispositiu.
   <string name="miui_allow_music">Multimèdia</string>
   <string name="miui_allow_vibrate">Vibració</string>
   <string name="miui_data_usage_menu_metered">Punts d\'accés mòbil</string>
+  <string name="miui_enable_service_title">El servei durà a terme aquestes accions:</string>
   <string name="miui_experience_optimization">Activa l\'optimització MIUI</string>
   <string name="miui_lab_feature_applied">S\'ha aplicat</string>
   <string name="miui_lab_feature_off">Desactivat</string>
@@ -3540,9 +3542,12 @@ Per fer-ho:
   <string name="settings_shortcut">Configuració de les dreceres</string>
   <string name="settings_toggle_position_divider_list">Els commutadors sobre d\'aquesta barra són actius</string>
   <string name="setup_choose_unlock_fingerprint_msg">Establiu el bloqueig de la pantalla abans d\'afegir l\'empremta.</string>
+  <string name="setup_choose_unlock_mixed_password">Contrasenya</string>
   <string name="setup_choose_unlock_mixpassword_title">Estableix la contrasenya</string>
+  <string name="setup_choose_unlock_password">PIN</string>
   <string name="setup_choose_unlock_password_msg">Introduïu 4 números</string>
   <string name="setup_choose_unlock_password_title">Estableix el PIN</string>
+  <string name="setup_choose_unlock_pattern">Patró</string>
   <string name="setup_choose_unlock_pattern_title">Dibuixa un patró de desbloqueig</string>
   <string name="setup_choose_unlock_type_title">Estableix la contrasenya</string>
   <string name="setup_fingerprint_enroll_enrolling_skip_message">Heu optat per utilitzar l\'empremta com una manera de desbloquejar el telèfon. Si ara ometeu aquest pas, haureu de configurar-ho després. Aquest procés només triga un parell de minuts.</string>
@@ -4038,6 +4043,7 @@ Podeu compartir la connexió a internet del dispositiu Android amb l\'ordinador 
   <string name="tethering_settings_not_available">Canvia la configuració de la connexió compartida en el primer espai</string>
   <string name="tethering_settings_summary">"Compartiu la connexió de dades mòbils del dispositiu mitjançant USB o amb un punt d'accés Wi-Fi"</string>
   <string name="theme_settings_title">Temes</string>
+  <string name="thememanager_not_found">"No s'ha pogut obrir temes. Assegureu-vos que l'aplicació està instal·lada."</string>
   <string name="three_gesture_down">Feu lliscar 3 dits cap avall</string>
   <string name="time_picker_title">Hora</string>
   <string name="time_zone_auto_stub">Selecciona el fus horari</string>

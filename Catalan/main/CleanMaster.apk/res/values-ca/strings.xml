@@ -246,6 +246,7 @@
   <string name="install_sucess">%s s\'ha instal·lat amb èxit</string>
   <string name="installed">Instal·lat</string>
   <string name="installing">S\'està instal·lant</string>
+  <string name="international_Ad">Anunci</string>
   <string name="item_title_process_mode">Trieu una acció</string>
   <string name="junk_tag_RF_EmptyFolders">Carpetes buides</string>
   <string name="junk_tag_RF_ImageThumbnails">Miniatures de la Galeria</string>

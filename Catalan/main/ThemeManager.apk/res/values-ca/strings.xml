@@ -39,6 +39,7 @@
   <string name="component_title_wallpaper">Fons de pantalla</string>
   <string name="current_using_desktop_wallpaper_text">Pantalla d\'inici</string>
   <string name="current_using_lockscreen_wallpaper_text">Pantalla de bloqueig</string>
+  <string name="current_version_incompatible">Versió d\'incompatibilitat</string>
   <string name="deleting">S\'està suprimint&#8230;</string>
   <string name="description_author">Autor</string>
   <string name="description_designer">Dissenyador</string>
@@ -90,6 +91,8 @@
   <string name="gift_use_confirmation_dlg_title">Voleu enviar aquest regal?</string>
   <string name="gift_use_fail_dlg_title">Alguna cosa va anar malament</string>
   <string name="gift_used">Enviat</string>
+  <string name="hide_free">"Amaga els de franc "</string>
+  <string name="hide_incompatible">"Amaga els incompatibles "</string>
   <string name="home_apply_failured">"No es pot aplicar el fons de la pantalla d'inici"</string>
   <string name="home_apply_success">S\'ha aplicat el fons de pantalla d\'inici</string>
   <string name="in_the_end">No hi ha més</string>
@@ -126,8 +129,17 @@
   <string name="my_gifts_received">Rebuts</string>
   <string name="no_data">"No s'ha pogut connectar a la xarxa"</string>
   <string name="online_no_network">"No s'ha pogut connectar a la xarxa"</string>
+  <string name="online_precust_animal">Animal</string>
   <string name="online_precust_asphalt">Asfalt</string>
+  <string name="online_precust_building">Edifici</string>
+  <string name="online_precust_cartoon">Dibuixos</string>
+  <string name="online_precust_creative">Creatiu</string>
+  <string name="online_precust_entertainment">Entertainment</string>
+  <string name="online_precust_lifestyle">Estil de vida</string>
   <string name="online_precust_peach_blossom">Flor de préssec</string>
+  <string name="online_precust_plant">Planta</string>
+  <string name="online_precust_scenery">Paisatge</string>
+  <string name="online_precust_starry_sky">Cel estrellat</string>
   <string name="online_search_hint">Cerca recursos en línia</string>
   <string name="present_local_themes">Baixats</string>
   <string name="present_online_themes">Aconsegueix més temes de franc</string>
@@ -138,6 +150,7 @@
   <string name="purchased_list">Comprats</string>
   <string name="purchased_list_legacy">Temes heretats</string>
   <string name="recently_used">Utilitzats recentment</string>
+  <string name="region_not_support">Els temes no són compatibles amb la vostra zona.</string>
   <string name="reload">Torneu a provar-ho</string>
   <string name="resource_account_abnormal_state">Error en el compte. Espereu un o dos minuts i torneu-ho a provar.</string>
   <string name="resource_account_fail_to_add">"No es pot afegir el compte"</string>
