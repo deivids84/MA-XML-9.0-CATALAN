@@ -68,6 +68,7 @@
   <string name="error_title">"No s'ha pogut sincronitzar"</string>
   <string name="error_unauthorized">La sincronització s\'ha desactivat a causa de massa intents d\'iniciar sessió.</string>
   <string name="evening">PM</string>
+  <string name="fmt_time_24hour">"H 'en punt'"</string>
   <string name="friday">Divendres</string>
   <string name="friday_short">dv.</string>
   <string name="friday_shortest">dv.</string>
@@ -107,6 +108,7 @@
   <string name="item_title_vel_conversion">Velocitat</string>
   <string name="item_title_volume_conversion">Volum</string>
   <string name="item_title_weight_conversion">Pes</string>
+  <string name="label">SDK de MIUI</string>
   <string name="leftParenDesc">parèntesi esquerre</string>
   <string name="lgDesc">logaritme</string>
   <string name="lnDesc">logaritme neperià</string>
@@ -194,7 +196,7 @@
   <string name="mortgage_years_amount">Període de la hipoteca</string>
   <string name="mulDesc">multiplica</string>
   <string name="name">Nom</string>
-  <string name="network_confirm_content">"El convertidor de moneda i les calculadores d'impostos i d'hipoteca utilitzen la connexió de xarxa per funcionar correctament."</string>
+  <string name="network_confirm_content">El convertidor de moneda i les calculadores d\'impostos i d\'hipoteca utilitzen la connexió de xarxa per funcionar correctament.</string>
   <string name="network_confirm_title">Es requereixen permisos</string>
   <string name="nickname">Sobrenom</string>
   <string name="night">PM</string>
@@ -229,6 +231,7 @@
   <string name="privacy_policy">Política de privadesa</string>
   <string name="rate_data_provider">Els tipus d\'interès són proporcionats per hexun.com</string>
   <string name="rightParenDesc">parèntesi dret</string>
+  <string name="sar">Informació de l\'exposició d\'RF</string>
   <string name="saturday">dissabte</string>
   <string name="saturday_short">ds.</string>
   <string name="saturday_shortest">ds.</string>
@@ -237,8 +240,11 @@
   <string name="select_all">Selecciona-ho tot</string>
   <string name="select_item">Selecciona elements</string>
   <string name="send">Envia</string>
+  <string name="send_sms_for_sync_notice">És possible que es requereixi un missatge SMS sortint per activar aquest servei. El vostre operador li cobrarà per aquest missatge.</string>
   <string name="send_sms_for_sync_title">Avís d\'ús de dades</string>
   <string name="settingsDesc">configuració</string>
+  <string name="sim_changed_reactivate_int_notice">És possible que es requereixi un missatge SMS internacional sortint per reactivar aquest servei. El vostre operador li cobrarà per aquest missatge.</string>
+  <string name="sim_changed_reactivate_notice">És possible que es requereixi un missatge SMS sortint per reactivar aquest servei. El vostre operador li cobrarà per aquest missatge.</string>
   <string name="sim_in_airplane_mode">Desactiveu el mode avió.</string>
   <string name="sim_locked">La targeta SIM està bloquejada.</string>
   <string name="sim_not_ready">Targeta SIM en ús. Torneu-ho a provar més tard.</string>
@@ -465,8 +471,11 @@
   <string name="wednesday_short">dc.</string>
   <string name="wednesday_shortest">dc.</string>
   <string name="wf_word_figure">Caràcters financers</string>
+  <string name="xiaomi_bytes_unit">%1$s B</string>
   <string name="xiaomi_connect_download_manager_fail">Error en connectar-se al Gestor de baixades. Comproveu l\'estat del Gestor de baixades a l\'Administrador d\'aplicacions.</string>
   <string name="xiaomi_external_storage_unavailable">L\'emmagatzematge no està disponible, comproveu la targeta SD.</string>
+  <string name="xiaomi_kilobytes_unit">%1$s kB</string>
+  <string name="xiaomi_megabytes_unit">%1$s MB</string>
   <string name="xiaomi_mobile">Mòbil Mi</string>
   <string name="xiaomi_update_dialog_message">"Presentació de la versió %1$s
 Mida: %2$s"</string>

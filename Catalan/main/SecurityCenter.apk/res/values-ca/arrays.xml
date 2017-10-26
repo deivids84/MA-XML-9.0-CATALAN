@@ -58,6 +58,7 @@
     <item>Emmagatzematge utilitzat</item>
     <item>Ús de dades</item>
     <item>Ús de bateria</item>
+    <item>Data d\'instal·lació</item>
   </string-array>
   <string-array name="sort_title">
     <item>Ordena per estat</item>
@@ -66,6 +67,7 @@
     <item>Ordena per emmagatzematge d\'ús</item>
     <item>Ordena per l\'ús de dades</item>
     <item>Ordena per l\'ús de la bateria</item>
+    <item>Ordenar per data d\'instal·lació</item>
   </string-array>
   <string-array name="title_app_info">
     <item>Origen de la instal·lació</item>

@@ -37,8 +37,6 @@
   <string name="backup_hint">No apagueu el dispositiu</string>
   <string name="backup_hint_onpad">No apagueu el dispositiu</string>
   <string name="backup_is_running">S\'està fent la còpia de seguretat del dispositiu</string>
-  <string name="backup_items_app_tailer">" fitxers de dades d'aplicació"</string>
-  <string name="backup_items_sysdata_tailer">" fitxers de dades del sistema,"</string>
   <string name="backup_new">Noves:</string>
   <string name="backup_progress">S\'està fent la còpia de seguretat&#8230;</string>
   <string name="backup_report">Mostra els detalls</string>
@@ -277,12 +275,11 @@
   <string name="trans_device_disconnected">S\'ha desconnectat el dispositiu</string>
   <string name="trans_device_wait_for_reconnecting">Dispositiu desconnectat. Torneu-lo a connectar.</string>
   <string name="trans_generate_qr_code_failed">"No s'ha pogut crear el codi QR"</string>
-  <string name="trans_intro_desc_2">Cancel·leu la transferència, sortiu de Mi Mover i començareu de nou. Els fitxers duplicats es sobreescriuran durant la nova transferència.</string>
-  <string name="trans_intro_desc_3">"El Mi Mover utilitza Wi-Fi per transferir fitxers. Per això, no es pot connectar a Internet mitjançant Wi-Fi en qualsevol dispositiu durant una transferència. Encara podeu utilitzar dades mòbils. Tanmateix, alguns dispositius més nous (per exemple, Mi 6) encara podrien connectar-se a Internet mitjançant Wi-Fi durant les transferències."</string>
-  <string name="trans_intro_desc_4">L\'espai d\'emmagatzematge en dispositius antics s\'utilitza per crear paquets de transferència. Assegureu-vos que teniu almenys 500 Mb: 1 Gb d\'emmagatzematge disponible al vostre telèfon anterior abans d\'iniciar una transferència.</string>
+  <string name="trans_intro_desc_3">El Mi Mover utilitza Wi-Fi per transferir fitxers. Per això, no es pot connectar a Internet mitjançant Wi-Fi en qualsevol dispositiu durant una transferència. Encara podeu utilitzar dades mòbils. Tanmateix, alguns dispositius més nous (per exemple, Mi 6) encara podrien connectar-se a Internet mitjançant Wi-Fi durant les transferències.</string>
+  <string name="trans_intro_desc_4">"L'espai d'emmagatzematge en dispositius antics s'utilitza per crear paquets de transferència. Assegureu-vos que teniu almenys 500 Mb: 1 Gb d'emmagatzematge disponible al vostre telèfon anterior abans d'iniciar una transferència."</string>
   <string name="trans_intro_desc_5">Hi ha diverses raons per les quals això pot passar: problemes de compatibilitat amb la versió de l\'aplicació i del sistema, problemes de xarxa, problemes de compatibilitat específics d\'un dispositiu en particular, etc.</string>
   <string name="trans_intro_desc_6">Alguns perfils d\'aplicacions (banca electrònica, finances, etc.) estan associats a un dispositiu específic per raons de seguretat. Proveu de netejar les dades de l\'aplicació o torneu a instal·lar l\'aplicació en un dispositiu nou.</string>
-  <string name="trans_intro_desc_7">"Les dades de l'aplicació WeChat i l'historial de xat poden no ser transferits completament amb Mi Mover. Aneu a la configuració de WeChat i tanqueu el vostre compte per obtenir més possibilitats d'obtenir una transferència amb èxit."</string>
+  <string name="trans_intro_desc_7">Les dades de l\'aplicació WeChat i l\'historial de xat poden no ser transferits completament amb Mi Mover. Aneu a la configuració de WeChat i tanqueu el vostre compte per obtenir més possibilitats d\'obtenir una transferència amb èxit.</string>
   <string name="trans_intro_desc_account">Haureu d\'iniciar la sessió als vostres comptes (p. ex., Compte Mi, Exchange, Google, etc.) en un nou dispositiu per raons de seguretat.</string>
   <string name="trans_intro_desc_multiapp">"El Mi Mover no transfereix dades d'aplicacions duals per evitar conflictes entre fitxers."</string>
   <string name="trans_intro_desc_multiuser">"El Mi Mover no pot accedir als elements del segon espai. Moveu els elements al primer espai i inicieu el Mi Mover allà."</string>
@@ -291,7 +288,7 @@
   <string name="trans_intro_desc_private">"El Mi Mover no pot accedir a les fotos de l'àlbum ocult perquè estan xifrades. Podeu restaurar aquestes fotos de Mi Cloud en un dispositiu nou."</string>
   <string name="trans_intro_question_1">1. Com s\'utilitza Mi Mover?</string>
   <string name="trans_intro_question_2">2. Què he de fer si Mi Mover s\'ha quedat encallat en un cert pas?</string>
-  <string name="trans_intro_question_3">"3. Per què no puc utilitzar la Wi-Fi durant les transferències?"</string>
+  <string name="trans_intro_question_3">3. Per què no puc utilitzar la Wi-Fi durant les transferències?</string>
   <string name="trans_intro_question_4">"4. Per què Mi Mover em diu que no hi ha prou espai d'emmagatzematge en el meu antic telèfon?"</string>
   <string name="trans_intro_question_5">"5. Per què no s'han transferit algunes aplicacions amb èxit?"</string>
   <string name="trans_intro_question_6">"6. Per què no s'inicien algunes aplicacions en un dispositiu nou?"</string>
@@ -373,7 +370,6 @@ S\'està esperant la transferència&#8230;"</string>
   <string name="trans_waiting_ensurance">"Comproveu que el dispositiu antic està engegat
 i s\'ha activat Mi Mover"</string>
   <string name="trans_waiting_for_sender">S\'està esperant al dispositiu antic per connectar&#8230;</string>
-  <string name="unit_piece">"  elements"</string>
   <string name="unknown_hint">Desconeguda</string>
   <string name="user_notice_declaration_ignore">"No ho tornis a mostrar"</string>
   <string name="user_notice_message">Per funcionar amb normalitat, algunes característiques requereixen connexió a Internet.</string>

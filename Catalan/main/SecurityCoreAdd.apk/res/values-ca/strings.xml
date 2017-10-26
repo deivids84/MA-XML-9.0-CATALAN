@@ -89,6 +89,7 @@ aquesta característica s\'afegirà al Segon espai automàticament."</string>
   <string name="exit_private_space">Canviar</string>
   <string name="finger_print_num">Empremta %d</string>
   <string name="finger_print_of_use">Utilitzar l\'empremta</string>
+  <string name="fingerprint_number_upper_limit">Massa intents de desbloqueig fallits</string>
   <string name="fingerprint_removal_failed">"No s'ha pogut eliminar l'empremta"</string>
   <string name="function_not_support">No és compatible amb aquest espai</string>
   <string name="gms_message">La creació d\'aplicacions duals requereix treballar amb els serveis de Google. Voleu crear una aplicació dual per als serveis de Google?</string>

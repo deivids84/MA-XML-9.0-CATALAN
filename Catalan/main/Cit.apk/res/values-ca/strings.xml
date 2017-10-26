@@ -256,6 +256,8 @@ Toqueu la pantalla per iniciar el GPS&#8230;"</string>
   <string name="cit_pressure_sensor_check_title">Sensor de pressió</string>
   <string name="cit_proximity_sensor_check_summary">Cobriu el sensor de proximitat (situat a la part superior del telèfon a prop del receptor) amb la mà, després moveu la mà lluny. Hauria d\'augmentar el valor 0,0 en moure la mà més lluny del dispositiu. Durant el calibratge, assegureu-vos que no hi ha res entre el sensor i la mà (p. ex. coberta protectora de pantalla o guants).</string>
   <string name="cit_proximity_sensor_check_title">Sensor de proximitat</string>
+  <string name="cit_proximity_us_sensitivity">Sensibilitat:</string>
+  <string name="cit_proximity_us_summary">Calibratge ultrasònic del sensor de proximitat</string>
   <string name="cit_rear_dual_camera_check_title">Càmera dual posterior</string>
   <string name="cit_rear_sub_camera_check_title">Sub càmera posterior</string>
   <string name="cit_recovery_signature_failed">HA FALLAT la restauració de la signatura</string>

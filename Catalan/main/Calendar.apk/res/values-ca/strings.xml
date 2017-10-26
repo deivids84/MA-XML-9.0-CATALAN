@@ -36,7 +36,7 @@
   <string name="alarm_label">Descarta</string>
   <string name="alert_reminder_expired">Caducat</string>
   <string name="alert_title">Notificacions del calendari</string>
-  <string name="anniversary_event_title">[Celebració]%1$s</string>
+  <string name="anniversary_event_title">Commemoració: %1$s</string>
   <string name="app_label">Calendari</string>
   <string name="app_name">comú</string>
   <string name="birthday_calendar_display_name">Recordatori d\'aniversaris</string>
@@ -159,7 +159,7 @@
   <string name="edit_event_reminder_time">Hora de recordatori</string>
   <string name="edit_event_reminder_with_another_day_text">En %1$s, %2$s a les %3$s</string>
   <string name="edit_event_show_all">Mostra-ho tot</string>
-  <string name="edit_event_tab_anniversary">Aniversari</string>
+  <string name="edit_event_tab_anniversary">Commemoració</string>
   <string name="edit_event_tab_birthday">Aniversari</string>
   <string name="edit_event_tab_countdown">Compte enrere</string>
   <string name="edit_event_tab_event">Esdeveniment</string>

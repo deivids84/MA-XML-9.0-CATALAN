@@ -664,6 +664,7 @@
   <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
   <string name="firewall_wifi_dialog_message">"L'aplicació instal·lada no podrà connectar-se a Internet utilitzant Wi-Fi quan aquest interruptor està desactivat"</string>
   <string name="five_percent_total_pkg">%s (5%% de les dades mensuals)</string>
+  <string name="forbid_autobright_title">Corregeix la lluentor de la pantalla</string>
   <string name="foreground_traffic">Portar a primer pla %s</string>
   <string name="forget_password_button_text">He oblidat la contrasenya</string>
   <string name="forget_password_button_text_normal">Contrasenya oblidada</string>
@@ -682,7 +683,10 @@
   <string name="game_anti_disturb_msg">Joc no molestis</string>
   <string name="game_booster">Accelerador de velocitat dels jocs</string>
   <string name="game_booster_intro">Quant a l\'accelerador de velocitat dels jocs</string>
+  <string name="game_booster_jump_webview">Un moment…</string>
+  <string name="game_booster_tab_top">Destacats</string>
   <string name="game_booster_title">Potenciador</string>
+  <string name="game_bootser_tab_settings">Configuració de l\'accelerador</string>
   <string name="game_improve_text1">Esborra la memòria cau per jugar i alliberar memòria</string>
   <string name="game_improve_text2">Esborra la memòria cau per jugar, millorar el rendiment de la CPU i alliberar memòria</string>
   <string name="game_improve_title">Optimitza el rendiment</string>
@@ -691,6 +695,8 @@
   <string name="game_net_text2">"Augmenta la velocitat de connexió del joc mentre es limita la velocitat de baixada en segon pla per reduir el retard de la xarxa"</string>
   <string name="game_net_title">Optimitza la velocitat de connexió</string>
   <string name="game_setting">Configuració del joc</string>
+  <string name="gamebooster_lowbattery_notification_summary">Carregueu el dispositiu abans de desactivar-lo.</string>
+  <string name="gamebooster_lowbattery_notification_title">La bateria està per sota del 5%%</string>
   <string name="gamebooster_main_activity_back">Torna a l\'accelerador de velocitat dels jocs</string>
   <string name="gamebooster_network_dialog_message">Voleu permetre a la seguretat connectar-se a la xarxa per poder utilitzar totes les funcions de l\'accelerador de velocitat dels jocs?</string>
   <string name="gamebooster_network_dialog_title">"Algunes característiques no estan disponibles"</string>
@@ -705,8 +711,11 @@
   <string name="gs_app_back_self_start">Estalviador de bateria</string>
   <string name="gs_auto_clean_memory">Esborra la memòria cau</string>
   <string name="gs_auto_clean_memory_detail">Esborra la memòria cau automàticament per optimitzar el joc</string>
+  <string name="gs_call_handsfree">Respon trucades amb el mans lliures</string>
+  <string name="gs_call_handsfree_mute">Mode silenci</string>
   <string name="gs_dialog_confirm_close_msg">La drecera s\'eliminarà de la vostra pantalla d\'inici. Aneu a Seguretat &gt; Configuració per restablir-la.</string>
   <string name="gs_dialog_confirm_close_title">Desactiva</string>
+  <string name="gs_forbid_autosync">Restringeix la sincronització en segon pla</string>
   <string name="gs_game_disturb_msg">No molesteu</string>
   <string name="gs_game_duration">Temps</string>
   <string name="gs_game_net_priority">Prioritat de connexió</string>
@@ -787,6 +796,7 @@
   <string name="keywords_auto_restart">Inici automàtic;Permisos;Inici automàtic; Automàtic;Gestiona l\'inici automàtic;Inici automàtic MIUI;Inici automàtic de l\'aplicació;Inicia automàticament aplicacions;Inici de la cadena,inici encadenat, inici provocat</string>
   <string name="keywords_buy_flow">dades;dades mòbils;compra dades;compra dades mòbils;recàrrega de dades;pla de dades</string>
   <string name="keywords_cleanmaster">Paperera;Neteja;Velocitat;Emmagatzematge;Memòria cau</string>
+  <string name="keywords_gamebooster">Joc;accelerador de velocitat;Glòria del rei;Mode rendiment;No molestis</string>
   <string name="keywords_networkassistant_1">Dades;Trànsit</string>
   <string name="keywords_networkassistant_2">Dades;Calibrar</string>
   <string name="keywords_networkassistant_4">Connexió;Internet;Prova</string>
@@ -858,12 +868,15 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="main_alert_message_no_imsi">SIM no detectada</string>
   <string name="main_alert_message_open_traffic_ctrl">Li recomanem la restricció de l\'ús de dades</string>
   <string name="main_bill_remained">Saldo del telèfon</string>
+  <string name="main_button_mi_sim_close">Activa la SIM Mi</string>
+  <string name="main_button_mi_sim_open">Mostra els detalls</string>
   <string name="main_button_usage_adjust">Sincronitza l\'ús de dades mòbils</string>
   <string name="main_button_usage_adjust_manual">Estableix límit d\'ús de dades</string>
   <string name="main_button_usage_adjusting">Canviant&#8230;</string>
   <string name="main_button_usage_adjusting_bill">S\'està canviant&#8230;</string>
   <string name="main_button_usage_package_setting">Estableix límit d\'ús de dades</string>
   <string name="main_daily_package">Pla de dades diari</string>
+  <string name="main_indicator_title">A l\'espera de l\'activació</string>
   <string name="main_leisure_remained">Dades restants en horari vall</string>
   <string name="main_month_total_used">Usats aquest mes</string>
   <string name="main_month_used">Pla de dades</string>
@@ -880,6 +893,7 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="main_tc_over">S\'ha calibrat amb èxit</string>
   <string name="main_tc_send_sms">Envia SMS per calibrar</string>
   <string name="main_tc_wait_result">S\'està esperant la resposta de l\'operador</string>
+  <string name="main_tobe_added_desc">Dades mòbils des de ¥ 0,03/MB</string>
   <string name="main_today_used">Usat avui</string>
   <string name="main_toolbar_firewall">Restricció d\'ús de dades a aplicació</string>
   <string name="main_toolbar_internet_by_mobiledata">Dades mòbils</string>
@@ -988,6 +1002,7 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="name">Nom</string>
   <string name="net_booster">Augment de velocitat de la xarxa</string>
   <string name="net_booster_expire_notification">La sessió d\'augment de la velocitat de la xarxa està a punt de finalitzar</string>
+  <string name="net_booster_expire_notification_tip">%d d restants abans de finalitzar la sessió d\'augment de la velocitat de xarxa. Renoveu la sessió per evitar problemes de velocitat de xarxa.</string>
   <string name="net_booster_overdue_notification">La sessió d\'augment de la velocitat de la xarxa està a punt de finalitzar</string>
   <string name="net_booster_overdue_notification_tip">La sessió d\'augment de la velocitat de xarxa finalitzarà aviat. Voleu renovar la sessió?</string>
   <string name="net_booster_tip">Activeu l\'augment de la velocitat de xarxa per fer que la connexió Wi-Fi sigui més estable i reduir el retard de la xarxa.</string>
@@ -1189,6 +1204,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="path_auto_restart">Aplicacions del sistema/Seguretat/Permisos/Gestiona l\'inici automàtic</string>
   <string name="path_buy_flow">Aplicacions del sistema/Seguretat/Ús de dades/Compra dades mòbils</string>
   <string name="path_cleanmaster">Aplicacions del sistema/Seguretat/Netejador</string>
+  <string name="path_gamebooster">Aplicacions del sistema/Seguretat/Accelerador de velocitat dels jocs</string>
   <string name="path_networkassistant_1">Aplicacions del sistema/Seguretat/Ús de dades</string>
   <string name="path_networkassistant_2">Aplicacions del sistema/Seguretat/Ús de dades</string>
   <string name="path_networkassistant_4">Aplicacions del sistema/Seguretat/Ús de dades/Prova de xarxa</string>
@@ -1407,6 +1423,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="resource_auto_restart">Gestiona l\'inici automàtic</string>
   <string name="resource_buy_flow">Compra dades mòbils</string>
   <string name="resource_cleanmaster">Netejador</string>
+  <string name="resource_gamebooster">Accelerador de velocitat dels jocs</string>
   <string name="resource_networkassistant_1">Ús de dades</string>
   <string name="resource_networkassistant_2">Calibrar pla de dades</string>
   <string name="resource_networkassistant_4">Prova de xarxa</string>
@@ -1777,6 +1794,8 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="tc_sms_report_upload_when_net">Gràcies per la seva col·laboració!</string>
   <string name="ten_percent_total_pkg">%s (10%% de les dades mensuals)</string>
   <string name="text_button">D\'acord</string>
+  <string name="thermal_tips_message">Jugar a jocs en mode de rendiment pot provocar problemes de sobreescalfament.</string>
+  <string name="thermal_tips_title">Atenció</string>
   <string name="third_application">Third party apps</string>
   <string name="three_percent_total_pkg">%s (3%% de les dades mensuals)</string>
   <string name="tips_dialog_title">"No coneix el seu límit?"</string>
@@ -1947,6 +1966,8 @@ Dades extres en ús"</string>
   <string name="virus_auto_update_engine">Actualització automàtica:%s</string>
   <string name="virus_update_tips_title">Connecteu-vos a la Wi-Fi</string>
   <string name="virus_wait_network_dialog_message">Les actualitzacions són grans. Connecteu-vos a la Wi-Fi per baixar-les</string>
+  <string name="vpn_disabled_by_user">La connexió de dades designada està desactivada</string>
+  <string name="vpn_unbale_get_phonenum">"No es poden obtenir números de telèfon amb els plans de dades designats"</string>
   <string name="wakepath_confirm_start_activity">Permetre a %1$s obrir %2$s?</string>
   <string name="website">Pàgina web</string>
   <string name="whitelist_prefix_add_hint">Afegeix tots els números amb prefix a les excepcions</string>

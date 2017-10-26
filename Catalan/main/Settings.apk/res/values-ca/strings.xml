@@ -2332,6 +2332,7 @@ Hi ha altres usuaris presents en aquest dispositiu.
   <string name="miui_lab_taplus_desc">Premeu i mantingueu premut per activar les dreceres</string>
   <string name="miui_lab_taplus_title">Activador d\'aplicacions</string>
   <string name="miui_screen_config_title">Configuració de la pantalla inicial</string>
+  <string name="miui_updater">Actualitzador</string>
   <string name="mms_breathing_light_color_title">Color dels missatges</string>
   <string name="mms_breathing_light_freq_title">Freqüència de parpelleig del LED dels missatges</string>
   <string name="mms_privacy_password_role_instruction">Les converses amb contactes privats es desaran aquí.</string>
@@ -2481,6 +2482,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="nfc_quick_toggle_summary">Permet l\'intercanvi de dades quan el telèfon toca un altre dispositiu</string>
   <string name="nfc_se_route_title">Posició d\'element segur</string>
   <string name="nfc_se_wallet_title">Portamonedes predeterminat</string>
+  <string name="no_account_found">Cap aplicació permet afegir comptes</string>
   <string name="no_application">Res</string>
   <string name="no_applications">Cap aplicació.</string>
   <string name="no_battery_summary">Cap ús de la bateria des de l\'última càrrega completa</string>
@@ -2666,7 +2668,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="paper_mode_customize_time_summary">planifica de mode de lectura com a temps personalitzat</string>
   <string name="paper_mode_customize_time_title">personalitza el temps</string>
   <string name="paper_mode_end_time_title">Hora de finalització</string>
-  <string name="paper_mode_get_location_dlg_msg">Per saber l\'hora de les albades i les postes de sol, cal permetre accés a la ubicació</string>
+  <string name="paper_mode_get_location_dlg_msg">És necessari l\'accés a la vostra ubicació per calcular l\'hora de les sortides i postes de sol</string>
   <string name="paper_mode_get_location_dlg_negative_btn_text">Cancel·la</string>
   <string name="paper_mode_get_location_dlg_positive_btn_text">Vés a la configuració</string>
   <string name="paper_mode_get_location_dlg_title">Estableix la ubicació</string>

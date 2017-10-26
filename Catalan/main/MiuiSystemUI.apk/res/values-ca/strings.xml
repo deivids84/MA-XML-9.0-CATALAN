@@ -227,6 +227,8 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
   <string name="demo_mode">Mode de demostració</string>
   <string name="description_direction_left">Lliscar a l\'esquerra per %s.</string>
   <string name="description_direction_up">Lliscar amunt per %s.</string>
+  <string name="description_image_button_answer">Resposta</string>
+  <string name="description_image_button_reject">Rebutja</string>
   <string name="description_target_search">Cercar</string>
   <string name="dev_settings_warning_message">Aquesta configuració només està prevista per a usos de desenvolupament. Pot fer que el dispositiu i les aplicacions s\'interrompin o tinguin un comportament inadequat.</string>
   <string name="dev_settings_warning_title">Voleu permetre la configuració de desenvolupament?</string>
@@ -614,6 +616,7 @@ d MMMM"</string>
   <string name="vpn_title_long">Connectant a VPN usant %s</string>
   <string name="wait_for_debugger">Espereu el depurador</string>
   <string name="wait_for_debugger_summary">Abans d\'executar-se, l\'aplicació de depuració espera que es connecti el depurador</string>
+  <string name="weather_description_no_aqi">%1$s &gt;</string>
   <string name="weather_publish_time">Actualitzat %1$s</string>
   <string name="wifi_aggressive_handover">Transferència forçada des de Wi-Fi a mòbil</string>
   <string name="wifi_aggressive_handover_summary">Si s\'activa, quan el senyal de Wi-Fi és baix es forçarà la transferència de dades des de Wi-Fi a mòbil</string>

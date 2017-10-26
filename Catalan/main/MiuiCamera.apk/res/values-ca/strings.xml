@@ -75,13 +75,12 @@
   <string name="dual_camera_lens_covered_toast">La lent està tapada.</string>
   <string name="dual_camera_lowlight_toast">"Sembla que és massa fosc."</string>
   <string name="dual_camera_too_close_toast">La càmera és massa a prop de l\'objecte.</string>
-  <string name="dual_camera_use_hint">«El mode estèreo ajuda a entelar el fons. L\'objecte no hauria de ser més lluny de 2 metres.»</string>
+  <string name="dual_camera_use_hint">"«El mode estèreo ajuda a entelar el fons. L'objecte no hauria de ser més lluny de 2 metres.»"</string>
   <string name="edit_eye_large">Ulls grans</string>
   <string name="edit_skin_smooth">Suau</string>
   <string name="edit_skin_white">To</string>
   <string name="error_fail_to_start_audio_capture">"No s'ha pogut iniciar el disparador per veu"</string>
   <string name="face_age_info">Edat: %d</string>
-  <string name="face_analyze_info">Edat: %2$s (%1$s)</string>
   <string name="face_analyze_info_female">Dona</string>
   <string name="face_analyze_info_male">Home</string>
   <string name="face_beauty_advanced">Avançat</string>
@@ -105,10 +104,9 @@
   <string name="face_beauty_intelligent_level_3">Alt</string>
   <string name="face_beauty_smart">Auto</string>
   <string name="face_score_info">Puntuació: %.1f</string>
-  <string name="groupshot_mode_use_hint">Es prendran diverses fotos per seleccionar la millor expressió facial per sintetitzar-la en una foto</string>
-  <string name="hibernate_hint">Premeu la pantalla per despertar la càmera</string>
   <string name="hine_hht">"Amb poca llum, la càmera farà diverses fotos
 i després crearà un tir amb una mínima quantitat de soroll."</string>
+  <string name="hint_device_water_mark">La marca d\'aigua del dispositiu s\'afegirà automàticament.</string>
   <string name="hint_fast_motion">El vídeo que enregistreu es visualitzarà més ràpid.</string>
   <string name="hint_groupshot">"La càmera farà varies fotos
 i les barrejarà per crear-ne una de nova on cadascú quedi millor."</string>
@@ -124,6 +122,7 @@ i les barrejarà per crear-ne una de nova on cadascú quedi millor."</string>
   <string name="module_name_portrait">Retrat</string>
   <string name="module_name_square">Quadrat</string>
   <string name="module_name_video">Vídeo</string>
+  <string name="multi_window_mode_not_supported">"La càmera no funciona amb la pantalla dividida"</string>
   <string name="no_storage">Inseriu la targeta SD abans d\'usar la càmera</string>
   <string name="not_enough_space">L\'emmagatzematge intern és ple</string>
   <string name="object_track_enable_toast">Per seleccionar un objecte, toqueu dos punts diagonals simultàniament en la seva vora.</string>
@@ -133,8 +132,6 @@ i les barrejarà per crear-ne una de nova on cadascú quedi millor."</string>
   <string name="pano_how_to_use_prompt_start">Toqueu la fletxa per canviar la direcció i començar a explorar lentament.</string>
   <string name="pano_how_to_use_prompt_to_move">Comenceu lentament la panoràmica</string>
   <string name="path_settings">Aplicacions del sistema/Càmera/Configuració</string>
-  <string name="photos_portrait_type_description">Les captures de retrat tenen un efecte de profunditat que manté el subjecte enfocat i esborra la resta del fons.</string>
-  <string name="photos_portrait_type_name">Retrat</string>
   <string name="portait_effect_entry_blackwhite">B/N</string>
   <string name="portait_effect_entry_fairytale">Infància</string>
   <string name="portait_effect_entry_japanese">Cel blau</string>
@@ -148,7 +145,6 @@ i les barrejarà per crear-ne una de nova on cadascú quedi millor."</string>
   <string name="portrait_mode_too_far_hint">Col·loqueu el subjecte dins de 2,5 metres</string>
   <string name="portrait_mode_use_hint">"El mode retrat us ajuda a desenfocar el fons
 amb un cos més clar i un retrat més bonic"</string>
-  <string name="portrait_with_facebeauty_hint">L\'embellidor ja està disponible en mode retrat</string>
   <string name="pref_advance_settings">Configuració addicional</string>
   <string name="pref_audio_focus_entry_front">Davant</string>
   <string name="pref_audio_focus_entry_rear">Darrere</string>
@@ -160,7 +156,6 @@ amb un cos més clar i un retrat més bonic"</string>
   <string name="pref_camera_antibanding_entry_3">Automàtic</string>
   <string name="pref_camera_antibanding_title">Antiparpelleig</string>
   <string name="pref_camera_asd_night_title">Millora les fotos fosques automàticament</string>
-  <string name="pref_camera_asd_popup_title">Avisa\'m quan calgui flaix</string>
   <string name="pref_camera_audio_capture_title">Veu</string>
   <string name="pref_camera_auto_capture_when_stable_summary">Per seleccionar un objecte, toqueu dos punts en diagonal al voltant seu. Quan l\'objecte estigui quiet la càmera es dispararà automàticament.</string>
   <string name="pref_camera_auto_capture_when_stable_title">Capturar objectes seleccionats quan estan fixos</string>
@@ -194,6 +189,7 @@ amb un cos més clar i un retrat més bonic"</string>
   <string name="pref_camera_contrast_title">Contrast</string>
   <string name="pref_camera_delay_capture_entry_audio">Àudio</string>
   <string name="pref_camera_delay_capture_title">Compte enrere</string>
+  <string name="pref_camera_device_watermark_title">Marca d\'aigua del dispositiu</string>
   <string name="pref_camera_exposuretime_entry_auto">Automàtic</string>
   <string name="pref_camera_face_info_watermark_title">Afegeix la marca d\'edat a la foto</string>
   <string name="pref_camera_facedetection_title">Detecció de cares</string>
@@ -345,7 +341,6 @@ amb un cos més clar i un retrat més bonic"</string>
   <string name="pref_skin_beautify_intelligent_title">Intel·ligent</string>
   <string name="pref_skin_beautify_slim_title">Prim</string>
   <string name="pref_skin_beautify_smooth_title">Pell</string>
-  <string name="pref_video_captrue_ability_title">Captura d\'imatge durant la gravació</string>
   <string name="pref_video_focusmode_entry_auto">Prémer</string>
   <string name="pref_video_focusmode_entry_continuous">Autofocus continu</string>
   <string name="pref_video_focusmode_title">Mode d\'enfocament</string>
@@ -356,7 +351,6 @@ amb un cos més clar i un retrat més bonic"</string>
   <string name="pref_video_speed_entry_slow">Lent</string>
   <string name="pref_video_speed_fast_title">Càmera ràpida</string>
   <string name="pref_video_speed_slow_title">Càmera lenta</string>
-  <string name="pref_video_speed_title">Velocitat de captura de vídeo</string>
   <string name="pref_video_time_lapse_frame_interval_entry_10">Interval de 0,3 segons (10 vegades)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_120">Intervals de 4 segons (120 vegades)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_150">Interval de 5 segons (150 vegades)</string>

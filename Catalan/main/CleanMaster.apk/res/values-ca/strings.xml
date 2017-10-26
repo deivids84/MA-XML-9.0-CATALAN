@@ -91,6 +91,15 @@
   <string name="cached_garbage">Memòria cau</string>
   <string name="call_log">Registre de trucades</string>
   <string name="cancel">Cancel·la</string>
+  <string name="cd_back">enrere</string>
+  <string name="cd_check_box_checked">comprovat</string>
+  <string name="cd_check_box_middle">selecció parcial</string>
+  <string name="cd_check_box_unchecked">no comprovat</string>
+  <string name="cd_list_item_collapse">replegat</string>
+  <string name="cd_list_item_expanded">expandit</string>
+  <string name="cd_percent">percentatge</string>
+  <string name="cd_settings">configuració</string>
+  <string name="cd_sort_type">tipus d\'ordenació</string>
   <string name="clean_content_all">Tot</string>
   <string name="clean_content_one">1 element</string>
   <string name="clean_content_three">3 elements</string>
@@ -246,7 +255,6 @@
   <string name="install_sucess">%s s\'ha instal·lat amb èxit</string>
   <string name="installed">Instal·lat</string>
   <string name="installing">S\'està instal·lant</string>
-  <string name="international_Ad">Anunci</string>
   <string name="item_title_process_mode">Trieu una acció</string>
   <string name="junk_tag_RF_EmptyFolders">Carpetes buides</string>
   <string name="junk_tag_RF_ImageThumbnails">Miniatures de la Galeria</string>
