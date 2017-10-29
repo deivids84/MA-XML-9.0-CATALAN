@@ -670,6 +670,8 @@
   <string name="forget_password_button_text_normal">Contrasenya oblidada</string>
   <string name="forget_pattern">Heu oblidat el patró?</string>
   <string name="free_send_net_booster">Augment de la velocitat de la xarxa gratuït</string>
+  <string name="free_send_net_booster_busniess">Obtén un augment de velocitat Xunlei gratuït</string>
+  <string name="free_send_net_booster_busniess_tip">Toqueu per rebre\'l</string>
   <string name="free_send_net_booster_tip">Gaudeix d\'un joc sense problemes amb l\'augment de velocitat de xarxa gratuït.</string>
   <string name="free_time_traffic">Límit de dades en hora vall</string>
   <string name="free_time_traffic_hint">Introduir límit de dades en hora vall</string>
@@ -680,6 +682,7 @@
   <string name="fw_blocked">Llista de bloqueig</string>
   <string name="fw_blocked_count">"Bloquejat "</string>
   <string name="fw_blocked_join">" i "</string>
+  <string name="game_ad_recommendation">Tothom està jugant</string>
   <string name="game_anti_disturb_msg">Joc no molestis</string>
   <string name="game_booster">Accelerador de velocitat dels jocs</string>
   <string name="game_booster_intro">Quant a l\'accelerador de velocitat dels jocs</string>

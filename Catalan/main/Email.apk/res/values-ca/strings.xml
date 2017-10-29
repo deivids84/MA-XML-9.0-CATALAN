@@ -583,6 +583,7 @@
         Quan: 
 %s (recurrent)
     "</string>
+  <string name="meeting_responded_failed">Error de resposta</string>
   <string name="meeting_tentative">"
         Temptatiu: 
 %s "</string>

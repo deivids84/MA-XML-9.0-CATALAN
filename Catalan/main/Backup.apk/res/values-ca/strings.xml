@@ -49,6 +49,7 @@
   <string name="button_cancel">Cancel·la</string>
   <string name="button_continue">Continua</string>
   <string name="button_finish">Finalitza</string>
+  <string name="button_import">Importa</string>
   <string name="button_next">Següent</string>
   <string name="button_ok">D\'acord</string>
   <string name="button_return">Enrere</string>
@@ -57,8 +58,17 @@
   <string name="camera_summary">Configuració de la càmera (no inclou les fotos)</string>
   <string name="cancel">Cancel·la</string>
   <string name="cancel_backup">Atura</string>
+  <string name="cancel_moving_dialog_message">Esteu segur que voleu aturar la importació?</string>
+  <string name="cancel_moving_dialog_title">Atura la importació</string>
   <string name="cancel_restore">Atura</string>
   <string name="click_to_view">Toqueu per veure-ho</string>
+  <string name="close_twice_auth_note">"Nota:
+Després de crear una nova pregunta de seguretat i confirmar la vostra data de naixement, la funció d\'autenticació dual es desactivarà. Si no veieu l\'opció de desactivar l\'autenticació dual a la pàgina del compte d\'ID d\'Apple, no podreu desactivar-la."</string>
+  <string name="close_twice_auth_step_1">1. Inicieu la sessió amb l\'identificador Apple a la pàgina del compte</string>
+  <string name="close_twice_auth_step_2">2. A la secció Seguretat, cliqueu a Edita</string>
+  <string name="close_twice_auth_step_3">3. Cliqueu Desactiva l\'autorització dual / en dos passos. Torneu a clicar per confirmar-ho</string>
+  <string name="close_twice_auth_steps">Per tancar l\'autorització de factor doble, seguiu els passos:</string>
+  <string name="close_twice_auth_tutor">Tanca l\'autorització de dos factors d\'ID d\'Apple</string>
   <string name="cloud_app_name">Còpia de seguretat de Mi Cloud</string>
   <string name="cloud_backup_hint">Inicieu la sessió per accedir a les còpies de seguretat</string>
   <string name="cloud_backup_login">Inicieu la sessió al compte Mi</string>
@@ -71,8 +81,11 @@
   <string name="cloud_restore_title">Restauració de la còpia de seguretat</string>
   <string name="cloud_restore_window_title">Restauració del Mi Cloud</string>
   <string name="cloud_search">S\'està cercant&#8230;</string>
+  <string name="comma_seperator">", "</string>
   <string name="compute_backup_info">S\'està obtenint informació de la còpia de seguretat&#8230;</string>
   <string name="compute_delete_contact_info">S\'està obtenint la informació&#8230;</string>
+  <string name="connect_wifi">Connecta a la Wi-Fi</string>
+  <string name="connect_wifi_tip">S\'ha desconnectat la xarxa. La importació de dades de l\'iCloud necessita Wi-Fi.</string>
   <string name="contact_title">Contactes</string>
   <string name="current_account">Hola %s</string>
   <string name="current_pad_location">Tauleta</string>
@@ -88,8 +101,10 @@
   <string name="delete_failed_backup_confirm">Aquesta còpia de seguretat conté errors.</string>
   <string name="deselect_all">Desselecciona-ho tot</string>
   <string name="dir_date_format">ddMMyyyy_HHmmss</string>
+  <string name="disable_encrypt_description">No ho xifris</string>
   <string name="disable_encrypt_title">Desactivació del xifratge</string>
   <string name="enable_encrypt">Activa el xifratge</string>
+  <string name="enable_encrypt_description">Xifra</string>
   <string name="enable_encrypt_fail">El xifratge ha fallat</string>
   <string name="enable_encrypt_indicator">Toqueu per xifrar-ho</string>
   <string name="enable_encrypt_ok">D\'acord</string>
@@ -120,12 +135,46 @@
   <string name="guarded_mode_dialog_backup_message">"No es permeten les còpies de seguretat en mode de Convidat."</string>
   <string name="guarded_mode_dialog_title">"Mode de Convidat"</string>
   <string name="guarded_mode_dialog_transfer_message">"En mode de Convidat no es pot utilitzar Mi Mover."</string>
+  <string name="hsa_code_null">El codi de verificació no pot estar buit</string>
+  <string name="hsa_input_hint">Introduïu el codi de verificació</string>
+  <string name="hsa_input_tip">L\'ID d\'iCloud permet l\'autenticació de dos factors. Introduïu el codi de verificació.</string>
+  <string name="hsa_send_again">Torna a enviar</string>
+  <string name="hsa_send_again_countdown">Torna-ho a enviar (%d s)</string>
+  <string name="hsa_send_failed">No s\'ha pogut enviar el codi de verificació. Torneu-ho a intentar més tard.</string>
+  <string name="hsa_sending">S\'està enviant…</string>
+  <string name="hsa_tip_message">"1.Un missatge que conté el codi de verificació s\'enviarà al telèfon enllaçat a iCloud
+2.Desactiveu l\'autenticació de dos factors si no es verifica."</string>
+  <string name="hsa_tip_message_shutdown_hsa">com desactivar l\'autenticació de dos factors</string>
+  <string name="hsa_tip_message_with_device">"1.Un missatge que conté el codi de verificació s\'ha enviat al telèfon %s enllaçat a iCloud
+2. Desactiveu l\'autenticació de dos factors si no es verifica."</string>
+  <string name="hsa_tip_title">Consells:</string>
+  <string name="hsa_title">Autenticació de dos factors</string>
+  <string name="hsa_verify_failed">L\'autenticació de dos factors ha fallat</string>
+  <string name="hsa_verify_failed_message">L\'autenticació de dos factors ha fallat. Podeu tornar-ho a intentar o desactiveu l\'autenticació de dos factors.</string>
+  <string name="hsa_verify_retry">Tornar a intentar</string>
+  <string name="hsa_verify_shutdown">Desactiva</string>
+  <string name="icloud_backup_tip">Accediu a l\'ID d\'iCloud del dispositiu Apple anterior</string>
+  <string name="icloud_how_to_backup_tip_steps">"1. Accediu a la configuració del dispositiu iOS i, a continuació, seleccioneu iCloud.
+2. Activeu els contactes.
+3. Seleccioneu fotos i activeu la biblioteca de fotos d\'iCloud."</string>
+  <string name="icloud_how_to_backup_tip_summary">Per importar les dades d\'iOS, heu de carregar les dades en dispositius antics a iCloud.</string>
+  <string name="icloud_how_to_backup_tip_title">Consells:</string>
+  <string name="icloud_login_title">Inicia sessió a l\'iCloud</string>
+  <string name="icloud_need_sync">"Per importar dades d\'iOS
+necessiteu carregar les dades en dispositius antics a l\'iCloud"</string>
+  <string name="icloud_need_wifi_message">La Wi-Fi no està connectada actualment. Per importar dades d\'iCloud, cal utilitzar Wi-Fi per iniciar la sessió i baixar-ne les dades.</string>
+  <string name="icloud_need_wifi_title">Es requereix d\'una connexió Wi-Fi</string>
+  <string name="import_again">Importa de nou</string>
+  <string name="import_data_from_icloud">Importa les dades des de l\'iCloud</string>
   <string name="import_from_xiaomi_account_hint1">"1.\u0009Baixeu Mi Talk i inicieu la sessió.
 \u0009http://www.miliao.com
 
 2.\u0009Aneu a la configuració de Mi Talk i seleccioneu \"Còpia de seguretat dels contactes al Compte Mi\""</string>
   <string name="import_from_xiaomi_account_hint2">Si ja teniu una còpia de seguretat, premeu Següent.</string>
   <string name="import_from_xiaomi_account_hint_title">Utilitzeu Mi Talk per fer còpies de seguretat dels contactes d\'altres dispositius.</string>
+  <string name="import_tip_summary">A causa de la compatibilitat, els contactes i les fotos només són compatibles. Heu de carregar les dades en dispositius antics primer a l\'iCloud.</string>
+  <string name="import_tip_title">Consells:</string>
+  <string name="loading_data">S\'estan carregant les dades</string>
   <string name="local_app_name">Còpia de seguretat</string>
   <string name="local_backup_window_title">Còpies de seguretat locals</string>
   <string name="local_home_title">Còpia de seguretat local</string>
@@ -139,6 +188,9 @@
   <string name="local_select_sysdata">Sistema</string>
   <string name="local_select_userapp">Aplicacions</string>
   <string name="local_select_video">Vídeos</string>
+  <string name="login">Inicia una sessió</string>
+  <string name="login_failed">No s\'ha pogut iniciar la sessió. Torneu-ho a intentar.</string>
+  <string name="logining">iniciant la sessió…</string>
   <string name="miliao_account_guide">Utilitzeu el Compte Mi per iniciar sessió al Mi Cloud, a la botiga de temes MIUI i als serveis Mi, des d\'arreu.</string>
   <string name="miliao_account_login">Inicia la sessió amb Mi Talk</string>
   <string name="mms_title">Missatgeria multimèdia</string>
@@ -146,6 +198,7 @@
   <string name="multi_user_mode_backup_message">"Desactiveu el mode Multiusuari per poder utilitzar la còpia de seguretat."</string>
   <string name="multi_user_mode_dialog_message">"Desactiveu el mode Multiusuari per poder utilitzar Mi Mover."</string>
   <string name="multi_user_mode_dialog_title">"Esteu utilitzant el mode Multiusuari"</string>
+  <string name="name_password_not_consistent">El nom d\'usuari o la contrasenya són incorrectes</string>
   <string name="never">Mai</string>
   <string name="new_backup">Còpia de seguretat</string>
   <string name="no_encrypt_password">Sense contrasenya</string>
@@ -155,15 +208,32 @@
   <string name="notif_backup_complete_title">S\'ha copiat correctament</string>
   <string name="notif_backup_content">Còpia de seguretat de les dades d\'usuari</string>
   <string name="notif_backup_title">Còpia de seguretat de les dades</string>
+  <string name="notif_icloud_canceled_summary">Cancel·lat</string>
+  <string name="notif_icloud_canceling_summary">S\'està cancel·lant…</string>
+  <string name="notif_icloud_import_title">Importa les dades des de l\'iCloud</string>
+  <string name="notif_icloud_loaded_summary">A l\'espera per baixar les dades</string>
+  <string name="notif_icloud_loading_summary">S\'estan carregant les dades…</string>
+  <string name="notif_icloud_logining">S\'està iniciant sessió a l\'ID d\'iCloud del dispositiu Apple anterior…</string>
+  <string name="notif_icloud_need_wifi_summary">A l\'espera de Wi-Fi</string>
+  <string name="notif_icloud_saved_summary">Importació finalitzada</string>
+  <string name="notif_icloud_saving_summary">S\'estan restaurant dades…</string>
   <string name="notif_restore_complete_title">Restauració completada</string>
   <string name="notif_restore_content">S\'estan restaurant les dades d\'usuari</string>
   <string name="notif_restore_title">Restauració de dades</string>
+  <string name="notif_trans_auto_reconnecting_content">Si cal, podeu cancel·lar la tasca actual.</string>
+  <string name="notif_trans_auto_reconnecting_title">S\'ha interromput la connexió. S\'està tornant a connectar automàticament…</string>
   <string name="notif_trans_receiving_completed">Dades rebudes correctament</string>
   <string name="notif_trans_receiving_failed">"No s'han pogut rebre les dades"</string>
   <string name="notif_trans_sending_completed">Dades enviades correctament</string>
   <string name="notif_trans_sending_failed">"No s'han pogut enviar les dades"</string>
   <string name="notif_trans_wait_for_reconnecting">El dispositiu remot està desconnectat. Torneu-lo a connectar.</string>
   <string name="page_loading">Un moment&#8230;</string>
+  <string name="password">contrasenya</string>
+  <string name="password_null">La contrasenya no es pot deixar en blanc</string>
+  <string name="pause">Pausa</string>
+  <string name="platform_chooser_item_android">Importa des de l\'Android</string>
+  <string name="platform_chooser_item_ios">Importa des d\'un dispositiu Apple</string>
+  <string name="platform_chooser_title">Trieu un dispositiu antic</string>
   <string name="progress_backup_hint">S\'està fent una còpia de seguretat&#8230;</string>
   <string name="progress_restore_hint">S\'està restaurant&#8230;</string>
   <string name="prompt_reading">S\'està llegint&#8230;</string>
@@ -190,6 +260,13 @@
   <string name="retry">Torna-hi</string>
   <string name="reverse_all">Esborra-ho tot</string>
   <string name="router_backup_hint">No apagueu el dispositiu</string>
+  <string name="save_finish_with_failing_items">"S\'ha interromput la importació. S\'han importat algunes dades
+Les dades restants necessiten ser importades de nou"</string>
+  <string name="saving_data">"S\'estan important les dades de l\'iCloud
+No desactiveu ni canvieu la Wi-Fi"</string>
+  <string name="saving_data_no_time">S\'estan restaurant les dades</string>
+  <string name="saving_data_space_low">"No hi ha prou espai
+Allibereu %s com a mínim"</string>
   <string name="sc_bad_request">Sol·licitud no vàlida</string>
   <string name="sc_internal_server_error">Error intern del servidor</string>
   <string name="sc_network_unavailable">Comproveu la connexió i torneu-ho a provar.</string>
@@ -206,6 +283,12 @@
   <string name="see_backup_files_on_router">Mostra les còpies de seguretat del Mi Router %s</string>
   <string name="select_all">Selecciona-ho tot</string>
   <string name="select_backup_item">Selecciona elements</string>
+  <string name="select_empty">Seleccioneu els elements a importar</string>
+  <string name="select_item_contacts">Contactes</string>
+  <string name="select_item_empty_summary">Sense contingut</string>
+  <string name="select_item_photos">Fotos</string>
+  <string name="select_item_summary_loading">S\'estan carregant les dades…</string>
+  <string name="select_item_summary_wait">Espereu a que es carreguin les dades</string>
   <string name="select_storage_location">Selecciona una ubicació per a la còpia de seguretat</string>
   <string name="service_stoped">El servei s\'ha aturat</string>
   <string name="settings_summary">Configuració del telèfon i missatgeria</string>
@@ -257,6 +340,7 @@
   <string name="total_size">, %s</string>
   <string name="trans_backingup">S\'està copiant&#8230;</string>
   <string name="trans_backingup_no_items">S\'està sincronitzant&#8230;</string>
+  <string name="trans_button_cancel">Cancel·la</string>
   <string name="trans_calculating">S\'està calculant&#8230;</string>
   <string name="trans_calculating_app_sd_size">S\'està calculant la mida: %s</string>
   <string name="trans_calculating_base_size">S\'està calculant la mida de les dades</string>
@@ -272,14 +356,19 @@
   <string name="trans_detail_category_files">Fitxers</string>
   <string name="trans_detail_category_sysdata">Dades del sistema</string>
   <string name="trans_detail_category_userdata">Aplicacions</string>
+  <string name="trans_device_auto_reconnecting">Dispositiu desconnectat. S\'està tornant a connectar automàticament…</string>
   <string name="trans_device_disconnected">S\'ha desconnectat el dispositiu</string>
   <string name="trans_device_wait_for_reconnecting">Dispositiu desconnectat. Torneu-lo a connectar.</string>
+  <string name="trans_disconnected_tips_message">El dispositiu remot està desconnectat. Torneu-lo a connectar a mà. Podeu cancel·lar la tasca actual si és necessari.</string>
+  <string name="trans_disconnected_tips_title">El dispositiu remot està desconnectat</string>
   <string name="trans_generate_qr_code_failed">"No s'ha pogut crear el codi QR"</string>
+  <string name="trans_intro_desc_1">"Al dispositiu Xiaomi, connecteu-vos per Wi-Fi. Toqueu «Sóc el destinatari» i, a continuació, seleccioneu «Dispositiu Apple». Inicieu sessió a l'iCloud i importeu-ne les dades."</string>
   <string name="trans_intro_desc_3">El Mi Mover utilitza Wi-Fi per transferir fitxers. Per això, no es pot connectar a Internet mitjançant Wi-Fi en qualsevol dispositiu durant una transferència. Encara podeu utilitzar dades mòbils. Tanmateix, alguns dispositius més nous (per exemple, Mi 6) encara podrien connectar-se a Internet mitjançant Wi-Fi durant les transferències.</string>
   <string name="trans_intro_desc_4">"L'espai d'emmagatzematge en dispositius antics s'utilitza per crear paquets de transferència. Assegureu-vos que teniu almenys 500 Mb: 1 Gb d'emmagatzematge disponible al vostre telèfon anterior abans d'iniciar una transferència."</string>
   <string name="trans_intro_desc_5">Hi ha diverses raons per les quals això pot passar: problemes de compatibilitat amb la versió de l\'aplicació i del sistema, problemes de xarxa, problemes de compatibilitat específics d\'un dispositiu en particular, etc.</string>
   <string name="trans_intro_desc_6">Alguns perfils d\'aplicacions (banca electrònica, finances, etc.) estan associats a un dispositiu específic per raons de seguretat. Proveu de netejar les dades de l\'aplicació o torneu a instal·lar l\'aplicació en un dispositiu nou.</string>
   <string name="trans_intro_desc_7">Les dades de l\'aplicació WeChat i l\'historial de xat poden no ser transferits completament amb Mi Mover. Aneu a la configuració de WeChat i tanqueu el vostre compte per obtenir més possibilitats d\'obtenir una transferència amb èxit.</string>
+  <string name="trans_intro_desc_8">"Les dades de l'aplicació WeChat i l'historial de xat poden no ser transferits completament amb Mi Mover. Aneu a la configuració de WeChat i tanqueu el vostre compte per obtenir més possibilitats d'obtenir una transferència amb èxit."</string>
   <string name="trans_intro_desc_account">Haureu d\'iniciar la sessió als vostres comptes (p. ex., Compte Mi, Exchange, Google, etc.) en un nou dispositiu per raons de seguretat.</string>
   <string name="trans_intro_desc_multiapp">"El Mi Mover no transfereix dades d'aplicacions duals per evitar conflictes entre fitxers."</string>
   <string name="trans_intro_desc_multiuser">"El Mi Mover no pot accedir als elements del segon espai. Moveu els elements al primer espai i inicieu el Mi Mover allà."</string>
@@ -294,6 +383,7 @@
   <string name="trans_intro_question_6">"6. Per què no s'inicien algunes aplicacions en un dispositiu nou?"</string>
   <string name="trans_intro_question_7">"7. Per què no s'ha transferit totalment l'historial de WeChat?"</string>
   <string name="trans_intro_question_8">"8. Quins elements no es poden transferir?"</string>
+  <string name="trans_intro_question_9">"9. Quins elements no es poden transferir?"</string>
   <string name="trans_intro_title">PMF</string>
   <string name="trans_intro_title_account">Comptes i contrasenyes:</string>
   <string name="trans_intro_title_multiapp">Dades d\'aplicacions duals:</string>
@@ -370,7 +460,11 @@ S\'està esperant la transferència&#8230;"</string>
   <string name="trans_waiting_ensurance">"Comproveu que el dispositiu antic està engegat
 i s\'ha activat Mi Mover"</string>
   <string name="trans_waiting_for_sender">S\'està esperant al dispositiu antic per connectar&#8230;</string>
+  <string name="trans_wlan_tips_message">"No desactiveu ni canvieu la Wi-Fi durant la transferència de dades. En cas contrari, el gestor pot fallar."</string>
+  <string name="trans_wlan_tips_title">"No desactiveu ni canvieu la Wi-Fi"</string>
   <string name="unknown_hint">Desconeguda</string>
+  <string name="user_name">ID d\'Apple o correu</string>
+  <string name="user_name_null">El nom d\'usuari no pot estar buit</string>
   <string name="user_notice_declaration_ignore">"No ho tornis a mostrar"</string>
   <string name="user_notice_message">Per funcionar amb normalitat, algunes característiques requereixen connexió a Internet.</string>
   <string name="user_notice_title">Atenció!</string>

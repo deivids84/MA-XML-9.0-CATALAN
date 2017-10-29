@@ -976,6 +976,7 @@ Torneu a provar-ho o truqueu al servei d\'atenció al client per a més opcions.
   <string name="path_auto_answer_pref_title">Aplicacions de sistema/Telèfon/Resposta automàtica</string>
   <string name="path_auto_retry_mode_title">Aplicacions de sistema/Telèfon/Configuració avançada/Reintent automàtic</string>
   <string name="path_autoip">Aplicacions de sistema/Telèfon/Configuració avançada/Marcatge IP automàtic</string>
+  <string name="path_call_advanced_settings_title">Aplicacions de sistema/Telèfon/Configuració avançada</string>
   <string name="path_call_background_setting_name">Aplicacions de sistema/Telèfon/Configuració avançada/Soroll de fons de la trucada</string>
   <string name="path_call_forwarding_settings">Aplicacions de sistema/Telèfon/Paràmetres de desviament de trucada</string>
   <string name="path_call_record_auto_title">Aplicacions de sistema/Telèfon/Enregistrament de trucades/Enregistra trucades automàticament</string>

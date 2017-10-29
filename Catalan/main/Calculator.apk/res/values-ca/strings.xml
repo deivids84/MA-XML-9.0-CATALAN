@@ -73,6 +73,7 @@
   <string name="friday_short">dv.</string>
   <string name="friday_shortest">dv.</string>
   <string name="from_unit_en">Quilòmetres per hora</string>
+  <string name="global_network_confirm_content">El convertidor de divises necessita connectar-se a Internet perquè funcioni amb normalitat.</string>
   <string name="global_search_key_area_convertion">Àrea;Conversor de àrea;Conversió d\'àrea</string>
   <string name="global_search_key_calculation">Calcula;Conversió d\'unitats;Conversor;Conversor d\'unitats</string>
   <string name="global_search_key_date_convertion">Conversor de temps;Unitats de temps;Temps de conversió;Temps</string>
