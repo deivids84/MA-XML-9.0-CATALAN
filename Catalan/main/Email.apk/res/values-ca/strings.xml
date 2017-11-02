@@ -977,6 +977,8 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="str_select_all">Selecciona-ho tot</string>
   <string name="str_select_none">Anul·la la selecció</string>
   <string name="subject_hint">Assumpte</string>
+  <string name="sync_contacts_fail_per_title">La sincronització de contactes ha fallat</string>
+  <string name="sync_contacts_fail_permission">La sincronització de contactes ha fallat, l\'accés als contactes del mòbil no està activa, entreu a la configuració del mòbil, gestió de permisos</string>
   <string name="sync_contacts_req_per_ignored">El contacte del telèfon no està obert i no es poden sincronitzar els contactes</string>
   <string name="sync_error">"No s'ha pogut sincronitzar."</string>
   <string name="sync_error_message">"El dispositiu no té prou espai d'emmagatzematge per sincronitzar."</string>
@@ -1003,6 +1005,12 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="toast_bar_invalid_account">Heu d\'iniciar sessió de nou</string>
   <string name="toast_bar_no_connection_network">"Sense connexió a Internet"</string>
   <string name="toast_bar_open_gmail_synchronization">Toqui per utilitzar servidor intermediari per a Gmail</string>
+  <string name="toastbar_calendar_and_contacts_permission_switch_close">No està autoritzada l\'agenda ni els contactes. L\'agenda i els contactes no es poden sincronitzar</string>
+  <string name="toastbar_calendar_permission_switch_close">No està autoritzada l\'agenda. L\'agenda no es pot sincronitzar</string>
+  <string name="toastbar_contacts_permission_switch_close">No estan autoritzats els contactes. Els contactes no es poden sincronitzar</string>
+  <string name="toastbar_local_calendar_and_contacts_sync_switch_close">Les opcions de sincronització de l\'agenda com les dels contactes no estan activades. L\'agenda i els contactes no es poden sincronitzar</string>
+  <string name="toastbar_local_calendar_sync_switch_close">L\'opció de sincronització de l\'agenda no està activada. L\'agenda no es pot sincronitzar</string>
+  <string name="toastbar_local_contacts_sync_swtich_close">L\'opció de sincronització dels contactes no està activada. Els contactes no es poden sincronitzar</string>
   <string name="today_text">Avui</string>
   <string name="too_large_to_attach_additional">"No s'ha adjuntat. %1$s de límit assolit."</string>
   <string name="too_large_to_attach_multiple">"Un o més fitxers no adjuntats. Límit de %1$s."</string>

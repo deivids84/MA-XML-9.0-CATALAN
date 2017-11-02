@@ -201,6 +201,10 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
     <item quantity="other">"Espera %d segons i torneu-ho a provar."</item>
     <item quantity="one">"Espereu %d segon i torneu-ho a provar. "</item>
   </plurals>
+  <plurals name="number_masked">
+    <item quantity="other">%d aplicacions</item>
+    <item quantity="one">%d aplicació</item>
+  </plurals>
   <plurals name="number_locked">
     <item quantity="other">%d aplicacions bloquejades</item>
     <item quantity="one">%d aplicació bloquejada</item>
@@ -208,6 +212,14 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
   <plurals name="number_to_lock">
     <item quantity="other">%d aplicacions no bloquejades</item>
     <item quantity="one">%d aplicació no bloquejada</item>
+  </plurals>
+  <plurals name="number_masked_text">
+    <item quantity="other">S\'han amagat %d notificacions</item>
+    <item quantity="one">S\'ha amagat %d notificació</item>
+  </plurals>
+  <plurals name="number_to_mask_text">
+    <item quantity="other">%d notificacions són visibles</item>
+    <item quantity="one">%d notificació és visible</item>
   </plurals>
   <plurals name="find_applications">
     <item quantity="other">Cerca entre %d aplicacions</item>

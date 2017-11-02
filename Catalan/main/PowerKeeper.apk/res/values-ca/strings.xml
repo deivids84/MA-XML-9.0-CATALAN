@@ -196,6 +196,7 @@ L\'estalvi de bateria tractarà de forma selectiva les aplicacions importants."<
   <string name="sucess">amb èxit</string>
   <string name="ui">Estándard</string>
   <string name="update_profile_failture_not_connect_wifi">"L'actualització ha fallat, no hi ha connexió Wi-Fi"</string>
+  <string name="update_profile_sucess">S\'ha actualitzat des del servidor correctament</string>
   <string name="user_define_mode">Nom</string>
   <string name="vip_feedback">Comentaris VIP</string>
   <string name="vip_feedback_enable">Activa els comentaris automàtics VIP</string>

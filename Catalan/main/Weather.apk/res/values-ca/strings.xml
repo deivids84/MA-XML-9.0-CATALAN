@@ -193,7 +193,7 @@ Toqueu la pantalla per afegir una ciutat manualment o moure-la"</string>
   <string name="share_weather_desc">\#El temps de MIUI#Avui a les %1$s %2$s</string>
   <string name="share_weather_save_pic_fail">"No s'ha pogut realitzar la captura"</string>
   <string name="some_where_on_earth">En algun lloc de la Terra</string>
-  <string name="sunrise">Alba</string>
+  <string name="sunrise">Sol ixent</string>
   <string name="sunset">Ocàs</string>
   <string name="title_share_link">Comparteix la URL</string>
   <string name="traffic_control_daty_after_tomorrow_numbers">Demà passat: %1$s</string>

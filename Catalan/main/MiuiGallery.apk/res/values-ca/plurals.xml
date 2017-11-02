@@ -73,17 +73,41 @@
     <item quantity="other">S\'han afegit %d fotos al núvol, desactiveu «Mostra només els àlbums locals» per veure-les.</item>
     <item quantity="one">S\'ha afegit %d foto al núvol, desactiveu «Mostra només els àlbums locals» per veure-la.</item>
   </plurals>
-  <plurals name="delete_photo_msg_format">
-    <item quantity="other">Voleu eliminar %1$d fotos %2$s?</item>
-    <item quantity="one">Voleu eliminar aquesta foto %2$s?</item>
+  <plurals name="delete_photo_from_local">
+    <item quantity="other">Voleu eliminar %d fotos?</item>
+    <item quantity="one">Voleu eliminar aquesta foto?</item>
   </plurals>
-  <plurals name="delete_video_msg_format">
-    <item quantity="other">Voleu eliminar %1$d vídeos %2$s?</item>
-    <item quantity="one">Voleu eliminar aquest vídeo %2$s?</item>
+  <plurals name="delete_photo_from_all_devices_and_cloud_msg">
+    <item quantity="other">Voleu eliminar %d fotos de tots els dispositius i del Mi Cloud?</item>
+    <item quantity="one">Voleu eliminar aquesta foto de tots els dispositius i del Mi Cloud?</item>
   </plurals>
-  <plurals name="delete_media_msg_format">
-    <item quantity="other">Voleu eliminar %1$d elements %2$s?</item>
-    <item quantity="one">Voleu eliminar %1$d element %2$s?</item>
+  <plurals name="delete_photo_from_this_album_and_cloud_msg">
+    <item quantity="other">Voleu eliminar %d fotos d\'aquest àlbum i del Mi Cloud?</item>
+    <item quantity="one">Voleu eliminar aquesta foto d\'aquest àlbum i del Mi Cloud?</item>
+  </plurals>
+  <plurals name="delete_video_from_local">
+    <item quantity="other">Voleu eliminar %d vídeos?</item>
+    <item quantity="one">Voleu eliminar aquest vídeo?</item>
+  </plurals>
+  <plurals name="delete_video_from_all_devices_and_cloud_msg">
+    <item quantity="other">Voleu eliminar %d vídeos de tots els dispositius i del Mi Cloud?</item>
+    <item quantity="one">Voleu eliminar aquest vídeo de tots els dispositius i del Mi Cloud?</item>
+  </plurals>
+  <plurals name="delete_video_from_this_album_and_cloud_msg">
+    <item quantity="other">Voleu eliminar %d vídeos d\'aquest àlbum i del Mi Cloud?</item>
+    <item quantity="one">Voleu eliminar aquest vídeo d\'aquest àlbum i del Mi Cloud?</item>
+  </plurals>
+  <plurals name="delete_media_from_local">
+    <item quantity="other">Voleu eliminar %d elements?</item>
+    <item quantity="one">Voleu eliminar %d element?</item>
+  </plurals>
+  <plurals name="delete_media_from_all_devices_and_cloud_msg">
+    <item quantity="other">Voleu eliminar %d elements de tots els dispositius i del Mi Cloud?</item>
+    <item quantity="one">Voleu eliminar %d element de tots els dispositius i del Mi Cloud?</item>
+  </plurals>
+  <plurals name="delete_media_from_this_album_and_cloud_msg">
+    <item quantity="other">Voleu eliminar %d elements d\'aquest àlbum i del Mi Cloud?</item>
+    <item quantity="one">Voleu eliminar %d element d\'aquest àlbum i del Mi Cloud?</item>
   </plurals>
   <plurals name="album_item_msg_format">
     <item quantity="other">(%d elements)</item>
@@ -128,6 +152,10 @@
   <plurals name="cloud_storage_video_num">
     <item quantity="other">%d vídeos</item>
     <item quantity="one">%d vídeo</item>
+  </plurals>
+  <plurals name="add_secret_ensure_message">
+    <item quantity="other">Voleu amagar aquests fitxers?</item>
+    <item quantity="one">Voleu ocultar aquest fitxer?</item>
   </plurals>
   <plurals name="number_of_images_synced">
     <item quantity="other">%1$d fotos</item>

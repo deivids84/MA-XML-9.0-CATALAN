@@ -1061,12 +1061,6 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>Per a esquerrans</item>
     <item>Per a dretans</item>
   </string-array>
-  <string-array name="edge_touch_volume_action">
-    <item>Feu clic en ajusta - Doble clic en el disparador</item>
-    <item>Ajust lliscant - Disparador lliscant</item>
-    <item>Feu clic a ajusta - Feu clic en el disparador</item>
-    <item>Feu clic en ajusta - Clic perllongat en el disparador</item>
-  </string-array>
   <string-array name="silent_mode_duration_text">
     <item>Sempre</item>
     <item>30 minuts</item>

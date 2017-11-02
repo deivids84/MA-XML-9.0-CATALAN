@@ -14,8 +14,10 @@
   <string name="ac_enter_applock">Entra al bloquejador d\'aplicacions</string>
   <string name="ac_firstUseApplock_subTitle">Utilitzeu el bloquejador d\'aplicacions per protegir la seva privacitat</string>
   <string name="ac_firstUseApplock_title">Sol·licitar contrasenya per obrir les aplicacions seleccionades</string>
+  <string name="ac_mask_all_apps">Amaga per a totes les aplicacions</string>
   <string name="ac_summaryOff">Desactivat, no es requereix cap contrasenya per obrir aplicacions</string>
   <string name="ac_summaryOn">Activat, es requereix una clau per obrir aplicacions</string>
+  <string name="ac_unmask_all_apps">Mostra-ho per a totes les aplicacions</string>
   <string name="access_control_app_is_launching">L\'aplicació s\'està iniciant</string>
   <string name="access_control_failed_need_to_unlock_nofingerprint">Es requereix la contrasenya per obrir aplicacions</string>
   <string name="access_control_fingerprint_not_identified_msg">"No s'ha pogut llegir l'empremta."</string>
@@ -130,6 +132,8 @@
   <string name="app_manager_app_update">Actualitzacions</string>
   <string name="app_manager_app_version_name">Versió:</string>
   <string name="app_manager_appupdate_remind">Avisa\'m si ha actualitzacions</string>
+  <string name="app_manager_as_dlg_msg">En permetre que les aplicacions s\'iniciïn automàticament poden requerir recursos addicionals de memòria RAM i bateria. Voleu permetre-ho de totes maneres?</string>
+  <string name="app_manager_as_dlg_title">Atenció</string>
   <string name="app_manager_back">Enrere</string>
   <string name="app_manager_bipartition">Aplicacions duals</string>
   <string name="app_manager_card_permission_title">Permisos</string>
@@ -139,6 +143,7 @@
   <string name="app_manager_clear_failed_dlg_message">No s\'han pogut suprimir les dades de l\'aplicació.</string>
   <string name="app_manager_clear_failed_dlg_title">Suprimeix les dades</string>
   <string name="app_manager_copy_pkg_to_clip">S\'ha copiat al porta-retalls</string>
+  <string name="app_manager_default_cleared">netejat</string>
   <string name="app_manager_default_close_summary">No s\'ha establert els predeterminats.</string>
   <string name="app_manager_default_open">Obre de manera predeterminada</string>
   <string name="app_manager_default_open_summary">S\'ha definit aquesta aplicació com a predeterminada per fer algunes accions.</string>
@@ -164,11 +169,13 @@
   <string name="app_manager_globel_other_perm_title">Altres permisos</string>
   <string name="app_manager_globel_perm_summary">Gestioneu els permisos relacionats amb la ubicació, l\'emmagatzematge, el telèfon, els missatges i els contactes.</string>
   <string name="app_manager_globel_perm_title">Permisos d\'aplicacions</string>
+  <string name="app_manager_has_not_data">Sense dades</string>
   <string name="app_manager_have_not_consume">Cap</string>
   <string name="app_manager_hide_system_server">Amaga els serveis del sistema</string>
   <string name="app_manager_instruction">Instrucció</string>
   <string name="app_manager_loading_data">S\'estan carregant les dades&#8230;</string>
   <string name="app_manager_manage_space">Gestiona l\'espai</string>
+  <string name="app_manager_memory">RAM</string>
   <string name="app_manager_menu_clear_data">Suprimeix les dades</string>
   <string name="app_manager_net_control_title">Restricció d\'ús de dades</string>
   <string name="app_manager_net_mobile">Mòbil</string>
@@ -1002,6 +1009,7 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="monitor_app_more">més</string>
   <string name="monitor_requests_from_pc">Gestionar la instal·lació d\'aplicacions mitjançant USB</string>
   <string name="more_game">Més jocs</string>
+  <string name="more_lock">Més</string>
   <string name="name">Nom</string>
   <string name="net_booster">Augment de velocitat de la xarxa</string>
   <string name="net_booster_expire_notification">La sessió d\'augment de la velocitat de la xarxa està a punt de finalitzar</string>
@@ -1074,8 +1082,10 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="notification_exit_power_save_mode">Apaga l\'estalvi de bateria</string>
   <string name="notification_exit_power_save_mode_subtitle">Bateria %s carregada.</string>
   <string name="notification_item">Protegir aplicacions seleccionades amb el bloquejador d\'aplicacions</string>
-  <string name="notification_mask_summary">"Oculta el contingut per les notificacions a la pantalla de bloqueig i a la barra notificacions"</string>
+  <string name="notification_mask_summary">Oculta el contingut per les notificacions a la pantalla de bloqueig i a la barra notificacions</string>
   <string name="notification_mask_title">Amaga el contingut</string>
+  <string name="notification_masked_item">Amaga les notificacions</string>
+  <string name="notification_masked_subtitle">Amaga les notificacions d\'aplicacions protegides amb bloqueig de l\'aplicació</string>
   <string name="notification_subtitle">Tocar per activar</string>
   <string name="notification_summary_cmcc_app_check">Toqueu per veure els detalls.</string>
   <string name="notify_daily_data_usage_body">Per limitar l\'ús de dades automàticament, establir el pla de dades mensual.</string>
@@ -1673,8 +1683,17 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="start_diagnostic_botton">Iniciar</string>
   <string name="start_downloading_app">S\'està iniciant la baixada: %1$s</string>
   <string name="start_game">Inicia</string>
+  <string name="status_bar_network_flow_content">Avui: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Restant: %2$s</string>
+  <string name="status_bar_network_flow_content_not_setting">Avui: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Aquest mes: %2$s</string>
+  <string name="status_bar_network_flow_exceed_content">Avui: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Excedit del pla: &lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
+  <string name="status_bar_network_flow_phone_balance">"   Saldo del telèfon:%1$s "</string>
+  <string name="status_bar_network_flow_purchase">"   Compra &gt;"</string>
+  <string name="status_bar_network_flow_setup_data_plan">"   Configuració del pla de dades &gt;"</string>
+  <string name="status_bar_network_flow_today">Avui: %1$s</string>
   <string name="still_retain_btn">Mantén</string>
   <string name="suggest_app_tolock">Suggeriments</string>
+  <string name="suggest_app_tolock_masked">Ocultes</string>
+  <string name="suggest_app_tolock_unmasked">Notificacions visibles</string>
   <string name="suggest_scan_again">Es proposa una anàlisi completa per garantir la seguretat.</string>
   <string name="summary_app_lock_disable">Bloquejar aplicacions per protegir la seva privacitat</string>
   <string name="summary_auto_update">MIUI seleccionarà el moment més adequat per baixar i instal·lar actualitzacions.</string>

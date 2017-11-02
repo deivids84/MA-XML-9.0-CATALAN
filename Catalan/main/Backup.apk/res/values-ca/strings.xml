@@ -62,6 +62,7 @@
   <string name="cancel_moving_dialog_title">Atura la importació</string>
   <string name="cancel_restore">Atura</string>
   <string name="click_to_view">Toqueu per veure-ho</string>
+  <string name="close_twice_auth_btn">Prop de l\'autenticació de dos factors</string>
   <string name="close_twice_auth_note">"Nota:
 Després de crear una nova pregunta de seguretat i confirmar la vostra data de naixement, la funció d\'autenticació dual es desactivarà. Si no veieu l\'opció de desactivar l\'autenticació dual a la pàgina del compte d\'ID d\'Apple, no podreu desactivar-la."</string>
   <string name="close_twice_auth_step_1">1. Inicieu la sessió amb l\'identificador Apple a la pàgina del compte</string>
@@ -137,7 +138,7 @@ Després de crear una nova pregunta de seguretat i confirmar la vostra data de n
   <string name="guarded_mode_dialog_transfer_message">"En mode de Convidat no es pot utilitzar Mi Mover."</string>
   <string name="hsa_code_null">El codi de verificació no pot estar buit</string>
   <string name="hsa_input_hint">Introduïu el codi de verificació</string>
-  <string name="hsa_input_tip">L\'ID d\'iCloud permet l\'autenticació de dos factors. Introduïu el codi de verificació.</string>
+  <string name="hsa_input_tip">El vostre ID d\'iCloud permet l\'autenticació de dos factors. Introduïu el codi de verificació.</string>
   <string name="hsa_send_again">Torna a enviar</string>
   <string name="hsa_send_again_countdown">Torna-ho a enviar (%d s)</string>
   <string name="hsa_send_failed">No s\'ha pogut enviar el codi de verificació. Torneu-ho a intentar més tard.</string>
