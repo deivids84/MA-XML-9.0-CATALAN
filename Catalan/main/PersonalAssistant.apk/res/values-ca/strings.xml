@@ -496,8 +496,6 @@ Comproveu el número de seguiment."</string>
   <string name="item_type_custom">Personalitzat</string>
   <string name="item_type_suggestion">Suggeriments</string>
   <string name="just_now">Ara mateix</string>
-  <string name="keyboard_more_abc">\#+=</string>
-  <string name="keyboard_more_num">123</string>
   <string name="keyboard_space">Espai</string>
   <string name="launch_app">Recomanacions de l\'aplicació</string>
   <string name="launch_change_order">Canvia l\'ordre</string>
@@ -647,7 +645,6 @@ Comproveu el número de seguiment."</string>
   <string name="pay_card_pack">Mi Pay</string>
   <string name="paycode_sdk_parent">Drecera de pagament</string>
   <string name="payment">Els meus pagaments</string>
-  <string name="payment_amount_empty">0.00</string>
   <string name="payment_app_name">Els meus pagaments</string>
   <string name="payment_card_title">Els meus pagaments</string>
   <string name="payment_clear_records_dialog_message">Voleu eliminar tots els registres de l\'historial de pagaments?</string>

@@ -321,7 +321,6 @@ amb un cos més clar i un retrat més bonic"</string>
   <string name="pref_camera_zoom_mode_entry_tele">Tele</string>
   <string name="pref_camera_zoom_mode_entry_wide">Panoràmica</string>
   <string name="pref_camera_zoom_mode_title">Lents</string>
-  <string name="pref_camera_zoom_value_title">Amplia</string>
   <string name="pref_camera_zsl_entry_off">Apagat</string>
   <string name="pref_camera_zsl_entry_on">Activat</string>
   <string name="pref_capture_settings">Càmera</string>
