@@ -68,6 +68,19 @@
   <string name="error_title">"No s'ha pogut sincronitzar"</string>
   <string name="error_unauthorized">La sincronització s\'ha desactivat a causa de massa intents d\'iniciar sessió.</string>
   <string name="evening">PM</string>
+  <string name="fmt_date_long_month_day">d MMMM</string>
+  <string name="fmt_date_long_year_month">MMMM yyyy</string>
+  <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
+  <string name="fmt_date_numeric_day">d</string>
+  <string name="fmt_date_numeric_month">M</string>
+  <string name="fmt_date_numeric_month_day">d-M</string>
+  <string name="fmt_date_numeric_year">yyyy</string>
+  <string name="fmt_date_numeric_year_month">M-yyyy</string>
+  <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
+  <string name="fmt_date_short_month">MMM</string>
+  <string name="fmt_date_short_month_day">d MMM</string>
+  <string name="fmt_date_short_year_month">MMM yyyy</string>
+  <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
   <string name="fmt_time_24hour">"H 'en punt'"</string>
   <string name="friday">Divendres</string>
   <string name="friday_short">dv.</string>
@@ -135,7 +148,7 @@
   <string name="month_august_shortest">ag.</string>
   <string name="month_december">desembre</string>
   <string name="month_december_short">des.</string>
-  <string name="month_december_shortest">des.</string>
+  <string name="month_december_shortest">D</string>
   <string name="month_february">febrer</string>
   <string name="month_february_short">febr.</string>
   <string name="month_february_shortest">febr.</string>
@@ -156,7 +169,7 @@
   <string name="month_may_shortest">maig</string>
   <string name="month_november">novembre</string>
   <string name="month_november_short">nov.</string>
-  <string name="month_november_shortest">nov.</string>
+  <string name="month_november_shortest">N</string>
   <string name="month_october">octubre</string>
   <string name="month_october_short">oct.</string>
   <string name="month_october_shortest">oct.</string>
@@ -269,6 +282,7 @@
   <string name="solar_term_great_cold">Bastant fred</string>
   <string name="solar_term_great_heat">Bastanta calor</string>
   <string name="solar_term_heavy_snow">Nevada intensa</string>
+  <string name="solar_term_hoar_frost_falls">Hoar Frost Falls</string>
   <string name="solar_term_insects_awaken">Desperten els insectes</string>
   <string name="solar_term_light_snow">Neu feble</string>
   <string name="solar_term_slight_cold">Fred lleu</string>

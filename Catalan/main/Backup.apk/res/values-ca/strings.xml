@@ -65,6 +65,8 @@
   <string name="close_twice_auth_btn">Prop de l\'autenticació de dos factors</string>
   <string name="close_twice_auth_note">"Nota:
 Després de crear una nova pregunta de seguretat i confirmar la vostra data de naixement, la funció d\'autenticació dual es desactivarà. Si no veieu l\'opció de desactivar l\'autenticació dual a la pàgina del compte d\'ID d\'Apple, no podreu desactivar-la."</string>
+  <string name="close_twice_auth_operation">"URL:
+https://appleid.apple.com/#!&amp;page=signin to close"</string>
   <string name="close_twice_auth_step_1">1. Inicieu la sessió amb l\'identificador Apple a la pàgina del compte</string>
   <string name="close_twice_auth_step_2">2. A la secció Seguretat, cliqueu a Edita</string>
   <string name="close_twice_auth_step_3">3. Cliqueu Desactiva l\'autorització dual / en dos passos. Torneu a clicar per confirmar-ho</string>
@@ -86,7 +88,7 @@ Després de crear una nova pregunta de seguretat i confirmar la vostra data de n
   <string name="compute_backup_info">S\'està obtenint informació de la còpia de seguretat&#8230;</string>
   <string name="compute_delete_contact_info">S\'està obtenint la informació&#8230;</string>
   <string name="connect_wifi">Connecta a la Wi-Fi</string>
-  <string name="connect_wifi_tip">S\'ha desconnectat la xarxa. La importació de dades de l\'iCloud necessita Wi-Fi.</string>
+  <string name="connect_wifi_tip">"S'ha desconnectat la xarxa. La importació de dades de l'iCloud necessita Wi-Fi."</string>
   <string name="contact_title">Contactes</string>
   <string name="current_account">Hola %s</string>
   <string name="current_pad_location">Tauleta</string>
@@ -113,7 +115,7 @@ Després de crear una nova pregunta de seguretat i confirmar la vostra data de n
   <string name="enable_encrypt_summery2">"Les còpies de seguretat es xifraran automàticament. Cal que inicieu la sessió al Compte Mi per accedir a les còpies de seguretat xifrades."</string>
   <string name="enable_encrypt_title">Còpies de seguretat xifrades</string>
   <string name="enable_encrypt_xiaomi_account">Aquesta còpia de seguretat va ser creada per %1$s. Per restaurar-la, elimineu el compte actual i inicieu la sessió com a %2$s.</string>
-  <string name="err_authentication_failed">L\'autenticació ha fallat</string>
+  <string name="err_authentication_failed">"L'autenticació ha fallat"</string>
   <string name="err_bakfile_broken">"Aquesta còpia no es pot utilitzar."</string>
   <string name="err_filesystem_mount">"No es pot accedir a l'emmagatzamatge de l'encaminador"</string>
   <string name="err_low_storage">No hi ha prou espai</string>
@@ -136,12 +138,12 @@ Després de crear una nova pregunta de seguretat i confirmar la vostra data de n
   <string name="guarded_mode_dialog_backup_message">"No es permeten les còpies de seguretat en mode de Convidat."</string>
   <string name="guarded_mode_dialog_title">"Mode de Convidat"</string>
   <string name="guarded_mode_dialog_transfer_message">"En mode de Convidat no es pot utilitzar Mi Mover."</string>
-  <string name="hsa_code_null">El codi de verificació no pot estar buit</string>
+  <string name="hsa_code_null">"El codi de verificació no pot estar buit"</string>
   <string name="hsa_input_hint">Introduïu el codi de verificació</string>
   <string name="hsa_input_tip">El vostre ID d\'iCloud permet l\'autenticació de dos factors. Introduïu el codi de verificació.</string>
   <string name="hsa_send_again">Torna a enviar</string>
   <string name="hsa_send_again_countdown">Torna-ho a enviar (%d s)</string>
-  <string name="hsa_send_failed">No s\'ha pogut enviar el codi de verificació. Torneu-ho a intentar més tard.</string>
+  <string name="hsa_send_failed">"No s'ha pogut enviar el codi de verificació. Torneu-ho a intentar més tard."</string>
   <string name="hsa_sending">S\'està enviant…</string>
   <string name="hsa_tip_message">"1.Un missatge que conté el codi de verificació s\'enviarà al telèfon enllaçat a iCloud
 2.Desactiveu l\'autenticació de dos factors si no es verifica."</string>
@@ -163,7 +165,7 @@ Després de crear una nova pregunta de seguretat i confirmar la vostra data de n
   <string name="icloud_login_title">Inicia sessió a l\'iCloud</string>
   <string name="icloud_need_sync">"Per importar dades d\'iOS
 necessiteu carregar les dades en dispositius antics a l\'iCloud"</string>
-  <string name="icloud_need_wifi_message">La Wi-Fi no està connectada actualment. Per importar dades d\'iCloud, cal utilitzar Wi-Fi per iniciar la sessió i baixar-ne les dades.</string>
+  <string name="icloud_need_wifi_message">"La Wi-Fi no està connectada actualment. Per importar dades d'iCloud, cal utilitzar Wi-Fi per iniciar la sessió i baixar-ne les dades."</string>
   <string name="icloud_need_wifi_title">Es requereix d\'una connexió Wi-Fi</string>
   <string name="import_again">Importa de nou</string>
   <string name="import_data_from_icloud">Importa les dades des de l\'iCloud</string>
@@ -190,7 +192,7 @@ necessiteu carregar les dades en dispositius antics a l\'iCloud"</string>
   <string name="local_select_userapp">Aplicacions</string>
   <string name="local_select_video">Vídeos</string>
   <string name="login">Inicia una sessió</string>
-  <string name="login_failed">No s\'ha pogut iniciar la sessió. Torneu-ho a intentar.</string>
+  <string name="login_failed">"No s'ha pogut iniciar la sessió. Torneu-ho a intentar."</string>
   <string name="logining">iniciant la sessió…</string>
   <string name="miliao_account_guide">Utilitzeu el Compte Mi per iniciar sessió al Mi Cloud, a la botiga de temes MIUI i als serveis Mi, des d\'arreu.</string>
   <string name="miliao_account_login">Inicia la sessió amb Mi Talk</string>
@@ -230,7 +232,7 @@ necessiteu carregar les dades en dispositius antics a l\'iCloud"</string>
   <string name="notif_trans_wait_for_reconnecting">El dispositiu remot està desconnectat. Torneu-lo a connectar.</string>
   <string name="page_loading">Un moment&#8230;</string>
   <string name="password">contrasenya</string>
-  <string name="password_null">La contrasenya no es pot deixar en blanc</string>
+  <string name="password_null">"La contrasenya no es pot deixar en blanc"</string>
   <string name="pause">Pausa</string>
   <string name="platform_chooser_item_android">Importa des de l\'Android</string>
   <string name="platform_chooser_item_ios">Importa des d\'un dispositiu Apple</string>
@@ -465,7 +467,7 @@ i s\'ha activat Mi Mover"</string>
   <string name="trans_wlan_tips_title">"No desactiveu ni canvieu la Wi-Fi"</string>
   <string name="unknown_hint">Desconeguda</string>
   <string name="user_name">ID d\'Apple o correu</string>
-  <string name="user_name_null">El nom d\'usuari no pot estar buit</string>
+  <string name="user_name_null">"El nom d'usuari no pot estar buit"</string>
   <string name="user_notice_declaration_ignore">"No ho tornis a mostrar"</string>
   <string name="user_notice_message">Per funcionar amb normalitat, algunes característiques requereixen connexió a Internet.</string>
   <string name="user_notice_title">Atenció!</string>

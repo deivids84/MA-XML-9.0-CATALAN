@@ -139,6 +139,13 @@
   <string name="catalyst_element_inspector_off">Amaga l\'inspector</string>
   <string name="catalyst_hot_module_replacement">Activa el reemplaçament de mòduls en calent</string>
   <string name="catalyst_hot_module_replacement_off">Desactiva el reemplaçament de mòduls en calent</string>
+  <string name="catalyst_jsload_error">"No es pot baixar el paquet JS des del servidor de desenvolupament.
+
+Proveu el següent per solucionar el problema:
+• Assegureu-vos que el servidor d\'empaquetador s\'estigui executant
+• Assegureu-vos que el vostre dispositiu / emulador estigui connectat a la vostra màquina i que estigui habilitat la depuració USB: executeu «adb devices» per veure una llista de dispositius connectats
+• Si esteu en un dispositiu físic connectat a la mateixa màquina, executeu «adb reverse tcp:8081 tcp:8081» per reenviar sol·licituds del vostre dispositiu
+• Si el vostre dispositiu està en la mateixa xarxa Wi-Fi, configureu «Depura l\'amfitrió del servidor i el port del dispositiu» a «Configuració del dispositiu» a l\'adreça IP de la màquina i al port del servidor de desenvolupament local, p. e. 10.0.1.1:8081"</string>
   <string name="catalyst_jsload_message">S\'està obtenint el paquet JS</string>
   <string name="catalyst_jsload_title">Espereu-vos…</string>
   <string name="catalyst_live_reload">Activa la recarrega en directe</string>

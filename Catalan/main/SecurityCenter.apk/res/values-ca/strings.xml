@@ -74,6 +74,7 @@
   <string name="adjust_traffic_data">Establir ús de dades</string>
   <string name="after_the_lock_screen">L\'aplicació serà bloquejada juntament amb la pantalla, pot canviar això a la configuració del bloquejador d\'aplicacions.</string>
   <string name="all_address_choose_hint">Tots els números d\'aquesta província</string>
+  <string name="already_close_gamebooster">L\'accelerador de velocitat dels jocs està desactivat</string>
   <string name="anim_gamebooster_text">Un segon&#8230;</string>
   <string name="anti_disturb_msg_detail">Desactiva les notificacions excepte per a les trucades entrants</string>
   <string name="anti_disturb_msg_title">No molesteu</string>
@@ -384,6 +385,7 @@
   <string name="block_message_number">SMS: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
   <string name="block_phone_number">Trucades: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
   <string name="boost_done">S\'ha accelerat amb èxit</string>
+  <string name="boost_stop">Desactiva l\'accelerador de velocitat</string>
   <string name="booster_immediately">Accelera</string>
   <string name="booster_suc">S\'ha accelerat amb èxit</string>
   <string name="boostering">S\'està augmentant la velocitat…</string>
@@ -547,6 +549,8 @@
   <string name="data_usage_warning_body">Premeu per veure els detalls de l\'ús de dades.</string>
   <string name="data_usage_warning_body_notify">Premeu per veure els detalls</string>
   <string name="data_usage_warning_title_notify">Heu superat el limit de dades</string>
+  <string name="databooster_tips_message">Activeu-lo per restringir totes les targetes SIM, excepte per a la targeta de dades. Desactiveu aquesta funció si es produeixen errors en els jocs que trieu.</string>
+  <string name="databooster_tips_title">Atenció</string>
   <string name="declaration_dialog_msg">Aquesta característica pot ajudar a vigilar el seu ús, però no li garanteix evitar càrrecs addicionals. Per obtenir millors resultats, estableixi un límit conservador.</string>
   <string name="deep_clean_disconnect_data_title">Desactiva les dades mòbils quan el dispositiu està bloquejat</string>
   <string name="deep_clean_memory_clean_title">Esborra la memòria cau quan el dispositiu està bloquejat</string>
@@ -671,6 +675,7 @@
   <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
   <string name="firewall_wifi_dialog_message">"L'aplicació instal·lada no podrà connectar-se a Internet utilitzant Wi-Fi quan aquest interruptor està desactivat"</string>
   <string name="five_percent_total_pkg">%s (5%% de les dades mensuals)</string>
+  <string name="forbid_autobright_summary">"La brillantor de la pantalla continuarà igual quan estigueu jugant"</string>
   <string name="forbid_autobright_title">Corregeix la lluentor de la pantalla</string>
   <string name="foreground_traffic">Portar a primer pla %s</string>
   <string name="forget_password_button_text">He oblidat la contrasenya</string>
@@ -692,6 +697,7 @@
   <string name="game_ad_recommendation">Tothom està jugant</string>
   <string name="game_anti_disturb_msg">Joc no molestis</string>
   <string name="game_booster">Accelerador de velocitat dels jocs</string>
+  <string name="game_booster_close">L\'accelerador de velocitat dels jocs està desactivat</string>
   <string name="game_booster_intro">Quant a l\'accelerador de velocitat dels jocs</string>
   <string name="game_booster_jump_webview">Un moment…</string>
   <string name="game_booster_tab_top">Destacats</string>
@@ -2009,6 +2015,8 @@ Dades extres en ús"</string>
   <string name="wlan_booster">Augment de velocitat Wi-Fi</string>
   <string name="wlan_change_protection_detail">"No canviïs a Wi-Fi automàticament quan estigui connectat a una xarxa de dades"</string>
   <string name="wlan_change_protection_title">Evita el canvi de xarxa</string>
+  <string name="xunyou_net_booster">Augment de velocitat de la xarxa</string>
+  <string name="xunyou_net_booster_detail">Utilitzeu els serveis d\'augment de la velocitat de Xunyou per als jocs</string>
   <string name="xunyou_pay_webview">Serveis Xunyou</string>
   <string name="xunyou_server_expired">La sessió ha expirat.</string>
 </resources>

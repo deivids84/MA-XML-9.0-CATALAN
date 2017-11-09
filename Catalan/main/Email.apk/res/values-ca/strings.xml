@@ -76,6 +76,7 @@
   <string name="account_setup_basics_email_label">Adreça de correu electrònic</string>
   <string name="account_setup_basics_login_gmail_without_proxy">Utilitza la connexió de xarxa actual</string>
   <string name="account_setup_basics_manual_setup_action">Configuració manual</string>
+  <string name="account_setup_basics_mi_mail_login_help">Inici de sessió del Correu Mi correcte, comproveu els SMS, activeu l\'enllaç per enviar i rebre correu Oh!</string>
   <string name="account_setup_basics_password_label">Contrasenya</string>
   <string name="account_setup_basics_title">Afegeix un compte</string>
   <string name="account_setup_check_settings_check_incoming_msg">"Validant la configuració del servidor…"</string>
@@ -977,6 +978,7 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="str_select_all">Selecciona-ho tot</string>
   <string name="str_select_none">Anul·la la selecció</string>
   <string name="subject_hint">Assumpte</string>
+  <string name="sync_contacts_fail_per_content">Sol·liciteu els permisos de contacte, feu clic per aplicar</string>
   <string name="sync_contacts_fail_per_title">La sincronització de contactes ha fallat</string>
   <string name="sync_contacts_fail_permission">La sincronització de contactes ha fallat, l\'accés als contactes del mòbil no està activa, entreu a la configuració del mòbil, gestió de permisos</string>
   <string name="sync_contacts_req_per_ignored">El contacte del telèfon no està obert i no es poden sincronitzar els contactes</string>

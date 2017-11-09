@@ -13,6 +13,7 @@
   <string name="album_name">Selecció diària: %s</string>
   <string name="all_topic">Tots els temes</string>
   <string name="already_liked">"Ja has marcat aquest element com a destacat"</string>
+  <string name="apk_installing">S\'està instal·lant...</string>
   <string name="app_name">Explorador</string>
   <string name="app_name_camera">Càmera</string>
   <string name="app_name_downloadedrom">Paquets</string>
@@ -52,6 +53,7 @@
   <string name="cancel_error">"No s'han pogut treure, intenta-ho de nou"</string>
   <string name="cancel_operation">Cancel·la l\'operació</string>
   <string name="cancel_success">S\'han eliminat correctament, tots els fitxers van ser moguts a %s</string>
+  <string name="cancel_text">Cancel·la</string>
   <string name="cancelled_by_user">Operació cancel·lada</string>
   <string name="cannot_send">"No es poden enviar fitxers des de l'emmagatzematge extern"</string>
   <string name="category_all">Tot</string>
@@ -182,6 +184,13 @@
   <string name="error_invalid_path">Ruta incorrecta</string>
   <string name="error_not_support">No suportat</string>
   <string name="error_open_file_failed_no_app_found">No s\'ha trobat cap aplicació per realitzar aquesta acció.</string>
+  <string name="exo_controls_fastforward_description">Avança ràpidament</string>
+  <string name="exo_controls_next_description">Següent cançó</string>
+  <string name="exo_controls_pause_description">Pausa</string>
+  <string name="exo_controls_play_description">Reprodueix</string>
+  <string name="exo_controls_previous_description">Cançó anterior</string>
+  <string name="exo_controls_rewind_description">Rebobina</string>
+  <string name="exo_controls_stop_description">Atura</string>
   <string name="extended_storage_file_can_not_open">"No es va poder obrir el fitxer. Copiï el fitxer a l'emmagatzematge intern primer."</string>
   <string name="extract">Extreure</string>
   <string name="fail_to_create_folder_unknown">"No es pot crear la carpeta"</string>

@@ -740,6 +740,7 @@ Voleu canviar al nou proveïdor igualment?"</string>
   <string name="ivr_mo_area_code_settings">Codi d\'àrea actual</string>
   <string name="ivr_mo_area_code_settings_hint">Introduïu el codi d\'àrea actual</string>
   <string name="ivr_parameter_settings">Configuració de paràmetres IVR</string>
+  <string name="ivr_type_cm_3">Fàcil de tenir</string>
   <string name="ivr_type_settings">Configuració del pla de dades</string>
   <string name="ivr_type_settings_hint">Introduïu el codi del vostre pla de dades</string>
   <string name="keep_screen_on">Mantén-la activa</string>

@@ -78,6 +78,8 @@
   <string name="dual_camera_too_close_toast">La càmera és massa a prop de l\'objecte.</string>
   <string name="dual_camera_use_hint">"«El mode estèreo ajuda a entelar el fons. L'objecte no hauria de ser més lluny de 2 metres.»"</string>
   <string name="edit_eye_large">Ulls grans</string>
+  <string name="edit_face_ruddy">Rogenc</string>
+  <string name="edit_face_slender">Esvelt</string>
   <string name="edit_skin_smooth">Suau</string>
   <string name="edit_skin_white">To</string>
   <string name="error_fail_to_start_audio_capture">"No s'ha pogut iniciar el disparador per veu"</string>
@@ -134,11 +136,13 @@ i les barrejarà per crear-ne una de nova on cadascú quedi millor."</string>
   <string name="pano_how_to_use_prompt_to_move">Comenceu lentament la panoràmica</string>
   <string name="path_settings">Aplicacions del sistema/Càmera/Configuració</string>
   <string name="portait_effect_entry_blackwhite">B/N</string>
+  <string name="portait_effect_entry_cool">Menta</string>
   <string name="portait_effect_entry_fairytale">Infància</string>
   <string name="portait_effect_entry_japanese">Cel blau</string>
   <string name="portait_effect_entry_maze">Laberint</string>
   <string name="portait_effect_entry_mood">Emocions</string>
   <string name="portait_effect_entry_nature">Natura</string>
+  <string name="portait_effect_entry_pink">Rubor</string>
   <string name="portait_effect_entry_romance">Romantic</string>
   <string name="portrait_mode_depth_effect_success_hint">Efecte de profunditat</string>
   <string name="portrait_mode_lowlight_hint">"Ara és massa fosc"</string>
@@ -165,6 +169,7 @@ amb un cos més clar i un retrat més bonic"</string>
   <string name="pref_camera_autoexposure_entry_frameaverage">Mitjana del fotograma</string>
   <string name="pref_camera_autoexposure_entry_spotmetering">Mesura puntual</string>
   <string name="pref_camera_autoexposure_title">Paràmetres d\'exposició automàtica</string>
+  <string name="pref_camera_beautify_entry_auto">Desactivat</string>
   <string name="pref_camera_beautify_entry_high">Alt</string>
   <string name="pref_camera_beautify_entry_low">Baix</string>
   <string name="pref_camera_beautify_entry_normal">Mitjà</string>
@@ -316,6 +321,7 @@ amb un cos més clar i un retrat més bonic"</string>
   <string name="pref_camera_zoom_mode_entry_tele">Tele</string>
   <string name="pref_camera_zoom_mode_entry_wide">Panoràmica</string>
   <string name="pref_camera_zoom_mode_title">Lents</string>
+  <string name="pref_camera_zoom_value_title">Amplia</string>
   <string name="pref_camera_zsl_entry_off">Apagat</string>
   <string name="pref_camera_zsl_entry_on">Activat</string>
   <string name="pref_capture_settings">Càmera</string>
@@ -417,6 +423,7 @@ amb un cos més clar i un retrat més bonic"</string>
   <string name="video_camera_label">Càmera de vídeo</string>
   <string name="video_effect_entry_blackwhite">B/N</string>
   <string name="video_effect_entry_film">Pel·licula</string>
+  <string name="video_effect_entry_forest">Bosc</string>
   <string name="video_effect_entry_holiday">Reflexions</string>
   <string name="video_effect_entry_polaroid">Polaroid</string>
   <string name="video_reach_size_limit">Assolit el límit de mida.</string>
