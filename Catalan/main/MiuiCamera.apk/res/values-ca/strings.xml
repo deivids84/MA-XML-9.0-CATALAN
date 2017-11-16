@@ -348,9 +348,6 @@ amb un cos més clar i un retrat més bonic"</string>
   <string name="pref_skin_beautify_intelligent_title">Intel·ligent</string>
   <string name="pref_skin_beautify_slim_title">Prim</string>
   <string name="pref_skin_beautify_smooth_title">Pell</string>
-  <string name="pref_video_focusmode_entry_auto">Prémer</string>
-  <string name="pref_video_focusmode_entry_continuous">Autofocus continu</string>
-  <string name="pref_video_focusmode_title">Mode d\'enfocament</string>
   <string name="pref_video_quality_entry_1080p">Full HD</string>
   <string name="pref_video_quality_title">Qualitat de vídeo</string>
   <string name="pref_video_speed_entry_fast">Ràpid</string>

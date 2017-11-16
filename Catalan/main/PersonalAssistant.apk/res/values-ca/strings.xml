@@ -32,12 +32,12 @@
   <string name="agenda_settings_elecbill">Mostra les factures d\'electricitat i gas</string>
   <string name="agenda_settings_loan">Mostra informació del pagament de préstecs</string>
   <string name="agree">D\'acord</string>
+  <string name="alipay_init">S\'estan inicialitzant els serveis d\'Alipay…</string>
+  <string name="alipay_init_success">S\'han iniciat els serveis d\'Alipay amb èxit</string>
   <string name="alipay_scan">Escàner</string>
   <string name="alipay_sdk_minute_refresh">Actualitza-ho cada minut</string>
   <string name="alipay_sdk_payed_desc">Preu original: %1$s CNY | %2$s CNY d\'estalvi</string>
-  <string name="alipay_sdk_payed_desc_osfress">%1$s CNY (%2$s)</string>
   <string name="alipay_sdk_payed_finished">S\'ha pagat correctament</string>
-  <string name="alipay_sdk_payed_rmb">CNY</string>
   <string name="alipay_sdk_payed_show_paycode">Mostra el codi</string>
   <string name="alipay_sdk_payed_success">S\'ha pagat correctament</string>
   <string name="alipay_sdk_tiemout">Pagament directe (no cal cap aplicació)</string>
@@ -653,7 +653,6 @@ Comproveu el número de seguiment."</string>
   <string name="payment_date_time_picker_dialog_title">Estableix la data i l\'hora</string>
   <string name="payment_guide_hint">Recopila informació del pagament des de Missatges i altres aplicacions.</string>
   <string name="payment_guide_hint_link">Seguretat i privadesa</string>
-  <string name="payment_method_alipay">Alipay</string>
   <string name="payment_method_bank">Targeta de dèbit</string>
   <string name="payment_method_cash">Efectiu</string>
   <string name="payment_method_credit">Targeta de crèdit</string>
@@ -668,7 +667,6 @@ Comproveu el número de seguiment."</string>
   <string name="payment_pref_privacy_security_summary">Utilitzeu la contrasenya de protecció de privadesa de MIUI per ocultar els detalls del vostre compte</string>
   <string name="payment_pref_privacy_security_title">Contrasenya</string>
   <string name="payment_pref_source_alipay_summary">Obteniu informació de pagament d\'Alipay</string>
-  <string name="payment_pref_source_alipay_title">Alipay</string>
   <string name="payment_pref_source_category_title">Origen de la informació de pagament</string>
   <string name="payment_pref_source_mms_summary">Obteniu informació de pagament dels missatges de text</string>
   <string name="payment_pref_source_mms_title">SMS</string>

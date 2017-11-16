@@ -96,7 +96,7 @@
   <string name="antivirus_monitor_risk_advice">"Aquesta aplicació no és segura, elimineu-la"</string>
   <string name="antivirus_monitor_virus_advice">Aquesta aplicació podria contenir virus, elimineu-la</string>
   <string name="antivirus_none_engine_dialog_ok">D\'acord</string>
-  <string name="antivirus_not_wlan">No esteu connectats a Wi-Fi. L\'ús de dades mòbils pot generar càrrecs addicionals. Voleu continua de totes maneres?</string>
+  <string name="antivirus_not_wlan">"No esteu connectats a Wi-Fi. L'ús de dades mòbils pot generar càrrecs addicionals. Voleu continua de totes maneres?"</string>
   <string name="antivirus_privacy_dialog_cloudscan">Pujar noms i detalls d\'aplicacions</string>
   <string name="antivirus_privacy_dialog_cloudscan_description">Pujar i escanejar noms i detalls d\'aplicacions usant definicions de virus en línia.</string>
   <string name="antivirus_privacy_dialog_ok">D\'acord</string>
@@ -122,6 +122,8 @@
   <string name="app_install_tips_go_to">Obre\'l</string>
   <string name="app_install_tips_install_success">%1$s s\'ha instal·lat amb èxit</string>
   <string name="app_maanger_app_uninstalled_toast">Aquesta aplicació s\'ha desinstal·lat</string>
+  <string name="app_manager_advanced_setting">Configuració avançada</string>
+  <string name="app_manager_allow">Sí</string>
   <string name="app_manager_app_ifno_version">Versió de l\'aplicació</string>
   <string name="app_manager_app_info_label">Informació de l\'aplicació</string>
   <string name="app_manager_app_info_name">Nom de l\'aplicació</string>
@@ -146,7 +148,6 @@
   <string name="app_manager_copy_pkg_to_clip">S\'ha copiat al porta-retalls</string>
   <string name="app_manager_default_cleared">netejat</string>
   <string name="app_manager_default_close_summary">No s\'ha establert els predeterminats.</string>
-  <string name="app_manager_default_open">Obre de manera predeterminada</string>
   <string name="app_manager_default_open_summary">S\'ha definit aquesta aplicació com a predeterminada per fer algunes accions.</string>
   <string name="app_manager_default_open_title">Suprimeix els predeterminats</string>
   <string name="app_manager_defaults_setting">Per defecte</string>
@@ -158,6 +159,7 @@
   <string name="app_manager_disable_dlg_title">Voleu desactivar l\'aplicació integrada?</string>
   <string name="app_manager_disable_text">Desactiva</string>
   <string name="app_manager_disabled">Desactivada</string>
+  <string name="app_manager_disabled_by_admin">Desactivat per l\'administrador</string>
   <string name="app_manager_dlg_cancel">Cancel·la</string>
   <string name="app_manager_dlg_ok">D\'acord</string>
   <string name="app_manager_enable_text">Activa</string>
@@ -173,6 +175,7 @@
   <string name="app_manager_has_not_data">Sense dades</string>
   <string name="app_manager_have_not_consume">Cap</string>
   <string name="app_manager_hide_system_server">Amaga els serveis del sistema</string>
+  <string name="app_manager_install_other_app">Instal·la aplicacions de fonts desconegudes</string>
   <string name="app_manager_instruction">Instrucció</string>
   <string name="app_manager_loading_data">S\'estan carregant les dades&#8230;</string>
   <string name="app_manager_manage_space">Gestiona l\'espai</string>
@@ -181,6 +184,7 @@
   <string name="app_manager_net_control_title">Restricció d\'ús de dades</string>
   <string name="app_manager_net_mobile">Mòbil</string>
   <string name="app_manager_net_wifi">Wi-Fi</string>
+  <string name="app_manager_not_allow">No</string>
   <string name="app_manager_not_record">"No hi ha elements aquí"</string>
   <string name="app_manager_notify_bar">Insígnies</string>
   <string name="app_manager_notify_floating">Notificacions flotants</string>
@@ -360,7 +364,7 @@
   <string name="battery_history_activity_title">Historial</string>
   <string name="battery_stats_charging_label">Endollat</string>
   <string name="battery_stats_gps_on_label">GPS actiu</string>
-  <string name="battery_stats_on_battery">Bateria al %1$s</string>
+  <string name="battery_stats_on_battery">Bateria per %1$s</string>
   <string name="battery_stats_phone_signal_label">Senyal de xarxa mòbil</string>
   <string name="battery_stats_screen_on_label">Pantalla encesa</string>
   <string name="battery_stats_wake_lock_label">Despertar</string>
@@ -569,6 +573,7 @@
   <string name="dialog_app_roaming_title">"La itinerància en ultramar no s'ha activat per a %1$s"</string>
   <string name="dialog_msg_auto_start_declare">Algunes aplicacions de seguretat poden indicar incorrectament que MIUI els ha prohibit iniciar. Per comprovar els permisos que han estat concedits a les aplicacions individualment, aneu a Configuració i Aplicacions.</string>
   <string name="dialog_msg_stop_virus_scan">"Voleu aturar l'anàlisi de virus abans que acabi?"</string>
+  <string name="dialog_no_longer_alert">"No ho tornis a mostrar"</string>
   <string name="dialog_roaming_message">Voleu permetre a aquesta aplicació usar dades mòbils en itinerància en ultramar?</string>
   <string name="dialog_roaming_title">Itinerància en ultramar</string>
   <string name="dialog_text">Crea una drecera a la pantalla d\'inici per a l\'accelerador de velocitat dels jocs</string>
@@ -639,6 +644,10 @@
   <string name="examination_score_80_100">Es poden optimitzar pocs elements</string>
   <string name="examination_score_80_60">Es poden optimitzar alguns elements</string>
   <string name="examination_score_has_virus">S\'han detectat algunes aplicacions sospitoses.</string>
+  <string name="exception_dialog_message">"No s'han pogut calcular les estadístiques d'ús de dades a causa d'un error. Sense estadístiques exactes, l'aplicació Seguretat no podrà controlar l'ús de dades. Voleu reiniciar-la per restaurar aquesta funció?"</string>
+  <string name="exception_dialog_ok_button">Reinicia</string>
+  <string name="exception_notify_message">"No s'ha pogut calcular les estadístiques de dades a causa d'un error. Reinicieu-la per restaurar-la."</string>
+  <string name="exception_titile">S\'ha produït un error</string>
   <string name="exit">Surt</string>
   <string name="finger_remind_message">Bloqueig d\'aplicació suporta desbloqueig per empremta. Afegir empremta?</string>
   <string name="fingerprint_identify_msg">Escanegeu l\'empremta</string>
@@ -1488,12 +1497,12 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="safe_result_item_info_system_scan">Supervisió de pagament activat</string>
   <string name="safe_result_item_info_system_version">Sistema té l\'última versió</string>
   <string name="safepay_alert_dialog_button_continue">Procedir</string>
-  <string name="safepay_alert_dialog_button_risk">Solució</string>
+  <string name="safepay_alert_dialog_button_fix">Arregla</string>
   <string name="save_energy_text">"Restringeix l'arrencada automàtica i la sincronització de les aplicacions en segon pla per aprofitar al màxim la bateria del dispositiu"</string>
   <string name="save_energy_title">Optimitza la bateria</string>
   <string name="sc_allow_network_dialog_message">Cal permetre a aquesta aplicació connectar-se a internet perquè funcioni normalment.</string>
   <string name="sc_allow_network_dialog_tiltle">"No es pot fer servir l'Estalvi de dades"</string>
-  <string name="sc_system_risk_fix_info_xspace">El risc no es pot corregir en xspace, canvieu a l\'espai del propietari per arreglar-lo.</string>
+  <string name="sc_system_risk_fix_info_xspace">"El risc no es pot corregir en xspace, canvieu a l'espai del propietari per arreglar-lo."</string>
   <string name="scan_installed_games">S\'està comprovant els jocs instal·lats…</string>
   <string name="scan_status_risk">Arriscat</string>
   <string name="scan_status_safe">Segur</string>
@@ -1552,7 +1561,9 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="sms_stranger_block">Bloqueja SMS d\'estranys</string>
   <string name="sorted_dialog_title">Ordena per</string>
   <string name="sp_background_risk_dialog_summary">, feu un control detallat i corregiu els riscos de pagament</string>
+  <string name="sp_background_risk_dialog_summary_wifi_approve">Esteu connectat a una xarxa Wi-Fi pública que pot ser que no sigui segura. Assegureu-vos que el vostre pagament estigui protegit abans de completar-lo.</string>
   <string name="sp_background_risk_dialog_title">Perillós</string>
+  <string name="sp_background_risk_dialog_title_wifi_approve">Alerta de Wi-Fi pública</string>
   <string name="sp_background_risk_type_messaging">L\'aplicació de missatgeria del sistema ha estat substituïda</string>
   <string name="sp_background_risk_type_root">El sistema ha estat rootejat</string>
   <string name="sp_background_risk_type_sign">S\'està executant una aplicació no oficial</string>
@@ -1993,7 +2004,7 @@ Dades extres en ús"</string>
   <string name="virus_ad_icon_text">Anunci</string>
   <string name="virus_auto_update_engine">Actualització automàtica:%s</string>
   <string name="virus_update_tips_title">Connecteu-vos a la Wi-Fi</string>
-  <string name="virus_wait_network_dialog_message">Les actualitzacions són grans. Connecteu-vos a la Wi-Fi per baixar-les</string>
+  <string name="virus_wait_network_dialog_message">"Les actualitzacions són grans. Connecteu-vos a la Wi-Fi per baixar-les"</string>
   <string name="vpn_disabled_by_user">La connexió de dades designada està desactivada</string>
   <string name="vpn_unbale_get_phonenum">"No es poden obtenir números de telèfon amb els plans de dades designats"</string>
   <string name="wakepath_confirm_start_activity">Permetre a %1$s obrir %2$s?</string>

@@ -41,6 +41,8 @@
         Vols actualitzar ara?"</string>
   <string name="account_settings_login_dialog_reason_fmt" formatted="false">"El teu login a %s ha fallat; el servidor ha dit: %s ¿voleu actualitzar el seu nom d'usuari i/o contrasenya?"</string>
   <string name="account_settings_login_dialog_title">"\"No s'ha pogut iniciar sessió\" "</string>
+  <string name="account_settings_mail_check_frequency_dialog_title">Heu d\'actualitzar el correu manualment per sincronitzar els correus electrònics</string>
+  <string name="account_settings_mail_check_frequency_dialog_title_eas">Quan canvieu al mode manual, cal actualitzar manualment per sincronitzar missatges i calendari</string>
   <string name="account_settings_mail_check_frequency_label">Freqüència de sincronització</string>
   <string name="account_settings_mibill_resolve_label">Analitzar declaracions email</string>
   <string name="account_settings_name_label">El seu nom</string>
@@ -50,6 +52,7 @@
   <string name="account_settings_param">Configuració del compte</string>
   <string name="account_settings_policies">Polítiques de seguretat</string>
   <string name="account_settings_preference_add_account">Afegeix un compte de bústia</string>
+  <string name="account_settings_preference_att_save_path">Ubicació predeterminada per als fitxers adjunts</string>
   <string name="account_settings_preference_head_icon">Fotos de perfil</string>
   <string name="account_settings_preference_notify">Avís</string>
   <string name="account_settings_retry_label">Intentar sincronitzar</string>
@@ -220,6 +223,7 @@
   <string name="auto_remind_unbind">Atura</string>
   <string name="auto_sync_off">Sincronització automàtica apagada.</string>
   <string name="automatic_remind_text">recordatori</string>
+  <string name="back">enrere</string>
   <string name="bank_card_detail">Detalls de la targeta de crèdit</string>
   <string name="battery_saver">Estalvi de bateria</string>
   <string name="battery_saver_keywords">estalvi de bateria;bateria de correu</string>
@@ -363,8 +367,8 @@
   <string name="dialog_gmail_proxy_server_is_error">Error de servidor intermediari de Gmail.</string>
   <string name="dialog_insufficient_space_on_external">"No es pot acabar de baixar. No hi ha prou espai d'emmagatzematge extern."</string>
   <string name="dialog_insufficient_space_on_internal">No hi ha prou espai en l\'emmagatzematge intern.</string>
-  <string name="dialog_system_auto_sync_account_no_open">"La sincronització de compte no està activada i els missatges no es poden sincronitzar automàticament"</string>
-  <string name="dialog_system_auto_sync_master_no_open">"La sincronització del sistema no està activada i els missatges no es poden sincronitzar automàticament"</string>
+  <string name="dialog_system_auto_sync_account_no_open">La sincronització de compte no està activada i els missatges no es poden sincronitzar automàticament</string>
+  <string name="dialog_system_auto_sync_master_no_open">La sincronització del sistema no està activada i els missatges no es poden sincronitzar automàticament</string>
   <string name="disable_admin_warning">"ATENCIÓ: Si desactiveu els permisos de l'aplicació Email per administrar el dispositiu, s'eliminaran tots els comptes de correu que els necessiten, així com els seus missatges, contactes, esdeveniments de calendari i altres dades."</string>
   <string name="discard">Descarta</string>
   <string name="discard_drafts">Descarta projecte</string>
@@ -401,6 +405,7 @@
   <string name="email_address">Adreça de correu</string>
   <string name="email_setting">Correu</string>
   <string name="email_setting_keywords">Compte;Afegeix un compte;comptes de correu;afegeix un compte de correu;confirma abans d\'eliminar;confirmació de supressió;confirma abans d\'enviar;confirmació d\'enviament;flux de supressió de missatge;redirecció de supressió;visualització de conversa;conversa de correu;estalviador de bateria;bateria de correu;envia comentaris;puja registres</string>
+  <string name="eml_parse_message">Resolució lenta de fitxers eml, espereu…</string>
   <string name="empty_account_tip">"No es pot trobar el compte"</string>
   <string name="empty_email_tip">"No es pot enviar un missatge buit"</string>
   <string name="empty_spam">Buidar spam</string>
@@ -417,6 +422,7 @@
   <string name="expand_recipient_details">Ampliar detalls del destinatari</string>
   <string name="fail_get_email_message">Recuperació de missatge fallida.</string>
   <string name="failed">"No s'ha pogut carregar la imatge"</string>
+  <string name="failed_parse_eml_file">Error en la resolució de correu. Torneu-ho a provar</string>
   <string name="failed_read_phone_state_permission">"Permet l'accés a l'estat del dispositiu"</string>
   <string name="failed_read_write_calendar_permission">Permet l\'accés al Calendari</string>
   <string name="failed_read_write_contacts_permission">Permet l\'accés als Contactes</string>
@@ -427,10 +433,14 @@
   <string name="feedback_user_edit_tag">De MIUI&#160;</string>
   <string name="fetch_bank_sender_list_failure">"No s'ha pogut obtenir la informació"</string>
   <string name="fetching_attachment">Afegint adjunt</string>
+  <string name="file_defailt_save_path">Els fitxers adjunts es desen a la carpeta %s de manera predeterminada. Podeu canviar la carpeta a la Configuració.</string>
+  <string name="file_default_save_path_title">Ubicació predeterminada per als fitxers adjunts</string>
   <string name="file_deleted_success">Fitxer eliminat</string>
   <string name="file_not_found">"No s'ha trobat el fitxer"</string>
   <string name="file_not_found_redownload">"No s'ha trobat el fitxer"</string>
   <string name="file_rar_not_support">"No es poden obrir fitxers rar encriptats"</string>
+  <string name="file_save_path_dialog_cancel">D\'acord</string>
+  <string name="file_save_path_dialog_ok">Canvia-ho ara</string>
   <string name="filtered_tag">"[%1$s]%2$s"</string>
   <string name="first_quick_default_reply">Feu clic en aquest accés directe, a continuació, «%s» s\'enviarà a tots els destinataris.</string>
   <string name="float_window_content">Detecta que s\'està utilitzant la bústia, feu clic a Confirma per a que s\'ompli automàticament l\'acompte de correu 139 i la contrasenya.</string>
@@ -505,6 +515,7 @@
   <string name="help_config">Configuració automàtica</string>
   <string name="hide_atts_remaining">Amaga %1$d adjunts</string>
   <string name="hide_elided">▼ Amaga el text citat</string>
+  <string name="hide_password">oculta la contrasenya</string>
   <string name="hierarchical_folder_parent_top_ellip">%1$s∕&#8230;∕%2$s∕</string>
   <string name="hint_quick_reply_all">Respondre a tots</string>
   <string name="imap_password_error">Contrasenya del servidor de correu entrant és incorrecta</string>
@@ -642,6 +653,7 @@
   <string name="move_to_selection_dialog_title">Es va mudar a una altra carpeta</string>
   <string name="multiple_new_message_notification_item">%1$s\"   %2$s\"</string>
   <string name="mute">Mut</string>
+  <string name="navigation_menu">menú de navegació</string>
   <string name="network_error">No hi ha connexió</string>
   <string name="network_invaild">"No s'ha pogut connectar a la xarxa"</string>
   <string name="network_not_available">"Connexió de xarxa no està disponible, si us plau intenti-ho més tard"</string>
@@ -960,6 +972,7 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="shortcut_name_title">Nom per drecera de carpeta</string>
   <string name="show_elided">▶ Mostra text citat</string>
   <string name="show_images">Baixa i mostra les imatges</string>
+  <string name="show_password">mostra la contrasenya</string>
   <string name="signature"> %s</string>
   <string name="silent_ringtone">Silenciós</string>
   <string name="single_new_message_notification_big_text">"%1$s 
@@ -979,8 +992,8 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="str_select_none">Anul·la la selecció</string>
   <string name="subject_hint">Assumpte</string>
   <string name="sync_contacts_fail_per_content">Sol·liciteu els permisos de contacte, feu clic per aplicar</string>
-  <string name="sync_contacts_fail_per_title">La sincronització de contactes ha fallat</string>
-  <string name="sync_contacts_fail_permission">La sincronització de contactes ha fallat, l\'accés als contactes del mòbil no està activa, entreu a la configuració del mòbil, gestió de permisos</string>
+  <string name="sync_contacts_fail_per_title">"La sincronització de contactes ha fallat"</string>
+  <string name="sync_contacts_fail_permission">"La sincronització de contactes ha fallat, l'accés als contactes del mòbil no està activa, entreu a la configuració del mòbil, gestió de permisos"</string>
   <string name="sync_contacts_req_per_ignored">El contacte del telèfon no està obert i no es poden sincronitzar els contactes</string>
   <string name="sync_error">"No s'ha pogut sincronitzar."</string>
   <string name="sync_error_message">"El dispositiu no té prou espai d'emmagatzematge per sincronitzar."</string>
@@ -995,6 +1008,7 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="system_folders_trash_dlg">"Seleccioneu la carpeta Paperera del seu servidor"</string>
   <string name="system_folders_trash_summary">"Seleccioneu la carpeta Paperera del seu servidor"</string>
   <string name="system_folders_trash_title">Paperera</string>
+  <string name="system_root_path">Configuració d\'emmagatzematge intern</string>
   <string name="system_security_open_error">No es pot ajustar el centre de seguretat. Obriu els permisos a la configuració del telèfon</string>
   <string name="system_setup_open_error">No es pot activar la sincronització del compte, activeu el sistema \"a la configuració\" en el compte de correu de sincronització</string>
   <string name="tablet">tauleta tàctil</string>
@@ -1003,10 +1017,11 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="to">Per</string>
   <string name="to_heading">"Per: "</string>
   <string name="toast_bar_fail_synchronization">"No es pot connectar a la xarxa"</string>
-  <string name="toast_bar_insufficient_memory_space">No hi ha prou espai d\'emmagatzematge</string>
+  <string name="toast_bar_insufficient_memory_space">"No hi ha prou espai d'emmagatzematge"</string>
   <string name="toast_bar_invalid_account">Heu d\'iniciar sessió de nou</string>
   <string name="toast_bar_no_connection_network">"Sense connexió a Internet"</string>
-  <string name="toast_bar_open_gmail_synchronization">Toqui per utilitzar servidor intermediari per a Gmail</string>
+  <string name="toast_bar_open_gmail_synchronization">"Toqui per utilitzar servidor intermediari per a Gmail"</string>
+  <string name="toast_bar_send_fail_remind">"No s'ha pogut enviar el correu. S'ha desat a la carpeta «Safata de sortida»."</string>
   <string name="toastbar_calendar_and_contacts_permission_switch_close">No està autoritzada l\'agenda ni els contactes. L\'agenda i els contactes no es poden sincronitzar</string>
   <string name="toastbar_calendar_permission_switch_close">No està autoritzada l\'agenda. L\'agenda no es pot sincronitzar</string>
   <string name="toastbar_contacts_permission_switch_close">No estan autoritzats els contactes. Els contactes no es poden sincronitzar</string>

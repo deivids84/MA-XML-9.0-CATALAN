@@ -605,6 +605,7 @@ Accediu a »&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
   <string name="lockscreen_sim_unlock_progress_dialog_message">S\'està desbloquejant la targeta SIM&#8230;</string>
   <string name="lockscreen_sound_off_label">So desactivat</string>
   <string name="lockscreen_sound_on_label">So activat</string>
+  <string name="lockscreen_storage_locked">Desbloqueja per a totes les funcions i dades</string>
   <string name="lockscreen_too_many_failed_attempts_countdown">Intenteu-ho de nou en %d segons.</string>
   <string name="lockscreen_too_many_failed_attempts_dialog_message">\"Heu fallat %1$d vegades en dibuixar el patró de desbloqueig. 
 

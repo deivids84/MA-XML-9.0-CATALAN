@@ -31,7 +31,7 @@
   <string name="action_menu_text_bandwidth">Estalvi de dades</string>
   <string name="action_menu_text_bandwidth_off">Estalvi de dades</string>
   <string name="action_menu_text_bandwidth_on">Estalvi de dades</string>
-  <string name="action_menu_text_bookmark_add_off">No es pot afegir cap pàgina web.</string>
+  <string name="action_menu_text_bookmark_add_off">"No es pot afegir cap pàgina web."</string>
   <string name="action_menu_text_bookmark_added">S\'ha afegit un marcador</string>
   <string name="action_menu_text_copy_url">Copia l\'URL</string>
   <string name="action_menu_text_create_qr_code">Codi QR</string>
@@ -154,8 +154,8 @@
   <string name="close_all_tab_alert_title">Tanca totes les pestanyes</string>
   <string name="close_cloud_tab_tip">Voleu tancar les pestanyes al núvol de %s?</string>
   <string name="cloud_loading_tips">Llisqueu cap avall per sincronitzar</string>
-  <string name="cloud_no_new_data_toast">"Tot està actualitzat"</string>
-  <string name="cloud_sync_closed_toast">"No es pot actualitzar perquè la sincronització està desactivada"</string>
+  <string name="cloud_no_new_data_toast">Tot està actualitzat</string>
+  <string name="cloud_sync_closed_toast">No es pot actualitzar perquè la sincronització està desactivada</string>
   <string name="cloud_sync_failed_toast">"No s'ha pogut actualitzar"</string>
   <string name="cloud_tab">Pestanyes al núvol</string>
   <string name="cloud_time_tips">Darrera sincronització</string>
@@ -333,7 +333,7 @@ Les pàgines que visiteu no apareixeran a l\'historial.»</string>
   <string name="geolocation_permissions_prompt_remember">Recorda la preferència</string>
   <string name="geolocation_permissions_prompt_share">Comparteix la ubicació</string>
   <string name="geolocation_permissions_prompt_toast_allowed">Aquest lloc pot accedir a la informació d\'ubicació. Per canviar-ho aneu a Configuració &gt; Avançada &gt; Dades del lloc web.</string>
-  <string name="geolocation_permissions_prompt_toast_disallowed">Aquest lloc no pot accedir a la ubicació</string>
+  <string name="geolocation_permissions_prompt_toast_disallowed">"Aquest lloc no pot accedir a la ubicació"</string>
   <string name="geolocation_settings_page_dialog_cancel_button">Cancel·la</string>
   <string name="geolocation_settings_page_dialog_message">Voleu esborrar l\'accés a la ubicació per a aquest lloc?</string>
   <string name="geolocation_settings_page_dialog_ok_button">D\'acord</string>
@@ -355,7 +355,7 @@ Les pàgines que visiteu no apareixeran a l\'historial.»</string>
   <string name="homepage_more_sites">Més llocs web</string>
   <string name="homepage_search_hint">Cerca</string>
   <string name="homepage_top_card_menu">Destacat</string>
-  <string name="ignore_add_pwa_dialog_today">Avui no ho mostris</string>
+  <string name="ignore_add_pwa_dialog_today">"Avui no ho mostris"</string>
   <string name="in_incognito">"Esteu d'incògnit! Les pàgines web que veieu en aquesta pestanya no apareixeran en el vostre historial de navegació."</string>
   <string name="in_secureaccess">El navegador s\'ha canviat al Mode segur</string>
   <string name="isReplacePage">El fitxer ja existeix, el voleu reemplaçar?</string>
@@ -540,7 +540,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="no_space_alert_clean">Allibera espai</string>
   <string name="no_space_alert_text">No hi ha prou espai d\'emmagatzematge</string>
   <string name="no_space_alert_title">Baixada en pausa</string>
-  <string name="no_space_clean_failed">No s\'ha pogut alliberar espai al dispositiu</string>
+  <string name="no_space_clean_failed">"No s'ha pogut alliberar espai al dispositiu"</string>
   <string name="not_allowed_open">"No es pot utilitzar el Navegador en el flux OOB"</string>
   <string name="not_remind_again">Recorda la meva elecció</string>
   <string name="notif_install_successful">Baixada completa</string>
@@ -565,7 +565,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="permission_alert_window">Permet les finestres emergents per utilitzar aquesta funció</string>
   <string name="permission_notification">envia les notificacions</string>
   <string name="permission_unknown">Acció desconeguda</string>
-  <string name="permissions_prompt_message">"%s vol "</string>
+  <string name="permissions_prompt_message">%s vol </string>
   <string name="popup_window_attempt">Voleu que aquest lloc pugui obrir una finestra emergent?</string>
   <string name="positive_confirm_message">Desactiva-ho de totes maneres</string>
   <string name="pref_accept_quicklink_push">Retorna a la pàgina d\'inici</string>
@@ -686,7 +686,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="quicklink_cannot_save_url">"Aquest URL no es pot afegir."</string>
   <string name="quicklink_folder_text">Aplicacions més importants</string>
   <string name="quicklink_not_saved">"No s'ha pogut afegir a la pàgina d'inici"</string>
-  <string name="quicklink_push_confirm_message">Si desactiveu aquesta opció afectareu el retorn a la pàgina d\'inici.</string>
+  <string name="quicklink_push_confirm_message">"Si desactiveu aquesta opció afectareu el retorn a la pàgina d'inici."</string>
   <string name="quicklink_saved">S\'ha desat a la pàgina d\'inici</string>
   <string name="quicklink_saved_before">Ja s\'ha afegit aquest lloc</string>
   <string name="quicklink_user_define_webpage_title">Nom</string>
@@ -885,7 +885,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="version_check_button_no_network">"No es pot connectar a la xarxa"</string>
   <string name="version_check_button_resume_download">Reprèn la baixada</string>
   <string name="version_check_button_update">Actualitza</string>
-  <string name="version_check_failed">No s\'han pogut comprovar les actualitzacions</string>
+  <string name="version_check_failed">"No s'han pogut comprovar les actualitzacions"</string>
   <string name="version_dialog_buttion_ok">D\'acord</string>
   <string name="version_dialog_buttion_update">Actualitza</string>
   <string name="version_update_file_download_toast">S\'està baixant</string>

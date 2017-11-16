@@ -132,5 +132,6 @@ Torneu a provar-ho d\'aquí %d segons."</string>
   <string name="unlockscreen_low_battery">Connecteu el carregador</string>
   <string name="unlockscreen_recharge_completed">Bateria carregada</string>
   <string name="unlockscreen_recharging_message">S\'està carregant %d%%</string>
+  <string name="wallpaper_global_des_drop_down_notify_text">Allibereu per mostrar els detalls</string>
   <string name="wrong_password">Contrasenya incorrecta</string>
 </resources>

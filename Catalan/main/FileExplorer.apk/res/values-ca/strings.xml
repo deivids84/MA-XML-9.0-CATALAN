@@ -174,7 +174,7 @@
   <string name="encrypt_success">Ocultats correctament</string>
   <string name="encrypt_success_first_five">"Encriptat i ocultat. Tira cap avall a la pantalla d'inici del Explorador per veure els fitxers."</string>
   <string name="encrypting">Encriptant&#8230;</string>
-  <string name="error_contains_sharer_path">No es pot encriptar fitxers a la carpeta /MIUI/Gallery/cloud/sharer. Mogui\'ls a un altre lloc i intenti de nou.</string>
+  <string name="error_contains_sharer_path">"No es pot encriptar fitxers a la carpeta /MIUI/Gallery/cloud/sharer. Mogui'ls a un altre lloc i intenti de nou."</string>
   <string name="error_create_dir">"No s'ha pogut crear la carpeta"</string>
   <string name="error_create_file">"No s'ha pogut crear el fitxer"</string>
   <string name="error_delete_failed">"No s'ha pogut eliminar el fitxer"</string>
@@ -208,7 +208,7 @@
   <string name="file_name_invalid">"Els noms de fitxer no poden contenir els següents caràcters: /\\:*?&lt;&gt;"</string>
   <string name="file_not_exist">"El fitxer no existeix"</string>
   <string name="finish_str">Fet</string>
-  <string name="folder_name_empty">El nom de la carpeta no pot estar buit</string>
+  <string name="folder_name_empty">"El nom de la carpeta no pot estar buit"</string>
   <string name="folder_name_illegal">Nom de la carpeta no vàlid</string>
   <string name="follow_fail">"No s'ha pogut seguir, torneu a provar-ho més tard"</string>
   <string name="follow_success_tip">S\'ha seguit correctament</string>
@@ -499,6 +499,7 @@
   <string name="search_file_type_music">Música</string>
   <string name="search_file_type_picture">Foto</string>
   <string name="search_file_type_video">Vídeo</string>
+  <string name="search_guid_hint">Cerca el fitxer</string>
   <string name="search_hint">Cerca</string>
   <string name="search_history">Historial de cerca</string>
   <string name="search_hot_sticker">Adhesius; Baixa adhesius</string>

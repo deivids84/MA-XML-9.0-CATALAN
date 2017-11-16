@@ -92,5 +92,5 @@
   <string name="theme_apply_success">Pantalla de bloqueig aplicada</string>
   <string name="theme_applying">Aplicant&#8230;</string>
   <string name="wlan_download">Només Wi-Fi</string>
-  <string name="wlan_download_cn">Actualització a través de WLAN</string>
+  <string name="wlan_download_cn">Actualització a través de Wi-Fi</string>
 </resources>

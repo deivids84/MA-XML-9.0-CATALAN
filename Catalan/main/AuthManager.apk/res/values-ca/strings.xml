@@ -8,8 +8,8 @@
   <string name="HIPS_Perm_AudioRecorder">Enregistra l\'àudio</string>
   <string name="HIPS_Perm_AudioRecorder_Desc">enregistrar àudio i trucades telefòniques</string>
   <string name="HIPS_Perm_AutoStart">Iniciar-se automàticament</string>
-  <string name="HIPS_Perm_AutoStart_Desc">iniciar-se en engegar el dispositiu</string>
-  <string name="HIPS_Perm_Bluetooth_Connectivity">Canviar la connectivitat Bluetooth</string>
+  <string name="HIPS_Perm_AutoStart_Desc">executa en engegar el dispositiu</string>
+  <string name="HIPS_Perm_Bluetooth_Connectivity">Canvia la connectivitat Bluetooth</string>
   <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">activar o desactivar el Bluetooth</string>
   <string name="HIPS_Perm_Body_Sensors">Sensors corporals</string>
   <string name="HIPS_Perm_Body_Sensors_Desc">sensors corporals (p. ex. sensor de freqüència cardíaca)</string>
@@ -54,7 +54,7 @@
   <string name="HIPS_Perm_VideoRecorder">Accedir a la càmera</string>
   <string name="HIPS_Perm_VideoRecorder_Desc">accedir a la càmera per fer fotos o enregistrar vídeo</string>
   <string name="HIPS_Perm_WIFI_Connectivity">Canviar la connectivitat Wi-Fi</string>
-  <string name="HIPS_Perm_WIFI_Connectivity_Desc">activar WLAN ara</string>
+  <string name="HIPS_Perm_WIFI_Connectivity_Desc">activa o desactiva la Wi-Fi</string>
   <string name="HIPS_Perm_add_voicemail">Amagar missatges de veu</string>
   <string name="HIPS_Perm_add_voicemail_Desc">afegir missatges de veu del sistema</string>
   <string name="HIPS_Perm_background_start_activity">Run in background</string>
@@ -91,7 +91,7 @@
   <string name="grant_dialog_button_deny">Denega</string>
   <string name="location_settings">Configuració d\'ubicació</string>
   <string name="location_warning">%1$s és un proveïdor de serveis d\'ubicació per a aquest dispositiu. L\'accés a la ubicació es pot modificar a la configuració d\'ubicació.</string>
-  <string name="never_ask_again">No m\'ho tornis a preguntar</string>
+  <string name="never_ask_again">"No m'ho tornis a preguntar"</string>
   <string name="ok">D\'acord</string>
   <string name="permission_group_title_charges_related">Càrrecs</string>
   <string name="permission_group_title_media_related">Multimèdia</string>

@@ -463,7 +463,7 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="battery_saver_off_summary">Apagat / %1$s</string>
   <string name="battery_saver_on_summary">Engegat / %1$s</string>
   <string name="battery_saver_turn_on_automatically_never">Mai</string>
-  <string name="battery_saver_turn_on_automatically_pct">Bateria al %1$s</string>
+  <string name="battery_saver_turn_on_automatically_pct">si la bateria està en %1$s</string>
   <string name="battery_saver_turn_on_automatically_title">Engega automàticament</string>
   <string name="battery_settings">Bateria</string>
   <string name="battery_settings_title">Bateria</string>
@@ -474,7 +474,7 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="battery_stats_duration">%1$s des de que s\'ha desendollat</string>
   <string name="battery_stats_flashlight_on_label">Flaix engegat</string>
   <string name="battery_stats_gps_on_label">S\'ha activat el GPS</string>
-  <string name="battery_stats_on_battery">Bateria al %1$s</string>
+  <string name="battery_stats_on_battery">Bateria per %1$s</string>
   <string name="battery_stats_phone_signal_label">Senyal de la xarxa mòbil</string>
   <string name="battery_stats_screen_on_label">Pantalla engegada</string>
   <string name="battery_stats_wake_lock_label">Engegada</string>
@@ -1671,7 +1671,7 @@ Però ja no obtingué resposta, perquè el malalt greu acabava de morir d’una 
   <string name="fullbackup_data_summary">«Creeu còpies de seguretat automàtiques de les dades del dispositiu (com ara les contrasenyes de la Wi-Fi o l\'historial de trucades) i de les aplicacions (com ara les configuracions i els fitxers que desin) de manera remota.
 
 Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius i de les aplicacions s\'emmagatzemaran periòdicament de manera remota. Les dades de les aplicacions poden ser qualsevol tipus de dades que hagi desat una aplicació (en funció de la configuració del desenvolupador), incloses les dades potencialment confidencials, com ara contactes, missatges i fotos.»</string>
-  <string name="fullbackup_erase_dialog_message">Voleu deixar de fer còpies de seguretat de les dades del dispositiu (per exemple, contrasenyes i historial de trucades WLAN) i dades d\'aplicacions (com ara les configuracions i els arxius emmagatzemats per aplicacions), a més d\'esborrar totes les còpies a Google Drive?</string>
+  <string name="fullbackup_erase_dialog_message">Voleu deixar de fer còpies de seguretat de les dades del dispositiu (per exemple, contrasenyes i historial de trucades Wi-Fi) i dades d\'aplicacions (com ara les configuracions i els arxius emmagatzemats per aplicacions), a més d\'esborrar totes les còpies a Google Drive?</string>
   <string name="gadget_brightness_state_auto">Automàtic</string>
   <string name="gadget_brightness_state_full">Màxim</string>
   <string name="gadget_brightness_state_half">meitat</string>
@@ -2031,6 +2031,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="lock_screen_notifications_summary_show">Mostra tot el contingut de les notificacions</string>
   <string name="lock_screen_notifications_summary_show_profile">Mostra tot el contingut de notific. professionals</string>
   <string name="lock_screen_notifications_title">Amb el dispositiu bloquejat</string>
+  <string name="lock_screen_secure_after_timeout_immediately_never">Mai cal contrasenya.</string>
   <string name="lock_screen_secure_after_timeout_immediately_summary">Cal la contrasenya.</string>
   <string name="lock_screen_secure_after_timeout_summary">Cal la contrasenya en %1$s</string>
   <string name="lock_screen_secure_after_timeout_title">Cal contrasenya</string>
@@ -2481,7 +2482,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="nfc_quick_toggle_summary">Permet l\'intercanvi de dades quan el telèfon toca un altre dispositiu</string>
   <string name="nfc_se_route_title">Posició d\'element segur</string>
   <string name="nfc_se_wallet_title">Portamonedes predeterminat</string>
-  <string name="no_account_found">Cap aplicació permet afegir comptes</string>
+  <string name="no_account_found">"Cap aplicació permet afegir comptes"</string>
   <string name="no_application">Res</string>
   <string name="no_applications">Cap aplicació.</string>
   <string name="no_battery_summary">Cap ús de la bateria des de l\'última càrrega completa</string>
@@ -2699,6 +2700,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="phone_info_label">Informació del telèfon</string>
   <string name="phone_language">Idioma</string>
   <string name="physical_keyboard_title">Teclat físic</string>
+  <string name="pick_up_gesture_wakeup_title">Trieu un gest per despertar</string>
   <string name="picture_color_mode">Mode de color de la imatge</string>
   <string name="picture_color_mode_desc">Utilitza sRGB</string>
   <string name="pin_failed">Hi ha hagut un problema en l\'operació del PIN de la SIM!</string>
@@ -2748,6 +2750,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="pre_installed_application">Aplicacions pre-instal·lades</string>
   <string name="pref_button_light">Il·luminació dels botons</string>
   <string name="pref_button_light_summary">Il·luminació dels botons Menú, Pàgina d\'inici i Enrere</string>
+  <string name="pref_button_light_summary_sub">Inici,</string>
   <string name="pref_edge_handgrip">Controls de la vora</string>
   <string name="pref_operational_key">Botons de navegació</string>
   <string name="pref_title_lang_selection">Preferències d\'idioma</string>

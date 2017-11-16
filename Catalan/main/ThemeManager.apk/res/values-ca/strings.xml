@@ -92,8 +92,8 @@
   <string name="gift_use_confirmation_dlg_title">Voleu enviar aquest regal?</string>
   <string name="gift_use_fail_dlg_title">Alguna cosa va anar malament</string>
   <string name="gift_used">Enviat</string>
-  <string name="hide_free">"Amaga els de franc "</string>
-  <string name="hide_incompatible">"Amaga els incompatibles "</string>
+  <string name="hide_free">Amaga els de franc </string>
+  <string name="hide_incompatible">Amaga els incompatibles </string>
   <string name="home_apply_failured">"No es pot aplicar el fons de la pantalla d'inici"</string>
   <string name="home_apply_success">S\'ha aplicat el fons de pantalla d\'inici</string>
   <string name="in_the_end">No hi ha més</string>
@@ -155,7 +155,7 @@
   <string name="purchased_list">Comprats</string>
   <string name="purchased_list_legacy">Temes heretats</string>
   <string name="recently_used">Utilitzats recentment</string>
-  <string name="region_not_support">Els temes no són compatibles amb la vostra zona.</string>
+  <string name="region_not_support">"Els temes no són compatibles amb la vostra zona."</string>
   <string name="reload">Torneu a provar-ho</string>
   <string name="resource_account_abnormal_state">Error en el compte. Espereu un o dos minuts i torneu-ho a provar.</string>
   <string name="resource_account_fail_to_add">"No es pot afegir el compte"</string>

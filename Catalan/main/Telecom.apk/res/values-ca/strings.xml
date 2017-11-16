@@ -37,7 +37,7 @@
   <string name="block_button">Bloqueja</string>
   <string name="block_number">Afegeix un número</string>
   <string name="blocked_numbers">Números bloquejats</string>
-  <string name="blocked_numbers_block_emergency_number_message">No es pot bloquejar el número d\'emergència.</string>
+  <string name="blocked_numbers_block_emergency_number_message">"No es pot bloquejar el número d'emergència."</string>
   <string name="blocked_numbers_butter_bar_body">Després que truqueu o envieu un missatge a un número d\'emergències, el bloqueig es desactivarà per garantir que els serveis d\'emergència us puguin contactar.</string>
   <string name="blocked_numbers_butter_bar_button">Torna a activar ara</string>
   <string name="blocked_numbers_butter_bar_title">El bloqueig està desactivat temporalment</string>
@@ -160,7 +160,7 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="disable_overlays_summary">Utilitza sempre la GPU per a combinar pantalles</string>
   <string name="disabled_by_admin">S\'ha desactivat per l\'administrador</string>
   <string name="disabled_by_admin_summary_text">Controlat per l\'administrador</string>
-  <string name="duplicate_video_call_not_allowed">La trucada no es pot afegir ara mateix.</string>
+  <string name="duplicate_video_call_not_allowed">"La trucada no es pot afegir ara mateix."</string>
   <string name="enable_account_preference_title">Comptes de trucada</string>
   <string name="enable_adb">Depuració USB activada</string>
   <string name="enable_adb_summary">Activa el mode de depuració quan el dispositiu estigui connectat per USB</string>
@@ -232,7 +232,7 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="oem_unlock_enable">Desbloqueig d\'OEM</string>
   <string name="oem_unlock_enable_summary">Permet desbloquejar el gestor d\'arrencada</string>
   <string name="outgoing_call_error_no_phone_number_supplied">Per poder trucar, introduïu un número vàlid.</string>
-  <string name="outgoing_call_not_allowed_no_permission">Aquesta aplicació no pot fer trucades sense el permís del telèfon.</string>
+  <string name="outgoing_call_not_allowed_no_permission">"Aquesta aplicació no pot fer trucades sense el permís del telèfon."</string>
   <string name="outgoing_call_not_allowed_user_restriction">El propietari del dispositiu només admet trucades d\'emergència.</string>
   <string name="overlay_display_devices_title">Simula pantalles secundàries</string>
   <string name="picture_color_mode">Mode de color de la imatge</string>
@@ -308,7 +308,7 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="tether_settings_title_wifi">Punt d\'accés portàtil</string>
   <string name="tethering_settings_not_available">La configuració d\'ancoratge no està disponible per a aquest usuari</string>
   <string name="title_convert_fbe">S\'està convertint a xifrat basat en fitxers</string>
-  <string name="toast_make_video_call_failed">No es poden fer trucades de vídeo, el format del número és incorrecte</string>
+  <string name="toast_make_video_call_failed">"No es poden fer trucades de vídeo, el format del número és incorrecte"</string>
   <string name="toast_personal_call_msg">S\'està utilitzant el telèfon personal per fer la trucada</string>
   <string name="track_frame_time">Perfil de la renderització de la GPU</string>
   <string name="transition_animation_scale_title">Escalat de l\'animació de transició</string>
