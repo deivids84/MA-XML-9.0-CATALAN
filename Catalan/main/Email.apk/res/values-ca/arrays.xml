@@ -24,8 +24,8 @@
     <item>Triar data</item>
   </string-array>
   <string-array name="compose_modes">
-    <item>Respondre</item>
-    <item>Respondre a tots</item>
+    <item>Respon</item>
+    <item>Respon a tots</item>
     <item>Reenvia</item>
   </string-array>
   <string-array name="general_preference_text_zoom_summary_array">

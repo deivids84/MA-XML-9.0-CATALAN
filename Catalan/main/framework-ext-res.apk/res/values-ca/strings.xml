@@ -21,6 +21,7 @@
   <string name="auto_start_warning_allow">Permet</string>
   <string name="auto_start_warning_deny">Denega</string>
   <string name="auto_start_warning_title">Voleu permetre que %s\'iniciï de forma automàtica?</string>
+  <string name="autofill">Emplenament automàtic</string>
   <string name="button_text_cancel">Cancel·la</string>
   <string name="button_text_delete">Elimina</string>
   <string name="button_text_delete_timer">Elimina (%d)</string>

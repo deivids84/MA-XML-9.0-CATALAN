@@ -6,12 +6,9 @@
   <string name="access_token_invalid_warning">El compte Weibo no és vàlid</string>
   <string name="account">Compte</string>
   <string name="account_bind_devices">Dispositius</string>
-  <string name="account_bind_new_phone">Afegeix un nou telèfon</string>
-  <string name="account_bind_phone_notice">Utilitza aquest número de telèfon per iniciar la sessió al vostre compte, restablir la contrasenya, o canviar la configuració de seguretat.</string>
   <string name="account_bind_secure_email_title">Afegeix una adreça de correu</string>
   <string name="account_bind_secure_phone_title">Afegiu un número de telèfon</string>
   <string name="account_bind_settings">Comptes</string>
-  <string name="account_binded_phone">Telèfon %d</string>
   <string name="account_crop_user_avatar">Escapça foto</string>
   <string name="account_empty_user_name">Introduïu el nom d\'usuari del vostre compte Mi</string>
   <string name="account_error_all_space_user_name">"El nom no pot contenir només espais"</string>
@@ -59,6 +56,8 @@
   <string name="account_user_using_qq_avatar">Utilitza la foto de perfil de QQ</string>
   <string name="account_user_using_weibo_avatar">Utilitza la foto de perfil de Sina Weibo</string>
   <string name="account_xiaomi_service">Serveis</string>
+  <string name="action_add_phone">Vincula el número de telèfon</string>
+  <string name="action_update_phone">Canvia el número de telèfon</string>
   <string name="activate_email_notice">Assegureu-vos d\'activar el vostre compte abans de 24 hores</string>
   <string name="activity_not_found_notice">"No es pot trobar l'app"</string>
   <string name="add_account">Vincula compte</string>
@@ -78,7 +77,6 @@
   <string name="change_email_address">Canvia l\'adreça de correu electrònic</string>
   <string name="change_password">Canvia la contrasenya</string>
   <string name="change_phone_number">Canvia el número de telèfon</string>
-  <string name="checking_phone_num_availible">Verificant el telèfon&#8230;</string>
   <string name="completed">Tot fet</string>
   <string name="confirm_activate_email">Verificat</string>
   <string name="confirm_bundled_phone_dialog_title">Confirma el número de telèfon inclòs</string>
@@ -134,10 +132,12 @@
   <string name="find_device_request_prepare_error">"No es pot obtenir l'estat, intenteu-ho més tard"</string>
   <string name="find_device_unknown_error">"No es pot obtenir l'estat, intenteu-ho més tard"</string>
   <string name="first_login_time">Primer intent d\'inici de sessió: %s</string>
+  <string name="get_back_pwd">Recupera la contrasenya</string>
   <string name="get_device_list_failed">"No es poden obtenir dispositius"</string>
   <string name="get_phone_bind_exceed_limit">"El número de telèfon mòbil vinculat al número de compte ha arribat al màxim (3), ja no podeu incloure el nou compte"</string>
   <string name="get_phone_verifycode_exceed_limit">S\'han enviat massa codis de verificació a aquest número. Espereu 24 hores i torneu-ho a provar.</string>
   <string name="guest_account_label">Compte de convidat Mi</string>
+  <string name="identity">Identitat</string>
   <string name="input_email_address_notice">"Utilitzarem aquest correu per verificar el vostre compte"</string>
   <string name="io_error_title">Confirmeu la vostra xarxa</string>
   <string name="just_a_second">Un moment&#8230;</string>
@@ -166,6 +166,7 @@
   <string name="my_device_title">Dispositiu actual</string>
   <string name="no_network_btn">Actualitza</string>
   <string name="no_network_title">"No es pot connectar a la xarxa."</string>
+  <string name="no_phone">Sense telèfon</string>
   <string name="no_response_retry">No hi ha resposta, torneu-ho a provar.</string>
   <string name="no_sim_card_or_unactivated">"La targeta SIM no està instal·lada o activada"</string>
   <string name="nobind">No connectat</string>
@@ -370,6 +371,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_wrong_vcode">El codi que heu introduït és incorrecte</string>
   <string name="passport_yes">Sí</string>
   <string name="phone_activated">%s activat</string>
+  <string name="phone_num_use_for">el número de telèfon s\'utilitza per a:</string>
   <string name="photoPickerNotFoundText">No hi ha fotos disponibles.</string>
   <string name="push_notification_content">Feu clic i obtén el codi de verificació</string>
   <string name="push_notification_title">Inicieu sessió al Compte Mi en un dispositiu desconegut</string>
@@ -406,6 +408,8 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="select_location_title">Seleccioneu la vostra ubicació</string>
   <string name="send_email_activate_message">Correu de verificació enviat</string>
   <string name="service_error">Error del servei</string>
+  <string name="set_success">Correcte</string>
+  <string name="sign_in">Inicia sessió</string>
   <string name="sina_weibo">Sina WeiBo</string>
   <string name="sms_send_success">Enviat</string>
   <string name="sns_access_token_expired_warning">L\'inici de sessió del compte ha caducat. Inicieu sessió de nou per tornar a connectar aquest compte.</string>
@@ -421,6 +425,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="update_contacts">Actualitza la llibreta d\'adreces</string>
   <string name="update_email_address_dialog_message">Us cal verificar la identitat abans que pugueu actualitzar el correu electrònic.</string>
   <string name="update_email_address_dialog_title">Actualitza el correu</string>
+  <string name="update_phone_notice">canvia la configuració de seguretat</string>
   <string name="update_phone_number_notice_message">Us cal verificar la identitat abans que pugueu actualitzar el número de telèfon.</string>
   <string name="updated_nothing">Actualitzat</string>
   <string name="user_avatar_update_title">Actualitza imatge del perfil</string>

@@ -107,7 +107,9 @@
     <item>Lluny</item>
   </string-array>
   <string-array name="mili_help_tips">
-    <item>"Assegureu-vos que la polsera estigui carregada i no s'hagi quedat sense bateria."</item>
+    <item>"Toqueu la polsera per comprovar si el dispositiu està carregat abans d\'enllaçar una Mi Band 2 o altres polseres.
+
+Carregueu la polsera abans d\'enllaçar una Mi Band o una Mi Band Pulse."</item>
     <item>Desconnecteu primer el Bluetooth per després vincular-lo amb aquest dispositiu.</item>
     <item>"Si la polsera està carregada però el telèfon no pot trobar-la, reinicieu el Bluetooth."</item>
     <item>"Si reiniciant el Bluetooth no es soluciona el problema, proveu a reiniciar el telèfon."</item>
@@ -208,9 +210,9 @@
   </string-array>
   <string-array name="timeline_type">
     <item>Activitat</item>
-    <item>S\'està caminant lent</item>
+    <item>Caminada suau</item>
     <item>Caminant</item>
-    <item>S\'està caminant ràpid</item>
+    <item>Caminada ràpida</item>
     <item>Corrent</item>
     <item>Dempeus</item>
     <item>Assegut</item>

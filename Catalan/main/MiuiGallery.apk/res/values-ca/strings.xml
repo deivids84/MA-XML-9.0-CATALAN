@@ -514,6 +514,7 @@ Feu més fotos als vostres amics!"</string>
   <string name="grant_permission_go_and_set">Defineix</string>
   <string name="grant_permission_text">La Galeria necessita accés a %s per funcionar normalment, premeu Estableix per anar als Permisos.</string>
   <string name="grant_permission_title">Permet l\'accés</string>
+  <string name="grant_permission_unlock_and_set">Desbloca i configura</string>
   <string name="has_invalid_recipient">Destinataris no vàlids: %1$s</string>
   <string name="have_known">Ho entenc</string>
   <string name="hidden_album_display_name">Àlbum ocult</string>
@@ -833,10 +834,12 @@ Feu més fotos als vostres amics!"</string>
   <string name="search_feedback_false_positive_title">Sembla que aquestes són «%s»</string>
   <string name="search_feedback_likely_check_title">Comprova</string>
   <string name="search_feedback_likely_title">Sembla que aquestes fotos poden tenir «%s»</string>
-  <string name="search_feedback_task_finish_title">Toqueu per rebre una recompensa!</string>
+  <string name="search_feedback_task_complete">S\'han completat totes les missions</string>
   <string name="search_feedback_task_progress">%1$d/%2$d</string>
   <string name="search_feedback_task_request_award_failed">"No s'ha pogut rebre la recompensa. Torneu-ho a provar més tard."</string>
   <string name="search_feedback_task_requesting_award">S\'està rebent la recompensa…</string>
+  <string name="search_feedback_user_notice">"He llegit i he acceptat %s."</string>
+  <string name="search_feedback_user_policy">Política de privacitat de l\'algoritme del programa Galeria MI AIUI</string>
   <string name="search_hint">Cerca d\'imatges</string>
   <string name="search_image_result_title">Resultats de la cerca</string>
   <string name="search_login_now">Inicia la sessió</string>
@@ -985,6 +988,7 @@ Feu més fotos als vostres amics!"</string>
   <string name="tip_not_download">No es troba al dispositiu. Es baixarà de Mi Cloud mentre es reprodueix.</string>
   <string name="tip_screenshot_package_info">Nom de l\'aplicació:</string>
   <string name="title_set_name">Introduïu el nom</string>
+  <string name="title_tip">Pista</string>
   <string name="title_warn">Advertència</string>
   <string name="to_count">%d en total</string>
   <string name="to_enable_gallery_sync_dialog_message">Cal que primer activeu la sincronització de la galeria</string>

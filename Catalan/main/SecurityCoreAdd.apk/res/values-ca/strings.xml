@@ -30,6 +30,7 @@ aquesta característica s\'afegirà al Segon espai automàticament."</string>
   <string name="closeSecondSpace">Esborrar el Segon espai</string>
   <string name="closeSecondSpaceSummary">Esborrar el Segon espai amb les seves dades</string>
   <string name="closeSuccess">Desactivat</string>
+  <string name="close_second_space">Segon espai suprimit</string>
   <string name="close_second_space_success">Segon espai esborrat</string>
   <string name="closed">Apagat</string>
   <string name="complete_setting">Finalitzat</string>
@@ -127,6 +128,7 @@ Dos espais. Un dispositiu."</string>
   <string name="input_space_password">Estableix ara</string>
   <string name="invalid_qr_code">Codi QR no vàlid</string>
   <string name="list_empty_text">Buit</string>
+  <string name="list_empty_text_xspace">Instal·leu WeChat/QQ/Weibo, creeu aplicacions duals i torneu-ho a provar.</string>
   <string name="loading">Un moment&#8230;</string>
   <string name="loading_apps">S\'estan carregant les aplicacions&#8230;</string>
   <string name="loading_space">Un moment&#8230;</string>
@@ -172,8 +174,11 @@ Dos espais. Un dispositiu."</string>
   <string name="private_sms_show_title">Els missatges privats es mostren al Segon espai</string>
   <string name="private_space_setting">Gestionar</string>
   <string name="public_app">Ambdós espais</string>
+  <string name="qq_send">Envia als amics/dispositius QQ</string>
   <string name="removeSuccess">S\'ha eliminat correctament</string>
   <string name="remove_second_space_msg">Totes les dades d\'aplicacions del Segon espai es perdran quan suprimiu el Segon espai. Voleu suprimir el Segon espai ara?</string>
+  <string name="remove_user_click_message">"*Si no teniu cap element important al Segon espai, %s"</string>
+  <string name="remove_user_click_message_action">podeu eliminar el segon espai i reiniciar el dispositiu ara.</string>
   <string name="removingSpace">S\'està suprimint&#8230;</string>
   <string name="repeat_scanner_fingerprint">Afegir de nou</string>
   <string name="reset_passwd_success">Contrasenya restablerta amb èxit</string>
@@ -194,6 +199,13 @@ Dos espais. Un dispositiu."</string>
   <string name="scanner_fingerprint_tips_title">Entrar al Segon espai utilitzant una empremta existent</string>
   <string name="scanner_second_space_fingerprint">Escanejar empremta del Segon espai</string>
   <string name="sdcardfs_dialog_message">Desactiveu l\'«Optimització de la targeta SD simulada» a les opcions del desenvolupador abans d\'entrar al segon espai.</string>
+  <string name="sdcardfs_dialog_title">Actualització important</string>
+  <string name="sdcradfs_dialog_in_owner_message">"MIUI 9 té un nou sistema de fitxers. Les dades antigues poden ser incompatibles amb ell. Per actualitzar, moveu elements del segon espai, reinicieu el dispositiu i creeu el segon espai de nou.
+Si no s\'actualitza, és possible que les aplicacions duals no funcionin correctament. "</string>
+  <string name="sdcradfs_dialog_in_owner_title">Segon espai</string>
+  <string name="sdcradfs_dialog_in_sec_message">"Per actualitzar, hauríeu d\'eliminar el segon espai i tornar-lo a crear. Moveu les dades del segon espai al primer espai i reinicieu el dispositiu per completar l\'actualització.
+Si no s\'actualitza, és possible que les aplicacions duals no funcionin correctament. "</string>
+  <string name="sdcradfs_dialog_in_sec_title">Actualització important</string>
   <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
   <string name="search_result_text">"No s'ha trobat cap aplicació"</string>
   <string name="secondSpace">Segon espai</string>
@@ -238,6 +250,7 @@ Dos espais. Un dispositiu."</string>
   <string name="show_private_msg_summary">Mostrar els missatges privats en el Segon espai</string>
   <string name="skip">Omet</string>
   <string name="spaceSetting">Configuració</string>
+  <string name="space_created_success">S\'ha creat el segon espai amb èxit</string>
   <string name="space_deleted">Aquest espai s\'ha suprimit</string>
   <string name="space_des_default">Espai aïllat amb dades xifrades</string>
   <string name="space_finger_sub_text">Estableix l\'empremta del segon espai per canviar més ràpid</string>
@@ -290,10 +303,17 @@ Dos espais. Un dispositiu."</string>
   <string name="transferMessage">Els missatges del Segon espai es mouran al Primer espai</string>
   <string name="tryNow">Proveu-ho ara</string>
   <string name="wating">Un moment&#8230;</string>
+  <string name="weibo_send">Envia al Weibo</string>
+  <string name="weixin_pay">Pagament WeChat</string>
+  <string name="weixin_share">Pagament WeChat</string>
   <string name="xpsace_guide_button">Crea</string>
   <string name="xspace_account">Comptes d\'aplicacions duals</string>
   <string name="xspace_chocie">Suport d\'aplicacions duals</string>
   <string name="xspace_creating">S\'està creant l\'aplicació dual&#8230;</string>
+  <string name="xspace_default_app_summary">Estableix l\'aplicació predeterminada per als pagaments, l\'ús compartit, els preferits i molt més.</string>
+  <string name="xspace_default_app_title">Aplicació per defecte</string>
+  <string name="xspace_default_setting_dialog_title">Per defecte</string>
+  <string name="xspace_default_setting_label">Aplicació per defecte</string>
   <string name="xspace_description">Creeu aplicacions duals per utilitzar-les separadament. Les aplicacions duals tindran icones específiques a la pantalla d\'inici.</string>
   <string name="xspace_guide_des">Utilitza 2 comptes sense canviar</string>
   <string name="xspace_guide_title">Crear aplicació dual per a %s</string>

@@ -75,6 +75,8 @@
   <string name="daily_forcast_no_stable_direction">Sense vent</string>
   <string name="daily_forcast_no_wind">&lt;12 km/h</string>
   <string name="daily_forcast_no_wind_miles">&lt;19.3 mph</string>
+  <string name="daily_forcast_temperature_transfer_C">%1$s / %2$s℃</string>
+  <string name="daily_forcast_temperature_transfer_F">%1$s / %2$s℉</string>
   <string name="daily_forcast_weather_transfer">%1$s. %2$s més tard.</string>
   <string name="daily_forcast_whirl_wind">Tornado</string>
   <string name="daily_forcast_wind_connect">%1$s %2$s</string>
@@ -170,9 +172,13 @@ Toqueu la pantalla per afegir una ciutat manualment o moure-la"</string>
   <string name="precipitation_degree_three">moderada</string>
   <string name="precipitation_degree_two">lleugera</string>
   <string name="pressure_connect">%1$s mbar</string>
+  <string name="pull_fresh_updated">S\'ha actualitzat amb èxit</string>
+  <string name="pull_fresh_updating">S\'està actualitzant</string>
   <string name="radar_cloud_image_title">Mapa de radar</string>
   <string name="rainfall_settings_summary">Configuració de les precipitacions</string>
   <string name="rainfall_settings_title">Avís de les precipitacions</string>
+  <string name="real_time_sunrise">Alba %1$s</string>
+  <string name="real_time_sunset">Ocàs %1$s</string>
   <string name="realtime_aqi_title">Índex de qualitat de l\'aire</string>
   <string name="realtime_humidity_title">Humitat relativa</string>
   <string name="realtime_temperature_no_data">N/D</string>

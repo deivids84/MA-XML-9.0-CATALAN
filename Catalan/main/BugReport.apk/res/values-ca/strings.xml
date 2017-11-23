@@ -57,12 +57,14 @@
   <string name="feedback_bug_status_change_notification_desc">%1$s problema \"%2$s\"</string>
   <string name="feedback_choose_module">Trieu un element</string>
   <string name="feedback_choose_module_hint">Necessari</string>
+  <string name="feedback_choose_third_app_name">Seleccioneu el nom de l\'aplicació</string>
   <string name="feedback_collect_log_failed">"No s'han pogut obtenir els registres"</string>
   <string name="feedback_contact_info_hint">Número de telèfon/correu</string>
   <string name="feedback_continue">Continua amb els comentaris</string>
   <string name="feedback_delete_images">Elimina les imatges</string>
   <string name="feedback_description">Descripció</string>
   <string name="feedback_description_bugreport_hint">En alguns casos (&#8230;) el meu telèfon té errors (&#8230;).</string>
+  <string name="feedback_description_hint">"Descriviu el problema que heu trobat"</string>
   <string name="feedback_description_label">Descripció</string>
   <string name="feedback_description_suggest_hint">"M'agradaria afegir una nova funció () perquè necessito ()."</string>
   <string name="feedback_detail_tile">Progrés</string>
@@ -95,6 +97,7 @@
   <string name="feedback_status_recorded">Comentaris rebuts</string>
   <string name="feedback_status_replyed">Respost</string>
   <string name="feedback_status_reresolved">Resolt</string>
+  <string name="feedback_status_submit_attachment">S\'ha enviat un fitxer adjunt amb èxit</string>
   <string name="feedback_status_supplement">Descriviu el problema detalladament</string>
   <string name="feedback_status_supplement_more">Afegeix un comentari</string>
   <string name="feedback_submit_failed_notification_desc">Mostra els detalls</string>
@@ -254,6 +257,7 @@
   <string name="section_description">Descripció</string>
   <string name="section_err_type">Tipus d\'error</string>
   <string name="section_screenshot">Captura de pantalla</string>
+  <string name="select_system_app_tag">Seleccioneu les etiquetes</string>
   <string name="submit_dialog_cancel">Cancel·la</string>
   <string name="submit_dialog_confirm">Envia</string>
   <string name="submit_dialog_content">"L'informe, amb els arxius adjunts i els registres, s'enviarà als servidors de MIUI. Pot contenir informació personal."</string>

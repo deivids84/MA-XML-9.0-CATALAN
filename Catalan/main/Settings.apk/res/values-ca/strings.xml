@@ -1381,19 +1381,6 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»</string>
   <string name="doze_title">Pantalla ambient</string>
   <string name="draw_overlay">Mostra a sobre d\'altres aplicacions</string>
   <string name="draw_overlay_title">Aplicacions que es poden posar al cim altres aplicacions</string>
-  <string name="drive_mode">Mode cotxe</string>
-  <string name="drive_mode_auto_reply">Resposta ràpida</string>
-  <string name="drive_mode_auto_sms_reply_content">"Ara no puc parlar… Ja et trucaré"</string>
-  <string name="drive_mode_auto_sms_reply_content_title">Resposta ràpida</string>
-  <string name="drive_mode_calling_auto_sms_reply">Respon a les trucades</string>
-  <string name="drive_mode_invert_stop_report">Gireu el telèfon per a silenciar-lo</string>
-  <string name="drive_mode_only_contact_reply">Respon només als contactes</string>
-  <string name="drive_mode_phone_report">Informació de la trucada entrant</string>
-  <string name="drive_mode_settings">Configuració del mode cotxe</string>
-  <string name="drive_mode_sms_auto_sms_reply">Respon el missatge</string>
-  <string name="drive_mode_sms_report">Missatges</string>
-  <string name="drive_mode_title">Mode cotxe</string>
-  <string name="drive_mode_voice_report">Sortida de text a veu</string>
   <string name="dtmf_tone_enable_title">Tons del teclat</string>
   <string name="edge_mode_back">Enrere</string>
   <string name="edge_mode_back_summary">Toca dues vegades la vora del telèfon per anar enrere</string>
@@ -1420,7 +1407,6 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»</string>
   <string name="enable_adb">Depuració USB activada</string>
   <string name="enable_adb_summary">Activa el mode de depuració quan el dispositiu estigui connectat per USB</string>
   <string name="enable_compatibility">Escala de l\'aplicació</string>
-  <string name="enable_drive_mode">Mode cotxe</string>
   <string name="enable_freeform_support">Activa les finestres de format lliure</string>
   <string name="enable_freeform_support_summary">Activa la compatibilitat amb finestres de format lliure experimentals.</string>
   <string name="enable_mobile_data_when_opening_hotspot">També voleu activar la connexió de dades mòbils?</string>
@@ -1559,6 +1545,7 @@ Us ajuda a protegir les dades en dispositius perduts o robats.»</string>
   <string name="fingerprint_manage_tittle">Empremta</string>
   <string name="fingerprint_not_identified_msg">"No es pot llegir l'empremta. Introduïu la contrasenya"</string>
   <string name="fingerprint_not_recognized">No s\'ha reconegut</string>
+  <string name="fingerprint_payment">Pagaments amb l\'empremta</string>
   <string name="fingerprint_removal_failed">"No s'ha pogut suprimir l'empremta, torneu-hi"</string>
   <string name="fingerprint_unlock_set_unlock_password">Empremta + Contrasenya</string>
   <string name="fingerprint_unlock_set_unlock_pattern">Empremta + Patró</string>

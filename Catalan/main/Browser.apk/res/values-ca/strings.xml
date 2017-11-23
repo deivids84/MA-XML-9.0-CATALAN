@@ -210,8 +210,6 @@
   <string name="current_version_phone">Telèfon</string>
   <string name="custom_head_card_text">«Creu sempre que alguna cosa meravellosa
 està a punt de passar»</string>
-  <string name="custom_head_card_text_incognito">«Ara esteu d\'incògnit!
-Les pàgines que visiteu no apareixeran a l\'historial.»</string>
   <string name="data_traffic_prompt_change">Si s\'utilitza la connexió de dades mòbils per veure vídeos s\'incrementarà l\'ús de dades. Si excediu el límit del pla de dades, el vostre operador podria cobrar-vos despeses addicionals.</string>
   <string name="data_traffic_prompt_message">Si s\'utilitza la connexió de dades mòbils per veure vídeos s\'incrementarà l\'ús de dades. Si excediu el límit del pla de dades, el vostre operador podria cobrar-vos despeses addicionals.</string>
   <string name="data_traffic_prompt_message_short">Si s\'utilitza la connexió de dades mòbils per a transmetre vídeo es podria superar el vostre límit de dades.</string>
@@ -356,7 +354,6 @@ Les pàgines que visiteu no apareixeran a l\'historial.»</string>
   <string name="homepage_search_hint">Cerca</string>
   <string name="homepage_top_card_menu">Destacat</string>
   <string name="ignore_add_pwa_dialog_today">"Avui no ho mostris"</string>
-  <string name="in_incognito">"Esteu d'incògnit! Les pàgines web que veieu en aquesta pestanya no apareixeran en el vostre historial de navegació."</string>
   <string name="in_secureaccess">El navegador s\'ha canviat al Mode segur</string>
   <string name="isReplacePage">El fitxer ja existeix, el voleu reemplaçar?</string>
   <string name="is_first_history_item">Aquesta és la primera pàgina de l\'historial de navegació</string>
@@ -785,9 +782,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="share_image_text">Estic gaudint d\'una imatge molt meravellosa</string>
   <string name="share_page_text">Estic gaudint 【%1$s】 | %2$s</string>
   <string name="show_check_security_url_check_tip_dialog_description">Per millorar-ne la seguretat i rebre recomanacions rellevants, permeteu al navegador accedir a aquests elements:</string>
-  <string name="show_check_security_url_check_tip_dialog_description_international">Per rebre recomanacions pertinents, permeteu al navegador accedir a aquests elements:</string>
   <string name="show_security_tip_dialog_title">Condicions del servei</string>
-  <string name="show_weather_location_getter_tip_dialog_description">Per qüestions de seguretat local i per proporcionar informació basada en la ubicació en els serveis de referència i meteorològics, el navegador necessita accés a la informació següent:</string>
   <string name="sign_in_to" formatted="false">Inicia una sessió al %s1 \"%s2\"</string>
   <string name="skip_button_label">Omet</string>
   <string name="skip_current_version">Omet aquesta versió</string>
@@ -830,7 +825,6 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="suggest_access_item_singer_pop">%d cançons populars</string>
   <string name="suggest_access_item_site_mark">LLOCS</string>
   <string name="suggest_access_item_video_mark">VÍDEO</string>
-  <string name="suggest_access_item_website_mark">LLOC WEB</string>
   <string name="suggest_access_music">Música Mi</string>
   <string name="suggest_item_delete_text">Elimina</string>
   <string name="suggest_open_app_failed">"No s'ha pogut obrir aquesta aplicació"</string>

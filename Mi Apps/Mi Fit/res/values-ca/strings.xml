@@ -75,12 +75,16 @@
   <string name="exo_controls_pause_description">Pausa</string>
   <string name="exo_controls_play_description">Reprodueix</string>
   <string name="exo_controls_previous_description">Cançó anterior</string>
+  <string name="exo_controls_repeat_all_description">Repeteix-ho tot</string>
+  <string name="exo_controls_repeat_off_description">Cap repetició</string>
+  <string name="exo_controls_repeat_one_description">Repeteix-ho una vegada</string>
   <string name="exo_controls_rewind_description">Rebobina</string>
   <string name="exo_controls_stop_description">Atura</string>
   <string name="messenger_send_button_text">Envia</string>
   <string name="place_autocomplete_clear_button">Esborra la cerca</string>
   <string name="place_autocomplete_search_hint">Cerca</string>
   <string name="search_menu_title">Cerca</string>
+  <string name="MiFit">Mi Fit</string>
   <string name="abandon_update">Ara no</string>
   <string name="accelerate">Acceleració</string>
   <string name="account_bind">Afegeix</string>
@@ -91,13 +95,14 @@
   <string name="account_bind_success">S\'ha afegit correctament</string>
   <string name="account_bind_third_id_already_bind">El compte l\'ha pres una altra persona, canvieu de compte</string>
   <string name="account_bind_wechat">Compte WeChat</string>
-  <string name="account_binded">S\'ha afegit</string>
   <string name="account_binding">S\'està afegint&#8230;</string>
   <string name="account_id">ID de compte:</string>
+  <string name="account_unbind">Desenllaça</string>
+  <string name="account_unbind_check">Voleu desvincular-lo?</string>
   <string name="account_unbind_failed">"No s'ha pogut esborrar, torneu-ho a provar"</string>
-  <string name="account_unbind_mi_notifi">Voleu eliminar el «Compte Mi»?</string>
+  <string name="account_unbind_mi_notifi">"Després d'eliminar el compte, no podreu veure les dades actuals del Compte Mi"</string>
   <string name="account_unbind_success">S\'ha esborrat correctament</string>
-  <string name="account_unbind_wechat_notifi">Voleu eliminar el «Compte WeChat»?</string>
+  <string name="account_unbind_wechat_notifi">"Després d'eliminar el compte, no podreu veure les dades actuals del compte WeChat"</string>
   <string name="account_unbinding">S\'està esborrant&#8230;</string>
   <string name="action">Acció</string>
   <string name="action_badminton">Bàdminton</string>
@@ -121,12 +126,13 @@
   <string name="action_stairs">Pujada d\'escales</string>
   <string name="action_stand">Aixecar</string>
   <string name="action_walk">Caminar</string>
-  <string name="active_calorie">Cremades</string>
+  <string name="active_calorie">Consum energètic</string>
   <string name="active_distance">Distància</string>
   <string name="active_duration">Temps d\'activitat</string>
   <string name="active_week_calorie">Calories totals</string>
   <string name="active_week_distance">Distància total</string>
   <string name="active_week_duration">Mitjana diària</string>
+  <string name="ad">ANUNCI</string>
   <string name="add_alarm_tips">Afegiu fins a %d alarmes</string>
   <string name="add_alert_app">Gestiona aplicacions</string>
   <string name="add_family_nickname_hint">"Introduïu el nom del membre de la família"</string>
@@ -137,18 +143,17 @@
   <string name="agree_ux">Participeu en el programa de millora de l\'experiència d\'usuari</string>
   <string name="air_qual">Qualitat de l\'aire</string>
   <string name="air_qual_excellent">Molt bo</string>
-  <string name="air_qual_good">Bo</string>
+  <string name="air_qual_good">Bona</string>
   <string name="air_qual_heavy_pollution">Insalubre</string>
   <string name="air_qual_light_pollution">Moderat</string>
   <string name="air_qual_medium_pollution">Pobre</string>
   <string name="air_qual_severe_pollution">Perillós</string>
   <string name="air_quality_bad">Deficient</string>
-  <string name="air_quality_good">Bo</string>
+  <string name="air_quality_good">Bona</string>
   <string name="air_quality_title">Qualitat de l\'aire</string>
   <string name="air_quality_very_bad">Molt deficient</string>
   <string name="air_quality_very_good">Molt bo</string>
   <string name="alarm_clock_lazy_summary">L\'alarma sonarà cada 10 minuts, manteniu premuda la polsera per aturar-la</string>
-  <string name="alarm_clock_lazy_summary_watch">El dispositiu vibrarà de nou en 10 minuts després de prémer «Recordam-ho més tard»</string>
   <string name="alarm_clock_lazy_tip">"Per aturar la vibració, premeu la polsera mentre vibra"</string>
   <string name="alarm_clock_lazy_title">Mode Repetició</string>
   <string name="alarm_clock_repeat">Període</string>
@@ -156,7 +161,8 @@
   <string name="alarm_delete_failed">"No s'ha pogut suprimir"</string>
   <string name="alarm_help_subtitle_01">Podeu afegir fins a 10 alarmes amb la vostra Mi Band 2</string>
   <string name="alarm_help_subtitle_02">Agiteu lleugerament la Mi Band per aturar l\'alarma</string>
-  <string name="alarm_help_subtitle_03">Agiteu lleugerament la polsera per aturar la vibració.\\nTornarà a vibrar d\'aqui a 10 minuts.</string>
+  <string name="alarm_help_subtitle_03">"Per aturar la vibració, sacsegeu lleugerament la polsera.
+Tornarà a vibrar al cap de 10 minuts."</string>
   <string name="alarm_help_subtitle_04">Podeu afegir fins a 3 alarmes amb Mi Band</string>
   <string name="alarm_help_subtitle_05">Tornarà a vibrar d\'aqui a 10 minuts</string>
   <string name="alarm_help_title_01">Ho suficient</string>
@@ -169,14 +175,12 @@
   <string name="alarm_save">S\'està desant&#8230;</string>
   <string name="alarm_save_failed">"No s'ha pogut desar"</string>
   <string name="alarm_save_success">S\'ha desat amb èxit</string>
-  <string name="alert_app_max_number_tips">Podeu afegir fins a 5 aplicacions</string>
   <string name="alert_disable">Desactivada</string>
   <string name="alert_enable">Activada</string>
   <string name="alert_list_title">Notificacions de Mi Band</string>
   <string name="alert_list_title_watch">Alertes del rellotge</string>
   <string name="alert_msg_no_storge_permission">Mi Fit necessita permís per emmagatzemar dades en la memòria</string>
-  <string name="alert_msg_unable_start_camera">\"Heu de permetre l\'ús de la càmera als permisos del telèfon.
-També podeu reiniciar el telèfon.\"</string>
+  <string name="alert_msg_unable_start_camera">Permet que Mi Fit accedeixi a la càmera a la Configuració</string>
   <string name="alert_title_no_storge_permission">"No es pot llegir ni escriure arxius a la targeta SD"</string>
   <string name="alert_title_unable_start_camera">"No s'ha pogut accedir a la càmera"</string>
   <string name="algo_version_3">Algorisme</string>
@@ -194,19 +198,19 @@ També podeu reiniciar el telèfon.\"</string>
   <string name="amazfit_watch_query_failed">"\"Sense connexió a la xarxa. Proveu-ho de nou\""</string>
   <string name="amazfit_watch_select_watch">"Amazfit
 Pace"</string>
-  <string name="amazfit_watch_unbind_confirm">Desenllaça l\'Amazfit Pace de Mi Fit</string>
+  <string name="amazfit_watch_unbind_confirm">Desenllaça el rellotge del Mi Fit</string>
   <string name="amazfit_watch_unbind_confirm_failed">"No s'han pogut sincronitzar les dades del rellotge. Si el desvinculeu les podeu perdre."</string>
   <string name="amazfit_watch_unbind_mili_mutex">Per enllaçar el rellotge, primer heu de desenllaçar la polsera</string>
   <string name="amazfit_watch_unbind_mutex_unbind">Desenllaça %s</string>
-  <string name="amazfit_watch_unbind_watch_mutex">Per enllaçar polsera, primer heu de desenllaçar el rellotge</string>
+  <string name="amazfit_watch_unbind_watch_mutex">Per enllaçar el braçalet, primer cal desenllaçar el rellotge</string>
   <string name="ampm_format">hh:mm a</string>
   <string name="ampm_format_hhmmss">hh:mm:ss a</string>
   <string name="anti_theft">Alarma antirobament</string>
   <string name="anti_theft_tips">"La polsera vibrarà quan es perdi la connexió amb el dispositiu"</string>
   <string name="anti_theft_tips_watch">"El rellotge vibrarà quan es desconnecti"</string>
-  <string name="apgs_sync_fail">"No s'ha pogut actualitzar les dades AGPS"</string>
+  <string name="apgs_sync_fail">"No s'ha pogut actualitzar les dades A-GPS"</string>
   <string name="apk_download_ok">Mi Fit baixada amb èxit</string>
-  <string name="apk_force_upgrade_wifi_status">L\'ús de dades mòbils pot comportar despeses addicionals. Voleu continuar?</string>
+  <string name="apk_force_upgrade_wifi_status">L\'ús de dades mòbils pot generar costos de trànsit addicionals. Voleu actualitzar de totes maneres?</string>
   <string name="apk_upgrde_title">Actualitza a la darrera versió</string>
   <string name="apk_uptodate">No hi ha actualitzacions</string>
   <string name="app_alert">"Notificació d\'aplicacions 
@@ -262,7 +266,7 @@ Per exemple, WeChat:
   <string name="baby_weight_warning_content">Comproveu que la bàscula està en un lloc pla i no teniu els peus molls</string>
   <string name="band_alarm">Alarma</string>
   <string name="band_alarm_alert">Vibra en sonar l\'alarma</string>
-  <string name="band_alert">Notificacions de la polsera</string>
+  <string name="band_alert">Notificacions en la polsera</string>
   <string name="band_connect_fail">"No s'ha pogut connectar amb la polsera"</string>
   <string name="band_sync_fail">"Error en sincronitzar"</string>
   <string name="basal_metabolism">Metabolisme basal</string>
@@ -275,19 +279,17 @@ Per exemple, WeChat:
   <string name="battery_warn_less_10_watch">La bateria està per sota del 10%</string>
   <string name="battery_warn_less_5">Bateria baixa. Carregueu la polsera</string>
   <string name="battery_warn_less_5_watch">La bateria s\'està esgotant, carregueu el rellotge</string>
-  <string name="better_score_text">"\"Sembla que esteu en bona forma, seguiu igual d'actiu i assoliu noves metes\""</string>
   <string name="bf3_all_standard">"Enhorabona, sou molt sa"</string>
   <string name="bf3_bf_change_mon">Últims canvis de greix del cos</string>
   <string name="bf3_compare_last">Progrés (%1$s)</string>
-  <string name="bf3_compare_last_mon">En comparació amb fa %1$s d</string>
   <string name="bf3_family_add">Afegeix gent</string>
   <string name="bf3_family_info_title">Introduïu la seva informació personal per a una anàlisi més precisa</string>
   <string name="bf3_mon_pre_title">En comparació amb el mes passat</string>
   <string name="bf3_static_title">Estadístiques</string>
   <string name="bf3_weight_change_mon">Canvis recents de pes</string>
   <string name="bf3_weight_compare_subtitle">En comparació amb usuaris de la mateixa alçada de la mateixa zona</string>
-  <string name="bf3_weight_compare_title_99_weight">El %1$d%% de les persones són més primes que jo</string>
-  <string name="bf3_weight_compare_title_pre_light">Sou més prim que el %1$d%% de les persones</string>
+  <string name="bf3_weight_compare_title_99_weight">El %1$d%% de la població és més prima que jo</string>
+  <string name="bf3_weight_compare_title_pre_light">Sou més prim que el %1$d%% de la població</string>
   <string name="bind_alipay">Alipay</string>
   <string name="bind_alipay_bound_tips">"No pots veure les dades més recents?
 
@@ -295,15 +297,15 @@ Aneu al menú d\'inici per sincronitzar les dades de nou."</string>
   <string name="bind_alipay_btn">Afegeix</string>
   <string name="bind_alipay_fail">"No s'ha pogut afegir"</string>
   <string name="bind_alipay_install">Instal·leu primer Alipay</string>
-  <string name="bind_alipay_tips">"Fes clic a\" Afegeix \", aneu a la pàgina d\'autorització d\'Alipay,
-  i premi \"D\'acord\".
+  <string name="bind_alipay_tips">"Toqueu «Afegeix», aneu a la pàgina d\'autorització d\'Alipay,
+I toqueu «D\'acord».
 
-Els teus passos es mostraran en el rànquing. "</string>
+Els vostres passos es mostraran als rànquings."</string>
   <string name="bind_alipay_title">Afegeix Alipay</string>
   <string name="bind_alipay_unbind">Elimina</string>
   <string name="bind_alipay_unbind_verify">Voleu eliminar Alipay?</string>
   <string name="bind_amazfit_watch_subtitle">Enllaceu el rellotge per veure l\'activitat i les dades relatives al son</string>
-  <string name="bind_amazfit_watch_title">Vinculació</string>
+  <string name="bind_amazfit_watch_title">Enllaça l\'Amazfit Pace</string>
   <string name="bind_band_to_analy">Enllaceu la polsera per analitzar la qualitat del son</string>
   <string name="bind_chaohu_found_title">Confirmeu la vinculació al rellotge</string>
   <string name="bind_chaohu_more_devices_tips">Mantingueu el rellotge allunyat d\'altres rellotges durant la cerca</string>
@@ -311,20 +313,22 @@ Els teus passos es mostraran en el rànquing. "</string>
   <string name="bind_chaohu_not_shake">"El rellotge no ha rebut la sol·licitud de vinculació"</string>
   <string name="bind_chaohu_search_tips">Mantén el rellotge a prop del telèfon</string>
   <string name="bind_chaohu_search_title">S\'està cercant&#8230;</string>
+  <string name="bind_device_has_bound">"No s'ha pogut vincular, contacteu amb el servei postvenda"</string>
   <string name="bind_failed_auth_deny">S\'ha denegat la sol·licitud d\'enllaçament apropeu-lo al telèfon i torneu-ho a provar</string>
-  <string name="bind_failed_help">"No s'ha pogut enllaçar. Reinicieu el Bluetooth i torneu-ho a provar"</string>
-  <string name="bind_failed_net_error">"No s'ha pogut enllaçar. Comproveu la connexió i torneu-ho a provar"</string>
+  <string name="bind_failed_help">"No s'ha pogut vincular, reinicieu el Bluetooth i torneu-ho a provar"</string>
+  <string name="bind_failed_net_error">"No s'ha pogut vincular, comproveu la xarxa i torneu-ho a provar"</string>
   <string name="bind_get_help">Premeu per obtenir ajuda</string>
   <string name="bind_google_fit">Google Fit</string>
   <string name="bind_google_fit_btn_text">Sincronitzar amb Google Fit</string>
   <string name="bind_i_know">D\'acord</string>
   <string name="bind_mi_weight_howto_tips">Més informació</string>
   <string name="bind_mili_connect_title">S\'està connectant la pulsera…</string>
-  <string name="bind_mili_failed">"No s'ha pogut enllaçar, manteniu la polsera a prop del telèfon i torneu-ho a provar"</string>
+  <string name="bind_mili_found_not_shake">"El rellotge no ha rebut la sol·licitud de vinculació"</string>
   <string name="bind_mili_found_tips">Toqueu la polsera per confirmar quan noteu la vibració</string>
   <string name="bind_mili_found_tips_pro">"Premeu la polsera per vincular-la mentre estigui vibrant"</string>
   <string name="bind_mili_found_title">Toqueu lleugerament la polsera</string>
   <string name="bind_mili_found_title_pro">Premeu el botó de la polsera</string>
+  <string name="bind_mili_found_title_tempo">Confirmeu-ho des del rellotge</string>
   <string name="bind_mili_more_devices_tips">Mantingui la polsera allunyada d\'altres polseres durant l\'enllaçament</string>
   <string name="bind_mili_not_found_tips">"No s'ha pogut trobar la polsera. Comproveu que estigui carregada i prop del teu telèfon"</string>
   <string name="bind_mili_not_shake">"La polsera no va vibrar"</string>
@@ -340,13 +344,12 @@ Els teus passos es mostraran en el rànquing. "</string>
   <string name="bind_shoes_capture_title">Enllaceu les sabatilles per córrer</string>
   <string name="bind_shoes_invalid_qr_help">Codi QR invàlid, escanegeu el codi en el xip intel·ligent</string>
   <string name="bind_shoes_not_found_tips">"No s'ha pogut trobar el xip intel ligent. Apropeu-lo al telèfon."</string>
-  <string name="bind_shoes_search_tips">Mantén l\'Smart Chip a prop del telèfon</string>
+  <string name="bind_shoes_search_tips">Mantingueu el xip intel·ligent prop del telèfon</string>
   <string name="bind_shoes_search_title">S\'està enllaçant&#8230;</string>
   <string name="bind_status_connect">Afegit</string>
   <string name="bind_status_disconnect">Desconnectat</string>
   <string name="bind_try_again">Reintenta</string>
   <string name="bind_watch">Enllaça</string>
-  <string name="bind_watch_failed">"No s'ha pogut enllaçar, manteniu el rellotge a prop del telèfon i torneu-ho a provar"</string>
   <string name="bind_weibo">Sina Weibo</string>
   <string name="bind_weibo_health">Afegeix</string>
   <string name="bind_weibo_health_tip">Afegiu la informació de sincronització d\'activitat amb Weibo Fit</string>
@@ -368,10 +371,10 @@ Els teus passos es mostraran en el rànquing. "</string>
   <string name="bind_weixin_btn_text">Afegeix</string>
   <string name="bind_weixin_failed">"No s'ha pogut afgir WeChat"</string>
   <string name="bind_weixin_new_now">S\'està accedint&#8230;</string>
-  <string name="bind_weixin_new_tips">"Fes clic a \"Accés \", ves al xat de Huami Technology,
-i toca a \"Afegeix dispositiu\".
+  <string name="bind_weixin_new_tips">"Toqueu «Accés», aneu al compte WeChat de la tecnologia Huami,
+I toqueu «Afegeix dispositiu».
 
-Els teus passos es mostraran en el rànquing. "</string>
+Els vostres passos es mostraran als rànquings."</string>
   <string name="bind_weixin_new_tips_not_bound">"Dades antigues al WeChat?
 Proveu a sincronitzar la pàgina d\'inici."</string>
   <string name="birthday">Aniversari</string>
@@ -389,7 +392,7 @@ Proveu a sincronitzar la pàgina d\'inici."</string>
   <string name="bmi">IMC</string>
   <string name="bmi_activity_text">"IMC: pes (kg) / alçada (m) al quadrat.
 
-No es pot jutjar si està \"obès\" només pel valor d\'IMC.
+No es pot jutjar si esteu \"obès\" només pel valor d\'IMC.
 Amb un IMC estàndard, hi ha gent que té més greix i menys
 múscul podent ser obès. "</string>
   <string name="bmi_need_attention_for_bmi_high">"No es pot diagnosticar la vostra salut perquè la proporció de greix corporal és normal. Així, l'IMC només és orientatiu."</string>
@@ -410,7 +413,6 @@ múscul podent ser obès. "</string>
   <string name="body_figures">Pes actual</string>
   <string name="body_params_bmi">IMC</string>
   <string name="body_params_bmr_low">"Objectius no aconseguits"</string>
-  <string name="body_score">Puntuació</string>
   <string name="body_score_label">Puntuació %d</string>
   <string name="body_shape">Corpulència</string>
   <string name="bodyfat_3_del_title_tips">Les dades de pes corresponents també se suprimiran després de suprimir els registres. Voleu continuar?</string>
@@ -419,9 +421,6 @@ múscul podent ser obès. "</string>
   <string name="bodyfat_3_empty_too_old">"No es poden analitzar les persones més grans de 99 anys"</string>
   <string name="bodyfat_3_empty_too_short">"No es poden analitzar les persones més baixes de 90 cm"</string>
   <string name="bodyfat_3_empty_too_young">"No es poden analitzar les persones més petites de 6 anys"</string>
-  <string name="bodyfat_3_health">%d objectius aconseguits</string>
-  <string name="bodyfat_3_need_attention">%d punts que heu de parar atenció</string>
-  <string name="bodyfat_3_not_up_to_standard">"%d elements no van aconseguir els objectius"</string>
   <string name="bodyfat_3_params_bmr_standard">Objectiu aconseguit</string>
   <string name="bodyfat_activity_text">El greix corporal es refereix a la proporció de greix en el pes corporal total. A més de l\'obesitat, la proporció de greix corporal alta també pot augmentar la prevalença de moltes malalties de l\'obesitat, mentre que la baixa proporció de greix corporal pot causar trastorns endocrins. La proporció de greix s\'aconsegueix mantenint-se en forma \"</string>
   <string name="bone_activity_text">La massa òssia es refereix a la quantitat de calci, fòsfor i altres matèries contingudes en l\'os. Les dones amb menys massa òssia causada per la pèrdua de pes o amenorrea han de prestar especial atenció. Tracta de mantenir una ingesta equilibrada de calci, i prendre el sol 15 minuts i realitzar 20 minuts d\'exercici cada dia</string>
@@ -429,7 +428,8 @@ múscul podent ser obès. "</string>
   <string name="bone_value">Massa òssia</string>
   <string name="bound_qq_tips">"Els passos i les dades del son es sincronitzaran amb QQ Health després de sincronitzar les dades de la pulsera cada vegada.
 Connecta el teu dispositiu a la xarxa durant la sessió. "</string>
-  <string name="bracelet_login_info_2">En iniciar sessió, accepteu les condicions d\'ús de Xiaomi</string>
+  <string name="bracelet_dialog_info">Toqueu per acceptar %1$s i %2$s</string>
+  <string name="bracelet_login_info">En iniciar la sessió, accepteu «%1$s» i «%2$s»</string>
   <string name="bracelet_notify_text">"No oblideu posar-se de nou la polsera"</string>
   <string name="bracelet_notify_title">Bateria carregada</string>
   <string name="break_best_step_record">Felicitats! Heu aconseguit un nou rècord</string>
@@ -438,16 +438,16 @@ Connecta el teu dispositiu a la xarxa durant la sessió. "</string>
   <string name="btn_retagging">Inicia de nou</string>
   <string name="btn_upload_continue">Continua</string>
   <string name="btn_upload_inwifi">Actualitza automàticament quan hi hagi connexió Wi-Fi</string>
-  <string name="button_search_friend">Cerca</string>
   <string name="button_send_care">Envia vibració</string>
   <string name="cache_clearing">S\'està netejant</string>
   <string name="cadence_text">Cadència</string>
   <string name="cadence_unit">PPM</string>
+  <string name="cal_with_unit">Consum energètic (Cal)</string>
   <string name="calendar_next_week">Propera setmana</string>
   <string name="calendar_today">Avui</string>
   <string name="calendar_tommorrow">Demà</string>
   <string name="calendar_week">s</string>
-  <string name="calorie">Calories</string>
+  <string name="can_not_play_video">"El vídeo no es pot reproduir"</string>
   <string name="cancel">Cancel·la</string>
   <string name="cancel_focus_fail">"Error en deixar de seguir"</string>
   <string name="cancel_focus_success">S\'ha deixat de seguir</string>
@@ -456,6 +456,8 @@ Connecta el teu dispositiu a la xarxa durant la sessió. "</string>
   <string name="cancel_tagging">Cancel·la</string>
   <string name="cannot_analyze">"No s'ha pogut analitzar"</string>
   <string name="cannot_delete">Almenys mantingueu un registre</string>
+  <string name="ccb_app_name">Aplicació CCB NFC</string>
+  <string name="ccb_app_version_low">Actualitza l\'aplicació a l\'última versió</string>
   <string name="centigrade_temperature">%d ℃</string>
   <string name="change_sport_goal_confirm">D\'acord</string>
   <string name="change_sport_goal_tip_not_bound">Enllaceu la polsera per establir objectius</string>
@@ -496,13 +498,12 @@ Connecta el teu dispositiu a la xarxa durant la sessió. "</string>
   <string name="close_hr_check">Sensor cardíac desconnectat</string>
   <string name="cm">" cm"</string>
   <string name="commit">Envia</string>
-  <string name="commit_log">Pugeu l\'informe (ens ajudarà a localitzar el problema)</string>
+  <string name="commit_log">Envia els registres (ens ajuda a localitzar el problema)</string>
   <string name="compare_to_last_time">Progressos</string>
   <string name="complete">Fet!</string>
   <string name="confirm">D\'acord</string>
   <string name="confirm_exit_free_training">Voleu sortir de l\'entrenament?</string>
   <string name="confirm_exit_training_course">Voleu sortir del curs d\'entrenament?</string>
-  <string name="congratulations">Felicitats</string>
   <string name="connect_failed">"Error de connexió"</string>
   <string name="connected_time">S\'ha sincronitzat a les %s</string>
   <string name="connecting_shoes">S\'està connectant amb les sabatilles&#8230;</string>
@@ -524,8 +525,10 @@ No podrà participar en l\'entrenament després de %s"</string>
   <string name="data_collect">Dades</string>
   <string name="data_loading">Un moment&#8230;</string>
   <string name="data_zero">--</string>
+  <string name="date_mm_format">%1$s/</string>
   <string name="date_mmdd_format">%2$s/%1$s</string>
   <string name="date_today">Avui</string>
+  <string name="date_year_month">MMM yyyy</string>
   <string name="date_yyyymm_format">%1$s/%2$s</string>
   <string name="date_yyyymmdd_format">%1$s/%3$s/%2$s</string>
   <string name="day">d</string>
@@ -546,13 +549,14 @@ No podrà participar en l\'entrenament després de %s"</string>
   <string name="device_connect_failed">"Dispositiu no connectat"</string>
   <string name="device_connecting">S\'està connectant&#8230;</string>
   <string name="device_data_syncing">S\'està sincronitzant&#8230;</string>
-  <string name="device_log_syncing">S\'està sincronitzant el rellotgej %1$d%%</string>
+  <string name="device_log_syncing">S\'està sincronitzant els registres del rellotge %1$d%%</string>
+  <string name="device_log_syncing_band">S\'està sincronitzant la polsera %1$d%%</string>
   <string name="device_select_title">Trieu el dispositiu a afegir</string>
   <string name="device_shoe">Sabatilles d\'esport</string>
   <string name="device_tip_ble_not_open">Bluetooth desactivat</string>
   <string name="device_tip_connect_succeed">S\'ha connectat amb èxit</string>
   <string name="device_tip_connecting">S\'està connectant&#8230;</string>
-  <string name="device_tip_shoes">Agiteu les sabates per activar l\'Smart Chip</string>
+  <string name="device_tip_shoes">Agiteu les sabates per activar el xip intel·ligent</string>
   <string name="device_unbind">Desenllaça</string>
   <string name="device_unbind_confirm">Voleu desenllaçar %s?</string>
   <string name="device_unbind_connect_failed_confirm">"%s no connectada. Podeu perdre les dades no sincronitzades Voleu continuar de totes maneres?"</string>
@@ -575,15 +579,15 @@ No podrà participar en l\'entrenament després de %s"</string>
   <string name="down">Més lent: %1$s</string>
   <string name="download_all_training">Baixa-ho tot</string>
   <string name="download_all_training_videos">Baixa tots els vídeos d\'entrenament</string>
-  <string name="download_amazfit_app">Baixa l\'aplicació Amazfit Pace</string>
-  <string name="download_ccb">Baixa l\'aplicació</string>
+  <string name="download_ccb">Baixa l\'aplicació CCB NFC</string>
+  <string name="download_ccb_tips">Baixeu i instal·leu l\'aplicació CCB NFC més actual. Obteniu una targeta de pagament virtual en 3 passos. I començeu a gaudir de pagaments intel·ligents.</string>
   <string name="download_current_day_training">Només avui</string>
   <string name="download_failed">"No s'ha pogut baixar l'actualització"</string>
   <string name="download_medias_failed">"No s'han pogut baixar els fitxers"</string>
   <string name="download_now">Baixa-ho ara</string>
   <string name="download_progress">%1$.1fMB/%2$.1fMB</string>
   <string name="download_training_video">Baixa els vídeos d\'entrenament</string>
-  <string name="download_watermark_failed">"No s'ha pogut baixar"</string>
+  <string name="download_watermark_failed">"No s'ha pogut baixar els fitxers"</string>
   <string name="downloading">S\'està baixant&#8230;</string>
   <string name="dredge_now">Inicia</string>
   <string name="early_start_xday_training">Començar a entrenar amb anticipació: dia %d</string>
@@ -612,8 +616,10 @@ No podrà participar en l\'entrenament després de %s"</string>
   <string name="every_day">Diària</string>
   <string name="exer_data_empty">Sense històric de dades</string>
   <string name="exercise_hr_section">Zona de ritme cardíac</string>
+  <string name="exercise_type_all">Totes les activitats</string>
   <string name="exit">Tanca la sessió</string>
   <string name="exit_app">Tanca la sessió</string>
+  <string name="exit_fail">"No s'ha pogut sortir"</string>
   <string name="exit_training">Surt de l\'entrenament</string>
   <string name="exit_training_course">Surt del curs d\'entrenament</string>
   <string name="family_info_key_nickname">Sobrenom</string>
@@ -621,20 +627,21 @@ No podrà participar en l\'entrenament després de %s"</string>
   <string name="family_member">Membre de la família</string>
   <string name="fastest">Més ràpid: %1$s</string>
   <string name="featured_articles">Articles destacats</string>
+  <string name="feed_back_device_conn_fail">"No s'ha pogut connectar, torneu-ho a provar"</string>
+  <string name="feed_back_watch_log_sync_fail">"No s'han pogut sincronitzar les dades del rellotge"</string>
   <string name="feedback_abandon">Descarta</string>
-  <string name="feedback_checkoutbox_msg">(recomanat)</string>
   <string name="feedback_confirm_cancel_info">Voleu descartar els canvis?</string>
   <string name="feedback_contact_detail">Correu electrònic o número de telèfon</string>
   <string name="feedback_content">Descriviu el problema trobat, suggeriment o comentari. Farem tot el possible per solucionar-ho</string>
   <string name="feedback_content_title">Comentaris</string>
   <string name="feedback_empty">Escriviu el vostre comentari al quadre inferior</string>
   <string name="feedback_input_correct_contact_info">Introduïu la vostra adreça de correu</string>
-  <string name="feedback_knew">Entesos</string>
   <string name="feedback_submit_failed">"No s'ha pogut enviar el comentari. Comproveu la connexió i torneu-ho a provar"</string>
   <string name="feedback_submit_success">S\'han enviat els comentaris</string>
   <string name="feedback_title">Comentaris</string>
+  <string name="feedback_upload_band_log">Registres de la polsera</string>
   <string name="feedback_upload_logfile">Envia el registre</string>
-  <string name="feedback_upload_watch_log">Registre del rellotge</string>
+  <string name="feedback_upload_watch_log">Registres del rellotge</string>
   <string name="female">Dona</string>
   <string name="finish_tagging">D\'acord</string>
   <string name="finished_today_training_course">"Ha finalitzat el curs d'entrenament d'avui"</string>
@@ -643,12 +650,11 @@ No podrà participar en l\'entrenament després de %s"</string>
   <string name="focus_fail">"No s'ha pogut afegir"</string>
   <string name="focus_success">D\'acord</string>
   <string name="forefeet_ground_contact">Recolzament a les puntes dels dits</string>
-  <string name="friend_add_failed">"No s'ha pogut afegir"</string>
   <string name="friend_list_get_error">"No s'ha pogut carregar la llista d'amics"</string>
   <string name="friend_new_user_guide">Després de fer-vos amic d\'aquesta persona, la polsera vibrarà</string>
   <string name="friend_new_user_guide_ok">Entesos</string>
   <string name="friend_new_user_guide_ok_toast">S\'ha afegit l\'amic</string>
-  <string name="friend_not_add_yourself">No us podeu afegir a vós mateix</string>
+  <string name="friend_not_add_yourself">"No us podeu afegir a vosaltres mateixos"</string>
   <string name="friend_search_hint">Introduïu l\'ID d\'usuari</string>
   <string name="friend_search_loading">S\'està cercant&#8230;</string>
   <string name="friend_search_not_exist">"L'usuari no existeix"</string>
@@ -663,9 +669,9 @@ No podrà participar en l\'entrenament després de %s"</string>
   <string name="fw_failed_tips_1">Mantén el telèfon prop de %s i torneu-ho a provar</string>
   <string name="fw_failed_title">"No s'ha pogut actualitzar %s"</string>
   <string name="fw_upgrade_agps_failed_tips">Mantén la polsera a prop del telèfon i assegureu-vos que la xarxa estigui connectada</string>
-  <string name="fw_upgrade_agps_failed_title">"No s'ha pogut actualitzar l'AGPS"</string>
+  <string name="fw_upgrade_agps_failed_title">"No s'ha pogut actualitzar l'A-GPS"</string>
   <string name="fw_upgrade_agps_tips">Mantén la polsera a prop del telèfon i assegureu-vos que la xarxa estigui connectada</string>
-  <string name="fw_upgrade_agps_title">S\'està actualitzant l\'AGPS&#8230;</string>
+  <string name="fw_upgrade_agps_title">S\'està actualitzant l\'A-GPS&#8230;</string>
   <string name="fw_upgrade_chaohu_failed_tips">Mantén el telèfon prop del rellotge i torneu-ho a provar</string>
   <string name="fw_upgrade_chaohu_failed_title">"No s'ha pogut actualitzar"</string>
   <string name="fw_upgrade_chaohu_gps_failed_title">"No s'ha pogut actualitzar"</string>
@@ -690,6 +696,9 @@ No podrà participar en l\'entrenament després de %s"</string>
   <string name="fw_upgrade_weight_title">S\'està actualitzant el firmware&#8230;</string>
   <string name="generate_baby_weight_message">"Encara no heu afegit cap nadó. Voleu afegir-lo ara?"</string>
   <string name="generate_baby_weight_title">"Pes del nadó: %1$s"</string>
+  <string name="ges_screen_type_all_day">Temps d\'encesa per a tot el dia</string>
+  <string name="ges_screen_type_close">Desactiva</string>
+  <string name="ges_screen_type_time">Programa l\'hora d\'engegada</string>
   <string name="get_history_error_refresh_please">"No s'ha pogut aconseguir la informació. Fes lliscar cap avall per refrescar"</string>
   <string name="get_image_file_fail">"No es pot trobar la imatge"</string>
   <string name="get_notification_access_tips">Activeu els permisos perquè Mi Fit pugui accedir a les notificacions</string>
@@ -720,6 +729,7 @@ No podrà participar en l\'entrenament després de %s"</string>
   <string name="has_not_train_yet">"No heu fet cap exercici"</string>
   <string name="has_train_today">Exercicis acabats avui</string>
   <string name="heart_rate">Freqüència cardíaca</string>
+  <string name="heart_rate_average">Freqüència cardíaca mitjana</string>
   <string name="heart_rate_chart">Taula de ritme cardíac</string>
   <string name="heart_rate_manual_measure_value">Resultats mesurats manualment</string>
   <string name="heart_rate_max">Freqüència cardíaca màxima</string>
@@ -731,10 +741,11 @@ No podrà participar en l\'entrenament després de %s"</string>
   <string name="heart_section0">VO₂ màx</string>
   <string name="heart_section1">Anaeròbic</string>
   <string name="heart_section2">Aeròbic</string>
-  <string name="heart_section3">Dur</string>
+  <string name="heart_section3">Intens</string>
   <string name="heart_section4">Lleuger</string>
+  <string name="heart_section5">Relaxat</string>
   <string name="heat">Calories</string>
-  <string name="help_info_0">Mi Band connectada al telèfon via Bluetooth. Si els dos dispositius es troben a prop serà més fàcil que s\'enllacin correctaemnte</string>
+  <string name="help_info_0">Mi Band connectat al telèfon per Bluetooth. Si els dos dispositius són a prop serà més fàcil que s\'enllacin correctament.</string>
   <string name="help_info_1">"Si la polsera i el telèfon, tot i estar a prop, no s'enllacen, comproveu la bateria de la Mi Band. Recarregueu la polsera i torneu-ho a provar"</string>
   <string name="help_info_2">"Si la bateria està carregada, i tot i així, no s'enllacen, proveu a reiniciar el Bluetooth del telèfon"</string>
   <string name="help_info_3">Si la polsera està enllaçada amb un altre telèfon, desactiveu el Bluetooth d\'aquest telèfon i proveu a enllaçar-la amb el vostre</string>
@@ -746,12 +757,10 @@ No podrà participar en l\'entrenament després de %s"</string>
   <string name="help_title_4">Proveu a reiniciar el telèfon</string>
   <string name="highest">Màx.: %1$s</string>
   <string name="hint_input_remark_name">Introduïu un comentari</string>
-  <string name="hint_input_xiaomi_uid">Introduïu l\'ID del vostre Compte Mi</string>
   <string name="history">Historial</string>
   <string name="hold_baby_weight">Pesa al nadó</string>
   <string name="homepage_item_discover">Descobreix</string>
   <string name="homepage_item_mine">Perfil</string>
-  <string name="homepage_item_smartdevice">Alertes</string>
   <string name="homepage_item_sport">Activitats</string>
   <string name="homepage_item_status">Estat</string>
   <string name="how_is_yestoday_sleep">Comprova les dades del son</string>
@@ -773,7 +782,7 @@ No podrà participar en l\'entrenament després de %s"</string>
   <string name="hr_measure_success">S\'ha mesurat amb èxit</string>
   <string name="hr_measuring">S\'està mesurant&#8230;</string>
   <string name="hr_no_bind_know">Quant a la Mi Band 1S</string>
-  <string name="hr_no_bind_sub_title">Enllaceu la Mi Band 1S per comprovar el ritme cardíac</string>
+  <string name="hr_no_bind_sub_title">El Mi Band Pulse i Mi Band 2 permeten comprovar el ritme cardíac</string>
   <string name="hr_no_bind_title">Enllaceu la Mi Band 1S</string>
   <string name="hr_not_wear_bracelet">Poseu-vos la polsera</string>
   <string name="hr_range_format">Zona de ritme cardíac: %s</string>
@@ -783,6 +792,7 @@ No podrà participar en l\'entrenament després de %s"</string>
   <string name="hr_section_fat_burn">Pes</string>
   <string name="hr_section_heart_lung_strengthen">Aèrobic</string>
   <string name="hr_section_relax">Sense activitats</string>
+  <string name="hr_section_rest">Relaxat</string>
   <string name="hr_section_stamina_strengthen">Anaèrobic</string>
   <string name="hr_section_warm_up">Suau</string>
   <string name="hr_sport">Actiu</string>
@@ -820,7 +830,7 @@ No podrà participar en l\'entrenament després de %s"</string>
   <string name="indownloading">S\'està baixant&#8230;</string>
   <string name="input_city_name">Introduïu el nom d\'una ciutat</string>
   <string name="input_out_of_max">introduïu fins %d caràcters</string>
-  <string name="install_amazfit_tips">Instal·leu l\'aplicació «Amazfit Pace»</string>
+  <string name="install_amazfit_tips">Instal·leu l\'aplicació del rellotge Amazfit</string>
   <string name="install_band_correct">Col·loqueu la polsera de manera adequada</string>
   <string name="install_band_from_bottom">Instal·leu o traieu el nucli de la part posterior de la corretja de la polsera</string>
   <string name="install_normandy">En quina sabatilla voleu instal·lar el xip intel·ligent?</string>
@@ -851,6 +861,8 @@ al centre de la bàscula"</string>
   <string name="instruction_weight_title_5">S\'ha excedit el pes màxim</string>
   <string name="instruction_weight_title_6">S\'està pesant</string>
   <string name="invalid_name">El nom conté caràcters no vàlids. Torneu-ho a provar</string>
+  <string name="invisible_item_tips">Moveu els elements innecessaris aquí per mostrar-los a la primera pàgina</string>
+  <string name="invisible_item_title">Elements ocults</string>
   <string name="is_tagging_finish">Voleu finalitzar la sessió?</string>
   <string name="join_free_training">Unir-vos a un entrenament lliure</string>
   <string name="join_training">Unir-vos a un entrenament</string>
@@ -868,7 +880,7 @@ al centre de la bàscula"</string>
   <string name="label_accepted">Acceptat</string>
   <string name="label_activity">Passos</string>
   <string name="label_add_failed">"No s'ha pogut afegir"</string>
-  <string name="label_calorie">Cremades (Cal)</string>
+  <string name="label_calorie">Consum energètic (Cal)</string>
   <string name="label_care_time_by_me">S\'han enviat %s vibracions</string>
   <string name="label_care_time_by_other">Vibracions enviades %s </string>
   <string name="label_delete_friend">Deixa de seguir</string>
@@ -925,7 +937,8 @@ per veure la seva activitat i la informació del son"</string>
   <string name="lift_wrist_view_time">Aixequeu el canell per veure l\'hora</string>
   <string name="light_color_title">Color de LED que mostra el progrés de l\'entrenament</string>
   <string name="loaction_msg">Permet que Mi Fit busqui i es connecti a dispositius després d\'activar-los</string>
-  <string name="loaction_tips">Activa el GPS</string>
+  <string name="loaction_tips">Permet l\'accés a la ubicació</string>
+  <string name="load_end">No hi ha més dades</string>
   <string name="load_error">"No s'ha pogut carregar les dades"</string>
   <string name="load_fail">"No s'ha pogut obtenir dades"</string>
   <string name="load_failed">Comproveu la connexió i torneu-ho a provar</string>
@@ -939,6 +952,10 @@ per veure la seva activitat i la informació del son"</string>
   <string name="lock_screen_first_step">Configureu el desbloqueig de pantalla</string>
   <string name="lock_screen_second_step">Configureu el desbloqueig per Bluetooth</string>
   <string name="lock_screen_second_step_watch">Desbloqueja amb el rellotge</string>
+  <string name="login_error_content">Voleu enviar el registre d\'errors i ajudar-nos a localitzar el problema?</string>
+  <string name="login_error_feedback">Comentaris</string>
+  <string name="login_error_feedback_submitted">Enviat</string>
+  <string name="login_error_title">"No s'ha pogut iniciar sessió"</string>
   <string name="login_failed">"No s'ha pogut iniciar sessió"</string>
   <string name="login_mi">Compte Mi</string>
   <string name="login_success">Connectat</string>
@@ -970,8 +987,7 @@ per veure la seva activitat i la informació del son"</string>
   <string name="love_success">Vibració</string>
   <string name="low_version_code">La versió de l\'aplicació és massa antiga</string>
   <string name="mac">Adreça Bluetooth:</string>
-  <string name="main_over_max_range_weight">"Ha sobrepassat (%s)
-el seu pes màxim "</string>
+  <string name="mac_address_copied">S\'ha copiat l\'adreça Bluetooth</string>
   <string name="makeup_xday_training">Inicia l\'entrenament perdut: dia %d</string>
   <string name="male">Home</string>
   <string name="max_cadence_text">Cadència màx</string>
@@ -1000,11 +1016,11 @@ el seu pes màxim "</string>
   <string name="miband_alarm_delay_tips_days_only">L\'alarma vibrarà en %1$sd</string>
   <string name="miband_alarm_delay_tips_hour">L\'alarma vibrarà en %1$shore(s)</string>
   <string name="miband_alarm_delay_tips_hour_minute">L\'alarma vibrarà en %1$sh %2$sm</string>
-  <string name="miband_alarm_delay_tips_in_one_minute">L\'alarma vibrarà en 1 minut</string>
+  <string name="miband_alarm_delay_tips_in_one_minute">L\'alarma vibrarà al cap d\'1 minut</string>
   <string name="miband_alarm_delay_tips_minute">L\'alarma vibrarà en %1$s minuts</string>
   <string name="miband_alarm_not_bound">​​Cal que la polsera estigui enllaçada al telèfon per rebre les alarmes</string>
-  <string name="miband_connected">Mi Band connectada</string>
-  <string name="miband_disconnected">"Mi Band no connectada"</string>
+  <string name="miband_connected">La polsera s\'ha connectat</string>
+  <string name="miband_disconnected">"La polsera no s'ha connectat"</string>
   <string name="miband_tips">"Agiteu lleugerament la polsera quan noteu la vibració per aturar l'alarma"</string>
   <string name="miband_will_notify_training">La polsera vibrarà els dies d\'entrenament</string>
   <string name="midong_training">Centre d\'entrenament Mi Fit</string>
@@ -1034,9 +1050,9 @@ el seu pes màxim "</string>
   <string name="mili_setting_ges_screen">Encén la pantalla en aixecar la polsera</string>
   <string name="mili_setting_ges_screen_key">Canvia la pantalla en girar el canell</string>
   <string name="mili_setting_ges_screen_key_tips">Gireu el canell per veure una altra informació</string>
-  <string name="mili_setting_ges_screen_tips">La pantalla s\'activarà en aixecar la polsera</string>
+  <string name="mili_setting_ges_screen_tips">Aixeca el canell per veure la informació en la polsera</string>
+  <string name="mili_setting_ges_screen_tips_watch">Aixeca el canell per veure la informació en la polsera</string>
   <string name="mili_setting_hr_fw_version">Versió del sensor cardíac</string>
-  <string name="mili_setting_last_charge">Darrera càrrega fa %s dies</string>
   <string name="mili_setting_last_charge_today">Carregada avui</string>
   <string name="mili_setting_last_charge_yestoday">Carregada ahir</string>
   <string name="mili_setting_low_battery">Carregueu la bateria</string>
@@ -1067,7 +1083,6 @@ el seu pes màxim "</string>
   <string name="mine_ave_totaldistance_british">Milles totals</string>
   <string name="mine_device">Els meus dispositius</string>
   <string name="mine_favorite">Afegeix als preferits</string>
-  <string name="mine_goal_setting">Estableix un objectiu</string>
   <string name="mine_goal_setting_new">Establiu els objectius</string>
   <string name="mine_item_feedback">Comentaris</string>
   <string name="mine_item_friends">Amics</string>
@@ -1091,15 +1106,17 @@ el seu pes màxim "</string>
   <string name="modify_nickname_hint">Introduïu el sobrenom</string>
   <string name="modify_weight">Pes</string>
   <string name="monday_to_friday">De dilluns a divendres</string>
-  <string name="month">m</string>
-  <string name="month_day">%1$d/%2$d</string>
-  <string name="month_day_step1">passos el %2$d/%1$d</string>
+  <string name="month">mes</string>
+  <string name="month_day">%2$d/%1$d</string>
+  <string name="month_day_step1">Passos el %2$d/%1$d</string>
   <string name="more">Més</string>
   <string name="more_icon_tips">Mostra més icones</string>
   <string name="move_and_capture">Ajusta la imatge</string>
   <string name="move_time">Temps d\'utilització</string>
   <string name="muscle">Múscul</string>
-  <string name="muscle_activity_text">La massa muscular és la massa dels músculs esquelètics i llisos i altres teixits musculars que contenen aigua. La pèrdua de massa muscular resultarà en un metabolisme basal més baix i redueix el consum d\'energia i guanyarà pes o enmalalteixen més fàcilment. Un major múscul és útil per millorar el metabolisme basal per tal de reduir el greix corporal</string>
+  <string name="muscle_activity_text">"Per massa muscular és fa referència a la massa dels músculs esquelètics i dels llisos i d\'altres teixits musculars que contenen aigua.
+
+La pèrdua de massa muscular implica una disminució del metabolisme basal i del consum d\'energia, fent més fàcil que guanyeu pes o que caigueu malalt. Si augmenteu la musculatura us facilitarà la millora del metabolisme basal per tal que reduïu el greix corporal."</string>
   <string name="muscle_low_infomation">El vostre rang de relació de múscul estàndard ha d\'estar entre %1$s ~ %2$s. Encara necessiteu %3$s més músculs. Feu més entrenament de força i menys exercici aeròbic per millorar la massa muscular. Assegureu-vos d\'una suficient ingesta de calories abans i després de l\'exercici</string>
   <string name="muscle_low_infomation_novalue">El vostre rang de relació de múscul estàndard ha d\'estar entre %1$s ~ %2$s. Encara necessiteu més músculs. Feu més entrenament de força i menys exercici aeròbic per millorar la massa muscular. Assegureu-vos d\'una suficient ingesta de calories abans i després de l\'exercici.</string>
   <string name="muscle_need_attention_infomation">El vostre rang de relació de múscul és relativament baixa. Pareu atenció a l\'alimentació i a fer més exercici per tal de guanyar massa muscular. Una major proporció de múscul li ajudarà a construir un estil de vida més saludable</string>
@@ -1110,14 +1127,14 @@ el seu pes màxim "</string>
   <string name="mutex_login_title">Notificacions fora de línia</string>
   <string name="my_training_course">Els meus cursos</string>
   <string name="my_training_course_day">Els meus cursos/dies d\'entrenament</string>
+  <string name="my_training_summary">El meu informe de formació</string>
   <string name="name">Sobrenom</string>
-  <string name="need_attention">%d punts que heu de parar atenció:</string>
   <string name="net_not_work">"No es pot connectar a la xarxa"</string>
   <string name="network_error">Cal connectar-se a la xarxa</string>
   <string name="network_request_fail">"No s'ha pogut obtenir dades"</string>
   <string name="network_tips">Assegureu-vos que la xarxa Wi-Fi o les dades mòbils estiguin disponibles</string>
   <string name="never_reminder">"No ho tornis a mostrar"</string>
-  <string name="new_user">Nou</string>
+  <string name="new_user">Nou usuari</string>
   <string name="new_user_info">Introduïu la seva informació personal per a una anàlisi més precisa</string>
   <string name="new_user_item_choose_default">Selecciona</string>
   <string name="new_user_item_input_default">Introduir</string>
@@ -1139,7 +1156,6 @@ el seu pes màxim "</string>
   <string name="no_body_params_for_no_measure">"Sense dades. No es pot analitzar %s"</string>
   <string name="no_bodyfat_data">Sense dades de greix corporal</string>
   <string name="no_device_bind">No hi ha dispositius enllaçats</string>
-  <string name="no_exercise">Sense activitats</string>
   <string name="no_heart_data">Sense dades de la freqüència cardíaca</string>
   <string name="no_heart_rate_data">Sense dades de freqüència cardíaca</string>
   <string name="no_heartrate_data">Sense dades de freqüència cardíaca</string>
@@ -1157,12 +1173,11 @@ el seu pes màxim "</string>
   <string name="no_sleep_data">Sense dades del son</string>
   <string name="no_speed_data">Sense dades de velocitat</string>
   <string name="no_tip"><u>No ho tornis a mostrar</u></string>
-  <string name="normandy_connect_fail">"No s'ha pogut connectar a l'Smart Chip"</string>
+  <string name="no_training_hr_data">"No s'ha pogut obtenir dades"</string>
   <string name="normandy_found_tips">Agiteu el xip intel·ligent per enllaçar-lo quan la llum estigui encesa</string>
   <string name="normandy_found_title">Agiteu el xip intel·ligent</string>
   <string name="normandy_fw_failed">"No s'ha pogut actualitzar"</string>
-  <string name="normandy_fw_failed_tips">Mantén el telèfon prop de l\'Smart Chip i torneu-ho a provar</string>
-  <string name="normandy_has_bound_tips">El xip intel·ligent està vinculat a un altre usuari. Demaneu-li que el desvinculi o que es posi en contacte amb el nostre servei d\'atenció al client, després torneu-ho a provar.</string>
+  <string name="normandy_fw_failed_tips">Apropeu el telèfon al xip intel·ligent i torneu-ho a provar</string>
   <string name="normandy_help_tips">"Si no trobeu el xip intel·ligent, canvieu-li la bateria i torneu-ho a provar."</string>
   <string name="normandy_high_battery">La bateria està carregada</string>
   <string name="normandy_low_battery">Canvieu la bateria</string>
@@ -1172,13 +1187,12 @@ el seu pes màxim "</string>
   <string name="normandy_low_battery_notification_title">"La bateria del dispositiu és baixa"</string>
   <string name="normandy_mid_battery">Bateria baixa</string>
   <string name="normandy_next_step">Següent</string>
-  <string name="normandy_not_found_tips">"No s'ha pogut trobar l'Smart Chip. Assegureu-vos que el xip és a prop del telèfon i bateria està carregada."</string>
+  <string name="normandy_not_found_tips">"No s'ha pogut trobar el xip intel·ligent. Assegureu-vos que el xip és a prop del telèfon i la bateria està carregada."</string>
   <string name="normandy_not_light">"La llum del meu xip intel·ligent està apagada"</string>
-  <string name="normandy_not_shake_help">Mantingueu l\'Smart Chip allunyat d\'altres xips durant la cerca</string>
+  <string name="normandy_not_shake_help">Mantingueu el xip intel·ligent fora d\'altres xips quan feu una cerca</string>
   <string name="normandy_searching">S\'està cercant&#8230;</string>
   <string name="normandy_searching_tips">Mantén el xip intel·ligent a prop del telèfon</string>
-  <string name="normandy_sync_fail">"No s'ha pogut sincronitzar les dades de l'Smart Chip."</string>
-  <string name="normandy_upgrade_tips">Mantén l\'Smart Chip a prop del telèfon</string>
+  <string name="normandy_upgrade_tips">Mantingueu el xip intel·ligent a prop del telèfon</string>
   <string name="normandy_upgrade_title">S\'està actualitzant&#8230;</string>
   <string name="not_connect_network">"No esteu connectats a la xarxa"</string>
   <string name="not_limit_body_part">Sense límits</string>
@@ -1186,7 +1200,6 @@ el seu pes màxim "</string>
   <string name="not_limit_instrument">Sense límits</string>
   <string name="not_set">Sense dades</string>
   <string name="not_support_alti_data">No disponible amb el vostre dispositiu</string>
-  <string name="not_up_to_standard">"En %d punts no van arribar a l'objectiu"</string>
   <string name="not_wifi_download_warning">"Esteu utilitzant dades mòbils 
 Voleu baixar els vídeos (%.2f MB)?"</string>
   <string name="noti_bracelet_low_battery_content_high">Bateria per sota del 10% de càrrega</string>
@@ -1220,6 +1233,11 @@ Voleu baixar els vídeos (%.2f MB)?"</string>
   <string name="open">Activa</string>
   <string name="open_avoid_disturb_tips">Mode No molesteu</string>
   <string name="open_gallery">Obre en la Galeria</string>
+  <string name="open_loaction_cam_per_msg">Es necessiten accessos als serveis d\'ubicació i a la càmera per connectar-se a dispositius a través de Bluetooth</string>
+  <string name="open_loaction_msg">Permet que Mi Fit cerqui i es connecti a dispositius després d\'activar-los</string>
+  <string name="open_loaction_per_cam_title">Permet l\'accés a la ubicació i a la càmera</string>
+  <string name="open_loaction_per_msg">L\'accés als serveis d\'ubicació és necessari per connectar-se a dispositius a través de Bluetooth</string>
+  <string name="open_loaction_per_title">Permet l\'accés a la ubicació</string>
   <string name="orange">Taronja</string>
   <string name="over_max_range_weight">Màxim %s</string>
   <string name="over_max_range_weight_text">Pes màxim: %s</string>
@@ -1228,8 +1246,8 @@ Voleu baixar els vídeos (%.2f MB)?"</string>
   <string name="pair_ccb_func_1">Pas ràpid</string>
   <string name="pair_ccb_func_2">Trànsit</string>
   <string name="pair_ccb_func_3">Retirs de caixers sense targeta</string>
-  <string name="pair_ccb_tips">"Canviant a l'aplicació NFC del Xina Construction Bank… obtindrà una targeta de pagament virtual en 3 passos. I comencés a gaudir dels pagaments intel·ligents."</string>
-  <string name="pair_ccb_title">Enllaça l\'aplicació</string>
+  <string name="pair_ccb_tips">S\'està canviant a l\'aplicació NFC de China Construction Bank (CCB)&#8230; Obteniu una targeta de pagament virtual en 3 passos. I comenceu a gaudir de pagaments intel·ligents.</string>
+  <string name="pair_ccb_title">Comença a utilitzar QuickPass</string>
   <string name="per_go_setting">Vés a la Configuració</string>
   <string name="percent">%</string>
   <string name="permission_cam">Obtén permisos per a l\'ús de la càmera</string>
@@ -1256,7 +1274,6 @@ Voleu baixar els vídeos (%.2f MB)?"</string>
   <string name="phone_alarm_alert_tips">La polsera ha d\'estar connectada al telèfon via Bluetooth</string>
   <string name="phone_alarm_not_bound">Enllaceu la polsera per rebre les alarmes del telèfon</string>
   <string name="phone_number">---</string>
-  <string name="physical_state">Condició física</string>
   <string name="picker_menu_done">Fet</string>
   <string name="play_bfat_tips">Més informació</string>
   <string name="play_ch_tips">Més informació</string>
@@ -1275,7 +1292,7 @@ Voleu baixar els vídeos (%.2f MB)?"</string>
   <string name="pm">PM</string>
   <string name="popularity_training">Cursos populars</string>
   <string name="pre_measure">Resultat anterior</string>
-  <string name="pull_label_sync_data">Fes lliscar per sincronitzar</string>
+  <string name="pull_label_sync_data">Feu lliscar per sincronitzar</string>
   <string name="pull_to_refresh_pull_label">Feu lliscar per sincronitzar</string>
   <string name="pull_to_refresh_refreshing_label">S\'està sincronitzant&#8230;</string>
   <string name="pull_to_refresh_release_label">Deixeu anar per refrescar&#8230;</string>
@@ -1358,40 +1375,37 @@ Voleu baixar els vídeos (%.2f MB)?"</string>
   <string name="running_btn_history">Historial</string>
   <string name="running_btn_save">Afegeix</string>
   <string name="running_btn_start">Inicia</string>
-  <string name="running_burn">Cremades</string>
+  <string name="running_burn">Consum energètic</string>
   <string name="running_cal_burnt">%d cal</string>
-  <string name="running_cal_desc">Cremades</string>
+  <string name="running_cal_desc">Consum energètic</string>
   <string name="running_cal_unit">" cal"</string>
-  <string name="running_cal_with_unit">Cremades (Cal)</string>
+  <string name="running_cal_with_unit">Consum energètic (Cal)</string>
   <string name="running_cancel">Cancel·la</string>
   <string name="running_confirm">D\'acord</string>
-  <string name="running_contour_track_failed_to_create">"No s'ha pogut compartir. Comproveu si hi ha prou memòria"</string>
   <string name="running_cost_cal">%.1f cal</string>
   <string name="running_data_loading">S\'està carregant&#8230;</string>
   <string name="running_date_last_month">El mes passat</string>
   <string name="running_date_last_week">La setmana passada</string>
-  <string name="running_date_this_month">Aquest mes</string>
-  <string name="running_date_this_week">Aquesta setmana</string>
+  <string name="running_date_this_month">Més actual</string>
+  <string name="running_date_this_week">Setmana actual</string>
   <string name="running_date_today">Avui</string>
   <string name="running_date_yesterday">Ahir</string>
   <string name="running_delete_record_cancle">Cancel·la</string>
-  <string name="running_delete_record_database_result_fail">"No s'ha pogut suprimir aquest registre"</string>
+  <string name="running_delete_record_database_result_fail">"No s'ha pogut suprimir el registre"</string>
   <string name="running_delete_record_ok">D\'acord</string>
   <string name="running_delete_record_result_success">Eliminat amb èxit</string>
   <string name="running_delete_record_server_result_fail">"No s'ha pogut suprimir"</string>
   <string name="running_delete_record_title">Voleu eliminar aquest registre?</string>
   <string name="running_delete_track_item_confirm">"No es podrà recuperar les dades després d'esborrar-les"</string>
-  <string name="running_detail_cal_desc">Cremades (Cal)</string>
+  <string name="running_detail_cal_desc">Consum energètic (Cal)</string>
   <string name="running_detail_forefoot_desc">Cadència</string>
   <string name="running_detail_max_hr_desc">Pulsacions (màx)</string>
-  <string name="running_detail_max_pace_desc">Millor ritme (min/km)</string>
-  <string name="running_detail_max_pace_desc_br">Millor ritme (min/mi)</string>
+  <string name="running_detail_max_pace_desc">Ritme més ràpid (min/km)</string>
+  <string name="running_detail_max_pace_desc_br">Ritme més ràpid (min/mi)</string>
   <string name="running_detail_menu_share_title">Comparteix</string>
   <string name="running_detail_pace_desc">Ritme (min/km)</string>
   <string name="running_detail_pace_desc_br">Ritme (min/mi)</string>
-  <string name="running_detail_speed">km/h</string>
   <string name="running_detail_speed1">km/h</string>
-  <string name="running_detail_speed_br">mph</string>
   <string name="running_detail_speed_br1">mph</string>
   <string name="running_detail_speed_desc">Velocitat (km/h)</string>
   <string name="running_detail_speed_desc_br">Velocitat (mi/h)</string>
@@ -1527,7 +1541,7 @@ A continuació us indiquem com podeu mantenir-lo més baix: no us atarreu amb el
   <string name="running_history_record_unsync_count">"Hi ha %d registres sense sincronitzar"</string>
   <string name="running_history_release">Deixeu anar per actualitzar</string>
   <string name="running_history_title">Historial</string>
-  <string name="running_history_total_calorie">Cremades (Cal)</string>
+  <string name="running_history_total_calorie">Consum energètic total (Cal)</string>
   <string name="running_history_total_distance">Distància (km)</string>
   <string name="running_history_total_distance_br">Distància (mi)</string>
   <string name="running_history_total_times">Sessions (vegades)</string>
@@ -1616,8 +1630,8 @@ Enllaceu la polsera i comenceu a córrer"</string>
   <string name="running_settings_speed">(%1$s/km)</string>
   <string name="running_settings_speed_br">(%1$s/mi)</string>
   <string name="running_share">Comparteix</string>
-  <string name="running_share_as_sport_summary">Les meves dades esportives</string>
-  <string name="running_share_img_failed_to_create">"No s'ha pogut compartir. Comproveu si hi ha prou memòria disponiblee"</string>
+  <string name="running_share_as_sport_summary">El meu informe d\'activitat</string>
+  <string name="running_share_img_failed_to_create">"No s'ha pogut compartir, comproveu si hi ha prou espai"</string>
   <string name="running_share_to_mypace">El meu ritme</string>
   <string name="running_share_to_sport_trace">Les meves rutes</string>
   <string name="running_share_to_title">Mi Fit</string>
@@ -1681,7 +1695,7 @@ Enllaceu la polsera i comenceu a córrer"</string>
   <string name="running_volumn_notice">Li recomanem establir el volum multimèdia en baix perquè pugui escoltar les instruccions de veu en córrer.</string>
   <string name="running_watermark">Marca d\'aigua</string>
   <string name="running_watermark_btn_confirm">Desa/Comparteix</string>
-  <string name="running_watermark_guide_tips">Moure marca d\'aigua</string>
+  <string name="running_watermark_guide_tips">Moveu la marca d\'aigua per ajustar-la</string>
   <string name="running_watermark_search_location">\#S\'està obtenint la informació d\'ubicació#</string>
   <string name="runningdetail_flytime_ratio">%1$d%%</string>
   <string name="runningdetail_forefoot_ratio">%1$d%%</string>
@@ -1699,14 +1713,11 @@ Enllaceu la polsera i comenceu a córrer"</string>
   <string name="saving_success">S\'ha desat amb èxit</string>
   <string name="scan_label">Centreu el codi QR a escanejar</string>
   <string name="score_unit">punts</string>
-  <string name="score_very_bad_hint">Aquesta informació és una referència. Consulteu al vostre metge per a una millor precisió</string>
-  <string name="score_very_good">Excel·lent</string>
   <string name="screen_lock_text_tip">Fet!</string>
   <string name="screen_unlock">Desbloqueig de pantalla</string>
   <string name="sdcarderror">"No hi ha targeta SD disponible"</string>
   <string name="search_other_chaohu">Cerca altres rellotges</string>
   <string name="search_other_mili">Cerca altres polseres</string>
-  <string name="search_result_is_empty">"Usuari no trobat"</string>
   <string name="searching_city">S\'està cercant&#8230;</string>
   <string name="select_chaohu_tips_1">S\'ha trobat un rellotge prèviament enllaçat</string>
   <string name="select_city_title">Trieu una ciutat</string>
@@ -1715,12 +1726,19 @@ Enllaceu la polsera i comenceu a córrer"</string>
   <string name="select_from_local">Galeria</string>
   <string name="select_mili_tips_1">Seleccioneu una polsera</string>
   <string name="select_mili_tips_2">Toqueu la llista per enllaçar</string>
-  <string name="select_shoe_type">Seleccioneu l\'Smart Chip</string>
+  <string name="select_shoe_type">Seleccioneu el xip intel·ligent</string>
   <string name="select_watch_title">Seleccioneu un rellotge per enllaçar-lo</string>
   <string name="selected_alert_apps">Aplicacions seleccionades amb notificacions</string>
   <string name="send_fail">"No s'ha pogut enviar la sol·licitud d'amistat"</string>
   <string name="send_success">Sol·licitud d\'amistat enviada</string>
   <string name="sending">S\'està enviant&#8230;</string>
+  <string name="sensitive_data_agree">D\'acord</string>
+  <string name="sensitive_data_disagree">Rebutja</string>
+  <string name="sensitive_data_mili">Activitats, son, ritme cardíac (polsera amb sensor de ritme cardíac)</string>
+  <string name="sensitive_data_watch">Activitats, son, ritme cardíac</string>
+  <string name="sensitive_data_weight">Pes, composició corporal (proporció de greix corporal, massa muscular, proporció d\'aigua, metabolisme basal, nivell visceral de greix, massa òssia, tipus de cos, IMC, puntuació del cos)</string>
+  <string name="sensitive_dialog_title">Un cop vinculat el dispositiu, es recolliran les següents dades:</string>
+  <string name="sensitive_dialog_title_shoes">Les dades d\'activitat es recolliran un cop s\'hagi vinculat el dispositiu</string>
   <string name="sensor_sync_fail">"No s'ha pogut sincronitzar les dades"</string>
   <string name="set_alarm">Estableix l\'alarma</string>
   <string name="set_lock_distance_title">Assigna rang de desbloqueig</string>
@@ -1735,15 +1753,21 @@ Enllaceu la polsera i comenceu a córrer"</string>
   <string name="setting_heartrate_detect">Detecció de freqüència cardíaca</string>
   <string name="setting_heartrate_detect_auto">Detecció automàtica de la freqüència cardíaca</string>
   <string name="setting_heartrate_detect_close">Desactiva</string>
+  <string name="setting_heartrate_detect_freq">Prova la freqüència</string>
+  <string name="setting_heartrate_detect_freq_1">1 min</string>
+  <string name="setting_heartrate_detect_freq_10">10 min</string>
+  <string name="setting_heartrate_detect_freq_30">30 min</string>
   <string name="setting_heartrate_detect_select">Seleccioneu el mètode de detecció de la freqüència cardíaca</string>
-  <string name="setting_heartrate_detect_sleep">Assistent de detecció de son</string>
+  <string name="setting_heartrate_detect_sleep">Organitzador de la son</string>
   <string name="setting_length_british">Imperial (peus, milles)</string>
   <string name="setting_length_metric">Mètric (m, km)</string>
   <string name="setting_peyto_apps">Trieu els elements següents per mostrar-los al rellotge</string>
   <string name="setting_peyto_apps_tips">Trieu elements que es mostraran al rellotge</string>
   <string name="setting_peyto_apps_title">Configuració de pantalla del rellotge</string>
+  <string name="setting_peyto_apps_title_band">Configuració de la pantalla de la polsera</string>
   <string name="setting_peyto_long_press_set_title">Premeu perllongament per començar ràpidament</string>
   <string name="setting_question">Ajuda</string>
+  <string name="setting_tempo_apps_tips">Trieu elements que es mostraran a la polsera</string>
   <string name="setting_unit">Unitats</string>
   <string name="setting_unit_length">Unitats de longitud</string>
   <string name="setting_unit_tip">"Ja teniu vinculada la bàscula Mi.
@@ -1759,7 +1783,7 @@ Podeu canviar manualment les unitats de mesura prop de la bateria de la bàscula
   <string name="setting_weight_british">Imperial (lb)</string>
   <string name="setting_weight_metric">Mètric (kg)</string>
   <string name="setting_weight_shijin">Jin (1 jin=500g)</string>
-  <string name="share_achieve_goal_equal">Millor ratxa</string>
+  <string name="share_achieve_goal_equal">Objectiu assolit</string>
   <string name="share_content">Els meus registres</string>
   <string name="share_continue">Ratxa</string>
   <string name="share_continue_make_new">Nou rècord!</string>
@@ -1796,7 +1820,7 @@ Podeu canviar manualment les unitats de mesura prop de la bateria de la bàscula
   <string name="share_step">Passos</string>
   <string name="share_step_active">Activitat</string>
   <string name="share_step_active_tal">Duració total</string>
-  <string name="share_step_cal">Cremades</string>
+  <string name="share_step_cal">Consum energètic</string>
   <string name="share_step_cal_tal">Calories totals</string>
   <string name="share_step_distance">Distància</string>
   <string name="share_step_distance_tal">Distància total</string>
@@ -1831,7 +1855,7 @@ Podeu canviar manualment les unitats de mesura prop de la bateria de la bàscula
   <string name="share_weight_show_tip">Mostra els detalls</string>
   <string name="share_weight_target_title">En comparació a l\'objectiu</string>
   <string name="share_weixin_label">WeChat</string>
-  <string name="shoe_bind_failed_help">"No s'ha pogut enllaçar. Mantingueu l'Smart Chip a prop del telèfon"</string>
+  <string name="shoe_bind_failed_help">"No s'ha pogut enllaçar, mantingueu el xip intel·ligent prop del vostre telèfon"</string>
   <string name="shoe_brand_mijia">Sabatilles Mi Smart</string>
   <string name="shoe_connect_fail">"No s'ha pogut connectar a les sabatilles"</string>
   <string name="shoe_sync_fail">"No s'ha pogut sincronitzar amb les sabatilles"</string>
@@ -1867,7 +1891,7 @@ Podeu canviar manualment les unitats de mesura prop de la bateria de la bàscula
   <string name="shoes_use_ok">Fet!</string>
   <string name="shoes_use_tips">Assegureu-vos que el codi QR està cara amunt</string>
   <string name="shoes_use_tips_child">Assegureu-vos que el codi QR està cara avall</string>
-  <string name="shoes_use_title">Poseu l\'Smart Chip a la sabatilla</string>
+  <string name="shoes_use_title">Col·loqueu el xip intel·ligent a la sabata</string>
   <string name="show_contact_info_summary">Mostra el número de telèfon o el nom en les trucades entrants</string>
   <string name="show_contact_info_summary_watch">Mostra el número de telèfon o el nom en les trucades entrants</string>
   <string name="show_contact_info_tips">Mostra la informació de contacte</string>
@@ -1886,7 +1910,7 @@ Podeu canviar manualment les unitats de mesura prop de la bateria de la bàscula
   <string name="sleep_3_compare">En comparació amb usuaris similars</string>
   <string name="sleep_3_compare_sub">En comparació amb usuaris de la mateixa edat de la mateixa zona</string>
   <string name="sleep_3_deep">Son profund %1$s</string>
-  <string name="sleep_3_goal_title">Dormiu millor que %1$s d\'usuaris</string>
+  <string name="sleep_3_goal_title">Dormiu millor que el %1$s d\'usuaris</string>
   <string name="sleep_3_goal_title_99">El 99% de les persones dormeixen millor que jo</string>
   <string name="sleep_3_into">Vel. de son</string>
   <string name="sleep_3_later">Temps de migdiada</string>
@@ -1900,7 +1924,7 @@ Podeu canviar manualment les unitats de mesura prop de la bateria de la bàscula
   <string name="sleep_3_law_intosleep_early_min">Es va quedar adormit %1$dm d\'hora</string>
   <string name="sleep_3_law_intosleep_later_hour">Es va quedar adormit %1$dh %2$dm tard</string>
   <string name="sleep_3_law_intosleep_later_min">Es va quedar adormit %1$dm tard</string>
-  <string name="sleep_3_law_intosleep_usually">Et vas quedar adormit com de costum</string>
+  <string name="sleep_3_law_intosleep_usually">Us vareu quedar adormit com de costum</string>
   <string name="sleep_3_law_question">Com us sentiu avui?</string>
   <string name="sleep_3_law_sub">En comparació amb la mitjana de dades de son dels últims 7 dies</string>
   <string name="sleep_3_law_totalsleep_less_hour">%1$dh %2$dm reduït del son total</string>
@@ -1912,14 +1936,14 @@ Podeu canviar manualment les unitats de mesura prop de la bateria de la bàscula
   <string name="sleep_3_law_wakeup_early_min">Es va despertar %1$dm d\'hora</string>
   <string name="sleep_3_law_wakeup_later_hour">Es va despertar %1$dh %2$dm tard</string>
   <string name="sleep_3_law_wakeup_later_min">Es va despertar %1$dm tard</string>
-  <string name="sleep_3_law_wakeup_usually">Et vas despertar com de costum</string>
+  <string name="sleep_3_law_wakeup_usually">Us vareu despertar com de costum</string>
   <string name="sleep_3_light">Son lleuger %1$s</string>
-  <string name="sleep_3_qa_sleep_deep">"No s'esforci molt, manté el bon humor, fes arranjaments raonables per al treball i el temps de descans, i fer més exercici per mantenir-te en forma."</string>
+  <string name="sleep_3_qa_sleep_deep">"No us estresseu massa, manteniu el bon humor, modifiqueu raonablement els temps de treball i de descans i feu més exercici per mantenir-vos en forma."</string>
   <string name="sleep_3_qa_sleep_deep_short">El temps de son profund és curt</string>
   <string name="sleep_3_qa_sleep_deep_too_short">El temps de son profund és massa curt</string>
   <string name="sleep_3_qa_sleep_start">"Proveu d'anar a dormir al voltant de les 22:00. Quedar-se fins tard no és bo per al sistema immunològic i accelera l'envelliment."</string>
-  <string name="sleep_3_qa_sleep_start_late">Et vas adormir tard</string>
-  <string name="sleep_3_qa_sleep_start_too_late">Et vas adormir massa tard</string>
+  <string name="sleep_3_qa_sleep_start_late">Us vareu adormir tard</string>
+  <string name="sleep_3_qa_sleep_start_too_late">Us vareu adormir massa tard</string>
   <string name="sleep_3_qa_sleep_time">"És millor dormir durant 7-9 hores tots els dies. La manca de son pot causar danys físics i mentals."</string>
   <string name="sleep_3_qa_sleep_time_short">El temps de son és curt</string>
   <string name="sleep_3_qa_sleep_time_too_short">El temps de son és massa curt</string>
@@ -1944,6 +1968,9 @@ Podeu canviar manualment les unitats de mesura prop de la bateria de la bàscula
   <string name="sleep_notification_title">Activa les notificacions d\'informe del son</string>
   <string name="sleep_sleep_time">Inici del son</string>
   <string name="sleep_statistics_title">Estadístiques del son</string>
+  <string name="sleep_subview_awake_sleep">Despert</string>
+  <string name="sleep_subview_deep_sleep">Son profund</string>
+  <string name="sleep_subview_light_sleep">Son lleuger</string>
   <string name="sleep_subview_old_sleeplate">Després d\'una nit sense dormir no oblideu fer una bona migdiada</string>
   <string name="sleep_subview_young_sleeplate">Proveu a no romandre despert fins molt tard</string>
   <string name="sleep_tip_edit">Afegeix manualment</string>
@@ -1963,10 +1990,10 @@ Podeu canviar manualment les unitats de mesura prop de la bateria de la bàscula
   <string name="slope_change_pie_chart_up_label">Escalada</string>
   <string name="slp3_compare_dp_suf">Teniu un son més llarg que el %1$d%% de les persones</string>
   <string name="slp3_compare_dp_suf_2">%1$d%% de les persones tenen més son profund que jo</string>
-  <string name="slp3_compare_suf">Et vas adormir abans que el %1$d%% de les persones</string>
+  <string name="slp3_compare_suf">Us vareu adormir abans que el %1$d%% de la població</string>
   <string name="slp3_compare_suf_2">%1$d%% de persones es van adormir abans que jo</string>
   <string name="slp3_sleep_feeling_bad">Esgotat</string>
-  <string name="slp3_sleep_feeling_good">Bo</string>
+  <string name="slp3_sleep_feeling_good">Bé</string>
   <string name="slp3_sleep_feeling_great">Energètic</string>
   <string name="slp3_sleep_feeling_normal">Adormit</string>
   <string name="slp3_sleep_feeling_not_today">Com us sentiu?</string>
@@ -1977,7 +2004,7 @@ Podeu canviar manualment les unitats de mesura prop de la bateria de la bàscula
   <string name="slp_feeling_bad">Esgotat</string>
   <string name="slp_feeling_desc">"Els comentaris precisos són útils
  per millorar l\'anàlisi del son "</string>
-  <string name="slp_feeling_good">Bo</string>
+  <string name="slp_feeling_good">Bé</string>
   <string name="slp_feeling_great">Energètic</string>
   <string name="slp_feeling_sleepy">Adormit</string>
   <string name="slp_worst_title">Puntuació més baixa</string>
@@ -2011,7 +2038,6 @@ Podeu canviar manualment les unitats de mesura prop de la bateria de la bàscula
   <string name="sport_cycling_backgroud_notification">Ciclisme</string>
   <string name="sport_delete_record_loading">S\'està eliminant&#8230;</string>
   <string name="sport_detail_statistics">Estadístiques</string>
-  <string name="sport_heart_rate_desc">Feu un cop d\'ull a la taula següent per saber com canvia la vostra zona de freqüència cardíaca juntament amb la intensitat de l\'exercici</string>
   <string name="sport_help_cycling_up_hill">Escalada</string>
   <string name="sport_help_cycling_up_hill_desc">"Es refereix a la distància dels passos totals que heu realitzat durant els entrenaments. Per il·lustrar aquest concepte, podeu prendre la línia obliqua del triangle com la distància pujada."</string>
   <string name="sport_notifi_tip">Enllaceu la polsera per rebre les notificacions d\'activitat</string>
@@ -2022,6 +2048,7 @@ Podeu canviar manualment les unitats de mesura prop de la bateria de la bàscula
   <string name="sport_setting">Configuració d\'entrenament</string>
   <string name="sport_setting_new">Configuració</string>
   <string name="sport_type_train">Entrenament</string>
+  <string name="sport_walking_backgroud_notification">Caminant</string>
   <string name="sports_type_bike_indoor_ride">Bicicleta estàtica</string>
   <string name="sports_type_bike_ride">Ciclisme</string>
   <string name="sports_type_elliptical_trainer">Entrenament amb l\'el·líptica</string>
@@ -2029,7 +2056,7 @@ Podeu canviar manualment les unitats de mesura prop de la bateria de la bàscula
   <string name="start_one_scientific_training">Inicia un entrenament científic</string>
   <string name="start_tagging">Inicia</string>
   <string name="start_training_course_xtime">Comença l\'entrenament: dia %d</string>
-  <string name="start_training_right_now">Inicia la ronda No. %d de l\'entrenament</string>
+  <string name="start_training_right_now">Inicia la sessió d\'entrenament núm. %d</string>
   <string name="start_up_com">www.mi.com</string>
   <string name="start_up_enter">Omet</string>
   <string name="start_up_new_version_content_custom">Reorganitza els elements que es mostraran</string>
@@ -2051,15 +2078,15 @@ Podeu canviar manualment les unitats de mesura prop de la bateria de la bàscula
   <string name="state_unbind_success">S\'ha desenllaçat</string>
   <string name="statistic">Estadístiques</string>
   <string name="statistics_day">d</string>
-  <string name="statistics_month">m</string>
+  <string name="statistics_month">mes</string>
   <string name="statistics_step">Passos</string>
   <string name="statistics_week">s</string>
   <string name="statistics_week_step">Mitjana diària de passos</string>
   <string name="status_connecting">S\'està connectant</string>
   <string name="step">" passos"</string>
-  <string name="step_3_fr_cal">Cremades</string>
+  <string name="step_3_fr_cal">Consum energètic&#160;</string>
   <string name="step_3_fr_cal_sub">"Has cremat %1$s de greix"</string>
-  <string name="step_3_fr_distance">Distància</string>
+  <string name="step_3_fr_distance">Distància&#160;</string>
   <string name="step_3_fr_distance_sub">"Has estalviat %1$s de gasolina"</string>
   <string name="step_3_fr_header_mon_avg">Mitjana diària</string>
   <string name="step_3_fr_header_mon_fat_sub">Total cremat</string>
@@ -2082,6 +2109,9 @@ Podeu canviar manualment les unitats de mesura prop de la bateria de la bàscula
   <string name="step_reach_goal_alert">Notificació d\'objectius</string>
   <string name="step_reach_goal_text">Objectiu aconseguit</string>
   <string name="step_statistics_title">Estadístiques</string>
+  <string name="step_time_12">12:00</string>
+  <string name="step_time_18">18:00</string>
+  <string name="step_time_6">06:00</string>
   <string name="step_title">Passos</string>
   <string name="step_today">Avui</string>
   <string name="step_top_goal">Millor registre personal: %1$d dias</string>
@@ -2089,12 +2119,12 @@ Podeu canviar manualment les unitats de mesura prop de la bateria de la bàscula
   <string name="step_type_walk"> caminant</string>
   <string name="step_worst_pre">Mínim de passos %2$s/%1$s</string>
   <string name="storage_space_not_enough">No hi ha prou espai d\'emmagatzematge per completar la descàrrega</string>
-  <string name="strange_number_tips">"No vibrar amb números desconeguts"</string>
+  <string name="strange_number_tips">"No m'avisis si són números desconeguts"</string>
   <string name="submitting_feedback">S\'està enviant&#8230;</string>
   <string name="suggest_download_all_training">"Estàs utilitzant la xarxa WiFi
 Descarregar tots els vídeos d\'aquest curs (%.1fMB)? "</string>
   <string name="suggest_training_for_you">Recomanat</string>
-  <string name="sync_agps_data_label">Actualitzant AGPS %1$d%%</string>
+  <string name="sync_agps_data_label">S\'està actualitzant l\'A-GPS %1$d%%</string>
   <string name="sync_data">S\'estan sincronitzant dades %1$s</string>
   <string name="sync_data_label">S\'estan sincronitzant dades %1$d%%</string>
   <string name="sync_data_label1">S\'està iniciant la sincronització</string>
@@ -2108,7 +2138,7 @@ Descarregar tots els vídeos d\'aquest curs (%.1fMB)? "</string>
   <string name="tagging_resume">Reprén</string>
   <string name="tagging_time_too_short">L\'activitat és massa curta per ser registrada</string>
   <string name="tagging_tip">Mantingueu el dispositiu no més lluny de 5m. Comproveu que no hi ha objectes entre ells</string>
-  <string name="tagging_tip_extra">Poseu-vos la polsera a la mà dominant per assegurar un mesurament correcte</string>
+  <string name="tagging_tip_extra">Per obtenir dades fiables, poseu-vos la polsera en el canell de la mà dominant.</string>
   <string name="they_also_training_this">"També estan fent exercicis"</string>
   <string name="third_bind">Afegir comptes</string>
   <string name="third_bind_base_1">Sincronització de dades amb WeChat, Alipay i Google Fit</string>
@@ -2116,8 +2146,10 @@ Descarregar tots els vídeos d\'aquest curs (%.1fMB)? "</string>
   <string name="third_bind_base_3">Sincronització de dades amb WeChat, QQ, Alipay i Weibo</string>
   <string name="third_bind_base_4">Sincronització de dades amb WeChat, QQ i Weibo</string>
   <string name="this_measure">Resultat:</string>
-  <string name="this_month">Aquest mes</string>
-  <string name="this_week">Aquesta setmana</string>
+  <string name="this_month">Més actual</string>
+  <string name="this_month_no_activities">Aquest mes no hi ha activitat</string>
+  <string name="this_week">Setmana actual</string>
+  <string name="this_week_no_activities">Cap activitat aquesta setmana</string>
   <string name="time">Hora</string>
   <string name="time_type_title">Seleccioneu el format de l\'hora</string>
   <string name="times">vegades</string>
@@ -2142,6 +2174,7 @@ Descarregar tots els vídeos d\'aquest curs (%.1fMB)? "</string>
   <string name="today_not_sync">Avui no s\'ha sincronitzat</string>
   <string name="today_sync_failed">"No s'ha pogut sincronitzar"</string>
   <string name="top_speed">Velocitat màxima: %1$s</string>
+  <string name="total_days">d</string>
   <string name="total_record_data">S\'ha aconseguit durant durant %1$d dies</string>
   <string name="total_rise_up">Costa amunt</string>
   <string name="total_sleep_title_new">Dades del son a %2$d/%1$d</string>
@@ -2152,15 +2185,17 @@ Descarregar tots els vídeos d\'aquest curs (%.1fMB)? "</string>
   <string name="training_before_hr_prompt_notice">Agafeu amb fermesa el dispositiu per augmentar la precisió de les dades</string>
   <string name="training_before_hr_prompt_title">Controlar la freqüència cardíaca durant els entrenaments</string>
   <string name="training_cache_clear_warning">"Després d'esborrar la memòria cau, necessites descarregar de nou els vídeos d'entrenament que has descarregat abans"</string>
-  <string name="training_close_dialog_title">Fi del curs</string>
+  <string name="training_close_dialog_title">Finalitza la sessió</string>
   <string name="training_collection">Col·lecció d\'entrenament</string>
-  <string name="training_consume_time_min">Entrenat durant %1$d min</string>
-  <string name="training_consume_time_sec">Entrenat durant %1$d seg</string>
+  <string name="training_consume_time_min">Heu entrenat %1$d min</string>
+  <string name="training_consume_time_sec">Heu entrenat %1$d s</string>
   <string name="training_course_item_day">Dia %d</string>
   <string name="training_course_will_start">L\'entrenament començarà aviat</string>
+  <string name="training_hr">Freqüència cardíaca</string>
   <string name="training_knowledge">Coneixement de l\'entrenament</string>
+  <string name="training_max_hr">Freqüència cardíaca màxima</string>
+  <string name="training_min_hr">Freqüència cardíaca mínima</string>
   <string name="training_notify">Alertes d\'entrenament</string>
-  <string name="training_notify_content">El primer curs de capacitació %1$d dies, %2$d minuts%3$s esperant que acabi</string>
   <string name="training_notify_time">Temps d\'alerta d\'entrenament</string>
   <string name="training_out_date">Ha vençut</string>
   <string name="training_playing_hr_exception_bluetooth_off">El Bluetooth està desactivat</string>
@@ -2172,9 +2207,12 @@ Descarregar tots els vídeos d\'aquest curs (%.1fMB)? "</string>
   <string name="training_rest_day">Dia de descans</string>
   <string name="training_rest_interval_time">En pausa durant %1$d seg</string>
   <string name="training_rest_next_action">Següent:&#160;</string>
+  <string name="training_share_to_topic">\#Mi Fit#</string>
   <string name="training_subject">Entrenament especial</string>
+  <string name="training_timer">Hora</string>
   <string name="tw__composer_hint">"Que està passant?"</string>
   <string name="tw__login_btn_txt">Inicia amb Twitter</string>
+  <string name="unable_sync_in_sport">"No es poden sincronitzar dades durant els entrenaments"</string>
   <string name="unbind">Desenllaça</string>
   <string name="unbind_device">Sense dispositius enllaçats</string>
   <string name="unbind_google_fit">Desenllaça de Google Fit</string>
@@ -2189,12 +2227,16 @@ Ho podreu canviar a la configuració de l\'aplicació Amazfit Watch."</string>
   <string name="unbind_weight_tips">"La bàscula no guardés el seu pes després de desvincular-se"</string>
   <string name="unbinding">S\'està desenllaçant&#8230;</string>
   <string name="unit_KC">" cal"</string>
+  <string name="unit_M">" m"</string>
   <string name="unit_afternoon">p. m.</string>
   <string name="unit_as">" Unça"</string>
   <string name="unit_bike_ride">PPM</string>
   <string name="unit_calorie">" cal"</string>
   <string name="unit_date_day">Dia</string>
+  <string name="unit_day">" d"</string>
+  <string name="unit_evening">PM</string>
   <string name="unit_foot">" peus"</string>
+  <string name="unit_forenoon">AM</string>
   <string name="unit_gl">gal.</string>
   <string name="unit_gram">&#160;g</string>
   <string name="unit_heart_rate">PPM</string>
@@ -2203,9 +2245,19 @@ Ho podreu canviar a la configuració de l\'aplicació Amazfit Watch."</string>
   <string name="unit_hr">"PPM"</string>
   <string name="unit_inch">" polzades"</string>
   <string name="unit_kc">" cal"</string>
+  <string name="unit_kcalorie">Cal</string>
+  <string name="unit_kg">" kg"</string>
+  <string name="unit_kilometer">" km"</string>
+  <string name="unit_km">" km"</string>
   <string name="unit_liter">&#160;L</string>
+  <string name="unit_m">" m"</string>
+  <string name="unit_meter">" m"</string>
   <string name="unit_mile">" mi"</string>
   <string name="unit_min"> m</string>
+  <string name="unit_min_long">" min"</string>
+  <string name="unit_mon">m</string>
+  <string name="unit_moon">PM</string>
+  <string name="unit_morning">AM</string>
   <string name="unit_one">grups</string>
   <string name="unit_pace_freq">passos/min</string>
   <string name="unit_pt">pt.</string>
@@ -2214,7 +2266,9 @@ Ho podreu canviar a la configuració de l\'aplicació Amazfit Watch."</string>
   <string name="unit_sj">" jin"</string>
   <string name="unit_step">" passos"</string>
   <string name="unit_tomorrow">Demà</string>
+  <string name="unit_week_hour">AM</string>
   <string name="unit_weight_tips">"Ja ha vinculat la bàscula. Podeu canviar la unitat de mesura manualment a la secció de les piles de la bàscula."</string>
+  <string name="unit_yb">" lbs"</string>
   <string name="unknown">Desconegut</string>
   <string name="unlock_distance">Distància de desbloqueig</string>
   <string name="unlock_distance_content">Manteniu la polsera i el telèfon dins del rang establert</string>
@@ -2238,8 +2292,6 @@ Ho podreu canviar a la configuració de l\'aplicació Amazfit Watch."</string>
   <string name="unlock_screen_help_title3">Proveu a reiniciar el telèfon</string>
   <string name="unlock_screen_invalid">"No podeu desbloquejar el dispositiu?"</string>
   <string name="unlock_screen_invalid_helper">"No podeu desbloquejar el dispositiu amb la polsera?"</string>
-  <string name="unlock_screen_modify_unlock_v6">"Ara podeu desbloquejar el telèfon amb un dispositiu Bluetooth.
-Podeu desactivar aquesta funció a la configuració. "</string>
   <string name="unlock_screen_not_bound">Enllaceu la polsera amb el telèfon per desbloquejar-lo</string>
   <string name="unlock_screen_tips">Podeu desactivar aquesta funció a Configuració.</string>
   <string name="unlock_screen_title">Ara pot desbloquejar el seu terminal amb el dispositiu Bluetooth.</string>
@@ -2250,22 +2302,25 @@ Podeu desactivar aquesta funció a la configuració. "</string>
   <string name="upload_force_marking_wifi_status">Voleu fer servir les dades mòbils per actualitzar les dades?</string>
   <string name="use_phone_tips1">Ús del podòmetre del dispositiu mòbil</string>
   <string name="use_phone_tips2">"Es farà servir el podòmetre quan la polsera no estigui enllaçada"</string>
-  <string name="used">"Utilitzat"</string>
   <string name="user_add_new_list_enter">Introduir</string>
   <string name="user_add_new_list_select">Selecciona</string>
   <string name="user_add_new_toast_failed">"No s'han pogut afegir nous usuaris, comprova la teva xarxa i torna a intentar-ho"</string>
-  <string name="user_agreement">Acord d\'usuari i política de privacitat</string>
-  <string name="user_agreement_prefix">Premeu D\'acord per confirmar</string>
-  <string name="user_agreement_update">Acord d\'usuari i política de privacitat actualitzats</string>
+  <string name="user_agreement">Llicència de programari i acord de servei</string>
+  <string name="user_agreement_title">Acord i política d\'ús del programari</string>
+  <string name="user_agreement_update">Actualització de l\'acord i política d\'ús del programari</string>
   <string name="user_agreement_ux">Participeu en el programa de millora d\'experiència del client</string>
+  <string name="user_experience_info">Toqueu per a acceptar %1$s</string>
+  <string name="user_experience_update">Actualització del Programa d\'Experiència d\'Usuari</string>
   <string name="user_plan">Participeu en el programa de millora d\'experiència del client</string>
   <string name="user_plan_sub_title">Les estadístiques d\'ús les fem servir per millorar els nostres productes i serveis. Tot el procés compleix amb la nostra política de privacitat.</string>
+  <string name="user_plan_sub_title_click">Toqueu per mostrar els detalls</string>
+  <string name="user_privacy">Política de privadesa</string>
   <string name="user_protocol">Acord d\'usuari i política de privacitat</string>
   <string name="view_time_tips_1">Aixequeu el canell per comprovar l\'hora a la Mi Band 2</string>
   <string name="view_time_tips_2">Aneu a Perfil &gt; Mi Band 2 &gt; Mostra l\'hora en aixecar la mà</string>
   <string name="visceral_fat_activity_text">El greix visceral\" es refereix al greix acumulat al peu del canó dels òrgans interns. El greix visceral alt s\'acumula amb facilitat, però és molt difícil de reduir. Necessiteu mantenir una dieta equilibrada i realitzar exercici aeròbic no menys de 20 minuts cada dia </string>
   <string name="visceral_high_infomation">El nivell de greix visceral ha de ser reduït a menys de 9. Seguiu fent exercici i mantingueu una dieta equilibrada.</string>
-  <string name="visceral_need_attention_infomation">El nivell actual de greix visceral és massa alt. Feu exercici i mantingueu una dieta equilibrada per prevenir un augment addicional</string>
+  <string name="visceral_need_attention_infomation">El nivell actual de greix visceral és massa alt. Feu exercici i mantingueu una dieta equilibrada per prevenir un augment addicional.</string>
   <string name="visceral_value">Nivell de greix visceral</string>
   <string name="wait">Un moment&#8230;</string>
   <string name="watch_connect_fail">"Error de connexió amb el rellotge"</string>
@@ -2281,12 +2336,15 @@ Podeu desactivar aquesta funció a la configuració. "</string>
   <string name="water_activity_text">Els líquids\" fan refèrencia a la proporció total d\'aigua en el cos humà, incloent l\'aigua en la seva sang, limfa, i altres fluids corporals. Si està perdent pes, ha de prestar especial atenció al consum d\'aigua per evitar la deshidratació. Les mesures que es prenen després de banyar-vos, beure alcohol, o exercitar poden no ser precises </string>
   <string name="water_need_attention_infomation">"\"La ràpida pèrdua de pes és sovint el resultat de perdre aigua juntament amb el greix. És per això que els mesuraments que es prenen després que acabeu de banyar-vos o exercitar poden no ser precises\"."</string>
   <string name="watermark_category_sport">Marca d\'aigua</string>
-  <string name="watermark_category_sticker">Adhesiu</string>
+  <string name="watermark_category_sticker">Adhesius</string>
   <string name="wear_bracelet_hint">"Fixeu la polsera tan fortament com se senti còmode. Posar-la massa estreta o massa fluixa afectarà els resultats de la freqüència cardíaca.
 
 Utilitzeu la polsera lleugerament per sobre de la part més prima del canell "</string>
   <string name="wear_hand">Ubicació de la polsera</string>
+  <string name="wear_ring_to_measure_rest_hr">Poseu-vos la polsera durant el son per mesurar-lo</string>
+  <string name="wear_watch_to_measure_rest_hr">Poseu-vos el rellotge durant el son per mesurar-lo</string>
   <string name="weather_cloudy">Ennuvolat</string>
+  <string name="weather_description">%1$s. %2$s més tard.</string>
   <string name="weather_extra_fog">Boira densa</string>
   <string name="weather_extra_heavy_fog">Boira severa</string>
   <string name="weather_extra_rainstorm">Forta tempesta</string>
@@ -2331,12 +2389,6 @@ Utilitzeu la polsera lleugerament per sobre de la part més prima del canell "</
   <string name="weather_unkonwn">Sense dades</string>
   <string name="web_activity_reload_tip">Toqueu la pantalla per recarregar</string>
   <string name="web_activity_retry_tip">Comprova-ho i torna a provar-ho</string>
-  <string name="wechat_login_helper_continue">Inicia sessió amb el compte de WeChat</string>
-  <string name="wechat_login_helper_info_1">"Si vostè és un usuari antic, es recomana afegir el compte de WeChat"</string>
-  <string name="wechat_login_helper_info_2">Inicia sessió amb el compte Mi</string>
-  <string name="wechat_login_helper_info_3">Afegeix un compte de WeChat a Perfil&gt; Configuració</string>
-  <string name="wechat_login_helper_info_4">Inicia sessió a Mi Fit per veure les dades de activitat amb el compte Mi o el compte de WeChat</string>
-  <string name="wechat_login_helper_info_5">"Si ets un usuari nou, toca per iniciar sessió amb el compte de WeChat"</string>
   <string name="wechat_uninstall">Instal·la primer el WeChat</string>
   <string name="weibo_uninstall_tips">Primer instal·leu Sina Weibo</string>
   <string name="weibosdk_toast_auth_canceled_f">"Error d'autorització"</string>
@@ -2349,8 +2401,6 @@ Utilitzeu la polsera lleugerament per sobre de la part més prima del canell "</
   <string name="weight_bfs">Escala de greix corporal</string>
   <string name="weight_bfs_device_help">Ajuda</string>
   <string name="weight_bfs_setting_help">Aprèn més</string>
-  <string name="weight_bfs_title">"\"%s resultats\""</string>
-  <string name="weight_bfs_unit_jin">Jin (500g)</string>
   <string name="weight_bfs_unit_kg">Mètric (kg)</string>
   <string name="weight_choose_user_title">Trieu un usuari</string>
   <string name="weight_delete_confirm_title">Voleu esborrar l\'objectiu de pes?</string>
@@ -2376,6 +2426,7 @@ Utilitzeu la polsera lleugerament per sobre de la part més prima del canell "</
   <string name="weight_setting">Bàscula</string>
   <string name="weight_setting_fw_version">Versió del firmware</string>
   <string name="weight_setting_help">Més informació</string>
+  <string name="weight_setting_weight">Mi Scale</string>
   <string name="weight_setting_weight_bodyfat">Escala de composició corporal Mi</string>
   <string name="weight_setting_weight_many">Bàscula/Escala de composició corporal</string>
   <string name="weight_settings_merge_tips">Combineu els darrers pesatges</string>
@@ -2396,6 +2447,7 @@ Utilitzeu la polsera lleugerament per sobre de la part més prima del canell "</
   <string name="white_list_tips_help_miui">Intenteu afegir el Mi Fit a excepcions en \"Seguretat\" - \"Permissos\" - \"Inici automàtic\"</string>
   <string name="white_list_tips_help_no_miui">Intenteu afegir Mi Fit a excepcions a \"Seguretat\" - \"Permisos\" - \"Inici automàtic\".</string>
   <string name="whole_day_hr_section">Zona de freqüència cardíaca diària</string>
+  <string name="with_minute_time">%d m</string>
   <string name="with_unit_times">%d vegades</string>
   <string name="year">Any</string>
   <string name="yes">Confirma</string>
@@ -2405,21 +2457,14 @@ Utilitzeu la polsera lleugerament per sobre de la part més prima del canell "</
   <string name="your_weight">"Pes "</string>
   <string name="zoom_in">Allunya</string>
   <string name="zoom_out">Apropa</string>
-  <string name="can_not_play_video">No es pot reproduir el vídeo de formació</string>
-  <string name="training_max_hr">Freqüència cardíaca màxima</string>
-  <string name="training_min_hr">Freqüència cardíaca mínima</string>
-  <string name="bind_device_chaohu_has_bound">El rellotge està vinculat a un altre usuari. Demana-li que el desvinculi o que es posi en contacte amb el nostre servei d\'atenció al client, després torneu-ho a provar.</string>
-  <string name="exit_fail">No s\'ha pogut sortir</string>
   <string name="fri">Dv.</string>
   <string name="lab_history_12hours_format">%1$s %2$s - %3$s</string>
-  <string name="load_end">No hi ha més dades</string>
   <string name="mili_settting_mili_peyto">Rellotge Amazfit Bip</string>
-  <string name="mili_settting_mili_tempo">Tempo</string>
+  <string name="mili_settting_mili_tempo">Polsera Amazfit</string>
   <string name="normandy_device_name">Xip Intel·ligent Amazfit 2</string>
   <string name="sat">Ds.</string>
   <string name="speed_eng_unit_km">km/h</string>
   <string name="speed_eng_unit_mile">mph</string>
-  <string name="sport_walking_backgroud_notification">Estàs caminant</string>
   <string name="sun">dia</string>
   <string name="thur">Dj.</string>
   <string name="training_playing_go">Vés</string>
@@ -2427,16 +2472,7 @@ Utilitzeu la polsera lleugerament per sobre de la part més prima del canell "</
   <string name="tue">Dt.</string>
   <string name="wed">Dc.</string>
   <string name="x_month">%d mesos</string>
-  <string name="xiaomi_bytes_unit">%1$sB</string>
-  <string name="xiaomi_connect_download_manager_fail">La connexió amb el gestor de descàrregues ha fallat, comproveu l\'estat de l\'Administrador de descàrregues a l\'Administrador d\'aplicacions.</string>
-  <string name="xiaomi_external_storage_unavailable">Emmagatzematge no disponible, comprova la targeta SD.</string>
-  <string name="xiaomi_kilobytes_unit">%1$sKB</string>
-  <string name="xiaomi_megabytes_unit">%1$sMB</string>
-  <string name="xiaomi_update_dialog_message">"Versió %1$s
-Mida: %2$s"</string>
-  <string name="xiaomi_update_dialog_message_diff">"Versió %1$s
-Mida d\'actualització: %2$s"</string>
-  <string name="xiaomi_update_dialog_title">Actualització %1$s!</string>
+  <string name="facebook_app_id">352488514942642</string>
   <string name="password_toggle_content_description">Canviar la visibilitat de la contrasenya</string>
   <string name="running_main_gps_go">Ja!</string>
   <string name="running_time_init">00:00:00</string>
