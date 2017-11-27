@@ -90,7 +90,6 @@ Per obtenir més espai d\'emmagatzematge, visiteu mi.com/micloud."</string>
   <string name="find_device_dspt">Localitza, bloqueja o esborra el vostre dispositiu de forma remota</string>
   <string name="find_device_dspt_provision">\"Si perd el seu dispositiu, pot anar a %s per localitzar, bloquejar o reiniciar-lo. Aquestes funcions les pot activar o desactivar de qualsevol moment a Configuració.\"
   </string>
-  <string name="find_device_dspt_provision_2_int">mi.com/micloud</string>
   <string name="find_device_dspt_provision_3">Pots activar o desactivar aquesta funció en els ajustaments.</string>
   <string name="find_device_dspt_provision_4">Si canvia de targetes SIM, s\'enviarà automàticament un missatge SMS per reactivar aquesta funció.</string>
   <string name="find_device_enabling">S\'està engegant&#8230;</string>

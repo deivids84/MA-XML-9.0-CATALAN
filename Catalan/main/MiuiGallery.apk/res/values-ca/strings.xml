@@ -835,7 +835,6 @@ Feu més fotos als vostres amics!"</string>
   <string name="search_feedback_likely_check_title">Comprova</string>
   <string name="search_feedback_likely_title">Sembla que aquestes fotos poden tenir «%s»</string>
   <string name="search_feedback_task_complete">S\'han completat totes les missions</string>
-  <string name="search_feedback_task_progress">%1$d/%2$d</string>
   <string name="search_feedback_task_request_award_failed">"No s'ha pogut rebre la recompensa. Torneu-ho a provar més tard."</string>
   <string name="search_feedback_task_requesting_award">S\'està rebent la recompensa…</string>
   <string name="search_feedback_user_notice">"He llegit i he acceptat %s."</string>

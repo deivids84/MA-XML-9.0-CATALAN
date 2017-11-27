@@ -227,8 +227,6 @@
   <string name="bank_card_detail">Detalls de la targeta de crèdit</string>
   <string name="battery_saver">Estalvi de bateria</string>
   <string name="battery_saver_keywords">estalvi de bateria;bateria de correu</string>
-  <string name="bcc">Cco</string>
-  <string name="bcc_heading">"Cco: "</string>
   <string name="bill_center_setting">Configuració de la facturació</string>
   <string name="bill_center_setting_head">Importa informació d\'aquests comptes</string>
   <string name="bill_cycle_text">Cicle de facturació</string>
@@ -250,8 +248,6 @@
   <string name="cancel_pop3_attchemt_downloading">"La cancel·lació de qualsevol arxiu adjunt baixat no està disponible per a un tipus de compte POP3."</string>
   <string name="cant_move_or_change_labels">"\"\"No es pot moure perquè la selecció conté diversos 
          comptes.\"\""</string>
-  <string name="cc_attribution">Cc: %1$s</string>
-  <string name="cc_bcc">Cc/Cco</string>
   <string name="change_folders_selection_dialog_title">Canvia carpetes</string>
   <string name="change_sync_settings">Canvia la configuració de sincronització</string>
   <string name="changepw_dialog_tips">Torneu a introduir la contrasenya per %s</string>
@@ -1015,7 +1011,6 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="tablet">tauleta tàctil</string>
   <string name="tap_to_configure">Toqui per configurar.</string>
   <string name="tap_to_enable_sync">Toqui per encendre.</string>
-  <string name="to">Per</string>
   <string name="to_heading">"Per: "</string>
   <string name="toast_bar_fail_synchronization">"No es pot connectar a la xarxa"</string>
   <string name="toast_bar_insufficient_memory_space">"No hi ha prou espai d'emmagatzematge"</string>
