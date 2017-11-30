@@ -1760,6 +1760,9 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="incoming_call_breathing_light_color_title">Color de les trucades</string>
   <string name="incoming_call_breathing_light_freq_title">Freqüència de parpelleig del LED per trucades</string>
   <string name="incoming_call_volume_title">To de trucada</string>
+  <string name="infinity_display_settings">Pantalla completa</string>
+  <string name="infinity_display_slogan">Creixement continuat en tecnologia inexplorada</string>
+  <string name="infinity_display_title">Pantalla completa</string>
   <string name="information_dialog_button_text">Ja està!</string>
   <string name="input_method">Teclat</string>
   <string name="input_method_selector">Selector del mètode d\'entrada</string>
@@ -2332,6 +2335,7 @@ Hi ha altres usuaris presents en aquest dispositiu.
   <string name="mock_location_app">Selecciona aplicació per simular ubicació</string>
   <string name="mock_location_app_not_set">Cap aplicació per simular ubicació seleccionada</string>
   <string name="mock_location_app_set">Aplicació d\'ubicació simulades: %1$s</string>
+  <string name="model_name">Nom del model</string>
   <string name="model_number">Model</string>
   <string name="modify_instruction_password_settings">Estableix una contrasenya</string>
   <string name="modify_privacy_password">Canvieu la contrasenya</string>
@@ -2388,6 +2392,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="music_dirac_mode_piston_color">Edició de color</string>
   <string name="music_dirac_mode_piston_standard">Edició Estàndard</string>
   <string name="music_dirac_mode_piston_youth">Edició Jove</string>
+  <string name="music_dirac_mode_reduction_noise">Redueix el soroll Tipus-C</string>
   <string name="music_dolby_mode_movie">Vídeo</string>
   <string name="music_dolby_mode_music">Música</string>
   <string name="music_dolby_mode_off">Apagat</string>
@@ -2649,7 +2654,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="page_layout_page2_small_summary">Molt petita</string>
   <string name="page_layout_page2_small_title">Molt petita</string>
   <string name="page_layout_page2_title">Previsualització</string>
-  <string name="paper_mode_auto_twilight_summary">mode de lectura en mode penombra</string>
+  <string name="paper_mode_auto_twilight_summary">Canvi automàtic de mode de lectura després de l\'ocàs</string>
   <string name="paper_mode_auto_twilight_title">"Mode penombra"</string>
   <string name="paper_mode_customize_time_summary">planifica de mode de lectura com a temps personalitzat</string>
   <string name="paper_mode_customize_time_title">personalitza el temps</string>
@@ -2901,6 +2906,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="proxy_error_invalid_exclusion_list">La llista d\'exclusió que heu introduït no té el format adequat. Introduïu una llista separada per comes dels dominis exclosos.</string>
   <string name="proxy_error_invalid_host">El nom d\'amfitrió que heu introduït no és vàlid.</string>
   <string name="proxy_error_invalid_port">El port que heu introduït no és vàlid.</string>
+  <string name="proxy_exclusionlist_hint">exemple.com,lamevacomp.prova.com,localhost</string>
   <string name="proxy_exclusionlist_label">Deriva cap a</string>
   <string name="proxy_hostname_label">Nom de l\'amfitrió</string>
   <string name="proxy_settings_label">Configuració del proxy</string>
@@ -3727,7 +3733,6 @@ Hi ha un certificat de confiança instal·lat en el dispositiu que ho fa possibl
   <string name="status_bar_app_enable_message">Insígnies</string>
   <string name="status_bar_key_position_custom">Posició de tecla personalitzada</string>
   <string name="status_bar_screen_button_force_immersive_desc">Feu lliscar el dit cap amunt des de la part inferior de la pantalla per mostrar els botons virtuals</string>
-  <string name="status_bar_screen_button_key">Tecles virtuals en pantalla</string>
   <string name="status_bar_screen_button_key_force_immersive">Amaga els botons virtuals</string>
   <string name="status_bar_screen_key_back">Tecla Enrere</string>
   <string name="status_bar_screen_key_home">Tecla Pàgina d\'inici</string>

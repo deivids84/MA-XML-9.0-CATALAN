@@ -443,6 +443,7 @@
   <string name="call_contact_block">Intercepció de contactes</string>
   <string name="call_delete_hint">Voleu eliminar totes les trucades bloquejades d\'aquest número?</string>
   <string name="call_delete_title">Elimina la trucada</string>
+  <string name="call_oversea_block">Bloqueja trucades des de l\'estranger</string>
   <string name="call_prefix">Llista negra de prefixos</string>
   <string name="call_private">Trucada privada</string>
   <string name="call_stranger_block">Intercepció de desconeguts</string>
@@ -704,6 +705,8 @@
   <string name="fw_blocked">Llista de bloqueig</string>
   <string name="fw_blocked_count">"Bloquejat "</string>
   <string name="fw_blocked_join">" i "</string>
+  <string name="fw_oversea">Bloqueja trucades des de l\'estranger</string>
+  <string name="fw_oversea_content">Bloqueja les trucades entrants dels números de telèfon estrangers</string>
   <string name="game_ad_recommendation">Tothom està jugant</string>
   <string name="game_anti_disturb_msg">Joc no molestis</string>
   <string name="game_booster">Accelerador de velocitat dels jocs</string>
@@ -1629,6 +1632,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="st_call_backsound_group">So de llista de bloqueig</string>
   <string name="st_call_intercept_contacts">Bloqueja trucades dels contactes</string>
   <string name="st_call_intercept_forwarding">Bloqueja trucades desviades</string>
+  <string name="st_call_intercept_oversea">Bloqueja trucades des de l\'estranger</string>
   <string name="st_call_intercept_reported">Bloqueja trucades de números informats</string>
   <string name="st_call_intercept_stranger">Bloqueja trucades d\'estranys</string>
   <string name="st_call_intercept_unknown">Bloqueja trucades de números ocults</string>
@@ -1637,6 +1641,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="st_call_stranger_group">Trucades de desconeguts</string>
   <string name="st_confirm_dialog_btn_open">Obre</string>
   <string name="st_confirm_dialog_summary_contact_call">Es bloquejaran totes les trucades dels contactes.</string>
+  <string name="st_confirm_dialog_summary_oversea_call">Activeu-lo per bloquejar totes les trucades entrants de números de telèfon estrangers.</string>
   <string name="st_confirm_dialog_summary_stranger_call">Es bloquejaran totes les trucades d\'estranys.</string>
   <string name="st_filter_keywords_setting_summary1">Es bloquejaran els missatges de números desconeguts que continguin les paraules d\'aquesta llista.</string>
   <string name="st_filter_keywords_setting_summary2">"

@@ -177,7 +177,7 @@ Toqueu la pantalla per afegir una ciutat manualment o moure-la"</string>
   <string name="radar_cloud_image_title">Mapa de radar</string>
   <string name="rainfall_settings_summary">Configuració de les precipitacions</string>
   <string name="rainfall_settings_title">Avís de les precipitacions</string>
-  <string name="real_time_sunrise">Alba %1$s</string>
+  <string name="real_time_sunrise">Sol ixent %1$s</string>
   <string name="real_time_sunset">Ocàs %1$s</string>
   <string name="realtime_aqi_title">Índex de qualitat de l\'aire</string>
   <string name="realtime_humidity_title">Humitat relativa</string>

@@ -25,6 +25,10 @@
   <string name="downloading">S\'està baixant</string>
   <string name="downloading_in_3g">S\'està baixant per 3G&#8230;</string>
   <string name="downloading_in_wifi">S\'està baixant&#8230;</string>
+  <string name="drive_low_memory_description_content">L\'espai d\'emmagatzematge del telèfon no és suficient, aneu a netejar la brossa del telèfon per alliberar més espai d\'emmagatzematge</string>
+  <string name="drive_low_memory_description_title">Advertència de poca memòria</string>
+  <string name="drive_low_memory_description_toast">L\'espai d\'emmagatzematge del telèfon no és suficient, netegeu-lo després de l\'ús del MiDrive</string>
+  <string name="drive_low_memory_positive_content">Neteja</string>
   <string name="empty_file_download">"Els fitxers buits no són compatibles."</string>
   <string name="empty_file_upload">"Els fitxers buits no són compatibles."</string>
   <string name="file_already_downlaoded">Fitxer desat a \"%1$s\"</string>
@@ -102,6 +106,7 @@
   <string name="sd_full">La targeta SD està plena.</string>
   <string name="sd_invalid">La targeta SD està malmesa.</string>
   <string name="send_to_midrive_failed">"Aquest tipus de fitxer no està suportat."</string>
+  <string name="source_file_missing">Falta el fitxer.</string>
   <string name="space_full">No hi ha prou espai al núvol.</string>
   <string name="start_use_xiaomi_account">Comenceu a utilitzar Mi Drive</string>
   <string name="system_alert">Connexió a Internet</string>

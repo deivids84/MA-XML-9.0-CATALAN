@@ -88,6 +88,8 @@ L\'estalvi de bateria tractarà de forma selectiva les aplicacions importants."<
   <string name="normal">Mode per defecte</string>
   <string name="operation_create_group">Nom</string>
   <string name="operation_create_group_message">Introdueix el nou nom del grup</string>
+  <string name="performance_category">Rendiment</string>
+  <string name="power_center">Energia</string>
   <string name="power_checker_background_cpu_multi_apps_title">%1$s tenen un funcionament anormal</string>
   <string name="power_checker_background_cpu_title">%1$s tenen un funcionament anormal</string>
   <string name="power_checker_background_gps_multi_apps_title">%1$s ubicació freqüentment</string>
@@ -166,6 +168,7 @@ L\'estalvi de bateria tractarà de forma selectiva les aplicacions importants."<
   <string name="power_hide_mode_summary">"Estalvia bateria restringint els processos en segon pla, el Wi-Fi, les connexions mòbils i el GPS de les aplicacions"</string>
   <string name="power_hide_mode_title">Gestiona l\'ús de bateria de les aplicacions</string>
   <string name="power_keeper">Estalvi de bateria</string>
+  <string name="power_mode">Configuració d\'energia</string>
   <string name="power_mode_cpu_state_high">Rendiment</string>
   <string name="power_mode_cpu_state_high_desc">Prioritzar rendiment sobre durada de bateria</string>
   <string name="power_mode_cpu_state_low">Estalvi de bateria</string>
@@ -176,6 +179,7 @@ L\'estalvi de bateria tractarà de forma selectiva les aplicacions importants."<
   <string name="power_mode_view_event_title">Esdeveniments</string>
   <string name="power_mode_view_user_define_title">Esdeveniment nou</string>
   <string name="power_optimize_activity_profile_file_error">Error en l\'estalvi de bateria</string>
+  <string name="power_usage">Ús d\'energia</string>
   <string name="ragment_sys_listempty">No hi ha aplicacions del sistema</string>
   <string name="reading">Mode lectura</string>
   <string name="scenario_policies_summary">Estalvi d\'energia segons l\'escenari</string>

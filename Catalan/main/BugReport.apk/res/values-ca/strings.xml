@@ -57,6 +57,7 @@
   <string name="feedback_bug_status_change_notification_desc">%1$s problema \"%2$s\"</string>
   <string name="feedback_choose_module">Trieu un element</string>
   <string name="feedback_choose_module_hint">Necessari</string>
+  <string name="feedback_choose_reproductivity">Reproductivitat</string>
   <string name="feedback_choose_third_app_name">Seleccioneu el nom de l\'aplicació</string>
   <string name="feedback_collect_log_failed">"No s'han pogut obtenir els registres"</string>
   <string name="feedback_contact_info_hint">Número de telèfon/correu</string>
@@ -114,6 +115,7 @@
   <string name="feedback_third_packagename_hint">Quina aplicació de tercers causa problemes?</string>
   <string name="feedback_title">Títol</string>
   <string name="feedback_title_hint">Descriviu el problema breument</string>
+  <string name="feedback_title_reproductivity">Selecció de la reproductivitat</string>
   <string name="feedback_tracking">Segueix els problemes</string>
   <string name="feedback_version_label">Versió</string>
   <string name="feesback_list">Informes</string>
@@ -287,6 +289,7 @@
   <string name="toast_feedbackservice_in_submit">S\'estan enviant els comentaris anteriors&#8230;</string>
   <string name="toast_fill_brackets">Al vostre informe li falta informació</string>
   <string name="toast_log_not_exists">"El registre necessari s'ha suprimit o no existeix"</string>
+  <string name="toast_log_too_large">"No es pot penjar. El fitxer és massa gran."</string>
   <string name="toast_module_required">Trieu un element</string>
   <string name="toast_network_unavailable">"No s'ha pogut enviar. No es pot connectar a la xarxa."</string>
   <string name="toast_pending_log_collection">Encara s\'estan recuperant registres&#8230;</string>

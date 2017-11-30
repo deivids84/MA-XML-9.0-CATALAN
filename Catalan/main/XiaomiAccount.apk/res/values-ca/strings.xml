@@ -16,6 +16,7 @@
   <string name="account_error_longer_user_name">"El nom no pot superar els 20 caràcters"</string>
   <string name="account_error_shorter_user_name">El nom ha de tenir més de 2 caràcters</string>
   <string name="account_error_user_birthday">L\'aniversari que heu introduït no és vàlid</string>
+  <string name="account_global_region">Estranger</string>
   <string name="account_has_been_set">Modifica</string>
   <string name="account_limit_update_birthday">"No es pot actualitzar l'aniversari en aquest moment"</string>
   <string name="account_mibi_center">Crèdit Mi</string>

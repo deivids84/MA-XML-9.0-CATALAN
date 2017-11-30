@@ -7,6 +7,7 @@
   <string name="accessibility_effect_mode_button">Botó d\'efectes</string>
   <string name="accessibility_flash_mode_button">Botó del flaix</string>
   <string name="accessibility_hdr">Botó activar HDR</string>
+  <string name="accessibility_intent_done_apply">Fet</string>
   <string name="accessibility_mode_dismiss_button">Botó de tancament del mode de selecció</string>
   <string name="accessibility_peak">Botó de pic d\'enfocament</string>
   <string name="accessibility_portrait_button">Mode retrat</string>
@@ -271,7 +272,7 @@ amb un cos més clar i un retrat més bonic"</string>
   <string name="pref_camera_scenemode_entry_portrait">Retrat</string>
   <string name="pref_camera_scenemode_entry_snow">Neu</string>
   <string name="pref_camera_scenemode_entry_sports">Esports</string>
-  <string name="pref_camera_scenemode_entry_sunset">Posta de sol</string>
+  <string name="pref_camera_scenemode_entry_sunset">Ocàs</string>
   <string name="pref_camera_scenemode_title">Escena</string>
   <string name="pref_camera_settings">Dispositiu</string>
   <string name="pref_camera_settings_category">Configuració de la càmera</string>

@@ -13,6 +13,14 @@
     <item quantity="other">%d elements</item>
     <item quantity="one">%d element</item>
   </plurals>
+  <plurals name="total_num">
+    <item quantity="other">%d elements,</item>
+    <item quantity="one">%d element,</item>
+  </plurals>
+  <plurals name="custom_progress">
+    <item quantity="other">%d elements</item>
+    <item quantity="one">%d element</item>
+  </plurals>
   <plurals name="trans_time_format_minute">
     <item quantity="other">%d minuts</item>
     <item quantity="one">%d minut</item>
@@ -34,15 +42,15 @@
     <item quantity="one">S\'ha restaurat %d element</item>
   </plurals>
   <plurals name="save_item_saved_summary">
-    <item quantity="other">S\'ha importat %d elements i s\'han restaurat</item>
-    <item quantity="one">S\'ha importat %d element i s\'ha restaurat</item>
+    <item quantity="other">S\'han importat i restaurat %d elements</item>
+    <item quantity="one">S\'ha importat i restaurat %d element</item>
   </plurals>
   <plurals name="save_item_failed_summary_seg1">
-    <item quantity="other">"S'ha importat %d elements, "</item>
-    <item quantity="one">"S'ha importat %d element, "</item>
+    <item quantity="other">"S'han importat %d elements. "</item>
+    <item quantity="one">"S'ha importat %d element. "</item>
   </plurals>
   <plurals name="save_item_failed_summary_seg2">
-    <item quantity="other">%d elements necessiten ser importats de nou</item>
+    <item quantity="other">Importeu %d elements de nou.</item>
     <item quantity="one">%d element necessita ser importat de nou</item>
   </plurals>
 </resources>

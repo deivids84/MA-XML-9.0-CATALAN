@@ -59,6 +59,7 @@
   <string name="hours">%s hores</string>
   <string name="install_weather_app_error">"No s'ha pogut carregar l'aplicació"</string>
   <string name="install_weather_app_loading">Un segon&#8230;</string>
+  <string name="invalid_time">Hora no vàlida: %3$s %1$d: %2$d</string>
   <string name="keep_screen_on">Mantenir la pantalla engegada</string>
   <string name="label">Estableix l\'etiqueta</string>
   <string name="label_pref_summary">Etiqueta</string>

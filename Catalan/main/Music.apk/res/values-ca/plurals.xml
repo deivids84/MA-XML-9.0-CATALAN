@@ -97,6 +97,10 @@
     <item quantity="other">%d seguidors</item>
     <item quantity="one">%d seguidor</item>
   </plurals>
+  <plurals name="songs_count">
+    <item quantity="other">%d cançons</item>
+    <item quantity="one">%d cançó</item>
+  </plurals>
   <plurals name="Nunbackup_audios">
     <item quantity="other">"%1$d cançons no s'han copiat (%2$.1fMB)"</item>
     <item quantity="one">"%1$d cançó no s'ha copiat (%2$.1fMB)"</item>
@@ -124,5 +128,13 @@
   <plurals name="skipped_online_songs_tips">
     <item quantity="other">S\'han omès %d cançons. Activeu els serveis en línia a la configuració per escoltar-les.</item>
     <item quantity="one">S\'ha omès %d cançó. Activeu els serveis en línia a la configuració per escoltar-la.</item>
+  </plurals>
+  <plurals name="Nrecognize_switch_off_alert_message">
+    <item quantity="other">S\'ha aturat l\'optimització per a l\'àlbum i la lletra. Voleu tornar a mostrar informació, àlbum i lletres optimitzades d\'%d cançons?</item>
+    <item quantity="one">S\'ha aturat l\'optimització per a l\'àlbum i la lletra. Voleu tornar a mostrar informació, àlbum i lletres optimitzades d\'%d cançó?</item>
+  </plurals>
+  <plurals name="Nassociate_songs">
+    <item quantity="other">S\'estan associant àlbums i lletres (%1$d/%2$d cançons)</item>
+    <item quantity="one">S\'estan associant àlbums i lletres (%1$d/%2$d cançó)</item>
   </plurals>
 </resources>

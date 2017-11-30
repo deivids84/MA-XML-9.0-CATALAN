@@ -114,6 +114,7 @@
   <string name="mark_number_feedback_success">La informació s\'ha enviat correctament</string>
   <string name="mark_number_marked_maintitle">Modifica la informació</string>
   <string name="mark_number_marked_subtitle">%s (marca actual)</string>
+  <string name="mark_number_notification_title">Informa d\'un número sospitós</string>
   <string name="mark_number_remove">Elimina la informació</string>
   <string name="mark_title_null_hint">Introduïu la informació</string>
   <string name="menu_add_black_list">Afegeix a la llista de bloqueig</string>
