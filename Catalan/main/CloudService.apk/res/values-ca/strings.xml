@@ -535,6 +535,7 @@ Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi."</
   <string name="sync_sub_dspt">El missatge d\'activació està subjecte a càrrecs de dades.</string>
   <string name="sync_sub_dspt_provision">Veure i administrar les seves dades des de qualsevol part</string>
   <string name="sync_sub_int_dspt">El missatge d\'activació està subjecte a càrrecs de dades internacionals.</string>
+  <string name="title_back">Enrere</string>
   <string name="title_reg">Crear un compte</string>
   <string name="total_space_upgraded_to">Espai Total:%s</string>
   <string name="trying_to_connect_to_network">S\'està connectant a la xarxa&#8230;</string>
@@ -558,4 +559,5 @@ Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi."</
   <string name="wipe_data_dialog_msg_separator">,</string>
   <string name="wipe_data_dialog_title">"Alguns elements no s'han sincronitzat"</string>
   <string name="wipe_secret_photo_dialog_title">"Les fotos ocultes no es sincronitzen"</string>
+  <string name="xiaomi_cloud_service_subtitle">Tots els elements importants en un sol lloc</string>
 </resources>

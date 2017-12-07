@@ -4,12 +4,22 @@
   <string-array name="emailAddressTypes">
     <item>Casa</item>
     <item>Feina</item>
-    <item>Altre</item>
+    <item>Altres</item>
     <item>Personalitzat</item>
+  </string-array>
+  <string-array name="imProtocols">
+    <item>AIM</item>
+    <item>Windows Live</item>
+    <item>Yahoo</item>
+    <item>Skype</item>
+    <item>QQ</item>
+    <item>Google Talk</item>
+    <item>ICQ</item>
+    <item>Jabber</item>
   </string-array>
   <string-array name="organizationTypes">
     <item>Feina</item>
-    <item>Altre</item>
+    <item>Altres</item>
     <item>Personalitzat</item>
   </string-array>
   <string-array name="phoneTypes">
@@ -19,50 +29,34 @@
     <item>Fax de la feina</item>
     <item>Fax de casa</item>
     <item>Cercapersones</item>
-    <item>Altre</item>
+    <item>Altres</item>
     <item>Personalitzat</item>
   </string-array>
   <string-array name="postalAddressTypes">
     <item>Casa</item>
     <item>Feina</item>
-    <item>Altre</item>
+    <item>Altres</item>
     <item>Personalitzat</item>
   </string-array>
   <string-array name="app_ops_labels">
     <item>S\'està tractant d\'activar la Wi-Fi</item>
     <item>S\'està tractant d\'activar el BT</item>
   </string-array>
-  <string-array name="origin_carrier_names">
-    <item>"CHINA  MOBILE"</item>
-    <item>CMCC</item>
-    <item>CHN-UNICOM</item>
-    <item>China Mobile</item>
-    <item>China Unicom</item>
-    <item>China Telecom</item>
-    <item>CHN-CT</item>
-    <item>中国移动</item>
-    <item>中国联通</item>
-    <item>中国电信</item>
-    <item>中國移動</item>
-    <item>中國聯通</item>
-    <item>中國電信</item>
-    <item>S\'està cercant el servei</item>
-  </string-array>
   <string-array name="wfcOperatorErrorAlertMessages">
-    <item>Per fer trucades i enviar missatges per Wi-Fi, primer heu de demanar a l\'operador de telefonia mòbil que configuri aquest servei. Després, torneu a activar les trucades per Wi-Fi des de la Configuració.</item>
+    <item>Per fer trucades i enviar missatges per Wi-Fi, primer heu de demanar a l\'operador que configuri aquest servei. Després, torneu a activar les trucades per Wi-Fi des de la Configuració.</item>
   </string-array>
   <string-array name="wfcOperatorErrorNotificationMessages">
-    <item>Registra\'t amb el vostre operador de telefonia mòbil</item>
+    <item>Registreu-vos amb el vostre operador</item>
   </string-array>
   <string-array name="wfcSpnFormats">
     <item>%s</item>
     <item>%s trucades Wi-Fi</item>
   </string-array>
   <string-array name="fingerprint_acquired_vendor">
-    <item>Torna a provar-ho</item>
+    <item>Torneu-ho a provar</item>
     <item></item>
     <item></item>
-    <item>Col·loqueu completament el dit sobre sensor</item>
+    <item>Cobriu el lector d\'empremtes per complet i apliqueu pressió</item>
     <item></item>
     <item>Cobriu el lector d\'empremtes per complet i apliqueu pressió</item>
     <item>Cobriu el lector d\'empremtes per complet i apliqueu pressió</item>
@@ -73,7 +67,7 @@
     <item>Cobriu el lector d\'empremtes per complet i apliqueu pressió</item>
     <item>Cobriu el lector d\'empremtes per complet i apliqueu pressió</item>
     <item>"Massa ràpid! No s'ha pogut reconèixer l'empremta"</item>
-    <item>Moveu el dit lleugerament entre escanejos</item>
+    <item>Moveu el dit una mica i torneu-ho a provar</item>
     <item>Aixequeu el dit i torneu a col·locar-lo a l\'escàner</item>
     <item>Mantingueu el dit a l\'escàner una mica més</item>
     <item></item>
@@ -90,7 +84,14 @@
   <string-array name="imAddressTypes">
     <item>Casa</item>
     <item>Feina</item>
-    <item>Altre</item>
+    <item>Altres</item>
     <item>Personalitzat</item>
+  </string-array>
+  <string-array name="network_switch_type_name">
+    <item>dades mòbils</item>
+    <item>Wi-Fi</item>
+    <item>Bluetooth</item>
+    <item>Ethernet</item>
+    <item>VPN</item>
   </string-array>
 </resources>

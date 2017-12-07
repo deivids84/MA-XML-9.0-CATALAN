@@ -19,7 +19,6 @@
   <string name="create_new_folder_failed">"No s'ha pogut crear la carpeta."</string>
   <string name="delete_failed">"No es pot eliminar"</string>
   <string name="delete_failed_retry">"No s'ha pogut eliminar, espereu %1$s i torneu-ho a provar"</string>
-  <string name="delete_file">Voleu eliminar aquest fitxer?</string>
   <string name="delete_success">Fitxer suprimit</string>
   <string name="download_failed">"No s'ha pogut baixar"</string>
   <string name="downloading">S\'està baixant</string>

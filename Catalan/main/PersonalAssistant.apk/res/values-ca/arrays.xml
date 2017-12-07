@@ -10,10 +10,6 @@
     <item>Última hora de la tarda</item>
     <item>Vespre</item>
   </string-array>
-  <string-array name="express_status_detail">
-    <item>De camí</item>
-    <item>En tramitació</item>
-  </string-array>
   <string-array name="express_status_all">
     <item>De camí</item>
     <item>En tramitació</item>
@@ -23,6 +19,10 @@
     <item>Rebutjat</item>
     <item>En devolució</item>
     <item>Desconegut</item>
+  </string-array>
+  <string-array name="express_status_detail">
+    <item>De camí</item>
+    <item>En tramitació</item>
   </string-array>
   <string-array name="stock_color_schema">
     <item>Vermell - amunt, verd - avall</item>

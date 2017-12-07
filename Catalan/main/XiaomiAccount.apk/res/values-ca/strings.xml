@@ -16,6 +16,7 @@
   <string name="account_error_longer_user_name">"El nom no pot superar els 20 caràcters"</string>
   <string name="account_error_shorter_user_name">El nom ha de tenir més de 2 caràcters</string>
   <string name="account_error_user_birthday">L\'aniversari que heu introduït no és vàlid</string>
+  <string name="account_error_user_name">El nom que heu introduït no és vàlid</string>
   <string name="account_global_region">Estranger</string>
   <string name="account_has_been_set">Modifica</string>
   <string name="account_limit_update_birthday">"No es pot actualitzar l'aniversari en aquest moment"</string>
@@ -243,6 +244,10 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_forget_password">Contrasenya oblidada</string>
   <string name="passport_forget_password_no_underline">Contrasenya oblidada</string>
   <string name="passport_get_back_pwd">Recupera la contrasenya del compte</string>
+  <string name="passport_get_innetdate_agree">Comprova</string>
+  <string name="passport_get_innetdate_disagree">No</string>
+  <string name="passport_get_innetdate_msg">&lt;font color=Red&gt;Sembla&lt;/font&gt; que l\'operador ha reciclat el número %s. Voleu comprovar quan el número estigui en línia?</string>
+  <string name="passport_get_innetdate_title">Comprova quan el número està en línia</string>
   <string name="passport_get_verify_code">Obtén codi</string>
   <string name="passport_getting_activator_phone">S\'està obtenint la informació SIM…</string>
   <string name="passport_getting_verify_code">Obtenint</string>
@@ -378,6 +383,8 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="push_notification_title">Inicieu sessió al Compte Mi en un dispositiu desconegut</string>
   <string name="push_notify_dialog_message">"S'està utilitzant un dispositiu desconegut per iniciar la sessió al Compte Mi. Introduïu aquest codi de verificació al dispositiu. Si no fos així, canvieu la contrasenya del Compte Mi immediatament. No reveleu el codi de verificació a altres persones."</string>
   <string name="push_notify_dialog_title">Verificació de seguretat de l\'inici de sessió</string>
+  <string name="recycle_phone_notification_msg">Sembla que el vostre número de telèfon ha estat reciclat. Toqueu per actualitzar.</string>
+  <string name="recycle_phone_notification_title">Risc de seguretat del Compte Mi</string>
   <string name="remove_device_success_notice">Si elimineu aquest dispositiu dels vostres dispositius de confiança, pot ser que s\'hagi d\'executar el procés de verificació un altre cop quan inicieu la sessió</string>
   <string name="remove_trust_btn">Elimina dels dispositius de confiança</string>
   <string name="remove_trust_notice">Elimina dels dispositius de confiança i tanca sessió</string>
@@ -411,6 +418,8 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="service_error">Error del servei</string>
   <string name="set_success">Correcte</string>
   <string name="sign_in">Inicia sessió</string>
+  <string name="sim_changed_notification_msg">Toqueu per actualitzar el vostre telèfon de recuperació i així mantenir el compte més segur.</string>
+  <string name="sim_changed_notification_title">Heu canviat el número de telèfon?</string>
   <string name="sina_weibo">Sina WeiBo</string>
   <string name="sms_send_success">Enviat</string>
   <string name="sns_access_token_expired_warning">L\'inici de sessió del compte ha caducat. Inicieu sessió de nou per tornar a connectar aquest compte.</string>

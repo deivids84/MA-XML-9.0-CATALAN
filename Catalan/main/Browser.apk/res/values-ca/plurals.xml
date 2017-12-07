@@ -17,6 +17,10 @@
     <item quantity="other">%1$d de %2$d</item>
     <item quantity="one">1 coincidència</item>
   </plurals>
+  <plurals name="nav_screen_incognito_time">
+    <item quantity="other">Després de %d segons es crearà automàticament una pàgina nova</item>
+    <item quantity="one">Després d\'%d segon es crearà automàticament una pàgina nova</item>
+  </plurals>
   <plurals name="transfer_prompt">
     <item quantity="other">Reprodueix vídeo en %1$d segons</item>
     <item quantity="one">Reprodueix vídeo en %1$d segon</item>
@@ -44,9 +48,5 @@
   <plurals name="video_subtitle_last_message">
     <item quantity="other">Falten %d minuts</item>
     <item quantity="one">Falta 1 minut</item>
-  </plurals>
-  <plurals name="nav_screen_incognito_time">
-    <item quantity="other">Després de %d segons es crearà automàticament una pàgina nova</item>
-    <item quantity="one">Després d\'%d segon es crearà automàticament una pàgina nova</item>
   </plurals>
 </resources>

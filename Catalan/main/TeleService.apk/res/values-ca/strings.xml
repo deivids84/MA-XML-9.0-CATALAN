@@ -822,6 +822,7 @@ Voleu canviar al nou proveïdor igualment?"</string>
   <string name="missed_call_notify_times_summary">els recordatoris es separen en intervals de 5 minuts</string>
   <string name="missed_call_notify_times_title">Recordatoris de trucades perdudes</string>
   <string name="missed_call_notify_twice">2 cops</string>
+  <string name="miui_notification_network_selection_text" formatted="false">SIM %s Xarxa seleccionada (%s) no disponible</string>
   <string name="mmiCancelled">Codi MMI cancel·lat</string>
   <string name="mmiStarted">Codi MMI iniciat</string>
   <string name="mobile_data_always_on">Dades mòbils sempre actives</string>

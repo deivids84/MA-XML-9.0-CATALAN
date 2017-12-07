@@ -57,6 +57,7 @@
     <item>Freqüència d\'ús</item>
     <item>Emmagatzematge utilitzat</item>
     <item>Ús de dades</item>
+    <item>Podeu desinstal·lar aquestes aplicacions</item>
   </string-array>
   <string-array name="sort_title">
     <item>Ordena per estat</item>
@@ -64,6 +65,7 @@
     <item>Ordenar per freqüència d\'ús</item>
     <item>Ordena per emmagatzematge d\'ús</item>
     <item>Ordena per l\'ús de dades</item>
+    <item>Mostra primer les aplicacions que es poden desinstal·lar</item>
   </string-array>
   <string-array name="title_app_info">
     <item>Origen de la instal·lació</item>

@@ -511,6 +511,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="miuishare_account_need_activate">El compte Weibo s\'hauria de vincular amb el compte Mi. Voleu iniciar sessió al compte Mi?</string>
   <string name="miuishare_account_need_login">El compte Weibo s\'hauria de vincular amb el compte Mi actual. Voleu iniciar sessió per compartir-los?</string>
   <string name="miuishare_app_name">MiuiShare</string>
+  <string name="miuishare_dialog_cancel">Cancel·la</string>
   <string name="miuishare_no_network">"No s'ha pogut connectar a la xarxa"</string>
   <string name="miuishare_publish">Envia</string>
   <string name="miuishare_share_done">Compartit</string>

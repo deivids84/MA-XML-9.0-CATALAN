@@ -25,8 +25,8 @@
   "</string>
   <string name="access_control_need_to_unlock_nofingerprint">Introduïu la contrasenya de desbloqueig</string>
   <string name="action_button_text_100">Optimitza-ho</string>
-  <string name="action_button_text_60">Corregeix-ho</string>
-  <string name="action_button_text_60_80">Corregeix-ho</string>
+  <string name="action_button_text_60">Arregla</string>
+  <string name="action_button_text_60_80">Arregla</string>
   <string name="action_button_text_80_100">Optimitza-ho</string>
   <string name="action_source_sms_title">SMS bloquejats</string>
   <string name="activity_title_antispam">Llista de bloqueig</string>
@@ -139,13 +139,18 @@
   <string name="app_manager_as_dlg_title">Atenció</string>
   <string name="app_manager_back">Enrere</string>
   <string name="app_manager_bipartition">Aplicacions duals</string>
+  <string name="app_manager_cache_size">Memòria cau</string>
   <string name="app_manager_card_permission_title">Permisos</string>
+  <string name="app_manager_clear_all_data">Esborra totes les dades</string>
   <string name="app_manager_clear_cache">Esborra la memòria cau</string>
   <string name="app_manager_clear_data_dlg_message">Totes aquestes aplicacions es suprimiran permanentment. Inclou tots els fitxers, configuracions, comptes, bases de dades, etc.</string>
   <string name="app_manager_clear_data_dlg_title">Voleu eliminar les dades de l\'aplicació?</string>
+  <string name="app_manager_clear_dlg_title">Esborra les dades</string>
   <string name="app_manager_clear_failed_dlg_message">No s\'han pogut suprimir les dades de l\'aplicació.</string>
-  <string name="app_manager_clear_failed_dlg_title">Suprimeix les dades</string>
+  <string name="app_manager_code_size">Mida de l\'aplicació</string>
+  <string name="app_manager_comuting_size">S\'està calculant…</string>
   <string name="app_manager_copy_pkg_to_clip">S\'ha copiat al porta-retalls</string>
+  <string name="app_manager_data_size">Dades d\'usuari</string>
   <string name="app_manager_default_cleared">netejat</string>
   <string name="app_manager_default_close_summary">No s\'ha establert els predeterminats.</string>
   <string name="app_manager_default_open_summary">S\'ha definit aquesta aplicació com a predeterminada per fer algunes accions.</string>
@@ -161,6 +166,7 @@
   <string name="app_manager_disabled">Desactivada</string>
   <string name="app_manager_disabled_by_admin">Desactivat per l\'administrador</string>
   <string name="app_manager_dlg_cancel">Cancel·la</string>
+  <string name="app_manager_dlg_clear_cache_title">Esborra la memòria cau?</string>
   <string name="app_manager_dlg_ok">D\'acord</string>
   <string name="app_manager_enable_text">Activa</string>
   <string name="app_manager_enabled">Activada</string>
@@ -185,16 +191,14 @@
   <string name="app_manager_net_mobile">Mòbil</string>
   <string name="app_manager_net_wifi">Wi-Fi</string>
   <string name="app_manager_not_allow">No</string>
-  <string name="app_manager_not_record">"No hi ha elements aquí"</string>
+  <string name="app_manager_not_support_uninstall">"No es pot desinstal·lar aquestes aplicacions"</string>
   <string name="app_manager_notify_bar">Insígnies</string>
   <string name="app_manager_notify_floating">Notificacions flotants</string>
   <string name="app_manager_notify_keyguard">Bloqueig de pantalla</string>
   <string name="app_manager_perm">Permisos</string>
   <string name="app_manager_permission_manager_title">Permisos</string>
   <string name="app_manager_permission_notify_title">Notificacions</string>
-  <string name="app_manager_permission_power_saving_summary">Estalvi de bateria MIUI</string>
   <string name="app_manager_permission_power_saving_title">Estalvi de bateria</string>
-  <string name="app_manager_permission_startself_summary">Les aplicacions que s\'inicien automàticament ocupen RAM i drenen la bateria més ràpidament</string>
   <string name="app_manager_permission_startself_title">Inici automàtic</string>
   <string name="app_manager_permission_summary_reject">Restringeix-ho tot</string>
   <string name="app_manager_powerkeeper_miui_auto">Estalvi de bateria MIUI</string>
@@ -219,7 +223,6 @@
   <string name="app_manager_reset_app_preferences_title">Voleu reiniciar les preferències de les aplicacions?</string>
   <string name="app_manager_show_all_apps">Mostra totes les aplicacions</string>
   <string name="app_manager_show_detail_infos">Mostra-ho tot</string>
-  <string name="app_manager_sort">Ordena per</string>
   <string name="app_manager_start_by">Iniciat per %s</string>
   <string name="app_manager_start_count_over">100000+ vegades</string>
   <string name="app_manager_stop_wakepath_dialog_summary">Voleu desinstal·lar %s per restringir l\'inici de la cadena?</string>
@@ -228,8 +231,10 @@
   <string name="app_manager_stop_wakepath_success">S\'ha restringit amb èxit</string>
   <string name="app_manager_stop_wp_dialog_cancel">Cancel·la</string>
   <string name="app_manager_stop_wp_dialog_uninstall">Desinstal·la</string>
+  <string name="app_manager_support_uninstall">Podeu desinstal·lar aquestes aplicacions</string>
   <string name="app_manager_system_mobile_disable">Desactiva les dades</string>
   <string name="app_manager_title">Administra les aplicacions</string>
+  <string name="app_manager_total_size">Total</string>
   <string name="app_manager_uninstall_protected_dlg_msg">En desinstal·lar les aplicacions del sistema podeu impedir que alguns components de MIUI funcionin correctament. Voleu desinstal·lar-la de totes maneres?</string>
   <string name="app_manager_uninstall_protected_dlg_title">Desinstal·lació d\'aplicacions del sistema</string>
   <string name="app_manager_uninstall_with_xspace_app_dlg_msg">Les aplicacions duals es suprimiran conjuntament amb les dades de l\'aplicació.</string>
@@ -424,7 +429,7 @@
   <string name="button_text_delete_from_virus_white_list">elimina</string>
   <string name="button_text_deny">Denega</string>
   <string name="button_text_disconnect_now">Desconnectar</string>
-  <string name="button_text_fix_now">Corregeix-ho</string>
+  <string name="button_text_fix_now">Arregla</string>
   <string name="button_text_forbid_now">Prohibeix</string>
   <string name="button_text_ignore">Ignora</string>
   <string name="button_text_ignore_alert_title">Ignorar aquesta alerta?</string>
@@ -1184,7 +1189,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="optimize_result_button_consume_power_analysis">Analitza la bateria</string>
   <string name="optimize_result_button_cooldown_now">Refreda</string>
   <string name="optimize_result_button_correct_now">Ajusta</string>
-  <string name="optimize_result_button_fix_now">Corregeix-ho</string>
+  <string name="optimize_result_button_fix_now">Arregla</string>
   <string name="optimize_result_button_mifi_insurance">Compra ara</string>
   <string name="optimize_result_button_onekey_open">Activa</string>
   <string name="optimize_result_button_onekey_restore">Restaura</string>
@@ -1780,7 +1785,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="tc_diagnostic_notification_sumarry">Premi per veure els resultats</string>
   <string name="tc_diagnostic_notification_summary">"No s'ha pogut ajustar 5 vegades en una fila. Tocar per iniciar el diagnòstic."</string>
   <string name="tc_diagnostic_notification_title">Diagnosticar operador</string>
-  <string name="tc_diagnostic_onekey_repair_botton">Fixar</string>
+  <string name="tc_diagnostic_onekey_repair_botton">Arregla</string>
   <string name="tc_diagnostic_operator_error_notification_summary">Premi per canviar paràmetres d\'operador</string>
   <string name="tc_diagnostic_operator_error_notification_title">Operador incorrecte</string>
   <string name="tc_diagnostic_operator_result">"&lt;font color='#CC0000'&gt;Result: Operador incorrecte&lt;br/&gt;&lt;br/&gt;Estbalir operaor: &lt;xliff:g id=operator example=CMCC&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Actual carrier: &lt;xliff:g id=location example=UNICOM&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>

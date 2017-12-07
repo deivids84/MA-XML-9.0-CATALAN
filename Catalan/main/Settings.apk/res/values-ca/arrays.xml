@@ -9,23 +9,23 @@
     <item>S\'està obtenint l\'adreça IP…</item>
     <item>Connectat</item>
     <item>Suspès</item>
-    <item>S\'està desconnectant&#8230;</item>
+    <item>S\'està desconnectant…</item>
     <item>Desconnectat</item>
-    <item>No s\'ha pogut realitzar</item>
+    <item>Ha fallat</item>
     <item>Bloquejat</item>
     <item>Evita temporalment la mala connexió</item>
   </string-array>
   <string-array name="wifi_status_with_ssid">
     <item></item>
-    <item>S\'està escanejant&#8230;</item>
-    <item>S\'està connectant amb %1$s&#8230;</item>
-    <item>S\'està autenticant amb %1$s&#8230;</item>
-    <item>S\'està obtenint l\'adreça IP de %1$s&#8230;</item>
+    <item>S\'està escanejant…</item>
+    <item>S\'està connectant amb %1$s…</item>
+    <item>S\'està autenticant amb %1$s…</item>
+    <item>S\'està obtenint l\'adreça IP de %1$s…</item>
     <item>S\'ha connectat a %1$s</item>
     <item>Suspès</item>
-    <item>S\'està desconnectant de %1$s&#8230;</item>
+    <item>S\'està desconnectant de %1$s…</item>
     <item>Desconnectat</item>
-    <item>No s\'ha pogut realitzar</item>
+    <item>Ha fallat</item>
     <item>Bloquejat</item>
     <item>Evita temporalment la mala connexió</item>
   </string-array>
@@ -47,11 +47,11 @@
   </string-array>
   <string-array name="select_logd_size_summaries">
     <item>Desactivat</item>
-    <item>64K per registre de memòria</item>
-    <item>256k per registre de memòria</item>
-    <item>1M per registre de memòria</item>
-    <item>4M per registre de memòria</item>
-    <item>16M per registre de memòria</item>
+    <item>64KB per registre de memòria</item>
+    <item>256KB per registre de memòria</item>
+    <item>1MB per registre de memòria</item>
+    <item>4MB per registre de memòria</item>
+    <item>16MB per registre de memòria</item>
   </string-array>
   <string-array name="window_animation_scale_entries">
     <item>Sense animacions</item>
@@ -113,7 +113,7 @@
   <string-array name="debug_hw_overdraw_entries">
     <item>Apagat</item>
     <item>Mostra les àrees sobreposades</item>
-    <item>Mostra les àrees amb Deuteranomaly</item>
+    <item>Mostra àrees per a deuteranomia</item>
   </string-array>
   <string-array name="app_process_limit_entries">
     <item>Límit estàndard</item>
@@ -125,7 +125,7 @@
   </string-array>
   <string-array name="usb_configuration_titles">
     <item>Càrrega</item>
-    <item>MTP (Protocol de Transferència de Multimèdia)</item>
+    <item>MTP (Protocol de transferència multimèdia)</item>
     <item>PTP (Protocol de transferència d\'imatges)</item>
     <item>RNDIS (USB Ethernet)</item>
     <item>Font d\'àudio</item>
@@ -167,9 +167,9 @@
     <item>No important</item>
   </string-array>
   <string-array name="check_importance_summary">
-    <item>Jutge intel·ligent, les notificacions no importants apareixeran en una carpeta separada</item>
-    <item>Les notificacions apareixeran directament en l\'àrea de notificacions</item>
-    <item>Totes les notificacions apareixeran en una carpeta separada</item>
+    <item>MIUI decidirà quines notificacions han d\'aparèixer directament</item>
+    <item>Les notificacions apareixeran al taulell de notificacions</item>
+    <item>Les notificacions apareixeran en una carpeta independent</item>
   </string-array>
   <string-array name="timezone_filters">
     <item>Amèrica</item>
@@ -215,9 +215,9 @@
   </string-array>
   <string-array name="entries_font_size">
     <item>Petita</item>
-    <item>Predeterminat</item>
-    <item>Grossa</item>
-    <item>Molt grossa</item>
+    <item>Predeterminada</item>
+    <item>Gran</item>
+    <item>Molt gran</item>
   </string-array>
   <string-array name="wifi_p2p_wps_setup">
     <item>Premeu el botó</item>
@@ -227,7 +227,7 @@
   <string-array name="wifi_p2p_status">
     <item>S\'ha connectat</item>
     <item>Convidat</item>
-    <item>No s\'ha pogut realitzar</item>
+    <item>Ha fallat</item>
     <item>Disponible</item>
     <item>Fora de rang</item>
   </string-array>
@@ -246,7 +246,7 @@
   <string-array name="wifi_sleep_policy_entries">
     <item>Sempre</item>
     <item>Només quan és endollat</item>
-    <item>Mai (augmenta l\'ús de dades)</item>
+    <item>Mai</item>
   </string-array>
   <string-array name="wifi_sleep_policy_entries_wifi_only">
     <item>Sempre</item>
@@ -377,25 +377,25 @@
     <item>fes un seguiment amb precisió de la ubicació</item>
     <item>estadístiques d\'ús de dades</item>
     <item>activa/desactiva el micròfon</item>
+    <item>mostra torrades</item>
     <item>projecta contingut multimèdia</item>
-    <item>activació d\'una VPN</item>
-    <item>desa fons de pantalla</item>
+    <item>activa una VPN</item>
+    <item>escriu el fons de pantalla</item>
     <item>estructura assistida</item>
-    <item>captura de pantalla assistida</item>
     <item>captura de pantalla assistida</item>
     <item>llegeix l\'estat del telèfon</item>
     <item>afegeix bústia de veu</item>
     <item>utilitza sip</item>
     <item>gestiona la trucada de sortida</item>
-    <item>empremta dactilar</item>
+    <item>empremta</item>
     <item>sensors corporals</item>
     <item>llegeix missatges de difusió mòbil</item>
     <item>simula la ubicació</item>
     <item>llegeix l\'emmagatzematge</item>
     <item>escriu l\'emmagatzematge</item>
-    <item>engega la pantalla</item>
+    <item>encén la pantalla</item>
     <item>aconsegueix comptes</item>
-    <item>obre en segon pla</item>
+    <item>executa en segon pla</item>
   </string-array>
   <string-array name="app_ops_labels">
     <item>Ubicació</item>
@@ -406,8 +406,8 @@
     <item>Modifica contactes</item>
     <item>Llegeix el registre de trucades</item>
     <item>Modifica el registre de trucades</item>
-    <item>Llegeix calendari</item>
-    <item>Modifica calendari</item>
+    <item>Llegeix el calendari</item>
+    <item>Modifica el calendari</item>
     <item>Ubicació</item>
     <item>Publica la notificació</item>
     <item>Ubicació</item>
@@ -422,7 +422,7 @@
     <item>Llegeix SMS/MMS</item>
     <item>Escriu SMS/MMS</item>
     <item>Modifica la configuració</item>
-    <item>Dibuixa a la part de sobre</item>
+    <item>Dibuixa al damunt</item>
     <item>Accés a les notificacions</item>
     <item>Càmera</item>
     <item>Gravació d\'àudio</item>
@@ -434,7 +434,7 @@
     <item>Volum general</item>
     <item>Volum de la veu</item>
     <item>Volum del so de la trucada</item>
-    <item>Volum de multimèdia</item>
+    <item>Volum multimèdia</item>
     <item>Volum de l\'alarma</item>
     <item>Volum de les notificacions</item>
     <item>Volum del Bluetooth</item>
@@ -445,23 +445,23 @@
     <item>Silencia/activa el micròfon</item>
     <item>Projecta contingut multimèdia</item>
     <item>Projecta contingut multimèdia</item>
-    <item>Fons de pantalla d\'escriptura</item>
-    <item>Estructura d\'assistència</item>
-    <item>Captura de pantalla assistida</item>
+    <item>Activa una VPN</item>
+    <item>Escriu el fons de pantalla</item>
+    <item>Estructura assistida</item>
     <item>Captura de pantalla assistida</item>
     <item>Llegeix l\'estat del telèfon</item>
     <item>Afegeix bústia de veu</item>
     <item>Utilitza sip</item>
     <item>Gestiona la trucada de sortida</item>
-    <item>Empremta dactilar</item>
+    <item>Empremta</item>
     <item>Sensors corporals</item>
     <item>Llegeix missatges de difusió mòbil</item>
     <item>Simula la ubicació</item>
     <item>Llegeix l\'emmagatzematge</item>
     <item>Escriu l\'emmagatzematge</item>
-    <item>Engega la pantalla</item>
+    <item>Encén la pantalla</item>
     <item>Aconsegueix comptes</item>
-    <item>Obre en segon pla</item>
+    <item>Executa en segon pla</item>
   </string-array>
   <string-array name="long_press_timeout_selector_titles">
     <item>Curta</item>
@@ -469,7 +469,7 @@
     <item>Llarga</item>
   </string-array>
   <string-array name="captioning_typeface_selector_titles">
-    <item>Predeterminat</item>
+    <item>Per defecte</item>
     <item>Sans-serif</item>
     <item>Sans-serif condensada</item>
     <item>Sans serif monoespaiada</item>
@@ -483,11 +483,11 @@
     <item>Molt petita</item>
     <item>Petita</item>
     <item>Normal</item>
-    <item>Grossa</item>
-    <item>Molt grossa</item>
+    <item>Gran</item>
+    <item>Molt gran</item>
   </string-array>
   <string-array name="captioning_edge_type_selector_titles">
-    <item>Predeterminat</item>
+    <item>Per defecte</item>
     <item>Cap</item>
     <item>Contorn</item>
     <item>Redueix l\'ombra</item>
@@ -495,7 +495,7 @@
     <item>Reduït</item>
   </string-array>
   <string-array name="captioning_preset_selector_titles">
-    <item>Valors predeterminats</item>
+    <item>Utilitza els valors predeterminats de l\'aplicació</item>
     <item>Blanc sobre negre</item>
     <item>Negre sobre blanc</item>
     <item>Groc sobre negre</item>
@@ -512,11 +512,11 @@
   </string-array>
   <string-array name="vpn_states">
     <item>Desconnectat</item>
-    <item>S\'està inicialitzant&#8230;</item>
-    <item>S\'està connectant&#8230;</item>
+    <item>S\'està inicialitzant…</item>
+    <item>S\'està connectant…</item>
     <item>S\'ha connectat</item>
-    <item>S\'ha exhaurit el temps</item>
-    <item>No s\'ha pogut realitzar</item>
+    <item>Temps d\'espera</item>
+    <item>Ha fallat</item>
   </string-array>
   <string-array name="user_content_ratings_entries">
     <item>Ser superior</item>
@@ -560,7 +560,7 @@
     <item>A la memòria cau (buit)</item>
   </string-array>
   <string-array name="color_picker">
-    <item>Verd blavós</item>
+    <item>Xarxet</item>
     <item>Blau</item>
     <item>Anyil</item>
     <item>Porpra</item>
@@ -660,10 +660,10 @@
   <string-array name="wfd_status">
     <item>S\'està iniciant la sessió&#8230;</item>
     <item>Sessió iniciada</item>
-    <item>S\'està tancant la sessió&#8230;</item>
+    <item>S\'està desactivant el servei…</item>
     <item>"No s'ha pogut iniciar la sessió"</item>
-    <item>S\'ha esgotat el temps. S\'està reintentant&#8230;</item>
-    <item>S\'ha connectat el dispositiu</item>
+    <item>S\'ha esgotat el temps. S\'està reintentant…</item>
+    <item>Dispositiu connectat</item>
   </string-array>
   <string-array name="power_mode_entries">
     <item>Rendiment</item>
@@ -733,8 +733,8 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>Nadiu</item>
   </string-array>
   <string-array name="phone_call_noise_suppression_title">
-    <item>Un sol micròfon per a supressió de fressa</item>
-    <item>Doble micròfon per a supressió de fressa</item>
+    <item>Supressió de soroll per micròfon individual</item>
+    <item>Supressió de soroll per micròfon doble</item>
   </string-array>
   <string-array name="change_security_lock_picker">
     <item>Desbloqueig facial</item>
@@ -744,17 +744,17 @@ Nota: Només per a Ubuntu 8.04!"</item>
   </string-array>
   <string-array name="wifi_connect_type_entries">
     <item>Connecta automàticament</item>
-    <item>Connecta\'t manualment</item>
+    <item>Connecta manualment</item>
     <item>Pregunta sempre</item>
   </string-array>
   <string-array name="wifi_ssid_type_entries">
     <item>Connecta automàticament</item>
-    <item>Connecta\'t manualment</item>
+    <item>Connecta manualment</item>
   </string-array>
   <string-array name="traffic_balance_entries">
     <item>Off</item>
-    <item>mode normal</item>
-    <item>mode extrem</item>
+    <item>Normal</item>
+    <item>Extrem</item>
   </string-array>
   <string-array name="preferred_app_entries">
     <item>Llançador</item>
@@ -800,10 +800,10 @@ Nota: Només per a Ubuntu 8.04!"</item>
   </string-array>
   <string-array name="lock_screen_secure_after_timeout_entries">
     <item>Immediatament</item>
-    <item>30 segons</item>
-    <item>1 minut</item>
-    <item>2 minuts</item>
-    <item>5 minuts</item>
+    <item>Després de 30 segons</item>
+    <item>Després d\'1 minut</item>
+    <item>Després de 2 minuts</item>
+    <item>Després de 5 minuts</item>
     <item>Mai</item>
   </string-array>
   <string-array name="fluency_mode_entries">
@@ -832,7 +832,7 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>Mode d\'infants</item>
     <item>Explorador de fitxers</item>
     <item>Explorador de fitxers</item>
-    <item>Segon espai</item>
+    <item>Bloqueig d\'aplicacions</item>
     <item>Segon espai</item>
   </string-array>
   <string-array name="screen_button_style">

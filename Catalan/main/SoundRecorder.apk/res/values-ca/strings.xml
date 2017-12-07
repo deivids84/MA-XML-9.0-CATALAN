@@ -14,6 +14,7 @@
   <string name="clear_records">Elimina les gravacions sincronitzades</string>
   <string name="cloud_record_open">Sincronitza gravacions</string>
   <string name="cloud_record_tip">Sincronitza les gravacions amb Mi Cloud.</string>
+  <string name="cloud_service_state_open_reminder">Activeu la sincronització amb Mi Cloud per sincronitzar els fitxers de gravació.</string>
   <string name="cloud_status_full_dialog_cancel">Ara no</string>
   <string name="cloud_status_full_dialog_msg">"L'emmagatzematge al núvol està ple i no es poden sincronitzar les gravacions. Milloreu el vostre compte per aconseguir més espai."</string>
   <string name="cloud_status_full_dialog_ok">Millora</string>
