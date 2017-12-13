@@ -68,6 +68,7 @@
   <string name="input_password_after_boot_msg">Per desbloquejar el dispositiu, introduïu la contrasenya</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_calling">"No es pot canviar d'espai durant una trucada"</string>
   <string name="input_password_after_boot_msg_must_enter_owner_space">Cal que accediu al primer espai després de reiniciar el dispositiu</string>
+  <string name="input_password_handle_sdcard_fs">"No es pot accedir al segon espai des de la pantalla de bloqueig. Accediu des del primer espai."</string>
   <string name="input_password_hint_text">Introduïu la contrasenya</string>
   <string name="input_pattern_hint_text">Traceu el patró de desbloqueig</string>
   <string name="input_pin_code">PIN?</string>
@@ -90,6 +91,7 @@
   <string name="keyguard_charging_info_tip_text4">"No utilitzeu el dispositiu activament mentre s'està carregant per evitar el sobreescalfament."</string>
   <string name="keyguard_charging_info_tip_text5">Les bateries triguen més temps en carregar-se quan quan s\'escalfen més del que és habitual.</string>
   <string name="keyguard_charging_info_tip_text6">Apagueu la pantalla i deixeu el dispositiu lluny per refrescar-lo.</string>
+  <string name="keyguard_left_bankcard">Calculadora</string>
   <string name="keyguard_left_buscard">Notes</string>
   <string name="keyguard_left_remotecentral">Calendari</string>
   <string name="keyguard_left_smarthome">Contactes</string>
@@ -98,6 +100,7 @@
   <string name="keyguard_torch_cover_text">Per mantenir la llanterna encesa, mantingueu premut el botó d\'engegada</string>
   <string name="lock_screen_date">EEEE, d MMMM</string>
   <string name="lock_screen_date_12">EEEE, d MMMM</string>
+  <string name="lock_screen_no_sim_card">Sense targeta SIM</string>
   <string name="lock_wallpaper_enter">Entra</string>
   <string name="lock_wallpaper_learn_more">Més</string>
   <string name="lockscreen_access_pattern_cell_added">Cel·la afegida</string>

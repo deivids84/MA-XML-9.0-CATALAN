@@ -50,7 +50,7 @@
     <item quantity="one">"S'ha importat %d element. "</item>
   </plurals>
   <plurals name="save_item_failed_summary_seg2">
-    <item quantity="other">Importeu %d elements de nou.</item>
-    <item quantity="one">%d element necessita ser importat de nou</item>
+    <item quantity="other">Importa %d elements de nou.</item>
+    <item quantity="one">Importa %d element de nou.</item>
   </plurals>
 </resources>

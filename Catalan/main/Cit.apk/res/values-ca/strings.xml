@@ -44,8 +44,12 @@
   <string name="cit_OTG_plugout_check_title">OTG (retira)</string>
   <string name="cit_OTG_waiting_in">Connecteu el dispositiu USB OTG ara</string>
   <string name="cit_OTG_waiting_out">Desconnecteu el dispositiu USB OTG ara</string>
+  <string name="cit_abnormal_reboot_summary">Espereu... S\'està llegint les dades d\'estabilitat del dispositiu.</string>
+  <string name="cit_abnormal_reboot_title">Dades d\'estabilitat del dispositiu</string>
   <string name="cit_ac_charger_in">Càrrega per AC</string>
   <string name="cit_ac_charger_out">Carregador CA desconnectat</string>
+  <string name="cit_accdata_sensor_check_summary">Els valors per les coordenades X, Y, Z han de figurar a continuació</string>
+  <string name="cit_accdata_sensor_check_title">Acceleròmetre</string>
   <string name="cit_accelermeter_sensor_check_summary">"Moveu ràpidament el dispositiu en una direcció. Tot seguit es mostren els valors de les coordenades X, Y, Z. (si el telèfon està en moviment: X representa esquerra/dreta, Y representa davant i darrera, Z representa amunt i avall). 
 Abans de calibrar el dispositiu, col·loqueu-lo sobre una superfície plana."</string>
   <string name="cit_accelermeter_sensor_check_title">Acceleròmetre</string>
@@ -62,6 +66,8 @@ Abans de calibrar el dispositiu, col·loqueu-lo sobre una superfície plana."</s
   <string name="cit_audio_cali_summary">Calibra l\'altaveu PA</string>
   <string name="cit_audio_cali_title">Prova de calibratge de l\'altaveu PA</string>
   <string name="cit_audio_calibrating">Calibratge en curs...</string>
+  <string name="cit_audio_check_summary">Informació d\'àudio.</string>
+  <string name="cit_audio_check_title">Informació d\'àudio</string>
   <string name="cit_audio_get_temp_fail">Ha fallat la obtenció de dades temporals</string>
   <string name="cit_audio_lb_backmic_to_speaker_title">Prova de funcionament del micròfon posterior</string>
   <string name="cit_audio_lb_frontmic_to_speaker_title">Prova de funcionament del micròfon frontal</string>
@@ -190,6 +196,8 @@ Toqueu la pantalla per iniciar el GPS&#8230;"</string>
   <string name="cit_gps_satellite_count">Numero de satèl·lits: %d</string>
   <string name="cit_gps_satellite_prn">PRN: %s</string>
   <string name="cit_gps_satellite_snr">SNR: %s</string>
+  <string name="cit_gyrodata_sensor_check_summary">Els valors per les coordenades X, Y, Z han de figurar a continuació</string>
+  <string name="cit_gyrodata_sensor_check_title">Giroscopi</string>
   <string name="cit_gyroscope_sensor_check_summary">Els valors per a les coordenades X, Y, Z, s\'han d\'introduir a continuació</string>
   <string name="cit_gyroscope_sensor_check_title">Giroscopi</string>
   <string name="cit_hardware_info_summary">S\'està processant la informació del maquinari d\'aquest dispositiu</string>
@@ -203,6 +211,7 @@ Toqueu la pantalla per iniciar el GPS&#8230;"</string>
   <string name="cit_headset_button_pass">Passada</string>
   <string name="cit_headset_button_play_pause">Reprodueix/pausa</string>
   <string name="cit_headset_button_previous">Anterior</string>
+  <string name="cit_headset_button_reverse">Inseriu l\'auricular USB de forma inversa</string>
   <string name="cit_headset_button_rewind">Rebobina</string>
   <string name="cit_headset_button_stop">Atura</string>
   <string name="cit_headset_button_unknown">Desconegut</string>
@@ -243,6 +252,8 @@ Toqueu la pantalla per iniciar el GPS&#8230;"</string>
 5.La foto que heu fet s\'hauria de mostrar a sota. Premeu Eliminar per completar la prova."</string>
   <string name="cit_main_camera_check_title">Càmera</string>
   <string name="cit_name">Proves de maquinari</string>
+  <string name="cit_nfc_check_summary">Poseu la targeta a la part superior posterior del telèfon</string>
+  <string name="cit_nfc_check_title">Prova NFC</string>
   <string name="cit_not_available">"Aquesta prova no està disponible en aquesta versió de MIUI"</string>
   <string name="cit_notificationlight">Llum de notificació</string>
   <string name="cit_notificationlight_off">Llum de notificació desactivada</string>
@@ -304,6 +315,8 @@ Després de col·locar «music.mp3» al directori de la targeta SD, toqueu la pa
   <string name="cit_stop_calibration">Atura el calibratge</string>
   <string name="cit_tfcard_support_summary">Comproveu si la targeta TF és compatible amb aquest dispositiu</string>
   <string name="cit_tfcard_support_title">Suport targeta TF</string>
+  <string name="cit_thermal_history_summary">Espereu... S\'està llegint les dades tèrmiques del dispositiu.</string>
+  <string name="cit_thermal_history_title">Històric tèrmic</string>
   <string name="cit_tool">Eines addicionals</string>
   <string name="cit_tool_bluetooth">Eina de prova de Bluetooth</string>
   <string name="cit_tool_bluetooth_dut">Entra al mode de prova de Bluetooth</string>
@@ -352,6 +365,7 @@ Després de col·locar «music.mp3» al directori de la targeta SD, toqueu la pa
   <string name="cit_tool_wifi_rxbg_test_channel">canal:</string>
   <string name="cit_tool_wifi_rxn_test_bw">ample de banda:</string>
   <string name="cit_tool_wifi_rxn_test_channel">canal:</string>
+  <string name="cit_tool_wifi_sniffer_settings">Configuració de l\'analitzador de paquets</string>
   <string name="cit_tool_wifi_tx_bg_chan">canal:</string>
   <string name="cit_tool_wifi_tx_bg_txrt">velocitat de dades:</string>
   <string name="cit_tool_wifi_tx_n_bandwidth">ample de banda:</string>
@@ -367,6 +381,7 @@ Després de col·locar «music.mp3» al directori de la targeta SD, toqueu la pa
   <string name="cit_touch_calib_pass">Toqueu Calibratge correcte, feu un ús normal</string>
   <string name="cit_touch_calib_summary">El següent pas serà fer el calibratge tàctil, premeu el botó confirma i no toqueu la pantalla després d\'ella, espereu que el calibratge indiqui que ha finalitzat amb èxit</string>
   <string name="cit_touch_calib_title">Calibratge tàctil</string>
+  <string name="cit_touch_panel_test_title">Sensor tàctil</string>
   <string name="cit_usb_OTG_in">Dispositiu USB OTG detectat</string>
   <string name="cit_usb_OTG_out">Dispositiu USB OTG eliminat</string>
   <string name="cit_usb_charger_in">Carregant per USB</string>
@@ -398,7 +413,9 @@ Després de col·locar «music.mp3» al directori de la targeta SD, toqueu la pa
   <string name="cit_yellow_torch_on">Activa el LED groc</string>
   <string name="error_app_internal">Error intern de l\'aplicació</string>
   <string name="error_app_unsupported">Format no suportat</string>
+  <string name="error_initializing_sensor">S\'ha produït un error en inicialitzar el sensor: %1$s</string>
   <string name="error_sdcard_access">No es pot accedir a l\'espai del sistema!</string>
+  <string name="fpc_pn_calibration">Captura i emmagatzema la imatge PN</string>
   <string name="keyboard">BOTÓ</string>
   <string name="lcminfo">Informació del LCM</string>
   <string name="magnetic_info_hint">Gireu el dispositiu formant un 8</string>
@@ -406,10 +423,14 @@ Després de col·locar «music.mp3» al directori de la targeta SD, toqueu la pa
   <string name="micphone_test">MIC i SPK</string>
   <string name="nfc_disable_tip">Activeu la funció NFC</string>
   <string name="remove_headset_and_starttest">Desconnecteu l\'auricular i premeu inicia per provar-ho</string>
+  <string name="search_menu_title">Cerca</string>
+  <string name="select_all">Selecciona-ho tot</string>
   <string name="speak_from_mic">Parleu al MICRO, la reproducció dels altaveus. Jutgeu si hi ha so.</string>
   <string name="start">Inicia</string>
+  <string name="status_failed">Ha fallat una o més proves</string>
   <string name="testagain">Podeu prémer la tecla INICI per provar-ho de nou</string>
   <string name="testcase_name">Nom</string>
+  <string name="title_farr">Prova FAR i FRR</string>
   <string name="touch_auto">L\'auto-test del panell tàctil està en curs, si us plau espereu....</string>
   <string name="tp_color">Color TP:</string>
   <string name="tp_version">Versió del TP:</string>

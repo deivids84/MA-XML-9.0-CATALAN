@@ -58,7 +58,7 @@
   <string name="hour">1 hora</string>
   <string name="hours">%s hores</string>
   <string name="install_weather_app_error">"No s'ha pogut carregar l'aplicació"</string>
-  <string name="install_weather_app_loading">Un segon&#8230;</string>
+  <string name="install_weather_app_loading">Un moment…</string>
   <string name="invalid_time">Hora no vàlida: %3$s %1$d: %2$d</string>
   <string name="keep_screen_on">Mantenir la pantalla engegada</string>
   <string name="label">Estableix l\'etiqueta</string>
@@ -150,7 +150,7 @@
   <string name="tomorrow">Demà</string>
   <string name="turn_off_a_repeat_alarm">Atura una alarma de repetició</string>
   <string name="turn_off_this_repeat_alarm">Atura aquesta alarma de repetició</string>
-  <string name="upcoming_alarm">&#160;Propera alarma</string>
+  <string name="upcoming_alarm">%s Propera alarma</string>
   <string name="upcoming_alarm_hint">Podeu tancar aquesta alarma amb antelació</string>
   <string name="vibrate_pref_summary">Vibra quan soni l\'alarma</string>
   <string name="vibrate_when_ringing">Vibra mentre l\'alarma soni</string>

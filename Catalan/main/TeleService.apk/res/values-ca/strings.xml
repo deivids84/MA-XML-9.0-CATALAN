@@ -141,7 +141,7 @@
   <string name="auto_record_yellowpage">Directori</string>
   <string name="auto_redial_pref_summary">Tornar a trucar automàticament si la línia està ocupada</string>
   <string name="auto_redial_pref_title">Tornar a trucar automàticament</string>
-  <string name="auto_retry_mode_summary">Activa el mode de reintent automàtic</string>
+  <string name="auto_retry_mode_summary">Torna a provar-ho automàticament</string>
   <string name="auto_retry_mode_title">Reintent automàtic</string>
   <string name="autoip">Marcatge automàtic d\'IP</string>
   <string name="autoip_add_zero_prefix">Afegeix prefix 0 per a mòbils</string>
@@ -308,7 +308,7 @@
   <string name="callFailed_simError">Sense SIM o error de SIM</string>
   <string name="callFailed_switching_equipment_congestion">Congestió d\'equips de commutació</string>
   <string name="callFailed_tempopary_failure">Fallada temporal</string>
-  <string name="callFailed_timedOut">No hi ha resposta, temps excedit</string>
+  <string name="callFailed_timedOut">Sense resposta, temps excedit</string>
   <string name="callFailed_unobtainable_number">Número no vàlid</string>
   <string name="callFailed_userBusy">Línia ocupada</string>
   <string name="callFailed_user_not_member_of_CUG">L\'usuari no és membre del CUG</string>
@@ -328,7 +328,7 @@
   <string name="call_record_add_numbers">Afegeix números</string>
   <string name="call_record_auto_always">Tots els números</string>
   <string name="call_record_auto_scenario_title">Enregistra trucades des de</string>
-  <string name="call_record_auto_summary">"Els enregistraments es desaran a la carpeta MIUI/sound_recorder/call_rec de la memòria interna del vostre dispositiu"</string>
+  <string name="call_record_auto_summary">"Els enregistraments es desaran a la carpeta MIUI/sound_recorder/call_rec a l'emmagatzematge intern del dispositiu"</string>
   <string name="call_record_auto_title">Enregistrament automàtic de trucades</string>
   <string name="call_record_auto_unknown_number">Números desconeguts</string>
   <string name="call_record_auto_whitelist">Llista personalitzada</string>
@@ -378,7 +378,7 @@
   <string name="card_title_cugcall">Trucada CUG</string>
   <string name="card_title_deflectedcall">Trucada desviada</string>
   <string name="card_title_dialing">Marcatge</string>
-  <string name="card_title_forwardcheckreceived">S\'ha rebut la comprovació del desviament</string>
+  <string name="card_title_forwardcheckreceived">Trucada desviada verificada i rebuda</string>
   <string name="card_title_forwarded_MTcall">Trucada entrant reenviada</string>
   <string name="card_title_hanging_up">Penjar</string>
   <string name="card_title_in_call">Trucada en curs</string>
@@ -412,7 +412,7 @@
   <string name="cell_bc_sms_enable">Canals d\'SMS activats</string>
   <string name="cell_broadcast_settings">Emissions d\'emergència</string>
   <string name="cell_broadcast_sms">Canals SMS</string>
-  <string name="cf_setting_mobile_data_alert">Engegueu les dades mòbils i comproveu que la Wi-Fi estigui desactivada</string>
+  <string name="cf_setting_mobile_data_alert">Activeu les dades mòbils i comproveu que la Wi-Fi estigui desactivada</string>
   <string name="cf_setting_mobile_data_roaming_alert">Activeu la itinerància de dades</string>
   <string name="cfb_title">Desviament si ocupat</string>
   <string name="cfnrc_title">Desviament si fora de cobertura</string>
@@ -598,7 +598,7 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="enable_disable_local_weather">Clima local</string>
   <string name="enable_disable_lodgings">Allotjaments</string>
   <string name="enable_disable_maintenance">Manteniment</string>
-  <string name="enable_disable_mhh">Medicina, salut i hospitals</string>
+  <string name="enable_disable_mhh">Metge, salut i hospitals</string>
   <string name="enable_disable_multi_category">Categoria múltiple</string>
   <string name="enable_disable_national">Nacional</string>
   <string name="enable_disable_regional">Regional</string>
@@ -629,10 +629,10 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="enhanced_4g_lte_mode_off_failed">"No s'ha pogut desactivar VoLTE."</string>
   <string name="enhanced_4g_lte_mode_on_failed">"No s'ha pogut activar VoLTE."</string>
   <string name="enhanced_4g_lte_mode_summary">Utilitza els serveis d\' LTE per millorar veu i altres comunicacions (recomanat)</string>
-  <string name="enhanced_4g_lte_mode_title">Mode 4G LTE millorada</string>
-  <string name="enhanced_4g_lte_mode_title_variant">Trucades avançades</string>
+  <string name="enhanced_4g_lte_mode_title">Mode 4G LTE millorat</string>
+  <string name="enhanced_4g_lte_mode_title_variant">Opcions de trucada avançades</string>
   <string name="enter_callbarring_password">Introduïu la contrasenya de restricció de trucades (4 dígits)</string>
-  <string name="enter_input" formatted="false">Un missatge USSD ha de tenir entre %d i %d caràcters. Si us plau torneu a provar.</string>
+  <string name="enter_input" formatted="false">Un missatge USSD ha de tenir entre %d i %d caràcters. Torneu-ho a provar.</string>
   <string name="enter_pin_text">PIN de la SIM:</string>
   <string name="entertainment_news_settings">Notícies d\'entreteniment</string>
   <string name="eo_disable">Oportunitats de feina desactivades</string>
@@ -805,11 +805,11 @@ Voleu canviar al nou proveïdor igualment?"</string>
   <string name="messageCFNRy">Número quan no contestin</string>
   <string name="messageCFU">Utilitza sempre aquest número</string>
   <string name="message_decode_error">Hi ha hagut un error en descodificar el missatge.</string>
-  <string name="mhh_disable">Medicina, Hospitals i Salut desactivat</string>
-  <string name="mhh_enable">Medicina, Hospitals i Salut activat</string>
+  <string name="mhh_disable">Metge, salut i hospitals desactivat</string>
+  <string name="mhh_enable">Metge, salut i hospitals activat</string>
   <string name="mi_sim_settings_summary">Utilització de dades mòbils sense targeta SIM</string>
   <string name="mi_sim_settings_title">SIM Mi</string>
-  <string name="mismatchPin">"Els PINs que heu escrit no coincideixen. Torneu-ho a provar."</string>
+  <string name="mismatchPin">"Els PIN que heu introduït no coincideixen. Torneu-ho a provar."</string>
   <string name="mismatchPin2">"Els codis PIN2 no coincideixen. Torneu-ho a provar."</string>
   <string name="mismatch_password">"Les contrasenyes que heu introduït no coincideixen"</string>
   <string name="mismatch_pin">"Els codis PIN no coincideixen."</string>
@@ -1141,7 +1141,7 @@ Les funcions relacionades amb el PIN2 es bloquejaran després d\'un altre intent
   <string name="puk_lock_warning">La vostra targeta SIM es bloquejarà després d\'un altre intent incorrecte.</string>
   <string name="puk_requested">La contrasenya no és correcta i el PIN es bloquejarà. Introduïu el PUK.</string>
   <string name="puk_unlocked">La vostra targeta SIM s\'ha desbloquejat. El vostre telèfon s\'està desbloquejant&#8230;</string>
-  <string name="radio_off_during_emergency_call">"No es pot activar el mode d'avió durant una trucada d'emergència."</string>
+  <string name="radio_off_during_emergency_call">"No es pot activar al mode avió durant una trucada d'emergència."</string>
   <string name="radio_off_error">Per veure aquesta configuració, heu d\'activar el radio.</string>
   <string name="reading_settings">Configuració de lectura&#8230;</string>
   <string name="regional_disable">Notícies regionals desactivades</string>
@@ -1161,7 +1161,7 @@ Les funcions relacionades amb el PIN2 es bloquejaran després d\'un altre intent
   <string name="registration_status_server_unreachable">Registre del compte no realitzat: Comproveu el nom del servidor.</string>
   <string name="registration_status_still_trying">Encara s\'està intentant&#8230;</string>
   <string name="reject_via_sms">Respostes ràpides</string>
-  <string name="reject_via_sms_summary">Edita missatges predefinits</string>
+  <string name="reject_via_sms_summary">Mostra els botons per finalitzar la trucada i enviar SMS</string>
   <string name="reject_via_sms_title">Respostes ràpides</string>
   <string name="remaining_length_format">Falten %1$s</string>
   <string name="remove">Treu</string>
@@ -1356,7 +1356,7 @@ Les funcions relacionades amb el PIN2 es bloquejaran després d\'un altre intent
   <string name="telocation_number_type_jituan">Número de grup</string>
   <string name="telocation_number_type_mob">Telèfon mòbil</string>
   <string name="telocation_number_type_tel">Telèfon fix</string>
-  <string name="telocation_setting">Configuració de la ubicació</string>
+  <string name="telocation_setting">Configuració d\'ubicació</string>
   <string name="telocation_show_settings">Mostra la configuració</string>
   <string name="tether_settings_title_all">Connexió compartida d\'Internet</string>
   <string name="tether_settings_title_bluetooth">Ancoratge Bluetooth</string>
@@ -1371,7 +1371,7 @@ La transmissió de dades s\'ha baixat a %2$d Kb/s"</string>
   <string name="throttle_data_usage">Ús de dades</string>
   <string name="throttle_data_usage_subtext">%1$s (%2$d٪) de %3$s, el màxim del període</string>
   <string name="throttle_help">Més informació</string>
-  <string name="throttle_help_subtext">"Més informació sobre la política d'us de dades de la xarxa mòbil del vostre operador"</string>
+  <string name="throttle_help_subtext">"Més informació sobre la política d'ús de dades mòbils del vostre operador"</string>
   <string name="throttle_rate">Política de velocitat de dades</string>
   <string name="throttle_rate_subtext">La velocitat de les dades es reduirà a %1$d Kb/s, si es supera la limitació d\'ús</string>
   <string name="throttle_status_subtext">"%1$s (%2$d٪) de %3$s, el màxim per període
@@ -1424,7 +1424,7 @@ El període següent comença en %2$d dies (%3$s)"</string>
   <string name="tty_mode_not_allowed_video_call">"No es pot canviar el mode TTY durant una videotrucada"</string>
   <string name="tty_mode_option_summary">Estableix mode TTY</string>
   <string name="tty_mode_option_title">Mode TTY</string>
-  <string name="turnover_mute_summary">Quan el telèfon s\'hagi girat horitzontalment, poseu-lo cap per vall per silenciar les trucades. Aquesta opció no s\'activa si ja teniu activada la vibració per les trucades entrants.</string>
+  <string name="turnover_mute_summary">Quan el telèfon està en una superfície horitzontal amb la pantalla cap amunt, torneu-lo a fer per silenciar les trucades.</string>
   <string name="turnover_mute_title">Gira per silenciar la trucada</string>
   <string name="undefined">Cap</string>
   <string name="unknown">Desconegut</string>
@@ -1454,7 +1454,7 @@ Contacteu amb el vostre operador si persisteix aquest problema."</string>
   <string name="vm_change_pin_error_too_weak">El PIN nou és massa feble. Una contrasenya segura no hauria de tenir seqüències contínues o dígits repetits.</string>
   <string name="vm_change_pin_new_pin">PIN nou</string>
   <string name="vm_change_pin_old_pin">PIN antic</string>
-  <string name="vm_change_pin_progress_message">Espereu si us plau.</string>
+  <string name="vm_change_pin_progress_message">Un moment…</string>
   <string name="vm_changed">S\'ha canviat el número de la bústia de veu.</string>
   <string name="voice_number_setting_primary_user_only">La configuració de la bústia de trucades de veu només pot ser modificat per l\'usuari principal.</string>
   <string name="voice_privacy">Privacitat de veu</string>

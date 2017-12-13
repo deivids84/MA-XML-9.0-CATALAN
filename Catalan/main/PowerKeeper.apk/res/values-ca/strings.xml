@@ -16,7 +16,7 @@
   <string name="alter_message_switch_mode">Voleu canviar els modes?</string>
   <string name="alter_message_switch_mode_message">Quan canvieu els modes, la vostra configuració anterior ja no s\'aplicarà a aquesta aplicació.</string>
   <string name="app_list_title">Selecciona aplicacions</string>
-  <string name="app_name">Estalvi de bateria</string>
+  <string name="app_name">Bateria i rendiment</string>
   <string name="background">L\'aplicació s\'executa en segon pla</string>
   <string name="base_info">Informació base</string>
   <string name="cloud_addr_info">Amaga la informació del mode núvol</string>
@@ -60,11 +60,11 @@ L\'estalvi de bateria tractarà de forma selectiva les aplicacions importants."<
   <string name="hide_mode_ultimate_desc">El mode Ultimate està actiu. Les aplicacions en segon pla es congelaran. Desactiveu l\'estalviador de bateria per sortir del mode Ultimate.</string>
   <string name="hide_system_app">Amaga les aplicacions del sistema</string>
   <string name="high">Rendiment</string>
-  <string name="hints_loading_text">Un moment&#8230;</string>
+  <string name="hints_loading_text">Un moment…</string>
   <string name="important_warning">Avís</string>
   <string name="invalid_size_value">"No s'ha pogut obtenir la mida del paquet."</string>
-  <string name="lasttime_applist_cloud">Última actualització de la llista d\'aplicacions:</string>
-  <string name="lasttime_feature_cloud">Última actualització de funcions:</string>
+  <string name="lasttime_applist_cloud">Aplicacions actualitzades:</string>
+  <string name="lasttime_feature_cloud">Característiques actualitzades:</string>
   <string name="location_disable_description">Les aplicacions en segon pla només poden accedir als serveis d\'ubicació per períodes curts de temps, mentre que l\'accés permanent està restringit</string>
   <string name="location_disable_title">Limitar</string>
   <string name="location_enable_description">Les aplicacions poden utilitzar els serveis d\'ubicació en segon pla</string>
@@ -83,7 +83,7 @@ L\'estalvi de bateria tractarà de forma selectiva les aplicacions importants."<
   <string name="new_group_name">Mode personalitzat</string>
   <string name="no_applications">Buit</string>
   <string name="none">No hi ha processos</string>
-  <string name="nonui_mode_config_description">"No encenguis la pantalla per a notificacions, desactiva la llum de notificació, l'empremta digital i els controls tàctils quan el dispositiu es trobi a la butxaca."</string>
+  <string name="nonui_mode_config_description">"No s'encendrà la pantalla per a notificacions, desactivarà la llum de notificació, l'empremta digital i els controls tàctils quan MIUI detecti que no esteu utilitzant el dispositiu."</string>
   <string name="nonui_mode_config_title">Mode no interactiu</string>
   <string name="normal">Mode per defecte</string>
   <string name="operation_create_group">Nom</string>
@@ -166,7 +166,7 @@ L\'estalvi de bateria tractarà de forma selectiva les aplicacions importants."<
   <string name="power_event_view_event_title">Disparadors</string>
   <string name="power_hide_mode_app_list_summary">Configuració d\'aplicació</string>
   <string name="power_hide_mode_summary">"Estalvia bateria restringint els processos en segon pla, el Wi-Fi, les connexions mòbils i el GPS de les aplicacions"</string>
-  <string name="power_hide_mode_title">Gestiona l\'ús de bateria de les aplicacions</string>
+  <string name="power_hide_mode_title">Bateria i rendiment</string>
   <string name="power_keeper">Estalvi de bateria</string>
   <string name="power_mode">Configuració d\'energia</string>
   <string name="power_mode_cpu_state_high">Rendiment</string>
@@ -192,7 +192,7 @@ L\'estalvi de bateria tractarà de forma selectiva les aplicacions importants."<
   <string name="set_cpu_powermode">Ús de CPU</string>
   <string name="set_cpufreq_max">Màxima freqüència de la CPU</string>
   <string name="set_lcd_mode">Mode de pantalla</string>
-  <string name="settings_safetylegal_activity_loading">Un moment&#8230;</string>
+  <string name="settings_safetylegal_activity_loading">Un moment…</string>
   <string name="show_system_app">Mostra les aplicacions del sistema</string>
   <string name="sleep_config_enhance_description">"MIUI millorarà l'espera nocturna"</string>
   <string name="sleep_config_enhance_description_non_nfc">"Cada vegada que MIUI detecta que esteu dormint, tancarà les aplicacions de fons, restringirà el Bluetooth, GPS, dades mòbils i l'ús de Wi-Fi i la pantalla no s'encendrà en rebre notificacions."</string>

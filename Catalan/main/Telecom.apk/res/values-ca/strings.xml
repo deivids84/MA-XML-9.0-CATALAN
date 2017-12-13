@@ -5,7 +5,7 @@
   <string name="accessibility_display_daltonizer_preference_subtitle">Aquesta característica és experimental i podria afectar el rendiment.</string>
   <string name="accessibility_display_daltonizer_preference_title">Correcció del color</string>
   <string name="accessibility_no_wifi">Wi-Fi desconnectada.</string>
-  <string name="accessibility_speakerphone_enabled">Altaveu activat.</string>
+  <string name="accessibility_speakerphone_enabled">L\'altaveu està activat</string>
   <string name="accessibility_wifi_off">Wi-Fi desactivada.</string>
   <string name="accessibility_wifi_one_bar">Una barra de senyal Wi-Fi.</string>
   <string name="accessibility_wifi_signal_full">Senyal de WiFi màxima.</string>
@@ -14,7 +14,7 @@
   <string name="adb_keys_warning_message">Voleu revocar l\'accés a la depuració USB des de tots els ordinadors que prèviament heu autoritzat?</string>
   <string name="adb_warning_message">La depuració USB està pensada només per desenvolupament. Utilitzeu-la per copiar dades entre l\'ordinador i el vostre dispositiu, per instal·lar aplicacions al vostre dispositiu sense avisos i per llegir dades de registre.</string>
   <string name="adb_warning_title">Voleu permetre la depuració USB?</string>
-  <string name="add_blocked_dialog_body">Bloqueja trucades i missatges provinents de</string>
+  <string name="add_blocked_dialog_body">Bloqueja trucades i missatges de</string>
   <string name="add_blocked_number_hint">Número de telèfon</string>
   <string name="add_vm_number_str">Afegeix número</string>
   <string name="allow_mock_location">Permet les ubicacions simulades</string>
@@ -38,10 +38,10 @@
   <string name="block_number">Afegeix un número</string>
   <string name="blocked_numbers">Números bloquejats</string>
   <string name="blocked_numbers_block_emergency_number_message">"No es pot bloquejar el número d'emergència."</string>
-  <string name="blocked_numbers_butter_bar_body">Després que truqueu o envieu un missatge a un número d\'emergències, el bloqueig es desactivarà per garantir que els serveis d\'emergència us puguin contactar.</string>
-  <string name="blocked_numbers_butter_bar_button">Torna a activar ara</string>
-  <string name="blocked_numbers_butter_bar_title">El bloqueig està desactivat temporalment</string>
-  <string name="blocked_numbers_msg">"No rebràs trucades ni missatges de text dels números bloquejats."</string>
+  <string name="blocked_numbers_butter_bar_body">Després que truqueu o envieu un missatge a un número d\'emergències, la llista de bloqueig es desactivarà per garantir que els serveis d\'emergència us puguin contactar.</string>
+  <string name="blocked_numbers_butter_bar_button">Torna a activar</string>
+  <string name="blocked_numbers_butter_bar_title">La llista de bloqueig està desactivada</string>
+  <string name="blocked_numbers_msg">"No rebreu trucades o missatges de números bloquejats."</string>
   <string name="blocked_numbers_number_already_blocked_message">%1$s ja està bloquejada.</string>
   <string name="blocked_numbers_number_blocked_message">%1$s bloquejat</string>
   <string name="blocked_numbers_number_unblocked_message">%1$s desbloquejat</string>
@@ -103,10 +103,10 @@
   <string name="can_not_dial_while_vt_prompt">"No es pot marcar mentre s'està fent una trucada de vídeo"</string>
   <string name="category_personal">Personals</string>
   <string name="category_work">Laboral</string>
-  <string name="change_default_dialer_dialog_affirmative">Defineix per defecte</string>
+  <string name="change_default_dialer_dialog_affirmative">Estableix com a aplicació telefònica per defecte</string>
   <string name="change_default_dialer_dialog_negative">Cancel·la</string>
-  <string name="change_default_dialer_dialog_title">Canvi d\'aplicació de marcador</string>
-  <string name="change_default_dialer_warning_message">%s podrà ubicar i controlar tots els aspectes de les trucades. Només s\'han d\'establir les aplicacions que confieu com a aplicació predeterminada del telèfon.</string>
+  <string name="change_default_dialer_dialog_title">Voleu establir %s com l\'aplicació telefònica per defecte?</string>
+  <string name="change_default_dialer_warning_message">%s podrà fer i controlar tots els aspectes de les trucades. Només s\'han d\'establir les aplicacions que confieu com l\'aplicació telefònica predeterminada.</string>
   <string name="charge_length_format">Fa %1$s</string>
   <string name="choose_profile">Seleccioneu un perfil</string>
   <string name="clear_adb_keys">Revoca autoritzacions de depuració USB</string>
@@ -160,7 +160,7 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="disable_overlays_summary">Utilitza sempre la GPU per a combinar pantalles</string>
   <string name="disabled_by_admin">S\'ha desactivat per l\'administrador</string>
   <string name="disabled_by_admin_summary_text">Controlat per l\'administrador</string>
-  <string name="duplicate_video_call_not_allowed">"La trucada no es pot afegir ara mateix."</string>
+  <string name="duplicate_video_call_not_allowed">"No es poden afegir més trucades"</string>
   <string name="enable_account_preference_title">Comptes de trucada</string>
   <string name="enable_adb">Depuració USB activada</string>
   <string name="enable_adb_summary">Activa el mode de depuració quan el dispositiu estigui connectat per USB</string>
@@ -232,7 +232,7 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="oem_unlock_enable">Desbloqueig d\'OEM</string>
   <string name="oem_unlock_enable_summary">Permet desbloquejar el gestor d\'arrencada</string>
   <string name="outgoing_call_error_no_phone_number_supplied">Per poder trucar, introduïu un número vàlid.</string>
-  <string name="outgoing_call_not_allowed_no_permission">"Aquesta aplicació no pot fer trucades sense el permís del telèfon."</string>
+  <string name="outgoing_call_not_allowed_no_permission">"Aquesta aplicació no pot fer trucades sense els permisos necessaris."</string>
   <string name="outgoing_call_not_allowed_user_restriction">El propietari del dispositiu només admet trucades d\'emergència.</string>
   <string name="overlay_display_devices_title">Simula pantalles secundàries</string>
   <string name="picture_color_mode">Mode de color de la imatge</string>
@@ -292,7 +292,7 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="simulate_color_space">Simula l\'espai de color</string>
   <string name="strict_mode">Mode estricte activat</string>
   <string name="strict_mode_summary">Il·lumina la pantalla si les aplicacions fan tasques llargues en el procés principal</string>
-  <string name="telecommAppLabel">Gestió de trucades telefòniques</string>
+  <string name="telecommAppLabel">Gestiona trucades</string>
   <string name="test_account_0_label">Q Mobile</string>
   <string name="test_account_0_short_description">Compte amb Q Mobile</string>
   <string name="test_account_1_label">Market Wireless</string>
@@ -308,8 +308,8 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="tether_settings_title_wifi">Punt d\'accés portàtil</string>
   <string name="tethering_settings_not_available">La configuració d\'ancoratge no està disponible per a aquest usuari</string>
   <string name="title_convert_fbe">S\'està convertint a xifrat basat en fitxers</string>
-  <string name="toast_make_video_call_failed">"No es poden fer trucades de vídeo, el format del número és incorrecte"</string>
-  <string name="toast_personal_call_msg">S\'està utilitzant el telèfon personal per fer la trucada</string>
+  <string name="toast_make_video_call_failed">"No es pot fer la videotrucada. El número que heu introduït és incorrecte."</string>
+  <string name="toast_personal_call_msg">Utilitzeu un marcador personalitzat</string>
   <string name="track_frame_time">Perfil de la renderització de la GPU</string>
   <string name="transition_animation_scale_title">Escalat de l\'animació de transició</string>
   <string name="tts_default_lang_summary">Defineix la llengua utilitzada per a la síntesi de veu</string>

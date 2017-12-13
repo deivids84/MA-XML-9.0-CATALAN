@@ -63,7 +63,7 @@
   <string name="dialog_insufficient_space_on_external">No es pot finalitzar la baixada. No hi ha prou espai en l\'emmagatzematge extern.</string>
   <string name="dialog_media_not_found">No es pot baixar. Els mitjans externs no estan disponibles.</string>
   <string name="dialog_msg_disabled_net">%1$s baixades restringides a la xarxa actual. Toqueu la Configuració de xarxa per anar a l\'aplicació de seguretat.</string>
-  <string name="dialog_msg_recommend">"No podreu veure les fonts recomanades després de desactivar-les. Podeu seleccionar \"Carrega quan estigui connectat a Wi-Fi\" per estalviar dades mòbils."</string>
+  <string name="dialog_msg_recommend">"No podreu veure les fonts recomanades després de desactivar-les."</string>
   <string name="dialog_queued_body">Aquest fitxer es posa en cua per baixar-lo més tard.</string>
   <string name="dialog_title_disabled_net">Accés a Internet</string>
   <string name="dialog_title_not_available">Baixada fallida</string>
@@ -168,13 +168,13 @@
   <string name="input_valid_address">Introdueix ruta de fitxer</string>
   <string name="install">Instal·la</string>
   <string name="install_failed">"%1$s no s'ha pogut instal·lar"</string>
-  <string name="installing">Instal·lant&#8230;</string>
+  <string name="installing">S\'està instal·lant…</string>
   <string name="insufficient_space">No hi ha prou espai</string>
   <string name="invalid_address">La ruta de fitxer introduïda no és vàlida</string>
   <string name="jump_rank_hint">"Feu una ullada a les classificacions de les baixades d'avui &gt;"</string>
   <string name="keep_queued_download">Mantenir</string>
   <string name="load_finish_hint">Podeu continuar veient-lo demà</string>
-  <string name="loading">Un moment&#8230;</string>
+  <string name="loading">Un moment…</string>
   <string name="media_filter">MITJA</string>
   <string name="member_cost">Anual</string>
   <string name="menu_all_task_pause">Pausa-ho tot</string>
@@ -249,12 +249,12 @@ en tots els dispositius a través de Xunlei"</string>
   <string name="recommend_downloading">S\'està baixant&#8230;</string>
   <string name="recommend_failed">Ha fallat</string>
   <string name="recommend_install">Instal·la</string>
-  <string name="recommend_installing">Instal·lant</string>
+  <string name="recommend_installing">S\'està instal·lant…</string>
   <string name="recommend_loading">Carregant&#8230;</string>
   <string name="recommend_open">Obre\'l</string>
   <string name="recommend_other_downloads">Recomanades</string>
   <string name="recommend_paused">En pausa</string>
-  <string name="recommend_prepare">Esperar</string>
+  <string name="recommend_prepare">S\'està esperant…</string>
   <string name="recommend_show_other_downloads">Mostrar recomanades</string>
   <string name="remove_download">Treu</string>
   <string name="restart_download">Reiniciar</string>
@@ -327,7 +327,7 @@ en tots els dispositius a través de Xunlei"</string>
   <string name="sniff_search_install">Instal·la</string>
   <string name="sniff_shortcut_cloudconfig_btn">D\'acord</string>
   <string name="sniff_shortcut_cloudconfig_context">S\'està actualitzant la font&#8230;</string>
-  <string name="sniff_shortcut_cloudconfig_title">Un moment&#8230;</string>
+  <string name="sniff_shortcut_cloudconfig_title">Un moment…</string>
   <string name="sniff_shortcut_create">Drecera creada</string>
   <string name="sniff_shortcut_exist">La drecera ja existeix</string>
   <string name="sniff_shortcut_failed">"No s'ha pogut crear la drecera"</string>
@@ -358,7 +358,7 @@ en tots els dispositius a través de Xunlei"</string>
   <string name="subbt_downloading">S\'està baixant&#8230;</string>
   <string name="subbt_fail">Fallides</string>
   <string name="subbt_pause">En pausa</string>
-  <string name="subbt_wait">Esperant&#8230;</string>
+  <string name="subbt_wait">S\'està esperant…</string>
   <string name="subfile_list">Arxius</string>
   <string name="task_detail">Tasques</string>
   <string name="task_detail_notfound_confirm">D\'acord</string>

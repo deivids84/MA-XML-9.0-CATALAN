@@ -48,9 +48,9 @@
   <string name="cloud_app_restore_title">Pendent</string>
   <string name="configure_wallpaper">Configuració</string>
   <string name="confirm_btn_label">D\'acord</string>
-  <string name="confirm_uninstall_dialog_contain_xspace_app_msg">En desinstal·lar aquestes aplicacions, les seves duplicades també s\'eliminaran.</string>
+  <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Les aplicacions duals es desinstal·laran juntament amb aquestes.</string>
   <string name="confirm_uninstall_dialog_has_xspace_app_msg">En desinstal·lar aquesta aplicació, la seva duplicada també s\'eliminarà.</string>
-  <string name="confirm_uninstall_dialog_title">S\'eliminaran les aplicacions duplicades corresponents.</string>
+  <string name="confirm_uninstall_dialog_title">Es desinstal·laran les aplicacions duals</string>
   <string name="current_preview">Visualització prèvia</string>
   <string name="current_wallpaper">Actual</string>
   <string name="custom_wallpaper_picker">Navega</string>
@@ -62,7 +62,7 @@
   <string name="delete">Elimina</string>
   <string name="delete_screen">Elimina la pantalla</string>
   <string name="delete_wallpaper_message">Voleu eliminar %1$d fons de pantalla?</string>
-  <string name="deselect_all">Anul·la tota la selecció</string>
+  <string name="deselect_all">Desselecciona-ho tot</string>
   <string name="disable_wallpaper_scroll">Desactiva el desplaçament lateral</string>
   <string name="download_action">Baixa</string>
   <string name="edit_folder_title">Edita el nom de la carpeta</string>
@@ -107,6 +107,7 @@
   <string name="gadget_google_search_label">Cerca de Google</string>
   <string name="gadget_load_error">S\'està carregant&#8230;</string>
   <string name="gadget_mtz_label">Ginys</string>
+  <string name="gadget_notes_label">Notes</string>
   <string name="gadget_photo_22_label">Imatge 2x2</string>
   <string name="gadget_photo_24_label">Imatge 4x2</string>
   <string name="gadget_photo_44_label">Imatge 4x4</string>
@@ -142,8 +143,8 @@
   <string name="launcher_not_exist">Inici s\'ha aturat, torneu a la pantalla inicial i proveu altre cop.</string>
   <string name="like">Preferit</string>
   <string name="liked">S\'ha agregat als favorits</string>
-  <string name="loading_desktop">Un moment&#8230;</string>
-  <string name="loading_wallpaper">Un moment&#8230;</string>
+  <string name="loading_desktop">Un moment…</string>
+  <string name="loading_wallpaper">Un moment…</string>
   <string name="local_wallpaper">Baixat</string>
   <string name="lock_screen">Pantalla de bloqueig</string>
   <string name="lock_screen_failed_message">"No es pot aplicar el fons de pantalla"</string>
@@ -175,7 +176,7 @@
   <string name="no_detail_page">No hi ha pàgina de detalls</string>
   <string name="no_space_toast">Sense espai</string>
   <string name="normal_wallpaper">Fons de pantalla</string>
-  <string name="notification_installed">S\'ha instal·lat correctament</string>
+  <string name="notification_installed">S\'ha instal·lat amb èxit</string>
   <string name="notification_open_button">Obre</string>
   <string name="online_wallpaper">En línia</string>
   <string name="out_of_space">No queda més espai en aquesta pantalla</string>

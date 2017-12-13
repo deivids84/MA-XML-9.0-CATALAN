@@ -62,8 +62,8 @@
     <item quantity="one">en %d a</item>
   </plurals>
   <plurals name="duration_minutes_relative">
-    <item quantity="other">Fa %d minuts</item>
-    <item quantity="one">Fa %d minut</item>
+    <item quantity="other">fa %d minuts</item>
+    <item quantity="one">fa %d minut</item>
   </plurals>
   <plurals name="duration_hours_relative">
     <item quantity="other">Fa %d hores</item>

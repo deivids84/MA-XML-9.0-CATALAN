@@ -7,7 +7,7 @@
   <string name="account">Compte</string>
   <string name="account_bind_devices">Dispositius</string>
   <string name="account_bind_secure_email_title">Afegeix una adreça de correu</string>
-  <string name="account_bind_secure_phone_title">Afegiu un número de telèfon</string>
+  <string name="account_bind_secure_phone_title">Afegeix número de telèfon</string>
   <string name="account_bind_settings">Comptes</string>
   <string name="account_crop_user_avatar">Escapça foto</string>
   <string name="account_empty_user_name">Introduïu el nom d\'usuari del vostre compte Mi</string>
@@ -25,7 +25,7 @@
   <string name="account_none">Cap</string>
   <string name="account_none_binded_info">Cap</string>
   <string name="account_none_user_name">Cap</string>
-  <string name="account_notification_message">La identitat del compte de Xiaomi ha caducat, torneu a iniciar la sessió!</string>
+  <string name="account_notification_message">&gt;La sessió ha expirat. Torneu-la a iniciar.</string>
   <string name="account_protection">Protecció del compte</string>
   <string name="account_protection_off">Desactivat</string>
   <string name="account_protection_on">Activat</string>
@@ -58,10 +58,10 @@
   <string name="account_user_using_qq_avatar">Utilitza la foto de perfil de QQ</string>
   <string name="account_user_using_weibo_avatar">Utilitza la foto de perfil de Sina Weibo</string>
   <string name="account_xiaomi_service">Serveis</string>
-  <string name="action_add_phone">Vincula el número de telèfon</string>
+  <string name="action_add_phone">Afegeix número de telèfon</string>
   <string name="action_update_phone">Canvia el número de telèfon</string>
   <string name="activate_email_notice">Assegureu-vos d\'activar el vostre compte abans de 24 hores</string>
-  <string name="activity_not_found_notice">"No es pot trobar l'app"</string>
+  <string name="activity_not_found_notice">"No es pot trobar l'aplicació"</string>
   <string name="add_account">Vincula compte</string>
   <string name="app_name">Compte Mi</string>
   <string name="auth_fail_warning">La sessió ha expirat, torneu a iniciar la sessió més tard</string>
@@ -134,16 +134,16 @@
   <string name="find_device_request_prepare_error">"No es pot obtenir l'estat, intenteu-ho més tard"</string>
   <string name="find_device_unknown_error">"No es pot obtenir l'estat, intenteu-ho més tard"</string>
   <string name="first_login_time">Primer intent d\'inici de sessió: %s</string>
-  <string name="get_back_pwd">Recupera la contrasenya</string>
+  <string name="get_back_pwd">Restabliment de la contrasenya</string>
   <string name="get_device_list_failed">"No es poden obtenir dispositius"</string>
   <string name="get_phone_bind_exceed_limit">"El número de telèfon mòbil vinculat al número de compte ha arribat al màxim (3), ja no podeu incloure el nou compte"</string>
   <string name="get_phone_verifycode_exceed_limit">S\'han enviat massa codis de verificació a aquest número. Espereu 24 hores i torneu-ho a provar.</string>
   <string name="guest_account_label">Compte de convidat Mi</string>
-  <string name="identity">Identitat</string>
+  <string name="identity">Identificació</string>
   <string name="input_email_address_notice">"Utilitzarem aquest correu per verificar el vostre compte"</string>
   <string name="io_error_title">Confirmeu la vostra xarxa</string>
-  <string name="just_a_second">Un moment&#8230;</string>
-  <string name="loading_micloud_sync_data">Un moment&#8230;</string>
+  <string name="just_a_second">Un moment…</string>
+  <string name="loading_micloud_sync_data">Un moment…</string>
   <string name="local_device">(aquest dispositiu)</string>
   <string name="locating_current_location">Localitzant</string>
   <string name="location_service_not_working">El servei d\'ubicació no funciona</string>
@@ -168,8 +168,8 @@
   <string name="my_device_title">Dispositiu actual</string>
   <string name="no_network_btn">Actualitza</string>
   <string name="no_network_title">"No es pot connectar a la xarxa."</string>
-  <string name="no_phone">Sense telèfon</string>
-  <string name="no_response_retry">No hi ha resposta, torneu-ho a provar.</string>
+  <string name="no_phone">Cap número de telèfon</string>
+  <string name="no_response_retry">Sense resposta, torneu-ho a provar.</string>
   <string name="no_sim_card_or_unactivated">"La targeta SIM no està instal·lada o activada"</string>
   <string name="nobind">No connectat</string>
   <string name="notify_network_restricted_content_bg_network">"L'accés a internet del compte Mi està restringit. Premeu per permetre."</string>
@@ -210,11 +210,12 @@ Per activar el vostre compte, seguiu l\'enllaç
  que li hem enviat a la safata d\'entrada."</string>
   <string name="passport_completed">Finalitza</string>
   <string name="passport_confirm_recycle_account">Sí</string>
+  <string name="passport_confirm_recycle_account_msg">"&lt;font color=Red&gt;Sembla&lt;/font&gt; que el numero %s ha estat reciclat pel vostre operador i hi ha un Compte Mi associat. És aquest el vostre compte?"</string>
   <string name="passport_continue">Continua</string>
   <string name="passport_copy_message_text_success">S\'ha copiat correctament</string>
   <string name="passport_copy_message_vcode">Codi de còpia</string>
   <string name="passport_delete_account">Tanca la sessió</string>
-  <string name="passport_downlink_reg">Crea un compte utilitzant el número de telèfon</string>
+  <string name="passport_downlink_reg">Número de telèfon</string>
   <string name="passport_email">Adreça de correu electrònic</string>
   <string name="passport_email_or_id_hint_text">Adreça de correu electrònic o identificador de compte Mi</string>
   <string name="passport_email_reg_success_summary">%1$s s\'ha afegit al vostre compte. Podeu utilitzar-lo per iniciar la sessió o per restablir la contrasenya.</string>
@@ -223,7 +224,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_error_dup_email">El correu electrònic que heu introduït ja està associat a un altre compte.</string>
   <string name="passport_error_email">L\'adreça de correu que heu introduït no és vàlida</string>
   <string name="passport_error_empty_captcha_code">Introduïu el codi passport_captcha</string>
-  <string name="passport_error_empty_email">Introduïu la vostra adreça de correu electrònic</string>
+  <string name="passport_error_empty_email">Introduïu la vostra adreça de correu</string>
   <string name="passport_error_empty_phone_num">Introduïu el número de telèfon</string>
   <string name="passport_error_empty_pwd">Introduïu la vostra contrasenya</string>
   <string name="passport_error_empty_username">Introduïu el vostre nom d\'usuari </string>
@@ -233,12 +234,15 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_error_invalid_phone_num">Número de telèfon no vàlid</string>
   <string name="passport_error_login">"No s'ha pogut obrir sessió"</string>
   <string name="passport_error_network">"No es pot connectar a la xarxa"</string>
+  <string name="passport_error_no_password_user">"Encara no heu definit la contrasenya. Inicieu sessió amb un SMS."</string>
   <string name="passport_error_phone_error">Número de telèfon no vàlid</string>
   <string name="passport_error_server">Error de servidor</string>
   <string name="passport_error_sim_not_ready">"No es troba la targeta SIM"</string>
   <string name="passport_error_ssl_hand_shake">"No s'ha pogut connectar al servidor."</string>
   <string name="passport_error_unknown">"No es pot obrir sessió"</string>
   <string name="passport_error_user_name">El nom d\'usuari que heu introduït no és vàlid.</string>
+  <string name="passport_error_verify_activator_phone_message">Assegureu-vos que el vostre servei de la targeta SIM està activat i el dispositiu està connectat a la xarxa.</string>
+  <string name="passport_error_verify_activator_phone_title">"No s'ha pogut comprovar el número de telèfon"</string>
   <string name="passport_failed_to_send_activate_email">"No s'ha pogut enviar el correu d'activació"</string>
   <string name="passport_find_password_on_web_msg">Visiteu account.mi.com per restaurar la vostra contrasenya.</string>
   <string name="passport_forget_password">Contrasenya oblidada</string>
@@ -281,7 +285,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_phone_num_hint_text">Número de telèfon</string>
   <string name="passport_phone_ticket_login">Inicia la sessió amb SMS</string>
   <string name="passport_prev">Torna</string>
-  <string name="passport_privacy_policy">Política de Privacitat</string>
+  <string name="passport_privacy_policy">Política de privadesa</string>
   <string name="passport_pwd_generate_failure">"No s'ha pogut generar una contrasenya"</string>
   <string name="passport_pwd_generating">Generant&#8230;</string>
   <string name="passport_querying_phone_info">S\'està sol·licitant la informació del compte…</string>
@@ -304,7 +308,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_reg_recycle_account_yes">Sí</string>
   <string name="passport_reg_success">S\'ha creat el compte</string>
   <string name="passport_reg_success_summary">%1$s s\'ha unit al vostre compte. Podeu utilitzar-lo per iniciar la sessió o per restablir la contrasenya.</string>
-  <string name="passport_reg_type_email">Utilitza adreça de correu electrònic</string>
+  <string name="passport_reg_type_email">Adreça de correu</string>
   <string name="passport_reg_using_other_phone">Utilitza número de telèfon alternatiu</string>
   <string name="passport_reg_using_other_phone_number_prompt">"Crea un compte nou usant "</string>
   <string name="passport_reg_using_phone_number_prompt">Crear un compte utilitzant el número de telèfon</string>
@@ -377,7 +381,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_wrong_vcode">El codi que heu introduït és incorrecte</string>
   <string name="passport_yes">Sí</string>
   <string name="phone_activated">%s activat</string>
-  <string name="phone_num_use_for">el número de telèfon s\'utilitza per a:</string>
+  <string name="phone_num_use_for">El número de telèfon s\'utilitza per a:</string>
   <string name="photoPickerNotFoundText">No hi ha fotos disponibles.</string>
   <string name="push_notification_content">Feu clic i obtén el codi de verificació</string>
   <string name="push_notification_title">Inicieu sessió al Compte Mi en un dispositiu desconegut</string>
@@ -388,7 +392,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="remove_device_success_notice">Si elimineu aquest dispositiu dels vostres dispositius de confiança, pot ser que s\'hagi d\'executar el procés de verificació un altre cop quan inicieu la sessió</string>
   <string name="remove_trust_btn">Elimina dels dispositius de confiança</string>
   <string name="remove_trust_notice">Elimina dels dispositius de confiança i tanca sessió</string>
-  <string name="removing_account">Tancant sessió&#8230;</string>
+  <string name="removing_account">S\'està tancant sessió…</string>
   <string name="rename_current_device">Canvia el nom del dispositiu</string>
   <string name="replace_binded_phone">Substitueix el telèfon</string>
   <string name="resend_active_email">Reenvia</string>
@@ -417,13 +421,13 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="send_email_activate_message">Correu de verificació enviat</string>
   <string name="service_error">Error del servei</string>
   <string name="set_success">Correcte</string>
-  <string name="sign_in">Inicia sessió</string>
+  <string name="sign_in">S\'està iniciant sessió</string>
   <string name="sim_changed_notification_msg">Toqueu per actualitzar el vostre telèfon de recuperació i així mantenir el compte més segur.</string>
   <string name="sim_changed_notification_title">Heu canviat el número de telèfon?</string>
   <string name="sina_weibo">Sina WeiBo</string>
   <string name="sms_send_success">Enviat</string>
   <string name="sns_access_token_expired_warning">L\'inici de sessió del compte ha caducat. Inicieu sessió de nou per tornar a connectar aquest compte.</string>
-  <string name="talkback_scan_barcode">escaneja el codi QR</string>
+  <string name="talkback_scan_barcode">Escaneja el codi QR</string>
   <string name="trusted_browsers">Navegadors de confiança</string>
   <string name="trusted_browsers_prompt">El navegador no serà de confiança si suprimiu les galetes.</string>
   <string name="turn_off_find_device_failed_title">"No es pot desactivar Troba el dispositiu"</string>
@@ -435,11 +439,11 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="update_contacts">Actualitza la llibreta d\'adreces</string>
   <string name="update_email_address_dialog_message">Us cal verificar la identitat abans que pugueu actualitzar el correu electrònic.</string>
   <string name="update_email_address_dialog_title">Actualitza el correu</string>
-  <string name="update_phone_notice">canvia la configuració de seguretat</string>
+  <string name="update_phone_notice">Canvia la configuració de seguretat</string>
   <string name="update_phone_number_notice_message">Us cal verificar la identitat abans que pugueu actualitzar el número de telèfon.</string>
   <string name="updated_nothing">Actualitzat</string>
   <string name="user_avatar_update_title">Actualitza imatge del perfil</string>
-  <string name="user_avatar_uploading">Un moment&#8230;</string>
+  <string name="user_avatar_uploading">Un moment…</string>
   <string name="verified_apps">Aplicacions verificades</string>
   <string name="verified_devices">Dispositius verificats</string>
   <string name="verify_phone_prompt">Seleccioneu el número de telèfon a verificar</string>

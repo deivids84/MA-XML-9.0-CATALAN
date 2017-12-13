@@ -7,7 +7,7 @@
   <string name="account_order">Historial de comandes</string>
   <string name="account_title">Perfil</string>
   <string name="account_type_name">Compte Mi</string>
-  <string name="account_updating_device">S\'està actualitzant&#8230;</string>
+  <string name="account_updating_device">S\'està actualitzant…</string>
   <string name="account_updating_device_failed">"No s'ha pogut iniciar sessió"</string>
   <string name="account_verify_password">"Ja esteu utilitzant aquest servei en un altre dispositiu. Per seguretat, heu de verificar el vostre compte Mi en aquest dispositiu."</string>
   <string name="account_yellowpage_favorite">Favorits</string>
@@ -80,7 +80,7 @@
   <string name="general_follow_hint">Seguiu %1$s per rebre actualitzacions rellevants</string>
   <string name="general_follow_hint_title">Pista</string>
   <string name="general_menu_delete_recent">Esborra els recents</string>
-  <string name="general_menu_unfavorite">Elimina dels favorits</string>
+  <string name="general_menu_unfavorite">Elimina dels preferits</string>
   <string name="general_menu_unfollow">Deixa de seguir</string>
   <string name="general_no_yellow_page">La llista és buida</string>
   <string name="general_recent_title">Recents</string>
@@ -91,7 +91,7 @@
   <string name="group_name_more">Miscel·lània</string>
   <string name="group_name_service">Serveis</string>
   <string name="group_name_shop_info">Informació</string>
-  <string name="group_name_shop_recommendation">Als voltants</string>
+  <string name="group_name_shop_recommendation">A prop</string>
   <string name="hms_no_subject_view">(Sense assumpte)</string>
   <string name="hms_notification">Missatges</string>
   <string name="homepage_barcode_prompt">Escanegeu per obrir la pàgina d\'inici</string>
@@ -126,7 +126,7 @@
   <string name="menu_delete_one">Elimina del registre de trucades</string>
   <string name="menu_enroll_in_yellow_page">Utilitzeu la identitat de trucada</string>
   <string name="menu_remove_black_list">Treu de la llista de bloqueig</string>
-  <string name="menu_remove_from_favorite">Elimina dels favorits</string>
+  <string name="menu_remove_from_favorite">Elimina dels preferits</string>
   <string name="menu_save_contact">Desa el número als contactes</string>
   <string name="minimum_price">Des de %d iuans</string>
   <string name="mishop_web_payment_title">Comprovació Mi Store</string>
@@ -193,7 +193,7 @@
   <string name="phone_event_setting_notice_text_with_contacts_permission">"En utilitzar aquesta característica, accepteu les nostres %1$s i %2$s. Cal accedir als vostres contactes."</string>
   <string name="photo_count">%d en total</string>
   <string name="pull_to_refresh_pull_label">Llisqueu per actualitzar&#8230;</string>
-  <string name="pull_to_refresh_refreshing_label">Un moment&#8230;</string>
+  <string name="pull_to_refresh_refreshing_label">Un moment…</string>
   <string name="pull_to_refresh_release_label">Deixeu anar per actualitzar&#8230;</string>
   <string name="quick_yellow_page_tab_call_log">Registre de trucades</string>
   <string name="quick_yellow_page_tab_phones">Telèfon</string>

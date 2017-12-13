@@ -57,7 +57,7 @@
   <string name="document_ocr_result_title">Foto del document</string>
   <string name="document_ocr_tip_msg">S\'està llegint&#8230;</string>
   <string name="document_recognize_fail_tip">"No s'ha pogut llegir el document"</string>
-  <string name="document_recognize_null_tip">"El document resultant està buit"</string>
+  <string name="document_recognize_null_tip">"No s'ha pogut reconèixer el document"</string>
   <string name="document_rectify">Ajusta</string>
   <string name="document_rectify_tip_msg">S\'està ajustant&#8230;</string>
   <string name="document_save_succeed_tip">Document desat a %1$s</string>
@@ -69,7 +69,7 @@
   <string name="error_camera_disabled">L\'accés a la Càmera s\'ha negat per raons de seguretat</string>
   <string name="error_cannot_connect_camera">"No es pot accedir a la Càmera"</string>
   <string name="error_day_limit">Massa intents en 1 dia</string>
-  <string name="error_empty_result">"No s'han pogut trobar resultats"</string>
+  <string name="error_empty_result">"No s'ha pogut trobar resultats"</string>
   <string name="error_get_image">"no s'ha pogut obtenir la imatge"</string>
   <string name="error_hour_limit">Massa intents en 1 hora</string>
   <string name="error_image_error">"No pot reconèixer aquesta foto"</string>
@@ -147,7 +147,7 @@
   <string name="recognition_error_download_msg">Baixa el motor de reconeixement per escanejar targetes. Són uns 15 Mb.</string>
   <string name="recognition_error_download_no_network">"No s'ha pogut baixar. Assegureu-vos que està connectat a la xarxa."</string>
   <string name="recognition_error_download_ok">Baixa</string>
-  <string name="recognition_error_download_success">Baixat amb èxit</string>
+  <string name="recognition_error_download_success">S\'ha baixat amb èxit</string>
   <string name="recognition_error_download_title">És necessari el motor de reconeixement</string>
   <string name="recognition_error_downloading">S\'està baixant el motor de reconeixement&#8230;</string>
   <string name="recognize">Escanejar</string>

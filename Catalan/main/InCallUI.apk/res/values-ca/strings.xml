@@ -38,7 +38,7 @@
   <string name="call_extension_conference_mode">Mode conferència</string>
   <string name="call_record_wait_label">S\'està esperant</string>
   <string name="call_recording_deny_permission_msg">"Vau denega el permís d'enregistrament, no es pot enregistrar."</string>
-  <string name="call_recording_error_low_storage">No hi ha prou espai a la targeta SD</string>
+  <string name="call_recording_error_low_storage">No hi ha prou espai a l\'emmagatzematge.</string>
   <string name="call_recording_error_privacy">"No és pot enregistrar mentre esteu en mode de Convidat"</string>
   <string name="call_recording_error_sd_access">"No es pot accedir a la targeta SD"</string>
   <string name="call_recording_error_sd_unmounted">Enregistrament aturat: targeta SD no muntada.</string>
@@ -159,7 +159,7 @@
   <string name="onscreenEndCallText">Final</string>
   <string name="onscreen_add_call_text">Afegeix trucada</string>
   <string name="onscreen_audio_mode_conference">Conferència</string>
-  <string name="onscreen_audio_mode_handset">Mans lliures</string>
+  <string name="onscreen_audio_mode_handset">Auricular</string>
   <string name="onscreen_audio_mode_headset">Auriculars</string>
   <string name="onscreen_audio_mode_speaker">Altaveu</string>
   <string name="onscreen_call_record">Enregistra</string>
@@ -195,5 +195,5 @@
   <string name="voicemail">Bústia de veu</string>
   <string name="wait_prompt_str">"Enviar els següents tons?
 "</string>
-  <string name="waiting_close_airplane_mode">Un moment&#8230;</string>
+  <string name="waiting_close_airplane_mode">Un moment…</string>
 </resources>

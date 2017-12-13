@@ -24,7 +24,7 @@
   <string name="data_connection_title">Alerta d\'ús de dades</string>
   <string name="delete">Elimina</string>
   <string name="delete_dialog_message">Voleu eliminar la gravació?</string>
-  <string name="deleting_message">S\'està eliminant&#8230;</string>
+  <string name="deleting_message">S\'està eliminant…</string>
   <string name="details">Detalls</string>
   <string name="dialog_content_storage_full">"S'ha aturat la gravació perquè no hi ha prou espai al dispositiu."</string>
   <string name="dialog_title_storage_full">No hi ha prou espai</string>

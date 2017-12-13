@@ -33,7 +33,7 @@
   <string name="file_already_downlaoded">Fitxer desat a \"%1$s\"</string>
   <string name="file_change_btn_download">Baixa el fitxer</string>
   <string name="file_change_btn_upload">Puja el fitxer</string>
-  <string name="file_loading">Un moment&#8230;</string>
+  <string name="file_loading">Un moment…</string>
   <string name="file_name_empty">Heu d\'introduir un nom.</string>
   <string name="file_name_invalid">"Els noms dels fitxers no poden contenir els següents caràcters: /\\:*?&lt;&gt;"</string>
   <string name="file_name_too_long">El nom del fitxer que heu introduït és massa llarg.</string>
@@ -56,7 +56,7 @@
   <string name="need_get_accounts_permission">Mi Drive requereix de permisos per accedir al compte per funcionar normalment.</string>
   <string name="never_notify">"No tornis a mostrar-ho"</string>
   <string name="no_app_found_to_open_file">No s\'ha trobat cap aplicació per processar aquesta acció.</string>
-  <string name="no_more_space">No hi ha prou espai.</string>
+  <string name="no_more_space">No hi ha prou espai d\'emmagatzematge.</string>
   <string name="no_network">"No s'ha pogut connectar a la xarxa. Comproveu la connexió i torneu-ho a provar."</string>
   <string name="no_tasks">No hi ha tasques</string>
   <string name="open_changed_file_message">"El fitxer que esteu intentant obrir ha estat modificat. 
@@ -75,7 +75,7 @@
   <string name="operation_delete_message_folder">S\'eliminarà tot el contingut de la carpeta.</string>
   <string name="operation_delete_selected_tasks">Voleu eliminar les tasques seleccionades?</string>
   <string name="operation_delete_title">Voleu eliminar-lo?</string>
-  <string name="operation_deleting">S\'està eliminant&#8230;</string>
+  <string name="operation_deleting">S\'està eliminant…</string>
   <string name="operation_deleting_detail">S\'està eliminant (%1$d/%2$d)</string>
   <string name="operation_download">Baixa</string>
   <string name="operation_move">Retalla</string>

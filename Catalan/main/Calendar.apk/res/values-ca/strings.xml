@@ -11,9 +11,10 @@
   <string name="accessibility_sync_cal">Sincronitza el calendari</string>
   <string name="account_and_calendar">Comptes</string>
   <string name="accounts">Comptes i sincronització</string>
-  <string name="acct_not_synced">"Aquest compte no s'està sincronitzant, de manera que és possible que els calendaris no estiguin actualitzats."</string>
+  <string name="acct_not_synced">"Aquest compte no s'està sincronitzant. És possible que els calendaris no estiguin actualitzats."</string>
   <string name="acessibility_selected_marker_description">Esdeveniment seleccionat</string>
-  <string name="action_bar_more_menu_view_description">més</string>
+  <string name="action_bar_more_menu_view_description">Més</string>
+  <string name="action_bar_return">Retorna</string>
   <string name="action_text_card_manager">Canal</string>
   <string name="action_text_today">Avui</string>
   <string name="ad_card_connecting">Connexió</string>
@@ -75,7 +76,7 @@
   <string name="card_detail_title">Detalls</string>
   <string name="card_manager">Administrador de targeta</string>
   <string name="card_manager_no_data">Sense subscripcions</string>
-  <string name="card_title_change">Canvia el títol de la targeta</string>
+  <string name="card_title_change">Més</string>
   <string name="change_response_title">Canvia la resposta</string>
   <string name="check_reminded_text">Comproveu els recordatoris</string>
   <string name="chongsha">Fantasmes</string>
@@ -90,7 +91,7 @@
 • Accés des de qualsevol navegador
 • Còpia de seguretat dels esdeveniments"</string>
   <string name="creating_event">S\'ha creat l\'esdeveniment</string>
-  <string name="creating_event_with_guest">S\'enviaran les invitacions</string>
+  <string name="creating_event_with_guest">S\'estan enviant les invitacions…</string>
   <string name="credit">Targeta de crèdit</string>
   <string name="credit_card_date_label">Data de caducitat:</string>
   <string name="credit_card_number_label">Número de targeta:</string>
@@ -105,6 +106,7 @@
   <string name="date_calculate_days">Introduïu el número de dies</string>
   <string name="date_calculate_description">Coneixeu quina data és abans o després d\'un cert dia</string>
   <string name="date_calculate_direction">Direcció</string>
+  <string name="date_calculate_direction_content_description">La adreça actual és %1s</string>
   <string name="date_calculate_result">Resultat</string>
   <string name="date_calculate_tab">Calcula la data</string>
   <string name="date_calculate_today">0 dies</string>
@@ -166,10 +168,10 @@
   <string name="edit_event_to_label">Fins a</string>
   <string name="electricity_amount_label">Consum d\'electricitat</string>
   <string name="email_guests_label">Envia un correu als convidats</string>
-  <string name="email_install_hint">El correu s\'ha desinstal·lat. En reinstal·lar-lo, podeu restaurar les dades del compte del calendari o afegir-ne un de nou.</string>
+  <string name="email_install_hint">El Correu s\'ha desinstal·lat. En reinstal·lar-lo, podreu restaurar les dades del compte del calendari o afegir-ne un de nou.</string>
   <string name="email_picker_label">Envia un correu amb</string>
   <string name="email_subject_prefix">"Re: "</string>
-  <string name="empty_event">No s\'ha creat l\'esdeveniment buit</string>
+  <string name="empty_event">"No es poden crear esdeveniments buits"</string>
   <string name="english_premium_league">English Premium League</string>
   <string name="event_account">Compte</string>
   <string name="event_action_delete">Elimina</string>
@@ -202,7 +204,7 @@
   <string name="from_google_group_calendar">Google Calendar</string>
   <string name="gadget_no_events">No hi ha esdeveniments de calendari pròxims </string>
   <string name="gadget_title">Calendari</string>
-  <string name="global_action_text_card_manager">Un calendari més interessant</string>
+  <string name="global_action_text_card_manager">Més categories</string>
   <string name="global_cricket_no_match">Avui no hi ha competicions de cricket, podeu revisar els aspectes més destacats de les competicions anteriors o proveu un altre partit. Meravellós esdeveniment, val la pena l\'espera!</string>
   <string name="global_football_final">FINAL</string>
   <string name="global_football_no_match">No hi ha programat cap partit de futbol per avui.</string>
@@ -228,15 +230,15 @@
   <string name="insert_event_dialog_title">Avís</string>
   <string name="insert_event_toast_add_failed">"No s'ha pogut afegir"</string>
   <string name="insert_event_toast_add_success">S\'ha creat l\'esdeveniment</string>
-  <string name="install_email_app">Instal·la el correu</string>
-  <string name="install_email_finished">S\'ha instal·lat el correu</string>
-  <string name="installing_email">S\'està instal·lant...</string>
+  <string name="install_email_app">Instal·la el Correu</string>
+  <string name="install_email_finished">S\'ha instal·lat amb èxit</string>
+  <string name="installing_email">S\'està instal·lant…</string>
   <string name="item_num_selected">%1$d seleccionat(s)</string>
   <string name="joke_card_icon_text">%1$s les persones riuen</string>
   <string name="jump_date_full">Vés a la data</string>
   <string name="life_assistant_group_title">Assistent de vida</string>
   <string name="load_more_hint">Actualitza els esdeveniments de %1$d</string>
-  <string name="loading">Un moment&#8230;</string>
+  <string name="loading">Un moment…</string>
   <string name="local_calendar_display_name">Calendari local</string>
   <string name="local_owner_account_name">Desat en aquest dispositiu</string>
   <string name="lunar_date">Data lunar</string>
@@ -266,7 +268,7 @@
   <string name="monthly_on_day">Mensualment (el mateix dia)</string>
   <string name="monthly_on_day_count">Mensualment (%1$s %2$s)</string>
   <string name="network_not_available">"No es pot connectar a la xarxa"</string>
-  <string name="new_event_description">nou</string>
+  <string name="new_event_description">Nou</string>
   <string name="new_event_dialog_label">Nou esdeveniment</string>
   <string name="new_event_dialog_option">Nou esdeveniment</string>
   <string name="no_contact_birthday_hint">No hi ha aniversaris a importar</string>
@@ -274,9 +276,9 @@
   <string name="no_network">No hi ha xarxa. Intenteu actualitzar la xarxa de nou :)</string>
   <string name="no_network_btn">Torneu-ho a provar</string>
   <string name="no_title_label">(Sense títol)</string>
-  <string name="no_visiable_calendar_message">Cal que seleccioneu un compte de calendari. Premeu Selecciona el compte per continuar.</string>
-  <string name="no_visiable_calendar_select_account">Seleccioneu un compte</string>
-  <string name="no_visiable_calendar_title">Seleccioneu un compte de calendari</string>
+  <string name="no_visiable_calendar_message">Cal que seleccioneu un compte de calendari. Premeu Afegeix el compte per continuar.</string>
+  <string name="no_visiable_calendar_select_account">Afegeix un compte</string>
+  <string name="no_visiable_calendar_title">Afegeix un compte</string>
   <string name="not_synced">sense sincronitzar</string>
   <string name="olympic_vs">CONTRA</string>
   <string name="online_reminder_header_text">Recorda</string>
@@ -353,7 +355,7 @@
   <string name="response_yes">Sí</string>
   <string name="rest_day_indication">:)</string>
   <string name="saving_event">S\'ha desat l\'esdeveniment</string>
-  <string name="saving_event_with_guest">S\'enviaran els canvis</string>
+  <string name="saving_event_with_guest">S\'estan enviant actualitzacions…</string>
   <string name="search">Cerca</string>
   <string name="search_calendar">"Calendari;Agenda;Recordatori"</string>
   <string name="search_calendar_edit_event">Reunió;Recordatori;Agenda</string>
@@ -392,6 +394,7 @@ També podeu afegir recordatoris perquè no us perdeu res important. "</string>
   <string name="subscribing_card">Subscripcions</string>
   <string name="synced">sincronitzat</string>
   <string name="taishen">taishen</string>
+  <string name="talk_back_read_date">La data actual és %1$s,%2$s,</string>
   <string name="template_announce_item_index">Esdeveniment %1$s de %2$s.</string>
   <string name="template_week_num">Setmana %1$s</string>
   <string name="ticket_card_date">%1$smes%2$sdia</string>
@@ -425,7 +428,7 @@ També podeu afegir recordatoris perquè no us perdeu res important. "</string>
   <string name="travel_item_weather_now">Temps a la destinació</string>
   <string name="travel_load_failed">"No s'ha pogut carregar"</string>
   <string name="travel_loaded">Amb tecnologia de Veryzhun</string>
-  <string name="travel_loading">Un moment&#8230;</string>
+  <string name="travel_loading">Un moment…</string>
   <string name="travel_local">Destinació</string>
   <string name="travel_seat_number_text">Seient</string>
   <string name="travel_train_number_text">Tren</string>

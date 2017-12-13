@@ -33,7 +33,7 @@
   <string name="SetupCallDefault">Voleu acceptar la trucada?</string>
   <string name="ThreeWCMmi">Trucada a tres bandes</string>
   <string name="VideoView_error_button">D\'acord</string>
-  <string name="VideoView_error_text_invalid_progressive_playback">"Aquest vídeo no es vàlid per transmetre's en aquest dispositiu."</string>
+  <string name="VideoView_error_text_invalid_progressive_playback">"Aquest vídeo no es vàlid per transmetre'l en aquest dispositiu."</string>
   <string name="VideoView_error_text_unknown">"No es pot reproduir el vídeo."</string>
   <string name="VideoView_error_title">Problema amb el vídeo</string>
   <string name="accept">D\'acord</string>
@@ -90,6 +90,7 @@
   <string name="app_upgrading_toast">%1$s s\'està actualitzant…</string>
   <string name="audit_safemode_notification">Restableix les dades de fàbrica del dispositiu per utilitzar-lo sense restriccions</string>
   <string name="audit_safemode_notification_details">Premeu per obtenir més informació.</string>
+  <string name="autofill_postal_code">Codi postal</string>
   <string name="autofill_this_form">Emplenament automàtic</string>
   <string name="back_button_label">Enrere</string>
   <string name="badPin">"El codi PIN antic que heu introduït no és correcte."</string>
@@ -1131,6 +1132,7 @@ Si escolteu sons a alt volum durant llargs períodes de temps podria danyar les 
   <string name="ssl_ca_cert_noti_managed">Per %s</string>
   <string name="ssl_certificate">Certificat de seguretat</string>
   <string name="ssl_certificate_is_valid">El certificat és vàlid.</string>
+  <string name="status_bar_rotate">gira</string>
   <string name="stk_cc_ss_to_dial">La sol·licitud SS s\'ha transformat en una sol·licitud DIAL.</string>
   <string name="stk_cc_ss_to_ss">La sol·licitud SS s\'ha transformat en una sol·licitud SS nova.</string>
   <string name="stk_cc_ss_to_ussd">La sol·licitud SS s\'ha transformat en una sol·licitud USSD.</string>

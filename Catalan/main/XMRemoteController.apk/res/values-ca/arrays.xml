@@ -27,12 +27,12 @@
     <item>Puc utilitzar el Mi 3, el Mi 2, o el Redmi com a comandament d\'infraroigs?</item>
   </string-array>
   <string-array name="assistant_tab">
-    <item>Vídeo</item>
-    <item>Captures</item>
-    <item>Aplicació</item>
+    <item>Vídeos</item>
+    <item>Captures de pantalla</item>
+    <item>Aplicacions</item>
   </string-array>
   <string-array name="epg_channel_tab">
-    <item>Completa</item>
+    <item>Tots</item>
     <item>Recull</item>
     <item>CCTV</item>
     <item>Televisió</item>
@@ -43,8 +43,52 @@
     <item>Tots els canals</item>
     <item>Canals favorits</item>
     <item>Canal de CCTV</item>
-    <item>Canal de televisió per satèl·lit</item>
-    <item>Canals de HD</item>
+    <item>Canals de televisió</item>
+    <item>Canals HD</item>
     <item>Vist recentment</item>
+  </string-array>
+  <string-array name="epg_channel_tab_actionbar_v53">
+    <item>Tots els canals</item>
+    <item>Vist recentment</item>
+    <item>Canals HD</item>
+    <item>Canals de televisió</item>
+    <item>Canal de CCTV</item>
+  </string-array>
+  <string-array name="epg_channel_tab_v53">
+    <item>Tots</item>
+    <item>Recent</item>
+    <item>HD</item>
+    <item>TV</item>
+    <item>CCTV</item>
+  </string-array>
+  <string-array name="epg_program_genre">
+    <item></item>
+    <item></item>
+    <item>Entertainment</item>
+    <item></item>
+    <item>Esports</item>
+    <item>Per als nens</item>
+    <item>Notícies</item>
+    <item>Estil de vida</item>
+  </string-array>
+  <string-array name="epg_program_tab">
+    <item>Popular</item>
+    <item>Pel·lícules</item>
+    <item>Entertainment</item>
+    <item>Programes de televisió</item>
+    <item>Esports</item>
+    <item>Per als nens</item>
+    <item>Notícies</item>
+    <item>Estil de vida</item>
+  </string-array>
+  <string-array name="epg_program_tab_actionbar">
+    <item>Programes més cercats</item>
+    <item>Pel·lícules</item>
+    <item>Programes d\'entreteniment</item>
+    <item>Programes de televisió</item>
+    <item>Esports</item>
+    <item>Per als nens</item>
+    <item>Notícies</item>
+    <item>Programes d\'estil de vida</item>
   </string-array>
 </resources>

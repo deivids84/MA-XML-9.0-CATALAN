@@ -33,11 +33,11 @@ aquesta característica s\'afegirà al Segon espai automàticament."</string>
   <string name="close_second_space">Segon espai suprimit</string>
   <string name="close_second_space_success">Segon espai esborrat</string>
   <string name="closed">Apagat</string>
-  <string name="complete_setting">Finalitzat</string>
+  <string name="complete_setting">Finalitza</string>
   <string name="complete_setting_sub_title">També podeu tornar després per fer canvis en la configuració.</string>
   <string name="complete_setting_title">"Tot a punt!"</string>
   <string name="confirm">Correcte</string>
-  <string name="confirmClose">Apagar</string>
+  <string name="confirmClose">Apaga</string>
   <string name="confirmCloseSpaceDes">"No podreu entrar al Segon espai després d'esborrar-lo. Totes les dades es mouran o seran esborrades."</string>
   <string name="confirmDelete">Elimina</string>
   <string name="confirmSecondSpacePassword">Confirmeu la contrasenya del Segon espai</string>
@@ -70,8 +70,8 @@ aquesta característica s\'afegirà al Segon espai automàticament."</string>
   <string name="delete_src_photo">Elimina les fotos</string>
   <string name="dialog_title">Atenció</string>
   <string name="dir_switch_out_all_photos">Galeria del Segon espai</string>
-  <string name="disable">Apagar</string>
-  <string name="do_not_ask">"No ho preguntis més"</string>
+  <string name="disable">Apaga</string>
+  <string name="do_not_ask">"No m'ho tornis a preguntar"</string>
   <string name="dont_import">Ara no</string>
   <string name="downloading_space">S\'està baixant&#8230;</string>
   <string name="enable">Engega</string>
@@ -129,9 +129,9 @@ Dos espais. Un dispositiu."</string>
   <string name="invalid_qr_code">Codi QR no vàlid</string>
   <string name="list_empty_text">Buit</string>
   <string name="list_empty_text_xspace">Instal·leu WeChat/QQ/Weibo, creeu aplicacions duals i torneu-ho a provar.</string>
-  <string name="loading">Un moment&#8230;</string>
+  <string name="loading">Un moment…</string>
   <string name="loading_apps">S\'estan carregant les aplicacions&#8230;</string>
-  <string name="loading_space">Un moment&#8230;</string>
+  <string name="loading_space">Un moment…</string>
   <string name="loading_success">S\'ha carregat amb èxit</string>
   <string name="lock_screen_open_second_space">Entreu al Segon espai des de la pantalla de bloqueig</string>
   <string name="messageData">Missatges</string>
@@ -179,7 +179,7 @@ Dos espais. Un dispositiu."</string>
   <string name="remove_second_space_msg">Totes les dades d\'aplicacions del Segon espai es perdran quan suprimiu el Segon espai. Voleu suprimir el Segon espai ara?</string>
   <string name="remove_user_click_message">"*Si no teniu cap element important al Segon espai, %s"</string>
   <string name="remove_user_click_message_action">podeu eliminar el segon espai i reiniciar el dispositiu ara.</string>
-  <string name="removingSpace">S\'està suprimint&#8230;</string>
+  <string name="removingSpace">S\'està eliminant…</string>
   <string name="repeat_scanner_fingerprint">Afegir de nou</string>
   <string name="reset_passwd_success">Contrasenya restablerta amb èxit</string>
   <string name="restore_normal_show">"No mostrar els missatges privats"</string>
@@ -198,7 +198,7 @@ Dos espais. Un dispositiu."</string>
   <string name="scanner_fingerprint_tips_desc">"Seleccioneu una empremta existent per entrar al Segon espai. No podreu utilitzar-la en el Primer espai."</string>
   <string name="scanner_fingerprint_tips_title">Entrar al Segon espai utilitzant una empremta existent</string>
   <string name="scanner_second_space_fingerprint">Escanejar empremta del Segon espai</string>
-  <string name="sdcardfs_dialog_message">Desactiveu l\'«Optimització de la targeta SD simulada» a les opcions del desenvolupador abans d\'entrar al segon espai.</string>
+  <string name="sdcardfs_dialog_message">MIUI 9 té un nou sistema de fitxers. Les dades antigues podrien ser incompatibles amb ell. Per solucionar aquest problema, seguiu els passos per instal·lar una actualització. El dispositiu es reiniciarà dues vegades durant aquesta actualització.</string>
   <string name="sdcardfs_dialog_title">Actualització important</string>
   <string name="sdcradfs_dialog_in_owner_message">"MIUI 9 té un nou sistema de fitxers. Les dades antigues poden ser incompatibles amb ell. Per actualitzar, moveu elements del segon espai, reinicieu el dispositiu i creeu el segon espai de nou.
 Si no s\'actualitza, és possible que les aplicacions duals no funcionin correctament. "</string>
@@ -262,7 +262,7 @@ Si no s\'actualitza, és possible que les aplicacions duals no funcionin correct
   <string name="start_new_fingerprint_tips">Utilitzeu l\'empremta del Segon espai per entrar al Segon espai des de la pantalla de bloqueig</string>
   <string name="start_setting_guide_desc_title">Hi ha algunes coses per configurar</string>
   <string name="summary_switch_apps_settings">Seleccioneu aplicacions del Segon espai</string>
-  <string name="support_desc">Serveis de seguretat subministrats per Graphite</string>
+  <string name="support_desc">Serveis de seguretat proporcionats per Spaces Mobile</string>
   <string name="sure_to_use">Confirmeu</string>
   <string name="switchDataSummary">Moure elements entre espais</string>
   <string name="switch_apps_settings">Configuració de l\'aplicació</string>
@@ -302,10 +302,10 @@ Si no s\'actualitza, és possible que les aplicacions duals no funcionin correct
   <string name="transferImage">Les fotos del Segon espai seran mogudes a l\'àlbum \"Segon espai\" en el Primer espai</string>
   <string name="transferMessage">Els missatges del Segon espai es mouran al Primer espai</string>
   <string name="tryNow">Proveu-ho ara</string>
-  <string name="wating">Un moment&#8230;</string>
+  <string name="wating">Un moment…</string>
   <string name="weibo_send">Envia al Weibo</string>
   <string name="weixin_pay">Pagament WeChat</string>
-  <string name="weixin_share">Pagament WeChat</string>
+  <string name="weixin_share">Comparteix a Moments</string>
   <string name="xpsace_guide_button">Crea</string>
   <string name="xspace_account">Comptes d\'aplicacions duals</string>
   <string name="xspace_chocie">Suport d\'aplicacions duals</string>
@@ -320,13 +320,13 @@ Si no s\'actualitza, és possible que les aplicacions duals no funcionin correct
   <string name="xspace_header">Aplicacions duals</string>
   <string name="xspace_install_completed">S\'ha afegit una icona a la pantalla d\'inici</string>
   <string name="xspace_install_failed">"No s'ha pogut crear"</string>
-  <string name="xspace_installing">S\'està instal·lant&#8230;</string>
+  <string name="xspace_installing">S\'està instal·lant…</string>
   <string name="xspace_introduce">Recomanat</string>
   <string name="xspace_label">Aplicacions duals</string>
   <string name="xspace_loading_msg">S\'estan carregant les aplicacions&#8230;</string>
   <string name="xspace_setting_label">Configuració de les aplicacions duals</string>
-  <string name="xspace_uninstall_completed">Aplicació dual desinstal·lada satisfactòriament</string>
+  <string name="xspace_uninstall_completed">Aplicació dual desinstal·lada amb èxit</string>
   <string name="xspace_uninstall_dialog_content">La desinstal·lació d\'una aplicació dual n\'eliminarà totes les seves dades.</string>
   <string name="xspace_uninstall_dialog_title">Desinstal·lar aplicació dual</string>
-  <string name="xspace_uninstalling">Desinstal·lant&#8230;</string>
+  <string name="xspace_uninstalling">S\'està desinstal·lant…</string>
 </resources>

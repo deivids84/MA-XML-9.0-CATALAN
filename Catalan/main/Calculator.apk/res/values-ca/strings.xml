@@ -49,8 +49,9 @@
   <string name="date_time_picker_dialog_title">Estableix la data i l\'hora</string>
   <string name="dateformat">dd/LL/yyyy</string>
   <string name="day">dia</string>
+  <string name="del">SUPR</string>
   <string name="deleteDesc">elimina</string>
-  <string name="description_content">A més de les seves característiques bàsiques, la calculadora també funciona com convertidor multifuncional, hipoteca i calculadora d\'imposts. Assegureu-vos que podeu prescindir d\'aquestes funcions abans de desinstal·lar l\'aplicació.</string>
+  <string name="description_content">A més de les seves característiques bàsiques, la calculadora també funciona com convertidor multifuncional, hipoteca i calculadora d\'impostos. Assegureu-vos que podeu prescindir d\'aquestes funcions abans de desinstal·lar l\'aplicació.</string>
   <string name="description_title">Quant a la Calculadora</string>
   <string name="deselect_all">Anul·la la selecció</string>
   <string name="devided_by_zero_reminder_message">"No es pot dividir per zero"</string>
@@ -210,7 +211,7 @@
   <string name="mortgage_years_amount">Període de la hipoteca</string>
   <string name="mulDesc">multiplica</string>
   <string name="name">Nom</string>
-  <string name="network_confirm_content">El convertidor de moneda i les calculadores d\'impostos i d\'hipoteca utilitzen la connexió de xarxa per funcionar correctament.</string>
+  <string name="network_confirm_content">El convertidor de moneda i les calculadores d\'impostos i d\'hipoteca necessita connectar-se a Internet i accedir als serveis d\'ubicació per funcionar.</string>
   <string name="network_confirm_title">Es requereixen permisos</string>
   <string name="nickname">Sobrenom</string>
   <string name="night">PM</string>
@@ -409,7 +410,7 @@
   <string name="unit_data_display_length_dm">Decímetre</string>
   <string name="unit_data_display_length_fm">Braça</string>
   <string name="unit_data_display_length_ft">Peu</string>
-  <string name="unit_data_display_length_gongli">Quilòmetre</string>
+  <string name="unit_data_display_length_gongli">Gongli</string>
   <string name="unit_data_display_length_in">Polzada</string>
   <string name="unit_data_display_length_km">Quilòmetre</string>
   <string name="unit_data_display_length_ld">Distància lunar</string>

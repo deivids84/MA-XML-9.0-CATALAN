@@ -17,7 +17,7 @@
   <string name="holiday_data_no_network">"No es pot connectar a la xarxa. Comproveu la connexió de dades i torneu-ho a provar."</string>
   <string name="holiday_data_update_failed">"No s'ha pogut actualitzar. Comproveu la connexió de dades i torneu-ho a provar."</string>
   <string name="holiday_data_update_succeed">Actualització acabada</string>
-  <string name="holiday_data_updating">S\'està actualitzant&#8230;</string>
+  <string name="holiday_data_updating">S\'està actualitzant…</string>
   <string name="holiday_update_summary">Toqueu aquí per actualitzar la informació del calendari.</string>
   <string name="holiday_update_title">Actualització disponible</string>
   <string name="provider_label">Calendari</string>

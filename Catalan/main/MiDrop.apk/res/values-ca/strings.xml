@@ -52,7 +52,7 @@
   <string name="receiver_file_cancel">Transferència de %1$s interrompuda</string>
   <string name="receiver_in_progress_summary">Espera fins que la transferència actual hagi finalitzat per enviar nous fitxers</string>
   <string name="receiver_in_progress_title">Enviant fitxer(s)&#8230;</string>
-  <string name="receiver_insufficient_storage">No hi ha prou espai</string>
+  <string name="receiver_insufficient_storage">No hi ha prou espai d\'emmagatzematge.</string>
   <string name="receiver_insufficient_storage_cannot_send">"No es pot enviar: no hi ha prou espai"</string>
   <string name="receiver_interrupt_summary">"No apaguis el Wi-Fi mentre reps fitxers"</string>
   <string name="receiver_interrupt_summary_v21">"No apaguis el punt d'accés Wi-Fi mentre reps fitxers"</string>
@@ -80,8 +80,8 @@
   <string name="sender_scan_error">"No s'ha pogut escanejar, enviar de nou"</string>
   <string name="sender_select_device">Tria un dispositiu</string>
   <string name="sender_transfer_interrupt">"Transferència interrompuda, no apaguis el Wi-Fi durant la transferència"</string>
-  <string name="sender_wait">Esperant</string>
-  <string name="sender_wait_queue">Esperant</string>
+  <string name="sender_wait">S\'està esperant…</string>
+  <string name="sender_wait_queue">S\'està esperant…</string>
   <string name="split_comma">,</string>
   <string name="transfer_interrupt">Transferència interrompuda</string>
   <string name="transmission_click_send">envia</string>

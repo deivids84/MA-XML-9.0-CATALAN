@@ -17,8 +17,8 @@
   <string name="attach_video">Vídeo</string>
   <string name="back_to_message_list">Torneu a la llista de missatges</string>
   <string name="batch_delete_confirm_dialog_message">Suprimir missatges de %1$s?</string>
-  <string name="batch_deleting_message_progress_message">S\'està eliminant&#8230;</string>
-  <string name="batch_deleting_progress_message">S\'està eliminant&#8230;</string>
+  <string name="batch_deleting_message_progress_message">S\'està eliminant…</string>
+  <string name="batch_deleting_progress_message">S\'està eliminant…</string>
   <string name="bookmark_empty">No hi ha missatges favorits</string>
   <string name="bookmark_list_title">Agregat a favorits</string>
   <string name="cannot_send_message">"No es pot enviar el missatge"</string>
@@ -57,7 +57,7 @@
   <string name="discard_message">Descarteu</string>
   <string name="discard_message_reason">El teu missatge es descartarà perquè té alguns destinataris no vàlids.</string>
   <string name="done">Fet</string>
-  <string name="edit">Editeu</string>
+  <string name="edit">Edita</string>
   <string name="edit_phrase">Editeu les respostes ràpides</string>
   <string name="empty_mipub_list">Buit</string>
   <string name="enable_password_protect">Cal una contrasenya</string>

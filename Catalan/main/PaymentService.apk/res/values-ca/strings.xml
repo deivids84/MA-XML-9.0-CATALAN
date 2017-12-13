@@ -8,7 +8,7 @@
   <string name="mibi_applock_dialog_ok">Configuració</string>
   <string name="mibi_applock_dialog_title">Configuració d\'un nou patró de bloqueig</string>
   <string name="mibi_balance_payment_title">Crèdit Mi</string>
-  <string name="mibi_balance_title">Saldo</string>
+  <string name="mibi_balance_title">Mi Credits disponibles</string>
   <string name="mibi_bill_delete_dialog_title">Suprimeix %1$s</string>
   <string name="mibi_bill_delete_message">Voleu suprimir \"%1$s\"?</string>
   <string name="mibi_bill_menu_delete_item">Elimina</string>
@@ -130,7 +130,7 @@ Comproveu la vostra data local i torneu a provar."</string>
   <string name="mibi_giftcard_record">Les meves targetes regal</string>
   <string name="mibi_giftcard_title">Targeta regal Mi Credit</string>
   <string name="mibi_giftcard_will_expire">Caduca al %1$s</string>
-  <string name="mibi_giftcard_with_num">%1$s Cupó Mi Credit disponible</string>
+  <string name="mibi_giftcard_with_num">&lt;Data&gt;&amp;lt;font color=#FF7700&amp;gt;&amp;lt;xliff:g id=value&amp;gt;%1$d&amp;lt;/xliff:g&amp;gt; Cupó Mi Credit disponible&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
   <string name="mibi_header_network_error">"No s'ha pogut connectar a la xarxa."</string>
   <string name="mibi_illegal_intent">Intent de sol·licitud il·legal</string>
   <string name="mibi_is_what">Què puc comprar amb Mi Credits?</string>
@@ -370,7 +370,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_password_req_notice">La contrasenya ha de tenir de 8 a 16 caràcters i incloure números i lletres (sensible a majúscules).</string>
   <string name="passport_phone_num_hint_text">Número de telèfon</string>
   <string name="passport_prev">Enrere</string>
-  <string name="passport_privacy_policy">Polítiques de privadesa</string>
+  <string name="passport_privacy_policy">Política de privadesa</string>
   <string name="passport_pwd_generate_failure">"No s'ha pogut generar una contrasenya"</string>
   <string name="passport_pwd_generating">S\'està generant&#8230;</string>
   <string name="passport_quick_login_dialog_step2_title">Verificació en dues passes</string>
@@ -431,7 +431,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_user_agreement_p1">D\'acord amb&#160;</string>
   <string name="passport_user_agreement_p2">Acord d\'usuari</string>
   <string name="passport_user_agreement_p3">i</string>
-  <string name="passport_user_agreement_p4">Política de privacitat</string>
+  <string name="passport_user_agreement_p4">Política de privadesa</string>
   <string name="passport_vcode_notification_title">La verificació del vostre d\'inici de sessió no s\'ha completat</string>
   <string name="passport_vcode_prompt_long">Introduïu el codi de verificació</string>
   <string name="passport_vcode_sms_send_prompt">Envia el codi de verificació a %s</string>

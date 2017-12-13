@@ -19,6 +19,6 @@
   <string-array name="choose_ask_type">
     <item>Pregunta sempre</item>
     <item>Aplicació per defecte</item>
-    <item>Aplicació secundària</item>
+    <item>Aplicació dual</item>
   </string-array>
 </resources>

@@ -40,12 +40,12 @@ Per esborrar l\'historial del Navegador, feu servir la configuració del Navegad
   <string name="cta_declaration_title">Termes del Servei</string>
   <string name="default_hint">Cerca aplicacions, música, vídeos, llibres\u2026</string>
   <string name="device_settings_category_title">Esborrar les dreceres</string>
-  <string name="entrance_setting">S\'està obrint la cerca</string>
+  <string name="entrance_setting">Obertura de la cerca</string>
   <string name="google_app_label">Cerca de Google</string>
   <string name="google_search_description">Suggeriments de la Cerca de Google</string>
   <string name="google_search_hint">Cerca de Google</string>
   <string name="google_settings_category_title">Cerca de Google</string>
-  <string name="loading">Un moment&#8230;</string>
+  <string name="loading">Un moment…</string>
   <string name="local_app">Aplicacions</string>
   <string name="local_setting">Configuració</string>
   <string name="menu_help">Ajuda</string>
@@ -65,7 +65,7 @@ Per esborrar l\'historial del Navegador, feu servir la configuració del Navegad
   <string name="recent_delete_negative">Cancel·la</string>
   <string name="recent_delete_positive">D\'acord</string>
   <string name="recent_delete_title">Amaga aplicacions</string>
-  <string name="recent_edit">Edició</string>
+  <string name="recent_edit">Edita</string>
   <string name="recent_edit_done">Fet</string>
   <string name="recent_filter_functions">Característiques desactivades</string>
   <string name="recent_function">Característiques</string>

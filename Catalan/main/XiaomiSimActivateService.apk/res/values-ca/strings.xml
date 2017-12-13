@@ -63,7 +63,7 @@ Introduïu el número de telèfon associat amb la vostra targeta SIM nova per a 
   <string name="activate_popup_desc_register_account_intl">El vostre operador us podria cobrar per un SMS internacional utilitzat en crear el vostre compte Mi.</string>
   <string name="activate_popup_desc_sim_card">S\'enviarà 1 SMS iper activar %s. El vostre operador us ho cobrarà.</string>
   <string name="activate_popup_desc_sim_card_downlink">Introduïu el número de telèfon actual per activar %s.</string>
-  <string name="activate_popup_desc_voip_privacy">Política de privacitat</string>
+  <string name="activate_popup_desc_voip_privacy">Política de privadesa</string>
   <string name="activate_popup_desc_voip_privacy_prefix">"Servei de VoIP proporcionat per Weihui. Consulteu la documentació Weihui"</string>
   <string name="activate_popup_title_all_gateway_failed_query_info">"No és pot trobar el número"</string>
   <string name="activate_popup_title_all_gateway_failed_send_sms">"No es pot enviar l'SMS"</string>

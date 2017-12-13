@@ -67,7 +67,7 @@
   <string name="move_failure_alert_content">Aquests fitxers no s\'han mogut: %1$s</string>
   <string name="move_notification_title">S\'estan movent fitxers</string>
   <string name="move_preparing">S\'està preparant per moure…</string>
-  <string name="never_ask_again">"No preguntis més"</string>
+  <string name="never_ask_again">"No m'ho tornis a preguntar"</string>
   <string name="no_results">Cap coincidència a %1$s</string>
   <string name="notification_copy_files_converted_title">S\'han convertit alguns fitxers</string>
   <string name="notification_touch_for_details">Toqueu per veure els detalls</string>

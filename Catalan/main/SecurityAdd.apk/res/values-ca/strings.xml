@@ -34,7 +34,7 @@
   <string name="month_report_network_dialog_title">"No es pot obtenir la informació de l'informe"</string>
   <string name="month_report_result_share">Comparteix</string>
   <string name="month_report_share_img_fail">"No s'ha pogut compartir"</string>
-  <string name="month_report_share_loading">Un moment&#8230;</string>
+  <string name="month_report_share_loading">Un moment…</string>
   <string name="month_report_warning_dialog_description">"Per veure l'informe mensual, activeu aquesta característica a la configuració de l'aplicació de seguretat."</string>
   <string name="month_report_warning_dialog_positive">Activa</string>
   <string name="month_report_warning_dialog_title">Informe de seguretat mensual</string>
@@ -48,6 +48,6 @@
   <string name="privacy_prompt_traffic_purchase_message">"Per obtenir més informació sobre les opcions de compra de dades, es xifraran i es pujaran als servidors de Mi el vostre número de telèfon i els detalls de l'operador."</string>
   <string name="share">Comparteix</string>
   <string name="title_share_link">URL de compartició</string>
-  <string name="usage_sorted_loading_text">Un moment&#8230;</string>
+  <string name="usage_sorted_loading_text">Un moment…</string>
   <string name="xunyou_pay_webview">Serveis Xunyou</string>
 </resources>

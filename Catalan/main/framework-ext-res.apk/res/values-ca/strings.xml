@@ -154,14 +154,14 @@
   <string name="status_bar_toggle_vibrate">Vibra</string>
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
   <string name="status_bar_toggle_wifi_ap">Punt d\'accés</string>
-  <string name="switch_brand_desc_tv">Serveis de seguretat subministrats per Graphite</string>
+  <string name="switch_brand_desc_tv">Serveis de seguretat proporcionats per Spaces Mobile</string>
   <string name="switch_desc_tv">Dos espais. Un dispositiu.</string>
   <string name="switching_tv">S\'està canviant…</string>
   <string name="total">No molestis</string>
   <string name="total_description">[DND] Silencia els sons i desactiva la vibració per a tots els elements excepte el despertador</string>
   <string name="total_title">No molestis...</string>
   <string name="translation_more">Més</string>
-  <string name="translation_query_error">"No s'han pogut trobar resultats"</string>
+  <string name="translation_query_error">"No s'ha pogut trobar resultats"</string>
   <string name="translation_query_error_network">"No s'ha pogut connectar a la xarxa. Comproveu la configuració i torneu-ho a provar"</string>
   <string name="turn_off">Desactiva</string>
   <string name="twohours">1 hora</string>

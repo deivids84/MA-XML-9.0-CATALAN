@@ -3,7 +3,7 @@
 <resources>
   <string name="account">Compte</string>
   <string name="account_and_cloud">Compte</string>
-  <string name="action_item_add">Afegeix</string>
+  <string name="action_item_add">Afegir a la llista de reproducció</string>
   <string name="action_item_add_song">Afegeix a la llista de reproducció</string>
   <string name="action_item_add_to_current_playlist">Llista de reproducció actual</string>
   <string name="action_item_add_to_favorite_playlist">Llista de reproducció favorita</string>
@@ -32,11 +32,11 @@
   <string name="ad_data_exception">Excepció de dades AD!</string>
   <string name="ad_extension">Promoció</string>
   <string name="ad_mark">ANUNCI</string>
-  <string name="ad_recommend">Recomanació AD</string>
+  <string name="ad_recommend">Recomanacions</string>
   <string name="ad_setting">Configuració AD</string>
   <string name="add_music">Afegeix cançons</string>
   <string name="add_to_last_of_playlist">Afegeix al final de la llista de reproducció</string>
-  <string name="add_to_playlist_successful">S\'ha afegit correctament</string>
+  <string name="add_to_playlist_successful">S\'ha afegit amb èxit</string>
   <string name="added_next_play">S\'ha afegit per reproduir-lo a continuació</string>
   <string name="alaka_required">Aquesta cançó no està disponible.</string>
   <string name="album_label">Àlbum</string>
@@ -160,7 +160,7 @@
   <string name="delete_file_start">Esborra els fitxers seleccionats</string>
   <string name="delete_the_downloaded_file">S\'eliminaran els fitxers baixats.</string>
   <string name="desc_online_personal_radio">Només per a vós</string>
-  <string name="deselect_all">Anul·la tota la selecció</string>
+  <string name="deselect_all">Desselecciona-ho tot</string>
   <string name="desktop_lyric_button_close">Tanca</string>
   <string name="desktop_lyric_button_lock">Bloca</string>
   <string name="desktop_lyric_dialog_msg">Activeu o desactiveu les lletres a la pàgina d\'inici a Música &gt; Configuració &gt; Configuració avançada</string>
@@ -234,7 +234,7 @@
   <string name="download_cloud_error_unknow">"No s'ha pogut connectar a Mi Cloud"</string>
   <string name="download_complete">Baixada completada</string>
   <string name="download_complete_btn">S\'ha instal·lat</string>
-  <string name="download_complete_start_install">S\'està instal·lant&#8230;</string>
+  <string name="download_complete_start_install">S\'està instal·lant…</string>
   <string name="download_completed">Baixat</string>
   <string name="download_confirm_button_text">Instal·la</string>
   <string name="download_confirm_text">Música Mi baixarà i instal·larà %s</string>
@@ -401,7 +401,7 @@
   <string name="impunity_declaration_content1">"En prémer d'acord, accepteu els termes exposats en els nostres "</string>
   <string name="impunity_declaration_content2">Acord d\'usuari</string>
   <string name="impunity_declaration_content3">" i "</string>
-  <string name="impunity_declaration_content4">Política de privacitat</string>
+  <string name="impunity_declaration_content4">Política de privadesa</string>
   <string name="impunity_declaration_ignore">"No tornis a mostrar-ho"</string>
   <string name="impunity_declaration_negative_text">Tanca</string>
   <string name="impunity_declaration_positive_text">D\'acord</string>
@@ -433,8 +433,8 @@
   <string name="list_item_play_FM_radio">Toqueu per reproduir la ràdio FM</string>
   <string name="list_item_play_all_tracks">Reprodueix tot</string>
   <string name="load_shuffle">S\'està carregant&#8230;</string>
-  <string name="loadercontainer_loading">Un moment&#8230;</string>
-  <string name="loading_hint">Un moment&#8230;</string>
+  <string name="loadercontainer_loading">Un moment…</string>
+  <string name="loading_hint">Un moment…</string>
   <string name="local_header_title">Música local</string>
   <string name="local_music">Local</string>
   <string name="local_music_empty">La llista de reproducció està buida</string>
@@ -568,13 +568,13 @@
   <string name="notif_text_engine_off">L\'accelerador Xunlei està desactivat.</string>
   <string name="notif_text_engine_on">S\'està accelerant&#8230;</string>
   <string name="notif_title_file_size">%1$d en total</string>
-  <string name="notif_title_multiple_downloading">S\'estan baixant %1$d fitxers</string>
+  <string name="notif_title_multiple_downloading">S\'estan baixant %1$d cançons</string>
   <string name="notif_title_single_downloading">S\'està baixant %1$s</string>
   <string name="notification_des_next_song">Propera cançó: %s</string>
   <string name="notification_des_no_song">Música Mi. Novetats cada dia.</string>
   <string name="notification_download_complete">Baixada completada</string>
   <string name="notification_download_failed">"No s'ha pogut baixar"</string>
-  <string name="notification_download_failed_more">"%1$d baixades fallides"</string>
+  <string name="notification_download_failed_more">"No s'ha pogut baixar %1$d cançons"</string>
   <string name="notification_download_success_more">%1$d baixades</string>
   <string name="notification_need_wifi_for_size">La mida de la baixada requereix Wi-Fi.</string>
   <string name="notification_play_summary">Veure cançó actual i la propera, mostra les lletres de las cançons en la pantalla d\'inici</string>
@@ -720,7 +720,7 @@
   <string name="save">Desa</string>
   <string name="save_to_playlist">Desa com a llista de reproducció</string>
   <string name="search_album_and_lyric">Cerca àlbums i lletra per informació anterior</string>
-  <string name="search_empty">"Sense resultats. Proveu amb altres paraules"</string>
+  <string name="search_empty">"No s'ha pogut trobar resultats"</string>
   <string name="search_for_album">Àlbum</string>
   <string name="search_for_artist">Artista</string>
   <string name="search_hint">Cerca</string>
@@ -737,7 +737,7 @@
   <string name="select_displayed_folders">Trieu les carpetes a mostrar</string>
   <string name="select_local_album">Trieu un àlbum</string>
   <string name="select_local_lyric">Trieu una lletra</string>
-  <string name="select_none">Anul·la la selecció</string>
+  <string name="select_none">Desselecciona-ho tot</string>
   <string name="select_operation_items">Seleccioneu elements</string>
   <string name="selected_count">Seleccionats %1$d de %2$d</string>
   <string name="send_to">Comparteix</string>

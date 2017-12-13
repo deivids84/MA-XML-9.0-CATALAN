@@ -4,7 +4,7 @@
   <string name="action_cancel">Cancel·la</string>
   <string name="action_submit">Envia</string>
   <string name="announcement">Atenció</string>
-  <string name="app_empty">"No heu baixat cap aplicació."</string>
+  <string name="app_empty">"No s'han pogut trobar aplicacions."</string>
   <string name="app_label">Comentaris</string>
   <string name="app_name">Notificació d\'errors</string>
   <string name="app_search">Cerca aplicacions</string>

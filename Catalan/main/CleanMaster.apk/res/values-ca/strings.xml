@@ -116,7 +116,7 @@
   <string name="connecting">S\'està connectant&#8230;</string>
   <string name="deep_clean_completed_tips">S\'ha netejat correctament</string>
   <string name="deep_clean_data_path_clean_title">Neteja l\'emmagatzematge intern</string>
-  <string name="deep_clean_uninstall_completed_tips">S\'ha desinstal·lat correctament</string>
+  <string name="deep_clean_uninstall_completed_tips">S\'ha desinstal·lat amb èxit</string>
   <string name="deepclean_1_k_clean">Neteja amb un botó</string>
   <string name="deepclean_apk_content">Esborra APK o aplicacions innecessàries</string>
   <string name="deepclean_apk_summary_empty">Tot pinta bé, no hi ha APKs a eliminar</string>
@@ -158,9 +158,9 @@
   <string name="dialog_msg_add_white_list_error">"El fitxer no es pot afegir a les excepcions"</string>
   <string name="dialog_msg_backup_and_uninstall_apps">Voleu fer còpia de seguretat i després desinstal·lar les aplicacions seleccionades?</string>
   <string name="dialog_msg_check_all">Confirmar la selecció %1$s que conté %2$d entrades</string>
-  <string name="dialog_msg_esc_cleanmaster">Voleu aturar l\'exploració de neteja en curs?</string>
+  <string name="dialog_msg_esc_cleanmaster">Voleu aturar l\'anàlisi i sortir del Netejador?</string>
   <string name="dialog_msg_load_cleanup_engine_error">El motor de neteja s\'ha malmès.</string>
-  <string name="dialog_msg_stop_scan">Voleu aturar l\'exploració de neteja en curs?</string>
+  <string name="dialog_msg_stop_scan">Voleu aturar l\'anàlisi?</string>
   <string name="dialog_msg_uninstall_apps">Voleu desinstal·lar aquestes aplicacions?</string>
   <string name="dialog_msg_uninstall_apps_xspace">Voleu desinstal·lar aquests aplicacions? (incloent les aplicacions duals)?</string>
   <string name="dialog_ok_add_white_list_error">D\'acord</string>
@@ -285,13 +285,13 @@
   <string name="month_day_format">dd MMM</string>
   <string name="msg_cleanup_db_update_checking">S\'estan cercant actualitzacions&#8230;</string>
   <string name="msg_cleanup_db_update_time_unknown">Última actualització desconeguda</string>
-  <string name="msg_update_error_code_already_running">S\'està actualitzant&#8230;</string>
+  <string name="msg_update_error_code_already_running">S\'està actualitzant…</string>
   <string name="msg_update_error_code_network_error">"No es pot connectar a la xarxa"</string>
   <string name="msg_update_error_code_no_newer_db">El netejador està actualitzat</string>
   <string name="msg_update_error_code_success">Fet</string>
   <string name="msg_update_error_code_unknown_error">Error desconegut</string>
   <string name="name_debuglog_dir">Registre de depuració Bsp</string>
-  <string name="name_optimizer">Política de Privacitat</string>
+  <string name="name_optimizer">Política de privadesa</string>
   <string name="nb_clear_set">Neteja de la ROM, veure la bateria i informació de la llista de bloqueig a l\'àrea de notificacions</string>
   <string name="network_not_available">"No es pot connectar a la xarxa"</string>
   <string name="news_change">Canvia</string>
@@ -299,7 +299,7 @@
   <string name="no_network_btn">Torneu-ho a provar</string>
   <string name="notification_summary_after_auto_cleanup">%s netejats.</string>
   <string name="notification_summary_of_garbage_cleanup">Toqueu aquí per alliberar espai.</string>
-  <string name="notification_title_of_garbage_cleanup">Mida de la brossa</string>
+  <string name="notification_title_of_garbage_cleanup">%s de fitxers brossa</string>
   <string name="notify_when">Notificar quan la mida de la brossa arribi als 100 MB</string>
   <string name="ok">D\'acord</string>
   <string name="open">Activa</string>
@@ -447,7 +447,7 @@
   <string name="total_clean">Total netejat: %s</string>
   <string name="total_clean_text">Netejat</string>
   <string name="update_date_format">dd/MM/yyyy</string>
-  <string name="virus_scan">Anàlisi de virus</string>
+  <string name="virus_scan">Escaneig de seguretat</string>
   <string name="wechat_cache_files">Memòria cau del WeChat</string>
   <string name="wechat_chat_clean_done">Tot sembla correcte</string>
   <string name="wechat_chat_data_type_cache">Memòria cau del WeChat</string>

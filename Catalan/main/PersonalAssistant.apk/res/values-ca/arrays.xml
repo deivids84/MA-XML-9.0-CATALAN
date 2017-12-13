@@ -10,6 +10,11 @@
     <item>Última hora de la tarda</item>
     <item>Vespre</item>
   </string-array>
+  <string-array name="detail_font_size">
+    <item>Petita</item>
+    <item>Normal</item>
+    <item>Gran</item>
+  </string-array>
   <string-array name="express_status_all">
     <item>De camí</item>
     <item>En tramitació</item>
@@ -23,6 +28,11 @@
   <string-array name="express_status_detail">
     <item>De camí</item>
     <item>En tramitació</item>
+  </string-array>
+  <string-array name="payment_chooser">
+    <item>SMS (targetes de dèbit i de crèdit)</item>
+    <item>WeChat</item>
+    <item>Alipay</item>
   </string-array>
   <string-array name="stock_color_schema">
     <item>Vermell - amunt, verd - avall</item>

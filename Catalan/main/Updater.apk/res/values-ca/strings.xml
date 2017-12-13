@@ -19,21 +19,21 @@
   <string name="dialog_3g_title">Avís!</string>
   <string name="dialog_btn_3g">Continua de totes maneres</string>
   <string name="dialog_btn_wifi">Canvia a Wi-Fi</string>
-  <string name="dialog_stop_desc">Esteu segurs d\'aturar una baixada en curs? Es perdrà tot el progrés i no es podrà reprendre. El proper intent de baixada començarà des del principi.</string>
+  <string name="dialog_stop_desc">Podeu pausar o aturar la baixada, feu la vostra elecció.</string>
   <string name="dialog_stop_title">Voleu aturar la baixada?</string>
   <string name="download_done">S\'ha baixat amb èxit!</string>
   <string name="download_fail">S\'ha produït un error durant la baixada!</string>
   <string name="download_fail_desc">La suma MD5 no coincideix…</string>
   <string name="downloading">S\'està baixant:</string>
   <string name="downloading_desc">Baixada en curs, comproveu l\'estat en l\'àrea de notificació.</string>
-  <string name="install_desc">\"El dispositiu es reiniciarà en mode recuperació i instal·larà el fitxer seleccionat: %1$s
-Les dades no es netejaran.\"</string>
+  <string name="install_desc">El dispositiu es reiniciarà per recuperar i instal·lar el fitxer seleccionat:&lt;b&gt; %1$s&lt;/b&gt;\"
+Les dades no s\'esborraran.\"</string>
   <string name="install_title">Esteu segur que voleu continuar?</string>
   <string name="menu_title_current_version_log">Novetats</string>
   <string name="menu_title_pick_rom_file">Selecciona el paquet d\'actualització</string>
   <string name="menu_title_recovery">Reinicia en mode de recuperació</string>
   <string name="message">%1$s</string>
-  <string name="message_checkbox">Amaga els missatges futurs de l\'equip de Xioami.eu</string>
+  <string name="message_checkbox">Oculta els missatges futurs de l\'equip de Xioami.eu</string>
   <string name="message_title">NOTA!</string>
   <string name="new_version">S\' ha trobat una nova versió!</string>
   <string name="no_info">No hi ha informació disponible.</string>

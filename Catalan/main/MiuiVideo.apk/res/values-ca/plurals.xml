@@ -18,8 +18,8 @@
     <item quantity="one">%d fitxer</item>
   </plurals>
   <plurals name="notification_sub_title">
-    <item quantity="other">Descarregat %d fitxers correctament</item>
-    <item quantity="one">Descarregat %d fitxer correctament</item>
+    <item quantity="other">S\'ha baixat el fitxers %d amb èxit</item>
+    <item quantity="one">S\'ha baixat el fitxer %d amb èxit</item>
   </plurals>
   <plurals name="offline_num">
     <item quantity="other">%d fitxers</item>
