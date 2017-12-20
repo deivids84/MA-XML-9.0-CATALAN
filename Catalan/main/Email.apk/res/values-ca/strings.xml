@@ -8,9 +8,9 @@
   <string name="accessibility_guide_second">A continuació, feu clic a l\'interruptor a la bora superior dreta, feu clic a «Continua» per continuar.</string>
   <string name="account_duplicate_dlg_message_fmt">"Ja esteu utilitzant aquest nom d'usuari pel compte \"%s\"."</string>
   <string name="account_duplicate_dlg_title">Compte duplicada</string>
-  <string name="account_failure">Error del compte</string>
+  <string name="account_failure">Temps de sessió esgotat</string>
   <string name="account_name_toast">No s\'ha pogut crear el compte. Ja existeix un compte amb el mateix nom.\"</string>
-  <string name="account_options_sync_title">Configuració de sincronització</string>
+  <string name="account_options_sync_title">Sincronitza</string>
   <string name="account_password_spaces_error">"Aquesta contrasenya comença o acaba amb un o més
         espais en blanc. Molts servidors no admeten contrasenyes amb espais en blanc."</string>
   <string name="account_security_dialog_content_fmt">"%s requereix que actualitzi la configuració de
@@ -46,15 +46,15 @@
   <string name="account_settings_mail_check_frequency_label">Freqüència de sincronització</string>
   <string name="account_settings_mibill_resolve_label">Analitzar declaracions email</string>
   <string name="account_settings_name_label">El seu nom</string>
-  <string name="account_settings_notifications">Configuració de les notificacions</string>
+  <string name="account_settings_notifications">Notifications</string>
   <string name="account_settings_notify_label">Notificacions de correu electrònic</string>
   <string name="account_settings_notify_summary">Envia una notificació quan arribi email</string>
   <string name="account_settings_param">Configuració del compte</string>
   <string name="account_settings_policies">Polítiques de seguretat</string>
-  <string name="account_settings_preference_add_account">Afegeix un compte de bústia</string>
-  <string name="account_settings_preference_att_save_path">Ubicació predeterminada per als fitxers adjunts</string>
+  <string name="account_settings_preference_add_account">Afegeix un compte de correu</string>
+  <string name="account_settings_preference_att_save_path">Ubicació per defecte per als fitxers adjunts</string>
   <string name="account_settings_preference_head_icon">Fotos de perfil</string>
-  <string name="account_settings_preference_notify">Avís</string>
+  <string name="account_settings_preference_notify">Avisa\'m</string>
   <string name="account_settings_retry_label">Intentar sincronitzar</string>
   <string name="account_settings_retry_summary">Premeu per sincronitzar el compte</string>
   <string name="account_settings_ringtone">Triar el to de trucada</string>
@@ -69,7 +69,7 @@
   <string name="account_settings_unsupported_label">Polítiques no admeses</string>
   <string name="account_settings_unsupported_summary">Cap</string>
   <string name="account_settings_user_usage">Configuració del compte</string>
-  <string name="account_settings_using_ringtone">To de trucada</string>
+  <string name="account_settings_using_ringtone">So</string>
   <string name="account_settings_vibrate_when_label">Vibra</string>
   <string name="account_setup_account_type_instructions">Quin tipus de compte és aquest?</string>
   <string name="account_setup_account_type_title">Configuració del compte</string>
@@ -77,10 +77,10 @@
   <string name="account_setup_autodiscover_dlg_authfail_message">Confirmar el nom d\'usuari, contrasenya i compte, els ajustos són correctes.</string>
   <string name="account_setup_autodiscover_dlg_authfail_title">"Problema amb la configuració del compte"</string>
   <string name="account_setup_basics_email_label">Introduïu l\'adreça de correu</string>
-  <string name="account_setup_basics_login_gmail_without_proxy">Utilitza la connexió de xarxa actual</string>
+  <string name="account_setup_basics_login_gmail_without_proxy">Inicieu sessió mitjançant la xarxa actual</string>
   <string name="account_setup_basics_manual_setup_action">Configuració manual</string>
   <string name="account_setup_basics_mi_mail_login_help">És possible que hageu de verificar el vostre compte mitjançant un SMS per rebre correus</string>
-  <string name="account_setup_basics_password_label">Contrasenya</string>
+  <string name="account_setup_basics_password_label">Introduïu la contrasenya</string>
   <string name="account_setup_basics_title">Afegeix un compte</string>
   <string name="account_setup_check_settings_check_incoming_msg">Validant la configuració del servidor…</string>
   <string name="account_setup_check_settings_check_outgoing_msg">Validant configuració smtp…</string>
@@ -99,7 +99,7 @@
   <string name="account_setup_failed_dlg_certificate_message">"No es pot connectar segurament amb el servidor."</string>
   <string name="account_setup_failed_dlg_certificate_message_fmt">"No es pot connectar segurament amb el servidor.
 (%s)"</string>
-  <string name="account_setup_failed_dlg_device_locked">\"No s\'ha pogut iniciar la sessió. Aquest compte ha estat blocat.\"​</string>
+  <string name="account_setup_failed_dlg_device_locked">El vostre compte està protegit. Verifiqueu aquest dispositiu mitjançant QQ Security o elimineu la protecció.</string>
   <string name="account_setup_failed_dlg_edit_details_action">Edita els detalls</string>
   <string name="account_setup_failed_dlg_error_code">Codi d\'error: %s</string>
   <string name="account_setup_failed_dlg_server_message">"No es pot connectar al servidor."</string>
@@ -128,7 +128,7 @@
   <string name="account_setup_incoming_server_label">Servidor</string>
   <string name="account_setup_incoming_username_label">Nom d\'usuari</string>
   <string name="account_setup_incoming_username_label_default_hint">Pots incloure el domini</string>
-  <string name="account_setup_need_password_verification">El vostre compte té autenticació amb contrasenya secundària. Cal la autenticació completa.</string>
+  <string name="account_setup_need_password_verification">El vostre compte té autenticació en 2 passos. Es requereix l\'autenticació.</string>
   <string name="account_setup_options_actionbar_title">Configuració ràpida</string>
   <string name="account_setup_options_mail_check_frequency_10min">Cada 10 minuts</string>
   <string name="account_setup_options_mail_check_frequency_12hour">Cada 12 hores</string>
@@ -146,7 +146,7 @@
   <string name="account_setup_options_mail_window_all">Tot</string>
   <string name="account_setup_options_mail_window_auto">Automàtic</string>
   <string name="account_setup_options_mail_window_default">Utilitza compte per defecte</string>
-  <string name="account_setup_options_mail_window_label">Dies a sincronitzar</string>
+  <string name="account_setup_options_mail_window_label">Període de sincronització</string>
   <string name="account_setup_options_mail_window_label_imap_or_pop3">Mantenir per</string>
   <string name="account_setup_options_title">Configuració del compte</string>
   <string name="account_setup_outgoing_require_login_label">Necessites iniciar sessió</string>
@@ -157,7 +157,7 @@
   <string name="account_setup_username_password_toast">Introduïu una adreça electrònica i una contrasenya.</string>
   <string name="account_sync_off">Sincronització de compte esta apagada.</string>
   <string name="account_sync_settings_settings">Sincronitza els contactes i els calendaris del compte</string>
-  <string name="account_sync_settingstip_description">Sincronitzar la configuració</string>
+  <string name="account_sync_settingstip_description">Sincronitza</string>
   <string name="account_waiting_for_folders_msg">Carregant llista de carpetes</string>
   <string name="actionbar_large_unread_count">%1$d per llegir</string>
   <string name="activity_folder_selection">Trieu carpeta</string>
@@ -179,7 +179,7 @@
   <string name="archive">Fitxer</string>
   <string name="archived">Arxivat</string>
   <string name="att_download_failed_content">"No s'ha pogut baixar el fitxer adjunt d'aquest missatge."</string>
-  <string name="att_download_failed_network_slow">Xarxa lenta, si us plau descàrrega més tard</string>
+  <string name="att_download_failed_network_slow">La velocitat de connexió és massa lenta, torneu-ho a provar més tard</string>
   <string name="att_download_failed_permission_denied">"No tens autorització per accedir a emmagatzematge extern"</string>
   <string name="att_download_failed_title">"No s'ha pogut baixar l'adjunt"</string>
   <string name="att_file_not_exists">"No s'ha trobat %s"</string>
@@ -222,11 +222,13 @@
   <string name="auto_remind_text">Recordatoris automàtics</string>
   <string name="auto_remind_unbind">Atura</string>
   <string name="auto_sync_off">Sincronització automàtica apagada.</string>
-  <string name="automatic_remind_text">recordatori</string>
+  <string name="automatic_remind_text">Recorda automàticament</string>
   <string name="back">Enrere</string>
   <string name="bank_card_detail">Detalls de la targeta de crèdit</string>
   <string name="battery_saver">Estalvi de bateria</string>
   <string name="battery_saver_keywords">estalvi de bateria;bateria de correu</string>
+  <string name="bcc">Cco</string>
+  <string name="bcc_heading">"Cco: "</string>
   <string name="bill_center_setting">Configuració de la facturació</string>
   <string name="bill_center_setting_head">Importa informació d\'aquests comptes</string>
   <string name="bill_cycle_text">Cicle de facturació</string>
@@ -245,13 +247,15 @@
   <string name="calendar_remind_gridview_pick_date">Triar data</string>
   <string name="cancel">Cancel·la</string>
   <string name="cancel_action">Cancel·la</string>
-  <string name="cancel_pop3_attchemt_downloading">"La cancel·lació de qualsevol arxiu adjunt baixat no està disponible per a un tipus de compte POP3."</string>
+  <string name="cancel_pop3_attchemt_downloading">"No es poden cancel·lar les baixades en curs dels fitxers adjunts als comptes POP3"</string>
   <string name="cant_move_or_change_labels">"\"\"No es pot moure perquè la selecció conté diversos 
          comptes.\"\""</string>
+  <string name="cc_attribution">Cc: %1$s</string>
+  <string name="cc_bcc">Cc/Cco</string>
   <string name="change_folders_selection_dialog_title">Canvia carpetes</string>
   <string name="change_sync_settings">Canvia la configuració de sincronització</string>
   <string name="changepw_dialog_tips">Torneu a introduir la contrasenya per %s</string>
-  <string name="changepw_dialog_tips_please_clikc_btn">Comproveu el codi de verificació %s i torneu a iniciar sessió</string>
+  <string name="changepw_dialog_tips_please_clikc_btn">Comproveu el codi de verificació a %s i torneu a iniciar sessió.</string>
   <string name="chat_item_msg_people_unit">persones</string>
   <string name="chat_item_msg_user_etc">…</string>
   <string name="check_setup_data">"Validant la configuració del servidor…"</string>
@@ -281,10 +285,10 @@
   <string name="confirm_delete_attachment">Voleu eliminar el fitxer adjunt?</string>
   <string name="confirm_delete_conversation_title">Esborra</string>
   <string name="confirm_discard_text">Descarta aquest missatge?</string>
-  <string name="confirm_response">Enviant resposta&#8230;</string>
+  <string name="confirm_response">S\'està enviant…</string>
   <string name="confirm_save_message_no">No</string>
   <string name="confirm_save_message_title">Desa com a esborrany?</string>
-  <string name="confirm_save_message_yes">Sí</string>
+  <string name="confirm_save_message_yes">Desa</string>
   <string name="confirm_send_message_with_no_body">"No hi ha cap text al cos del missatge."</string>
   <string name="confirm_send_message_with_no_subject">"No hi ha cap text en l'assumpte del missatge."</string>
   <string name="confirm_send_title">Voleu enviar el missatge?</string>
@@ -304,7 +308,7 @@
   <string name="contact_select">Selecciona contactes</string>
   <string name="content_description">%1$s sobre %2$s, %3$s en %4$s, %5$s</string>
   <string name="content_description_today">%1$s sobre %2$s, %3$s en %4$s, %5$s</string>
-  <string name="contextmenu_add">Afegir a contactes</string>
+  <string name="contextmenu_add">Afegeix als contactes</string>
   <string name="contextmenu_add_contact">Afegeix contacte</string>
   <string name="contextmenu_call">Trucar</string>
   <string name="contextmenu_copy">Copia</string>
@@ -358,7 +362,7 @@
   <string name="device_admin_label">Correu electrònic</string>
   <string name="device_not_activiey_lint1">L\'administrador de dispositius no està activat</string>
   <string name="device_not_activiey_lint2">Servei de correu no funciona correctament exchange</string>
-  <string name="dialog_account_auto_sync_setting_no_open">No es poden rebre nous missatges. La sincronització està apagada.</string>
+  <string name="dialog_account_auto_sync_setting_no_open">Heu triat sincronitzar els correus manualment. Refresqueu per sincronitzar.</string>
   <string name="dialog_change_sync_lookback">Els correus rebuts fa %s s\'eliminaran automàticament. Premeu per canviar-ho.</string>
   <string name="dialog_gmail_proxy_server_is_error">Error de servidor intermediari de Gmail.</string>
   <string name="dialog_insufficient_space_on_external">"No es pot acabar de baixar. No hi ha prou espai d'emmagatzematge extern."</string>
@@ -429,8 +433,8 @@
   <string name="feedback_user_edit_tag">De MIUI&#160;</string>
   <string name="fetch_bank_sender_list_failure">"No s'ha pogut obtenir la informació"</string>
   <string name="fetching_attachment">Afegint adjunt</string>
-  <string name="file_defailt_save_path">Els fitxers adjunts es desen a la carpeta %s de manera predeterminada. Podeu canviar la carpeta a la Configuració.</string>
-  <string name="file_default_save_path_title">Ubicació predeterminada per als fitxers adjunts</string>
+  <string name="file_defailt_save_path">Els fitxers adjunts es desen a la carpeta %s per defecte. Podeu canviar la carpeta a la Configuració.</string>
+  <string name="file_default_save_path_title">Ubicació per defecte per als fitxers adjunts</string>
   <string name="file_deleted_success">Fitxer eliminat</string>
   <string name="file_not_found">"No s'ha trobat el fitxer"</string>
   <string name="file_not_found_redownload">"No s'ha trobat el fitxer"</string>
@@ -538,16 +542,16 @@
   <string name="login139">Inicia sessió amb una tecla CMCC</string>
   <string name="login_failed_ticker">%s inici de sessió infructuós.</string>
   <string name="login_failed_title">"No es pot iniciar sessió"</string>
-  <string name="login_support_tip_text">Compatible amb totes les bústies de correu comuns</string>
+  <string name="login_support_tip_text">Compatible amb gairebé tots els comptes de correu principals</string>
   <string name="long_press_to_select_tip">Toqueu sense deixar anar per seleccionar una conversa, a continuació toqui una altra per seleccionar més.</string>
   <string name="mail">Correu</string>
   <string name="mail_body_turncated">Aquest e-mail és massa gran per carregar i només es mostra part d\'ell, per visualitzar-lo complet utilitzeu un PC</string>
   <string name="mail_description_content">El correu és un client de correu que pot gestionar diversos comptes, enviar i rebre missatges de correu, així com sincronitzar la informació i contactes del vostre calendari. Assegureu-vos que podeu fer sense aquestes funcions abans de desinstal·lar l\'aplicació. Els contactes d\'Exchange i la informació del calendari també se suprimiran.</string>
-  <string name="mail_description_title">Introducció al correu</string>
+  <string name="mail_description_title">Quant al correu</string>
   <string name="mail_header_network_not_available">"No té connexió de xarxa."</string>
   <string name="mailbox_list_account_selector_combined_view">Compte combinat</string>
   <string name="mailbox_name_display_ad">Publicitat i notificacions</string>
-  <string name="mailbox_name_display_add_account">Afegeix un compte de bústia</string>
+  <string name="mailbox_name_display_add_account">Afegeix un compte de correu</string>
   <string name="mailbox_name_display_circular">Notificacions</string>
   <string name="mailbox_name_display_drafts">Esborranys</string>
   <string name="mailbox_name_display_inbox">Entrada</string>
@@ -607,9 +611,9 @@
   <string name="megabytes">%s MB</string>
   <string name="menu_att_mgr">Fitxers adjunts</string>
   <string name="menu_att_mgr_order_default">Recents</string>
-  <string name="menu_att_mgr_order_mime">Ordena per format</string>
-  <string name="menu_att_mgr_order_name">Ordena per nom</string>
-  <string name="menu_att_mgr_order_rev_date">Ordena per temps</string>
+  <string name="menu_att_mgr_order_mime">Format</string>
+  <string name="menu_att_mgr_order_name">Nom</string>
+  <string name="menu_att_mgr_order_rev_date">Data</string>
   <string name="menu_att_mgr_order_size">Ordena per mida</string>
   <string name="menu_change_folders">Canvia carpetes</string>
   <string name="menu_compose">Redacta</string>
@@ -658,7 +662,7 @@
   <string name="network_unavailable">Xarxa no disponible</string>
   <string name="new_incoming_messages_one">Nou missatge de %s. vol mostrar.</string>
   <string name="new_messages">%1$d missatges nous</string>
-  <string name="new_signature_has_saved">S\'ha desat la nova signatura</string>
+  <string name="new_signature_has_saved">S\'ha desat amb èxit</string>
   <string name="next_action">Següent</string>
   <string name="no_application_found">Cap aplicació pot obrir aquest accessori per a la seva visualització.</string>
   <string name="no_application_found_title">Obre aquest fitxer adjunt.</string>
@@ -714,7 +718,7 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="outbox_alert_edit_resend">Edita i envia de nou</string>
   <string name="outbox_alert_failed_edit_resend">"No s'ha pogut enviar. Editeu i torneu a provar.\""</string>
   <string name="outbox_alert_mailbox_not_found">Adreça de correu electrònic no trobada</string>
-  <string name="outbox_alert_rw_io_error">Excepció de lectura/escriptura en correu, si us plau intenti escriure i enviar de nou</string>
+  <string name="outbox_alert_rw_io_error">Hi ha hagut un error. Espereu un minut o dos i torneu-ho a provar.</string>
   <string name="outbox_alert_select_operation">Trieu una acció</string>
   <string name="outbox_alert_title_sent_failed">"No pot enviar correu"</string>
   <string name="outbox_no_mails">No hi ha missatges a la bústia de sortida</string>
@@ -745,7 +749,7 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="path_about_email_setting">Correu/Configuració</string>
   <string name="path_about_send_feed_back">Correu/Configuració/Envia comentaris</string>
   <string name="path_about_upload_logs">Correu/Configuració/Puja els registres</string>
-  <string name="perference_change_pw_notnull_tips">La contrasenya no pot estar en blanc</string>
+  <string name="perference_change_pw_notnull_tips">Introduïu la contrasenya</string>
   <string name="perference_change_pw_ok_tips">Contrasenya actualitzada correctament</string>
   <string name="perference_setup_pop_del">Eliminar missatges del servidor</string>
   <string name="perference_setup_recv_tag">Servidor de correu entrant</string>
@@ -825,7 +829,7 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="qq_uthentication_failed">"Error d'autenticació, inicieu sessió una altra vegada"</string>
   <string name="qq_webview_loading">Un moment…</string>
   <string name="questionnair_body_invisibility">"No es mostren els missatges"</string>
-  <string name="questionnair_confirm_delete">Eliminar</string>
+  <string name="questionnair_confirm_delete">Voleu eliminar el compte?</string>
   <string name="questionnair_instability">Aplicació inestable, reinicis</string>
   <string name="questionnair_not_send">"No es poden enviar correus electrònics"</string>
   <string name="questionnair_not_sync">Sincronització inestable</string>
@@ -892,7 +896,7 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="reduce_the_receiving_frequencye_title">Sincronitzar amb menor freqüència</string>
   <string name="refresh">Actualitza</string>
   <string name="refreshing">S\'està actualitzant&#8230;</string>
-  <string name="refreshing_done">Sincronització completa</string>
+  <string name="refreshing_done">Fet</string>
   <string name="release_to_refresh">Deixar anar per refrescar</string>
   <string name="remind_attachment_size_limit">Els correus haurien de ser inferiors a %s MB</string>
   <string name="remote_search_result">%s correus trobats al servidor</string>
@@ -904,20 +908,24 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="reply_all">Respon a tots</string>
   <string name="reply_attribution" formatted="false">En %s, %s va escriure:</string>
   <string name="report_phishing">Denunciar phishing</string>
+  <string name="report_rendering_improvement">Pinta bé</string>
+  <string name="report_rendering_improvement_desc">Aquest missatge pinta bé.</string>
+  <string name="report_rendering_problem">Pinta malament</string>
+  <string name="report_rendering_problem_desc">Aquest missatge pinta malament.</string>
   <string name="report_spam">Denunciar spam</string>
   <string name="request_entity_large">El fitxer és massa gran</string>
   <string name="request_permission_activity">Sol·licitud de permís</string>
   <string name="respond_inline">"   Respon en línia"</string>
-  <string name="save_action">Desar</string>
-  <string name="save_attachment">Desar</string>
-  <string name="save_draft_failed">Desar esborrany ha fallat</string>
+  <string name="save_action">Desa</string>
+  <string name="save_attachment">Desa</string>
+  <string name="save_draft_failed">No s\'ha pogut desar l\'esborrany</string>
   <string name="save_power_summary">Establir temps d\'estalvi de bateria</string>
   <string name="save_power_title">Estalvi de bateria</string>
-  <string name="save_this_new_signature">Voleu desar aquesta nova signatura?</string>
+  <string name="save_this_new_signature">Voleu desar la nova signatura?</string>
   <string name="saved">Desat, %s</string>
   <string name="saving">Desant…</string>
   <string name="sdcard_cannot_use">"La targeta d'emmagatzematge no es pot utilitzar"</string>
-  <string name="search_bar_text">Cerca correu, remitent</string>
+  <string name="search_bar_text">Cerca missatges i contactes</string>
   <string name="search_hint">Cerca correu</string>
   <string name="search_result">"Resultats"</string>
   <string name="search_tabs_name_all">Tot</string>
@@ -944,7 +952,7 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="send_mail">Envia</string>
   <string name="sender_whitelist_cleared">"Imatges no es mostraran automàticament."</string>
   <string name="senders_split_token">,</string>
-  <string name="sending">Enviant&#8230;</string>
+  <string name="sending">S\'està enviant…</string>
   <string name="sending_message">Enviant el missatge&#8230;</string>
   <string name="sending_quick_reply">S\'està enviant el correu «%s»</string>
   <string name="sent_folder_selection_title">Seleccioneu la carpeta d\'elements enviats pel servidor %s</string>
@@ -994,9 +1002,8 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="sync_contacts_req_per_ignored">Permeteu que el correu accedeixi als contactes per sincronitzar</string>
   <string name="sync_error">"No s'ha pogut sincronitzar."</string>
   <string name="sync_error_message">"El dispositiu no té prou espai d'emmagatzematge per sincronitzar."</string>
-  <string name="syncing_wait_restart">Feu clic a reintenta</string>
-  <string name="syncing_wait_restart_title">\"La connexió del servidor ha caducat 
-  No es pot carregar el missatge\"</string>
+  <string name="syncing_wait_restart">Torna-ho a provar</string>
+  <string name="syncing_wait_restart_title">La connexió del servidor va esgotar el temps d\'espera</string>
   <string name="system_account_create_failed">"No s'ha pogut crear el compte. Tornar a provar."</string>
   <string name="system_folders_sent_dlg">"Seleccioneu la carpeta d'elements enviats del seu servidor"</string>
   <string name="system_folders_sent_summary">"Seleccioneu la carpeta d'elements enviats del seu servidor"</string>
@@ -1011,6 +1018,7 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="tablet">tauleta tàctil</string>
   <string name="tap_to_configure">Toqui per configurar.</string>
   <string name="tap_to_enable_sync">Toqui per encendre.</string>
+  <string name="to">Per</string>
   <string name="to_heading">"Per: "</string>
   <string name="toast_bar_fail_synchronization">"No es pot connectar a la xarxa"</string>
   <string name="toast_bar_insufficient_memory_space">"No es poden rebre correus. No hi ha prou espai d'emmagatzematge."</string>
@@ -1028,8 +1036,8 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="too_large_to_attach_additional">"No s'ha adjuntat. %1$s de límit assolit."</string>
   <string name="too_large_to_attach_multiple">"Un o més fitxers no adjuntats. Límit de %1$s."</string>
   <string name="too_large_to_attach_single">"No es poden adjuntar fitxers més grans que %1$s."</string>
-  <string name="topic_merge">Combina temes</string>
-  <string name="topic_merge_summary">Mode organitzat per fil</string>
+  <string name="topic_merge">Mostra la configuració</string>
+  <string name="topic_merge_summary">Agrupa per tema</string>
   <string name="translation_loading">Un moment…</string>
   <string name="translation_no_result">No s\'han trobat resultats</string>
   <string name="translation_pronunciation_am">ArE</string>
@@ -1051,7 +1059,7 @@ Voleu aturar-ho?"</string>
   <string name="unsent_messages_in_outbox">%1$s no enviats a %2$s</string>
   <string name="unzip_file_failed">"No s'ha pogut descomprimir el fitxer"</string>
   <string name="update_date_format_templete">HH:mm aa, dd MMMM</string>
-  <string name="update_to_wps_mail">Per funcions més avançades, actualitzeu a WPS-mail</string>
+  <string name="update_to_wps_mail">Gaudiu de més funcions amb WPS Mail</string>
   <string name="updated_at">Última actualització %1$s</string>
   <string name="upload_log">Pujar registres</string>
   <string name="upload_log_failed">"La pujada dels registres ha fallat"</string>
@@ -1069,7 +1077,7 @@ Toqui \" Sincronitza ara per sincronitzar el correu una vegada, o Canviar la con
   <string name="wait_for_sync_title">A l\'espera de sincronització</string>
   <string name="webview_logout">Podeu tornar a iniciar la sessió</string>
   <string name="webview_logout_cancel">No ho tornaré a provar</string>
-  <string name="webview_logout_sure">Prova-ho una vegada més</string>
+  <string name="webview_logout_sure">Torna-ho a provar</string>
   <string name="webview_sslerror_handle_cancel">Cancel·la</string>
   <string name="webview_sslerror_handle_continue">Continua</string>
   <string name="webview_sslerror_handle_hitmessage">Error de certificat! Voleu continuar en aquest lloc web (no recomanat)?</string>

@@ -14,7 +14,6 @@
   <string name="clear_records">Elimina les gravacions sincronitzades</string>
   <string name="cloud_record_open">Sincronitza gravacions</string>
   <string name="cloud_record_tip">Sincronitza les gravacions amb Mi Cloud.</string>
-  <string name="cloud_service_state_open_reminder">Activeu la sincronització amb Mi Cloud per sincronitzar els fitxers de gravació.</string>
   <string name="cloud_status_full_dialog_cancel">Ara no</string>
   <string name="cloud_status_full_dialog_msg">"L'emmagatzematge al núvol està ple i no es poden sincronitzar les gravacions. Milloreu el vostre compte per aconseguir més espai."</string>
   <string name="cloud_status_full_dialog_ok">Millora</string>
@@ -53,8 +52,8 @@
   <string name="mark_point_list_title">Marques</string>
   <string name="message_file_size_error">La gravació ha arribat a la durada màxima permesa per %s</string>
   <string name="network_tip_dialog_cancel">Cancel·la</string>
-  <string name="network_tip_dialog_content">El motor de reconeixement de veu necessita connectar-se a Internet per funcionar correctament.</string>
-  <string name="network_tip_dialog_ok">Permet</string>
+  <string name="network_tip_dialog_content">La gravadora necessita connectar-se a Internet, així com llegir els vostres contactes perquè funcioni normalment. Hi esteu d\'acord?</string>
+  <string name="network_tip_dialog_ok">D\'acord</string>
   <string name="network_tip_dialog_title">Es necessita una connexió a Internet</string>
   <string name="new_record_name">Gravació nova</string>
   <string name="no_file">No hi ha gravacions</string>

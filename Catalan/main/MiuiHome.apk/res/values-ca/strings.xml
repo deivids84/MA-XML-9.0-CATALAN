@@ -58,7 +58,7 @@
   <string name="default_folder_title_recommend">Més aplicacions</string>
   <string name="default_folder_title_security">Sistema</string>
   <string name="default_folder_title_tools">Eines</string>
-  <string name="default_screen_preview_title">Configuració de la pantalla predeterminada</string>
+  <string name="default_screen_preview_title">Toqueu per establir la pantalla per defecte</string>
   <string name="delete">Elimina</string>
   <string name="delete_screen">Elimina la pantalla</string>
   <string name="delete_wallpaper_message">Voleu eliminar %1$d fons de pantalla?</string>
@@ -155,7 +155,7 @@
   <string name="menu_back_desktop">Torna a la pantalla d\'inici</string>
   <string name="menu_cell_setting">Configuració de pantalla</string>
   <string name="menu_customize">Configuració</string>
-  <string name="menu_default_screen_preview">Configuració de la pantalla predeterminada</string>
+  <string name="menu_default_screen_preview">Estableix la pantalla per defecte</string>
   <string name="menu_edit">Edita la pantalla d\'inici</string>
   <string name="menu_exit_scene">Surt del Mi Space</string>
   <string name="menu_item_add_item">Afegeix a la pantalla d\'inici</string>

@@ -8,6 +8,8 @@
   <string name="custom_lock_wallpaper_enter">Entra</string>
   <string name="default_lockscreen_unlock_hint_text">Feu lliscar cap amunt per desbloquejar</string>
   <string name="delete">Elimina</string>
+  <string name="do_disclosure_generic">Aquest dispositiu el gestiona l\'organització</string>
+  <string name="do_disclosure_with_name">Aquest dispositiu està gestionat per %s</string>
   <string name="emergency_call_string">Trucada d\'emergència</string>
   <string name="face_data_input_camera_fail">"No s'ha pogut carregar la càmera"</string>
   <string name="face_data_input_camera_ok">S\'estan carregant la càmera…</string>
@@ -61,7 +63,7 @@
   <string name="fingerprint_not_identified_msg">Per desbloquejar el dispositiu, introduïu la contrasenya.</string>
   <string name="fingerprint_not_identified_title">Introduïu la contrasenya</string>
   <string name="fingerprint_try_again_msg">"No s'ha pogut verificar l'empremta, torneu-ho a provar."</string>
-  <string name="fingerprint_try_again_text">Torneu a provar-ho</string>
+  <string name="fingerprint_try_again_text">Torna-ho a provar</string>
   <string name="forget_password_string">He oblidat la contrasenya</string>
   <string name="incorrect_pincode">Codi PIN incorrecte</string>
   <string name="incorrect_pukcode">Codi PUK incorrecte</string>
@@ -123,7 +125,7 @@ Torneu a provar-ho d\'aquí %d segons."</string>
  &amp;lt;/font&amp;gt; del dispositiu, incloses les fotos i els contactes i, a continuació, establiu una nova contrasenya de la pantalla de bloqueig.&lt;/Data&gt;</string>
   <string name="phone_locked_foget_password_method_next">Següent</string>
   <string name="phone_locked_foget_password_ok">D\'acord</string>
-  <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data&gt;Apagueu el vostre dispositiu, llavors premeu contínuament i simultània els botons &amp;lt;font color=#a5220e&amp;gt;d\'engegada &amp;lt;/font&amp;gt; i &amp;lt;font color=#a5220e&amp;gt;d\'apujar el volum &amp;lt;/font&amp;gt;fins que veieu ml.&lt;/Data&gt;</string>
+  <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data&gt;Apagueu el dispositiu, manteniu premut els botons &amp;lt;font color=#a5220e&amp;gt;d\'encesa&amp;lt;/font&amp;gt; i el &amp;lt;font color=#a5220e&amp;gt;d\'apujar el volum&amp;lt;/font&amp;gt; simultàniament fins que vegeu el logotip Mi.&lt;/Data&gt;</string>
   <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data&gt;Seleccioneu &amp;lt;font color=#a5220e&amp;gt;\"Neteja iamp;amp; Restableix\"&amp;lt;/font&amp;gt; i espereu fins que el dispositiu es reiniciï.&lt;/Data&gt;</string>
   <string name="phone_locked_forget_password_suggesstions_title">Com esborrar les dades?</string>
   <string name="phone_locked_string">El telèfon ha estat bloquejat</string>

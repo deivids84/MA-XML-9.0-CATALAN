@@ -4,7 +4,7 @@
   <string name="altitude_title">Altitud</string>
   <string name="altitude_uncalibrate_cancel">Cancel·la</string>
   <string name="altitude_uncalibrate_msg">"No es pot calibrar l'altitud amb precisió sense GPS o connexió de dades mòbils."</string>
-  <string name="altitude_uncalibrate_refresh">Torna a provar-ho</string>
+  <string name="altitude_uncalibrate_refresh">Torna-ho a provar</string>
   <string name="altitude_uncalibrate_tip">"No es pot calibrar l'altitud"</string>
   <string name="altitude_unit">M</string>
   <string name="app_description_content">La brúixola s\'utilitza per a la navegació i l\'orientació i li mostra la direcció. Assegureu-vos que pot prescindir d\'aquestes funcions abans de desinstal·lar l\'aplicació.</string>
@@ -13,7 +13,7 @@
   <string name="calibrate_failed">Ha fallat el calibratge d\'altitud</string>
   <string name="calibrate_failed_no_location">"No es pot calibrar"</string>
   <string name="calibrate_failed_timeout">"No es pot connectar al servidor"</string>
-  <string name="calibrate_rotate_again">Torna a provar-ho</string>
+  <string name="calibrate_rotate_again">Try again</string>
   <string name="calibrate_success">S\'ha calibrat</string>
   <string name="calibrate_tip">Moveu el dispositiu per girar la pilota al voltant del cercle</string>
   <string name="calibrate_title">Calibratge de la brúixola</string>

@@ -99,7 +99,7 @@ Comproveu la vostra data local i torneu a provar."</string>
   <string name="mibi_error_user_id_mismatch_summary">Comproveu i torneu a iniciar la sessió al vostre compte</string>
   <string name="mibi_error_web_summary">Error del servidor</string>
   <string name="mibi_fee">%1$s Crèdit Mi</string>
-  <string name="mibi_forget_password">Contrasenya oblidada</string>
+  <string name="mibi_forget_password">&lt;u&gt;He oblidat la contrasenya&lt;/u&gt;</string>
   <string name="mibi_format_bill_date">yyyy/MM/dd</string>
   <string name="mibi_format_date">MM. dd, yyyy</string>
   <string name="mibi_format_time">MM dd, yyyy hh:mmaa</string>
@@ -237,7 +237,7 @@ Comproveu la vostra data local i torneu a provar."</string>
   <string name="mibi_progress_warning_check_with_contact">El pagament encara no ha arribat al vostre compte. Ho tornarem a comprovar dintre de dos dies laborables. Centre d\'atenció al client: 400-100-5678</string>
   <string name="mibi_progress_warning_waiting">"El pagament encara no ha arribat al vostre compte."</string>
   <string name="mibi_prompt_info_button_hint">Atenció (%d)</string>
-  <string name="mibi_prompt_info_button_text">Accepta</string>
+  <string name="mibi_prompt_info_button_text">D\'acord</string>
   <string name="mibi_prompt_info_for_first_use">"El Mi Credit no es pot utilitzar per comprar maquinari a Mi.com."</string>
   <string name="mibi_prompt_info_title">Consells</string>
   <string name="mibi_push_register_fail">Error de registre en la tramesa automàtica.</string>
@@ -326,7 +326,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_error_empty_email">Introduïu la vostra adreça de correu</string>
   <string name="passport_error_empty_phone_num">Introduïu un número de telèfon</string>
   <string name="passport_error_empty_pwd">Introduïu la vostra contrasenya</string>
-  <string name="passport_error_empty_username">Introduïu la vostra ID del Compte Mi</string>
+  <string name="passport_error_empty_username">Introduïu l\'ID del compte</string>
   <string name="passport_error_empty_vcode">Introduïu el codi de verificació</string>
   <string name="passport_error_illegal_pwd">Contrasenya incorrecta</string>
   <string name="passport_error_invalid_dev_id">"L'ID del vostre dispositiu és incorrecte."</string>
@@ -341,8 +341,8 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_error_user_name">El nom d\'usuari que heu introduït és incorrecte.</string>
   <string name="passport_failed_to_send_activate_email">"No s'ha pogut enviar el correu d'activació"</string>
   <string name="passport_find_password_on_web_msg">Aneu a account.mi.com per restaurar la vostra contrasenya.</string>
-  <string name="passport_forget_password">Contrasenya oblidada</string>
-  <string name="passport_forget_password_no_underline">Contrasenya oblidada</string>
+  <string name="passport_forget_password">&lt;u&gt;He oblidat la contrasenya&lt;/u&gt;</string>
+  <string name="passport_forget_password_no_underline">He oblidat la contrasenya</string>
   <string name="passport_get_back_pwd">Recupera la contrasenya del compte</string>
   <string name="passport_get_verify_code">Obtén el codi</string>
   <string name="passport_getting_verify_code">S\'està obtenint</string>
@@ -376,7 +376,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_quick_login_dialog_step2_title">Verificació en dues passes</string>
   <string name="passport_quick_login_dialog_title">Verifica la contrasenya</string>
   <string name="passport_quick_login_step2_title">Verificació en dues passes</string>
-  <string name="passport_quick_login_title">Introduïu la vostra contrasenya</string>
+  <string name="passport_quick_login_title">Introduïu la contrasenya</string>
   <string name="passport_re_get_verify_code">Obteniu el codi un altre cop</string>
   <string name="passport_re_register">Torneu a registrar-vos</string>
   <string name="passport_recycle_account_prompt">Aquest és el vostre Compte Mi?</string>
@@ -411,7 +411,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_restart">Torna a començar</string>
   <string name="passport_restart_register_prompt">Pot ser que sigui necessari un altre missatge de verificació per crear el vostre compte.</string>
   <string name="passport_restart_register_title">Crea un Compte Mi</string>
-  <string name="passport_retry">Torneu a provar-ho</string>
+  <string name="passport_retry">Torna-ho a provar</string>
   <string name="passport_select_reg_ways_title">Altres maneres d\'iniciar sessió</string>
   <string name="passport_send_too_many_code">S\'han enviat massa codis de verificació a aquest número. Espereu 24 hores i torneu a provar.</string>
   <string name="passport_setting">S\'està configurant&#8230;</string>
@@ -428,7 +428,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_use_generated_pwd_message">Assegureu-vos que recordeu la vostra contrasenya. La podeu utilitzar per accedir a altres serveis Mi.</string>
   <string name="passport_use_generated_pwd_title">Recordeu la vostra contrasenya</string>
   <string name="passport_user_agreement">Acord d\'usuari</string>
-  <string name="passport_user_agreement_p1">D\'acord amb&#160;</string>
+  <string name="passport_user_agreement_p1">D\'acord amb </string>
   <string name="passport_user_agreement_p2">Acord d\'usuari</string>
   <string name="passport_user_agreement_p3">i</string>
   <string name="passport_user_agreement_p4">Política de privadesa</string>

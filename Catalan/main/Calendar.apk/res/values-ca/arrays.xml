@@ -90,7 +90,7 @@
     <item>Mai</item>
   </string-array>
   <string-array name="preferences_week_start_day_labels">
-    <item>Per defecte</item>
+    <item>Regió per defecte</item>
     <item>Dissabte</item>
     <item>Diumenge</item>
     <item>Dilluns</item>

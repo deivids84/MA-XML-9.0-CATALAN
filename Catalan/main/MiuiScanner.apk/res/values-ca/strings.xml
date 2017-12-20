@@ -7,7 +7,7 @@
   <string name="action_search">Cerca</string>
   <string name="address">Adreça:</string>
   <string name="allow_check_website_security">Comprova la seguretat del lloc web</string>
-  <string name="app_description_content">L\'escàner pot escanejar codis QR, targetes de visita i documents. Assegureu-vos que podeu prescindir d\'aquestes funcions abans de desinstal·lar l\'aplicació.</string>
+  <string name="app_description_content">L\'escàner us permet escanejar codis QR, documents, targetes de visita i molt més. Assegureu-vos que podeu prescindir d\'aquestes funcions abans de desinstal·lar l\'aplicació.</string>
   <string name="app_description_title">Quant a l\'escàner</string>
   <string name="app_details">Detalls de l\'aplicació:</string>
   <string name="app_name">Escàner</string>
@@ -31,7 +31,7 @@
   <string name="com_taobao_tae_sdk_trade_confirm_progress_message">Confirmació de la compra</string>
   <string name="com_taobao_tae_sdk_trade_title">Confirma la comanda</string>
   <string name="common_retake_picture">Repeteix</string>
-  <string name="common_retry">Reintenta</string>
+  <string name="common_retry">Torna-ho a provar</string>
   <string name="common_save">Desa</string>
   <string name="company">Empresa:</string>
   <string name="connect_wifi">Connecta a aquesta xarxa</string>
@@ -70,7 +70,7 @@
   <string name="error_cannot_connect_camera">"No es pot accedir a la Càmera"</string>
   <string name="error_day_limit">Massa intents en 1 dia</string>
   <string name="error_empty_result">"No s'ha pogut trobar resultats"</string>
-  <string name="error_get_image">"no s'ha pogut obtenir la imatge"</string>
+  <string name="error_get_image">"No s'ha pogut obtenir la imatge"</string>
   <string name="error_hour_limit">Massa intents en 1 hora</string>
   <string name="error_image_error">"No pot reconèixer aquesta foto"</string>
   <string name="error_invalid_request">Error d\'autenticació</string>

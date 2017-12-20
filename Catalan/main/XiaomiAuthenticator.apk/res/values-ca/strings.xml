@@ -51,7 +51,7 @@ Regístrar-se a account.xiaomi.com，Protecció de les pàgines de destinació, 
   <string name="error_exists">Aquest nom ja està en ús.</string>
   <string name="error_qr">El QR no es pot interpretar.</string>
   <string name="error_uri">Clau no reconeguda.</string>
-  <string name="forget_password">Contrasenya oblidada</string>
+  <string name="forget_password">&lt;u&gt;He oblidat la contrasenya&lt;/u&gt;</string>
   <string name="general_security_exception">Excepció de seguretat general</string>
   <string name="gif_not_support_camera_msg">El dispositiu no admet gravació de vídeo.</string>
   <string name="how_it_works_menu_item">Com funciona</string>
@@ -75,11 +75,11 @@ Regístrar-se a account.xiaomi.com，Protecció de les pàgines de destinació, 
   <string name="lockpattern_need_to_confirm">Dibuixeu de nou el patró per confirmar:</string>
   <string name="lockpattern_need_to_confirm_wrong">Los patrones no coinciden. Inténtelo de nuevo:</string>
   <string name="lockpattern_need_to_unlock_wrong">Contraseña errónea, le quedan %d intentos más</string>
-  <string name="lockpattern_pattern_confirmed_header">Su nuevo patrón de desbloqueo:</string>
+  <string name="lockpattern_pattern_confirmed_header">El nou patró de desbloqueig:</string>
   <string name="lockpattern_pattern_entered_header">Patrón registrado.</string>
-  <string name="lockpattern_recording_incorrect_too_short">Conecte al menos %d puntos. Inténtelo de nuevo:</string>
+  <string name="lockpattern_recording_incorrect_too_short">Connecteu almenys %d punts. Torneu-ho a provar:</string>
   <string name="lockpattern_recording_inprogress">Retire el dedo al terminar.</string>
-  <string name="lockpattern_recording_intro_header">Dibuje un patrón de desbloqueo:</string>
+  <string name="lockpattern_recording_intro_header">Dibuixeu un patró de desbloqueig:</string>
   <string name="lockpattern_redraw_button_text">Redibuixar</string>
   <string name="lockpattern_retry_text">Contraseña para restablecer el patrón</string>
   <string name="lockpattern_settings_help_how_to_record">Cómo dibujar un patrón de desbloqueo</string>
@@ -89,7 +89,7 @@ Regístrar-se a account.xiaomi.com，Protecció de les pàgines de destinació, 
   <string name="lockpattern_tutorial_close_label">Tancar</string>
   <string name="lockpattern_tutorial_continue_label">Siguiente</string>
   <string name="lockpattern_tutorial_jump_label">Anar a</string>
-  <string name="lockscreen_forgot_pattern_button_text">He oblidat la contrasenya del patró</string>
+  <string name="lockscreen_forgot_pattern_button_text">&lt;u&gt;He oblidat la contrasenya del patró&lt;/u&gt;</string>
   <string name="login">Iniciar sesión</string>
   <string name="main_preference_screen_title">Configuració</string>
   <string name="mycard_scan_barcode">Escàner de codi de MiID</string>
@@ -115,14 +115,14 @@ Abans d\'eliminar-lo:
   <string name="remove_account_dialog_title">Voleu eliminar el compte?</string>
   <string name="rename">Reanomenar</string>
   <string name="rename_message">Reanomenar %1$s</string>
-  <string name="resetbtn_patternforgotten">Restablir</string>
+  <string name="resetbtn_patternforgotten">Restableix</string>
   <string name="save_key_message">Desar clau per</string>
   <string name="scan_barcode">Escanejar MiID</string>
   <string name="scan_barcode_info">Col·loqui i escanegi un codi de barres MiID dins d\'aquest visor.</string>
   <string name="secret_saved">Secret guardat</string>
   <string name="security_setting">Configuració de seguretat</string>
   <string name="settings_menu_item">Configuració</string>
-  <string name="submit">Desar</string>
+  <string name="submit">Desa</string>
   <string name="success_copy_to_clipboard">S\'ha copiat al porta-retalls</string>
   <string name="success_reset_password">Contrasenya restablerta amb èxit</string>
   <string name="success_set_password">Contrasenya canviada correctament</string>
@@ -161,7 +161,7 @@ La configuració de Data i Hora en aquest dispositiu no s\'ha canviat."</string>
   <string name="title_patternforgotten">"Heu oblidat el patró de bloqueig?
 Vè. Pot："</string>
   <string name="title_updatepattern">Modificar patró de bloqueig</string>
-  <string name="title_visible_pattern">Hacer visible el patrón</string>
+  <string name="title_visible_pattern">Mostra el patró</string>
   <string name="type_prompt">Tipus de clau</string>
   <string name="update_pattern_jump">Elimina la contrasenya</string>
   <string name="version_preference_title">Versió</string>

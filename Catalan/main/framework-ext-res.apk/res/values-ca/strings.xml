@@ -57,7 +57,7 @@
   <string name="global_actions_shutdown">Apaga</string>
   <string name="global_actions_silent_mode">Mode silenci</string>
   <string name="group_name_contacts">Contactes</string>
-  <string name="group_name_coworkers">Companys</string>
+  <string name="group_name_coworkers">Companys de feina</string>
   <string name="group_name_family">Família</string>
   <string name="group_name_friends">Amics</string>
   <string name="handy_mode_enter_dlg_msg">Voleu accedir al mode operació amb una mà?</string>
@@ -103,7 +103,7 @@
   <string name="resource_select">Selecciona</string>
   <string name="screen_button_notification_text">Per activar-los premeu Inici i el botó d\'encesa simultàniament.</string>
   <string name="screen_button_notification_title">Els botons de navegació estan desactivats</string>
-  <string name="screen_on_proximity_sensor_hint">Per desactivar aquesta funció, premeu enrere i el botó de pujar volum simultàniament.</string>
+  <string name="screen_on_proximity_sensor_hint">Per desactivar aquesta funció, premeu enrere i el botó d\'apujar volum simultàniament.</string>
   <string name="screen_on_proximity_sensor_hint_has_navigation_bar">Per desactivar aquesta funció, premeu el botó d\'apujar el volum.</string>
   <string name="screen_on_proximity_sensor_summary">"No tapeu l'àrea taronja de la pantalla"</string>
   <string name="screen_on_proximity_sensor_title">Evita trucades accidentals</string>
@@ -117,7 +117,7 @@
   <string name="security_permission_failed_text">Es va produir un error, torneu-ho a provar més tard</string>
   <string name="security_permission_validate_warning">Gràcies per ajudar-nos a fer MIUI millor!</string>
   <string name="security_permission_wifi_and_data_opened_text">Wi-Fi i dades mòbils enceses</string>
-  <string name="security_permission_xiaomi_account_missed_text">Introduïu l\'ID del vostre Compte Mi</string>
+  <string name="security_permission_xiaomi_account_missed_text">Introduïu l\'ID del Compte Mi</string>
   <string name="select">Selecciona</string>
   <string name="select_all">Selecciona-ho tot</string>
   <string name="set_password_action">Estableix una contrasenya</string>
@@ -131,7 +131,7 @@
   <string name="softap_notifif_summary">%d connectat</string>
   <string name="softap_notifif_title">Punt d\'accés «%s» activat</string>
   <string name="standard">Silenci</string>
-  <string name="standard_description">[Silent] Silencia els tons de trucada per a trucades entrants i notificacions</string>
+  <string name="standard_description">Silencia els tons de trucada per a trucades i notificacions entrants</string>
   <string name="standard_title">Silenci...</string>
   <string name="start_security_permission_verify_text">Comproveu els permisos amb el vostre Compte Mi</string>
   <string name="status_bar_toggle_auto_brightness">Brillantor</string>

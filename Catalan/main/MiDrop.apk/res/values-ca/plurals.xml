@@ -50,8 +50,8 @@
     <item quantity="one">S\'està rebent %1$s fitxer…</item>
   </plurals>
   <plurals name="notif_receive_cancel">
-    <item quantity="other">%1$s fitxers no transferits</item>
-    <item quantity="one">%1$s fitxer no transferit</item>
+    <item quantity="other">S\'ha cancel·lat les transferències de %1$s</item>
+    <item quantity="one">S\'ha cancel·lat la transferència de %1$s</item>
   </plurals>
   <plurals name="notif_receive_success">
     <item quantity="other">Fitxers rebuts de %1$s</item>

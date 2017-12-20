@@ -48,8 +48,8 @@
   <string name="pref_category_quick_pay">Pagament ràpid</string>
   <string name="pref_category_quick_settings">Configuració ràpida</string>
   <string name="pref_category_system">Configuració del sistema</string>
-  <string name="restore_default">Restableix els valors predeterminats</string>
-  <string name="restore_intro">"Restableix els valors predeterminats, incloent les dreceres i el seu ordre. No es veuran afectades les dades de les aplicacions del dispositiu."</string>
+  <string name="restore_default">Restaura els valors per defecte</string>
+  <string name="restore_intro">"Restableix els valors per defecte, incloent les dreceres i el seu ordre. No es veuran afectades les dades de les aplicacions del dispositiu."</string>
   <string name="show_on_keyguard">Mostra-ho a la pantalla de bloqueig</string>
   <string name="theme_manager_not_supported">"El gestor de temes no és compatible."</string>
   <string name="three_seconds_auto_hide">Fixeu-vos a la vora després de 3 segons d\'inactivitat</string>

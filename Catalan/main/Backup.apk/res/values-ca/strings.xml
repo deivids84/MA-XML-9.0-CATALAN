@@ -94,7 +94,7 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
   <string name="current_pad_location">Tauleta</string>
   <string name="current_phone_location">Telèfon</string>
   <string name="current_sim">Targeta SIM actual</string>
-  <string name="data_detail_description">Detalls</string>
+  <string name="custom_progress">%d elements</string>
   <string name="data_item_desc">Dades</string>
   <string name="data_no_enough_space_message">"No hi ha prou espai a l'emmagatzematge intern del dispositiu."</string>
   <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
@@ -124,11 +124,9 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
   <string name="err_unknown">Error no identificat</string>
   <string name="err_version_too_old">El fitxer de la còpia de seguretat és massa antic.</string>
   <string name="err_version_unsupported">"La versió de la còpia de seguretat no és compatible."</string>
-  <string name="error_permissions">"Aquesta aplicació no té els permisos necessaris perquè accedeixi al Calendari. Aneu a la Configuració i comproveu els permisos per continuar."</string>
   <string name="every_day">Cada dia</string>
   <string name="exchange_account">Canvia de compte</string>
-  <string name="fail">S\'ha produït un error</string>
-  <string name="failed_description">Ha fallat</string>
+  <string name="fail">Ha fallat</string>
   <string name="feature_title_account">Compte Mi</string>
   <string name="feature_title_antispam">AntiSpam</string>
   <string name="feature_title_call_log">Registre de trucades</string>
@@ -140,7 +138,6 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
   <string name="guarded_mode_dialog_backup_message">"No es permeten les còpies de seguretat en mode de Convidat."</string>
   <string name="guarded_mode_dialog_title">"Mode de Convidat"</string>
   <string name="guarded_mode_dialog_transfer_message">"En mode de Convidat no es pot utilitzar Mi Mover."</string>
-  <string name="hide_password_description">Oculta la contrasenya</string>
   <string name="hsa_code_null">"El codi de verificació no pot estar buit"</string>
   <string name="hsa_input_hint">Introduïu el codi de verificació</string>
   <string name="hsa_input_tip">El vostre ID d\'iCloud permet l\'autenticació de dos factors. Introduïu el codi de verificació.</string>
@@ -157,7 +154,7 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
   <string name="hsa_title">Autenticació de dos factors</string>
   <string name="hsa_verify_failed">L\'autenticació de dos factors ha fallat</string>
   <string name="hsa_verify_failed_message">L\'autenticació de dos factors ha fallat. Podeu tornar-ho a intentar o desactiveu l\'autenticació de dos factors.</string>
-  <string name="hsa_verify_retry">Tornar a intentar</string>
+  <string name="hsa_verify_retry">Torna-ho a provar</string>
   <string name="hsa_verify_shutdown">Desactiva</string>
   <string name="icloud_backup_tip">Inicieu sessió al compte d\'iCloud del vostre dispositiu iOS antic</string>
   <string name="icloud_how_to_backup_tip_steps">"1. Obriu la Configuració al dispositiu iOS i seleccioneu iCloud.
@@ -232,7 +229,7 @@ necessiteu carregar les dades en dispositius antics a l\'iCloud"</string>
   <string name="notif_trans_receiving_failed">"No s'han pogut rebre les dades"</string>
   <string name="notif_trans_sending_completed">Dades enviades correctament</string>
   <string name="notif_trans_sending_failed">"No s'han pogut enviar les dades"</string>
-  <string name="notif_trans_wait_for_reconnecting">El dispositiu remot està desconnectat. Torneu-lo a connectar.</string>
+  <string name="notif_trans_wait_for_reconnecting">S\'ha interromput la connexió. Torneu-lo a connectar.</string>
   <string name="page_loading">Un moment…</string>
   <string name="password">Contrasenya</string>
   <string name="password_null">"La contrasenya no es pot deixar en blanc"</string>
@@ -263,7 +260,7 @@ necessiteu carregar les dades en dispositius antics a l\'iCloud"</string>
   <string name="restore_progress">S\'està restaurant&#8230;</string>
   <string name="restore_report">Detalls de la restauració</string>
   <string name="restore_telephony_hit">La restauració reiniciarà l\'aplicació Telèfon.</string>
-  <string name="retry">Torna-hi</string>
+  <string name="retry">Torna-ho a provar</string>
   <string name="reverse_all">Esborra-ho tot</string>
   <string name="router_backup_hint">No apagueu el dispositiu</string>
   <string name="save_finish_with_failing_items">"S\'ha interromput la importació. S\'han importat algunes dades
@@ -290,10 +287,8 @@ Allibereu %s com a mínim"</string>
   <string name="select_all">Selecciona-ho tot</string>
   <string name="select_backup_item">Selecciona elements</string>
   <string name="select_empty">Seleccioneu els elements a importar</string>
-  <string name="select_item_calendar">Calendari</string>
   <string name="select_item_contacts">Contactes</string>
   <string name="select_item_empty_summary">Sense contingut</string>
-  <string name="select_item_notes">Notes</string>
   <string name="select_item_photos">Fotos</string>
   <string name="select_item_summary_loading">S\'estan carregant les dades…</string>
   <string name="select_item_summary_wait">S\'està esperant…</string>
@@ -310,7 +305,6 @@ Allibereu %s com a mínim"</string>
   <string name="start_restore">Restaura</string>
   <string name="state_mounting">S\'està accedint a l\'emmagatzematge de l\'encaminador&#8230;</string>
   <string name="state_waiting">Un moment…</string>
-  <string name="succ_description">Amb èxit</string>
   <string name="succeed">Fet</string>
   <string name="summary_err_backup_encrypting">Inicieu la sessió al Compte Mi.</string>
   <string name="summary_err_backup_no_network">"No s'ha pogut connectar a la xarxa"</string>
@@ -345,6 +339,7 @@ Allibereu %s com a mínim"</string>
   <string name="task_running_restore_hint">Aquest procés ja s\'està executant en segon pla</string>
   <string name="task_service_not_launched">"El procés encara no ha començat"</string>
   <string name="task_stopped_exception">S\'ha cancel·lat la restauració</string>
+  <string name="total_num">%d elements,</string>
   <string name="total_size">, %s</string>
   <string name="trans_backingup">S\'està copiant&#8230;</string>
   <string name="trans_backingup_no_items">S\'està sincronitzant&#8230;</string>
@@ -354,19 +349,19 @@ Allibereu %s com a mínim"</string>
   <string name="trans_calculating_base_size">S\'està calculant la mida de les dades</string>
   <string name="trans_cancel_confirm">S\'està transferint, ho voleu aturar?</string>
   <string name="trans_cancelling">S\'està cancel·lant&#8230;</string>
-  <string name="trans_connect_failed_device_incompatible">"dispositiu incompatible. Cancel·leu el progrés de transferència i torneu-ho a provar."</string>
+  <string name="trans_connect_failed_device_incompatible">"El dispositiu no és compatible. Cancel·leu la transferència i torneu-ho a provar."</string>
   <string name="trans_connect_failed_message">"Error de connexió, torneu-ho a provar o reinicieu el sistema. A l'altre dispositiu, aneu a a Configuració &gt; Configuració addicional &gt; Mi Mover, Premeu [Sóc un emissor], o rellanceu Mi Mover un cop s'hagi reiniciat."</string>
   <string name="trans_connect_failed_title">"No s'ha pogut connectar"</string>
   <string name="trans_connect_failed_toast">"No s'ha pogut connectar"</string>
   <string name="trans_connecting_toast">S\'està connectant&#8230;</string>
-  <string name="trans_connection_failed">S\'ha desconnectat el dispositiu</string>
+  <string name="trans_connection_failed">S\'ha interromput la connexió</string>
   <string name="trans_detail_category_account">Comptes i contactes</string>
   <string name="trans_detail_category_files">Fitxers</string>
   <string name="trans_detail_category_sysdata">Dades del sistema</string>
   <string name="trans_detail_category_userdata">Aplicacions</string>
   <string name="trans_device_auto_reconnecting">Dispositiu desconnectat. S\'està tornant a connectar automàticament…</string>
-  <string name="trans_device_disconnected">S\'ha desconnectat el dispositiu</string>
-  <string name="trans_device_wait_for_reconnecting">Dispositiu desconnectat. Torneu-lo a connectar.</string>
+  <string name="trans_device_disconnected">S\'ha interromput la connexió</string>
+  <string name="trans_device_wait_for_reconnecting">S\'ha interromput la connexió. Torneu-lo a connectar per continuar.</string>
   <string name="trans_disconnected_tips_message">S\'ha desconnectat el dispositiu remot. Torneu-lo a connectar manualment o cancel·leu la transferència.</string>
   <string name="trans_disconnected_tips_title">El dispositiu remot està desconnectat</string>
   <string name="trans_generate_qr_code_failed">"No s'ha pogut crear el codi QR"</string>
@@ -412,10 +407,11 @@ Premeu [Sóc un receptor] per crear el codi QR"</string>
 2. Obriu l\'aplicació i seleccioneu [Sóc un emissor]
 3. Escanegeu el codi QR amb el dispositiu antic"</string>
   <string name="trans_operate_old_phone_tips2">"Des de Configuració &gt; Configuració addicional &gt; Mi Mover, Premeu [Sóc un emissor]"</string>
-  <string name="trans_operate_reconnect_new_tips">"Espereu fins que aparegui «Dispositiu desconnectat\" al telèfon nou».
-A continuació, premeu [Torna a connectar] per crear un codi QR."</string>
-  <string name="trans_operate_reconnect_old_tips">"Espereu fins que aparegui «Dispositiu desconnectat».
-A continuació, premeu [Torna a connectar] per escanejar el codi QR."</string>
+  <string name="trans_operate_reconnect_new_tips">"Espereu fins que aparegui «S\'ha interromput la connexió» al nou telèfon.
+A continuació, toqueu «Connecta de nou» per crear un codi QR."</string>
+  <string name="trans_operate_reconnect_old_tips">"Espereu fins que aparegui «S\'ha interromput la connexió» a l\'antic telèfon.
+A continuació, toqueu «Connecta de nou» per escanejar el codi QR."</string>
+  <string name="trans_pausing">S\'està aturant…</string>
   <string name="trans_please_waiting">Un moment…</string>
   <string name="trans_progress_subdescript_br_receiver">S\'està restaurant %1$s, %2$s completat</string>
   <string name="trans_progress_subdescript_br_sender">S\'està copiant %1$s, %2$s completat</string>
@@ -435,7 +431,7 @@ Mantingueu els dispositius propers l\'un de l\'altre."</string>
   <string name="trans_receiving_completed">S\'han rebut les dades correctament</string>
   <string name="trans_restoring">S\'està restaurant&#8230;</string>
   <string name="trans_restoring_no_items">S\'estan sincronitzant elements</string>
-  <string name="trans_retry">Torna-hi</string>
+  <string name="trans_retry">Torna-ho a provar</string>
   <string name="trans_scan_invalid_qrcode">Codi QR no vàlid</string>
   <string name="trans_scan_qr_code_tips">Escanegeu el codi QR amb el dispositiu nou</string>
   <string name="trans_security_tips_message">"Algunes aplicacions no admeten Mi Mover."</string>
@@ -476,7 +472,6 @@ i s\'ha activat Mi Mover"</string>
   <string name="user_notice_declaration_ignore">"No ho tornis a mostrar"</string>
   <string name="user_notice_message">Per funcionar amb normalitat, algunes característiques requereixen connexió a Internet.</string>
   <string name="user_notice_title">Atenció!</string>
-  <string name="view_password_description">Mostra la contrasenya</string>
   <string name="wifi_title">Configuració de Wi-Fi</string>
   <string name="xiaomi_connect_download_manager_fail">"No s'ha pogut iniciar la baixada. Comproveu que el gestor de baixades funcioni correctament."</string>
   <string name="xiaomi_external_storage_unavailable">"Emmagatzematge no disponible, comproveu la targeta SD."</string>

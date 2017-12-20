@@ -44,14 +44,14 @@
   <string name="newText">Nou text</string>
   <string name="notif_receive_lockscreen">Premeu per veure els detalls.</string>
   <string name="notif_send_cancel">Transferència a %1$s interrompuda</string>
-  <string name="notif_send_progress">Enviant fitxer(s) a %1$s&#8230;</string>
+  <string name="notif_send_progress">S\'està enviant a %1$s…</string>
   <string name="notif_send_success">Enviat(s) a %1$s</string>
   <string name="receiver_accept">D\'acord</string>
   <string name="receiver_cancel">Cancel·la</string>
   <string name="receiver_clean">Alliberar espai</string>
   <string name="receiver_file_cancel">Transferència de %1$s interrompuda</string>
   <string name="receiver_in_progress_summary">Espera fins que la transferència actual hagi finalitzat per enviar nous fitxers</string>
-  <string name="receiver_in_progress_title">Enviant fitxer(s)&#8230;</string>
+  <string name="receiver_in_progress_title">S\'està enviant…</string>
   <string name="receiver_insufficient_storage">No hi ha prou espai d\'emmagatzematge.</string>
   <string name="receiver_insufficient_storage_cannot_send">"No es pot enviar: no hi ha prou espai"</string>
   <string name="receiver_interrupt_summary">"No apaguis el Wi-Fi mentre reps fitxers"</string>

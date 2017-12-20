@@ -70,7 +70,7 @@ Ubicació: %s
   <string name="home_tab_local_video">Local</string>
   <string name="illegal_input_tips">Entrada il·legal</string>
   <string name="invalid_location">La posició %1$s no es pot reproduir.</string>
-  <string name="language_default">Idioma predeterminat</string>
+  <string name="language_default">Idioma per defecte</string>
   <string name="last_added_media">darrer afegit</string>
   <string name="load_more_and_more">carrega\'n més...</string>
   <string name="loading">&lt;CDATA&gt;Carregant&amp;#8230;&lt;/CDATA&gt;</string>
@@ -107,8 +107,8 @@ Durada: %s
   <string name="rename_hidden_error">El fitxer s\'ocultarà</string>
   <string name="replace_num_files">%d arxius</string>
   <string name="replace_num_videos">%d vídeos</string>
-  <string name="ringtone_error">S\'ha produït un error en configurar el to de trucada.</string>
-  <string name="ringtone_set">"El fitxer «%1$s» s'ha definit com a to de trucada."</string>
+  <string name="ringtone_error">S\'ha produït un error en configurar el so.</string>
+  <string name="ringtone_set">"El fitxer «%1$s» s'ha definit com a so."</string>
   <string name="sdcard_text">Targeta SD</string>
   <string name="sdcard_tips">Sdcard/</string>
   <string name="search">Cerca</string>
@@ -132,7 +132,7 @@ Durada: %s
   <string name="toast_player_list_header">Llista de reproducció</string>
   <string name="toast_player_list_none">No hi ha més contingut</string>
   <string name="toast_screen_text_add">Afegit amb èxit</string>
-  <string name="toast_screen_text_default">Mida Predeterminada</string>
+  <string name="toast_screen_text_default">Mida per defecte</string>
   <string name="toast_screen_text_full">Pantalla sencera</string>
   <string name="toast_screen_text_horizontal">Redimensionament horitzontal</string>
   <string name="toast_screen_text_scaling">Redimensionament</string>

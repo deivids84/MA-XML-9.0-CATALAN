@@ -18,7 +18,7 @@
   <string name="activity_main_update_time">Actualitzat %1$s</string>
   <string name="activity_main_update_time_expire">Les dades han caducat</string>
   <string name="activity_main_update_time_right_now">ara mateix</string>
-  <string name="activity_minute_rain_location_fail_msg">"S'ha produït un error en trobar la ubicació, la ubicació predeterminada del mapa és Beijing"</string>
+  <string name="activity_minute_rain_location_fail_msg">"S'ha produït un error en trobar la ubicació, la ubicació per defecte del mapa és Beijing."</string>
   <string name="activity_weathermain_locationg">S\'està ubicant&#8230;</string>
   <string name="activity_weathermain_locationg_error">"No s'ha pogut ubicar"</string>
   <string name="add_city">Afegeix</string>
@@ -75,8 +75,6 @@
   <string name="daily_forcast_no_stable_direction">Sense vent</string>
   <string name="daily_forcast_no_wind">&lt;12 km/h</string>
   <string name="daily_forcast_no_wind_miles">&lt;19.3 mph</string>
-  <string name="daily_forcast_temperature_transfer_C">%1$s / %2$s℃</string>
-  <string name="daily_forcast_temperature_transfer_F">%1$s / %2$s℉</string>
   <string name="daily_forcast_weather_transfer">%1$s. %2$s més tard.</string>
   <string name="daily_forcast_whirl_wind">Tornado</string>
   <string name="daily_forcast_wind_connect">%1$s %2$s</string>
@@ -172,13 +170,9 @@ Toqueu la pantalla per afegir una ciutat manualment o moure-la"</string>
   <string name="precipitation_degree_three">moderada</string>
   <string name="precipitation_degree_two">lleugera</string>
   <string name="pressure_connect">%1$s mbar</string>
-  <string name="pull_fresh_updated">S\'ha actualitzat amb èxit</string>
-  <string name="pull_fresh_updating">S\'està actualitzant…</string>
   <string name="radar_cloud_image_title">Mapa de radar</string>
   <string name="rainfall_settings_summary">Configuració de les precipitacions</string>
   <string name="rainfall_settings_title">Avís de les precipitacions</string>
-  <string name="real_time_sunrise">Sol ixent %1$s</string>
-  <string name="real_time_sunset">Ocàs %1$s</string>
   <string name="realtime_aqi_title">Índex de qualitat de l\'aire</string>
   <string name="realtime_humidity_title">Humitat relativa</string>
   <string name="realtime_temperature_no_data">N/D</string>
@@ -212,7 +206,6 @@ Toqueu la pantalla per afegir una ciutat manualment o moure-la"</string>
   <string name="update_night_setting_summary_text">Actualitza la informació meteorològica entre les 23:00 i les 07:00</string>
   <string name="update_night_setting_title_text">Actualitza-ho de nit automàticament</string>
   <string name="update_setting_title_text">Configuració d\'actualització</string>
-  <string name="updating">S\'està actualitzant…</string>
   <string name="view_forecast_item_yesterday">Ahir</string>
   <string name="view_indexes_item_today">Avui</string>
   <string name="view_indexes_item_tommorrow">Demà</string>

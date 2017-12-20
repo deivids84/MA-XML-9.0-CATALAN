@@ -13,7 +13,7 @@
   <string name="accessibility_portrait_button">Mode retrat</string>
   <string name="accessibility_review_thumbnail">Foto més recent</string>
   <string name="accessibility_seek_bar_line">Botó lliscant</string>
-  <string name="accessibility_setting_button">Botó d\'ajustaments addicionals</string>
+  <string name="accessibility_setting_button">Botó de configuració addicional</string>
   <string name="accessibility_shutter_button">Botó de l\'obturador</string>
   <string name="accessibility_skin_beautify_button">Botó de l\'embellidor</string>
   <string name="accessibility_stereo_button">Ajust del focus</string>
@@ -71,7 +71,7 @@
   <string name="confirm_recording_fail_recorder_busy_alert">"Una altra aplicació pot estar ja usant el micròfon per enregistrar."</string>
   <string name="confirm_recording_fail_title">"No es pot gravar"</string>
   <string name="confirm_restore_message">"Voleu restaurar la configuració per defecte de la càmera?"</string>
-  <string name="confirm_restore_title">Restaura els valors per defecte</string>
+  <string name="confirm_restore_title">Restableix la configuració per defecte</string>
   <string name="dialog_ok">D\'acord</string>
   <string name="do_not_remind_me">"No ho tornis a mostrar"</string>
   <string name="dual_camera_lens_covered_toast">La lent està tapada.</string>
@@ -413,7 +413,7 @@ amb un cos més clar i un retrat més bonic"</string>
   <string name="toast_start_audio_capture">Feu un so per fer una fota</string>
   <string name="ubi_focus_capture_fail">"No s'ha pogut prendre la foto"</string>
   <string name="ubifocus_capture_warning_message">Per obtenir millors resultats, la seva imatge ha de contenir objectes propers (menys d\'1 metre de la lent) i llunyans</string>
-  <string name="user_agree">Accepta</string>
+  <string name="user_agree">D\'acord</string>
   <string name="user_agreement2">Condicions del servei</string>
   <string name="user_agreement4">Política de privadesa</string>
   <string name="user_notice_identify_summary_format">"Utilitzant aquest servei accepteu les %1$s i %2$s de Xiaomi."</string>

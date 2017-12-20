@@ -30,13 +30,12 @@ aquesta característica s\'afegirà al Segon espai automàticament."</string>
   <string name="closeSecondSpace">Esborrar el Segon espai</string>
   <string name="closeSecondSpaceSummary">Esborrar el Segon espai amb les seves dades</string>
   <string name="closeSuccess">Desactivat</string>
-  <string name="close_second_space">Segon espai suprimit</string>
   <string name="close_second_space_success">Segon espai esborrat</string>
   <string name="closed">Apagat</string>
   <string name="complete_setting">Finalitza</string>
   <string name="complete_setting_sub_title">També podeu tornar després per fer canvis en la configuració.</string>
   <string name="complete_setting_title">"Tot a punt!"</string>
-  <string name="confirm">Correcte</string>
+  <string name="confirm">D\'acord</string>
   <string name="confirmClose">Apaga</string>
   <string name="confirmCloseSpaceDes">"No podreu entrar al Segon espai després d'esborrar-lo. Totes les dades es mouran o seran esborrades."</string>
   <string name="confirmDelete">Elimina</string>
@@ -128,7 +127,6 @@ Dos espais. Un dispositiu."</string>
   <string name="input_space_password">Estableix ara</string>
   <string name="invalid_qr_code">Codi QR no vàlid</string>
   <string name="list_empty_text">Buit</string>
-  <string name="list_empty_text_xspace">Instal·leu WeChat/QQ/Weibo, creeu aplicacions duals i torneu-ho a provar.</string>
   <string name="loading">Un moment…</string>
   <string name="loading_apps">S\'estan carregant les aplicacions&#8230;</string>
   <string name="loading_space">Un moment…</string>
@@ -156,7 +154,7 @@ Dos espais. Un dispositiu."</string>
   <string name="notification_recommend_title">Primeres 12 aplicacions per al Segon espai</string>
   <string name="notification_setting_second_space">Configurar el Segon espai</string>
   <string name="notification_setting_second_space_desc">Afegeix la contrasenya del Segon espai i mou dades</string>
-  <string name="ok_button">Correcte</string>
+  <string name="ok_button">D\'acord</string>
   <string name="openPasswordGuard">Establiu la contrasenya del Segon espai</string>
   <string name="openSuccess">Activat</string>
   <string name="opened">Activat</string>
@@ -174,7 +172,6 @@ Dos espais. Un dispositiu."</string>
   <string name="private_sms_show_title">Els missatges privats es mostren al Segon espai</string>
   <string name="private_space_setting">Gestionar</string>
   <string name="public_app">Ambdós espais</string>
-  <string name="qq_send">Envia als amics/dispositius QQ</string>
   <string name="removeSuccess">S\'ha eliminat correctament</string>
   <string name="remove_second_space_msg">Totes les dades d\'aplicacions del Segon espai es perdran quan suprimiu el Segon espai. Voleu suprimir el Segon espai ara?</string>
   <string name="remove_user_click_message">"*Si no teniu cap element important al Segon espai, %s"</string>
@@ -303,18 +300,13 @@ Si no s\'actualitza, és possible que les aplicacions duals no funcionin correct
   <string name="transferMessage">Els missatges del Segon espai es mouran al Primer espai</string>
   <string name="tryNow">Proveu-ho ara</string>
   <string name="wating">Un moment…</string>
-  <string name="weibo_send">Envia al Weibo</string>
-  <string name="weixin_pay">Pagament WeChat</string>
-  <string name="weixin_share">Comparteix a Moments</string>
   <string name="xpsace_guide_button">Crea</string>
   <string name="xspace_account">Comptes d\'aplicacions duals</string>
   <string name="xspace_chocie">Suport d\'aplicacions duals</string>
   <string name="xspace_creating">S\'està creant l\'aplicació dual&#8230;</string>
-  <string name="xspace_default_app_summary">Estableix l\'aplicació predeterminada per als pagaments, l\'ús compartit, els preferits i molt més.</string>
-  <string name="xspace_default_app_title">Aplicació per defecte</string>
-  <string name="xspace_default_setting_dialog_title">Per defecte</string>
-  <string name="xspace_default_setting_label">Aplicació per defecte</string>
-  <string name="xspace_description">Creeu aplicacions duals per utilitzar-les separadament. Les aplicacions duals tindran icones específiques a la pantalla d\'inici.</string>
+  <string name="xspace_description">"Les aplicacions duals són còpies d\'aplicacions que es poden utilitzar per separat amb un compte diferent.
+
+Algunes aplicacions duals requereixen el suport del Marc de serveis de Google. En aquests casos, es crea el Marc de Serveis de Google dual."</string>
   <string name="xspace_guide_des">Utilitza 2 comptes sense canviar</string>
   <string name="xspace_guide_title">Crear aplicació dual per a %s</string>
   <string name="xspace_header">Aplicacions duals</string>
@@ -324,7 +316,7 @@ Si no s\'actualitza, és possible que les aplicacions duals no funcionin correct
   <string name="xspace_introduce">Recomanat</string>
   <string name="xspace_label">Aplicacions duals</string>
   <string name="xspace_loading_msg">S\'estan carregant les aplicacions&#8230;</string>
-  <string name="xspace_setting_label">Configuració de les aplicacions duals</string>
+  <string name="xspace_setting_label">Configuració d\'aplicacions duals</string>
   <string name="xspace_uninstall_completed">Aplicació dual desinstal·lada amb èxit</string>
   <string name="xspace_uninstall_dialog_content">La desinstal·lació d\'una aplicació dual n\'eliminarà totes les seves dades.</string>
   <string name="xspace_uninstall_dialog_title">Desinstal·lar aplicació dual</string>

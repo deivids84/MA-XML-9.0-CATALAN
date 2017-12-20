@@ -13,7 +13,6 @@
   <string name="album_name">Selecció diària: %s</string>
   <string name="all_topic">Tots els temes</string>
   <string name="already_liked">"Ja has marcat aquest element com a destacat"</string>
-  <string name="apk_installing">S\'està instal·lant...</string>
   <string name="app_name">Explorador</string>
   <string name="app_name_camera">Càmera</string>
   <string name="app_name_downloadedrom">Paquets</string>
@@ -32,7 +31,7 @@
   <string name="backup_cancel">"No copiïs"</string>
   <string name="backup_checkbox_msg">Copia automàticament</string>
   <string name="backup_confirm">Copia ara</string>
-  <string name="backup_success_cancel">Accepta</string>
+  <string name="backup_success_cancel">D\'acord</string>
   <string name="backup_success_confirm">Veure</string>
   <string name="backup_success_message">Copiat a %1$s</string>
   <string name="backup_success_title">Copiat</string>
@@ -53,7 +52,6 @@
   <string name="cancel_error">"No s'han pogut treure, intenta-ho de nou"</string>
   <string name="cancel_operation">Cancel·la l\'operació</string>
   <string name="cancel_success">S\'han eliminat correctament, tots els fitxers van ser moguts a %s</string>
-  <string name="cancel_text">Cancel·la</string>
   <string name="cancelled_by_user">Operació cancel·lada</string>
   <string name="cannot_send">"No es poden enviar fitxers des de l'emmagatzematge extern"</string>
   <string name="category_all">Tot</string>
@@ -125,7 +123,7 @@
   <string name="decompress_destination_error">"No es poden extreure els fitxers en aquesta ubicació"</string>
   <string name="decompress_encrypted_rar_not_supported">Els fitxers encriptats rar no estan suportats.</string>
   <string name="decompress_fail">"No s'ha pogut extreure. Emmagatzematge complet o error desconegut."</string>
-  <string name="decompress_input_password">Introdueix la contrasenya…</string>
+  <string name="decompress_input_password">Introduïu la contrasenya</string>
   <string name="decompress_password_error">La contrasenya introduïda és errònia.</string>
   <string name="decompress_success">Extracció completada</string>
   <string name="decompress_title">Extreure</string>
@@ -184,13 +182,6 @@
   <string name="error_invalid_path">Ruta incorrecta</string>
   <string name="error_not_support">No suportat</string>
   <string name="error_open_file_failed_no_app_found">No s\'ha trobat cap aplicació per realitzar aquesta acció.</string>
-  <string name="exo_controls_fastforward_description">Avança ràpidament</string>
-  <string name="exo_controls_next_description">Següent cançó</string>
-  <string name="exo_controls_pause_description">Pausa</string>
-  <string name="exo_controls_play_description">Reprodueix</string>
-  <string name="exo_controls_previous_description">Cançó anterior</string>
-  <string name="exo_controls_rewind_description">Rebobina</string>
-  <string name="exo_controls_stop_description">Atura</string>
   <string name="extended_storage_file_can_not_open">"No es pot obrir el fitxer. Copieu el fitxer a l'emmagatzematge intern."</string>
   <string name="extract">Extreure</string>
   <string name="fail_to_create_folder_unknown">"No es pot crear la carpeta"</string>
@@ -265,7 +256,7 @@
   <string name="load_more">Veure més</string>
   <string name="load_sticker_fail">"No s'ha pogut carregar l'adhesiu"</string>
   <string name="loading">Un moment…</string>
-  <string name="local_image">Fotos</string>
+  <string name="local_image">Imatges</string>
   <string name="local_music">Música</string>
   <string name="local_video">Vídeo</string>
   <string name="login">Iniciar sessió</string>
@@ -276,7 +267,7 @@
   <string name="login_account_bind_wb">Compte Weibo</string>
   <string name="login_account_bind_wx">Usar WeChat</string>
   <string name="login_account_bind_xm">Usar Compte Mi</string>
-  <string name="login_expired">La sessió ha expirat. Torneu-la a iniciar.</string>
+  <string name="login_expired">Temps de sessió esgotat. Torneu a iniciar-la.</string>
   <string name="login_failed_tip">"No s'ha pogut iniciar sessió, intentar de nou"</string>
   <string name="login_success_tip">Connectat satisfactòriament</string>
   <string name="make_private">Amaga</string>
@@ -432,7 +423,7 @@
   <string name="phone_storage_clean">Netejar</string>
   <string name="phone_storage_doc_title">Documents:&#160;</string>
   <string name="phone_storage_free_title">Disponible:&#160;</string>
-  <string name="phone_storage_image_title">Imatges:&#160;</string>
+  <string name="phone_storage_image_title">Imatges: </string>
   <string name="phone_storage_info_str">%1$s de %2$s disponibles</string>
   <string name="phone_storage_other_title">Altres:&#160;</string>
   <string name="phone_storage_size_tip">"L'espai d'emmagatzematge lliure que es mostra en el Explorador podria diferir d'altres aplicacions."</string>
@@ -500,7 +491,6 @@
   <string name="search_file_type_music">Música</string>
   <string name="search_file_type_picture">Foto</string>
   <string name="search_file_type_video">Vídeo</string>
-  <string name="search_guid_hint">Cerca fitxers</string>
   <string name="search_hint">Cerca</string>
   <string name="search_history">Historial de cerca</string>
   <string name="search_hot_sticker">Adhesius; Baixa adhesius</string>
@@ -518,7 +508,7 @@
   <string name="see_more_topic">Més temes</string>
   <string name="see_more_user">Més usuaris</string>
   <string name="select_dest_folder">Seleccionar carpeta</string>
-  <string name="select_image">Triar fotos</string>
+  <string name="select_image">Imatges</string>
   <string name="select_interest_str">Seleccioneu els temes que li agraden</string>
   <string name="select_interest_tip">"Hi ha molt per descobrir!"</string>
   <string name="select_music">Triar cançons</string>
@@ -639,7 +629,7 @@
   <string name="upload_notification_compress_progress">Comprimint %1$s%%</string>
   <string name="upload_notification_compress_title">Comprimint vídeo⤦</string>
   <string name="upload_notification_failed">"No es va poder pujar"</string>
-  <string name="upload_notification_failed_content">Intentar novament</string>
+  <string name="upload_notification_failed_content">Torna-ho a provar</string>
   <string name="upload_notification_progress">Pujant (%1$s)%%</string>
   <string name="upload_notification_success">Pujat amb èxit</string>
   <string name="upload_notification_success_content">"El teu vídeo ha de ser ressenyat abans de ser compartit amb altres persones"</string>
@@ -707,7 +697,7 @@
   <string name="video_comment_publish">Inscriure</string>
   <string name="video_comment_topic">\#Afegir tòpic#</string>
   <string name="video_data_consumption_cancel">Cancel·la</string>
-  <string name="video_data_consumption_confirm">Accepta</string>
+  <string name="video_data_consumption_confirm">D\'acord</string>
   <string name="video_data_consumption_dialog_message">Pujar va a requerir %1$s de dades mòbils</string>
   <string name="video_data_consumption_dialog_title">Avís d\'ús de dades</string>
   <string name="video_description">Descripció del vídeo</string>
@@ -740,9 +730,9 @@
   <string name="video_upload_btn">Següent</string>
   <string name="video_upload_btn_hint">Els vídeos MP$ hauran de tenir de 3s~10min de durada</string>
   <string name="video_upload_kuaishou_hint">Pugeu vídeos a KuaiShou per aconseguir més admiradors.</string>
-  <string name="video_upload_retry_confirm">Intentar de nou</string>
+  <string name="video_upload_retry_confirm">Torna-ho a provar</string>
   <string name="video_upload_retry_message">"No s'ha pogut pujar, intentar de nou?"</string>
-  <string name="video_upload_retry_title">Intentar de nou</string>
+  <string name="video_upload_retry_title">Torna-ho a provar</string>
   <string name="video_upload_title">Seleccionar vídeo</string>
   <string name="video_upload_wechat_hint">Pugeu vídeos a WeChat per aconseguir més admiradors.</string>
   <string name="video_uploaded">Pujat</string>

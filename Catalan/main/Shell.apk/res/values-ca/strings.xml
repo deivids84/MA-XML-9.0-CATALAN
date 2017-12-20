@@ -14,6 +14,8 @@
   <string name="bugreport_info_dialog_title">Detalls de l\'informe d\'error #%d</string>
   <string name="bugreport_info_name">Nom del fitxer</string>
   <string name="bugreport_info_title">Títol de l\'error</string>
+  <string name="bugreport_intent_chooser_title">Compartició de l\'informe d\'errors</string>
+  <string name="bugreport_notification_channel">Informes d\'errors</string>
   <string name="bugreport_screenshot_action">Captura de pantalla</string>
   <string name="bugreport_screenshot_failed">No s\'ha pogut fer la captura de pantalla.</string>
   <string name="bugreport_screenshot_taken">S\'ha fet la captura de pantalla correctament.</string>

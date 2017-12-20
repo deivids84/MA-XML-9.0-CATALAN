@@ -26,7 +26,7 @@
     <item>1 GB</item>
   </string-array>
   <string-array name="auto_process_mode">
-    <item>Mostra</item>
+    <item>Avisa\'m</item>
     <item>No ho mostris</item>
     <item>Mostra-ho després</item>
   </string-array>

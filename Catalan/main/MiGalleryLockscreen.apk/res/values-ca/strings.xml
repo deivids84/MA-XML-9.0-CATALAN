@@ -51,7 +51,7 @@
   <string name="lockscreen_h5_refresh_btn_tv">Refresca</string>
   <string name="lockscreen_h5_refresh_tip">Comproveu la configuració de xarxa i torneu-ho a provar</string>
   <string name="lockscreen_magazine_summary">Categories</string>
-  <string name="lockscreen_magazine_system_title">Desconnectat</string>
+  <string name="lockscreen_magazine_system_title">Per defecte</string>
   <string name="lockscreen_magazine_title">Carrusel de fons de pantalla</string>
   <string name="lockscreen_wallpaper_changed">S\'ha actualitzat el fons de pantalla de bloqueig</string>
   <string name="minutes_15">15 minuts</string>
@@ -59,7 +59,7 @@
   <string name="ok_enable_network_prov">D\'acord</string>
   <string name="ok_international">D\'acord</string>
   <string name="ok_lockscreen">D\'acord</string>
-  <string name="ok_network">D\'acord, i activar pantalles de bloqueig diàries</string>
+  <string name="ok_network">D\'acord</string>
   <string name="platform_unavailable_qq">Instal·leu Viber</string>
   <string name="platform_unavailable_qzone">Instal·leu WhatsApp</string>
   <string name="platform_unavailable_wechat">Instal·leu WeChat</string>
@@ -85,7 +85,7 @@
   <string name="sst_sti_title">Període de temps de canvi</string>
   <string name="sst_subscribe_title">Subscriure\'s</string>
   <string name="sst_wifi_only_desc">Recomanem desactivar per estalviar costos</string>
-  <string name="sst_wifi_only_title">Activa la descàrrega d\'imatges amb la connexió mobil</string>
+  <string name="sst_wifi_only_title">Actualitza els fons de pantalla utilitzat dades mòbils</string>
   <string name="summary">"En utilitzar aquesta funció accepteu la nostra &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Política de privadesa&lt;/a&gt;.. Aquesta funció necessita una connexió a Internet per funcionar correctament."</string>
   <string name="summary_international">"En utilitzar aquesta funció accepteu els nostres &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Acord d'usuari&lt;/a&gt; i &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Política de privadesa&lt;/a&gt;. Aquesta funció necessita una connexió a Internet per funcionar correctament"</string>
   <string name="theme_apply_failured">"No es pot aplicar la pantalla de bloqueig"</string>

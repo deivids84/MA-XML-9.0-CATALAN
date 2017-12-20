@@ -128,7 +128,7 @@ Sostingui el telèfon com si estigues contestant una trucada, parleu al micròfo
   <string name="cit_bluetooth_logging_confirm_info">aquest registre Bluetooth recopilarà les dades de protocol Bluetooth, només registrà les operacions actualitzades amb Bluetooth. També s\'inclouran les dades d\'informació de privadesa: Accés telefònic a Bluetooth/Historial de trucades telefòniques/SMS/MMS/Fitxers intercanviats / Metadades musicals, etc. Aquestes dades es limiten a la depuració interna de l\'empresa XiaoMi amb els usuaris, però no es poden utilitzar per a altres finalitats.</string>
   <string name="cit_bluetooth_logging_confirm_ng">Rebutja</string>
   <string name="cit_bluetooth_logging_confirm_notify">Accepteu habilitar el registre?</string>
-  <string name="cit_bluetooth_logging_confirm_ok">Accepta</string>
+  <string name="cit_bluetooth_logging_confirm_ok">D\'acord</string>
   <string name="cit_bluetooth_logging_confirm_title">Advertència de privadesa del registre de Bluetooth</string>
   <string name="cit_bluetooth_not_support">"Aquest dispositiu no és compatible amb Bluetooth"</string>
   <string name="cit_bluetooth_scan_retry">Explora de nou</string>
@@ -424,7 +424,9 @@ Després de col·locar «music.mp3» al directori de la targeta SD, toqueu la pa
   <string name="nfc_disable_tip">Activeu la funció NFC</string>
   <string name="remove_headset_and_starttest">Desconnecteu l\'auricular i premeu inicia per provar-ho</string>
   <string name="search_menu_title">Cerca</string>
+  <string name="select">Selecciona</string>
   <string name="select_all">Selecciona-ho tot</string>
+  <string name="select_none">Seleccioneu cap</string>
   <string name="speak_from_mic">Parleu al MICRO, la reproducció dels altaveus. Jutgeu si hi ha so.</string>
   <string name="start">Inicia</string>
   <string name="status_failed">Ha fallat una o més proves</string>

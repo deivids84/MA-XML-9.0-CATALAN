@@ -93,7 +93,7 @@
   <string name="confirm_restore_title">Restaureu el missatge</string>
   <string name="confirm_send_mms">Un dels destinataris inclou una adreça de correu. Aquest missatge serà enviat com un MMS, que pot generar càrrecs addicionals de l\'operador.</string>
   <string name="context_menu_add_calendar">Afegeix al Calendari</string>
-  <string name="context_menu_add_contact">Afegeix als Contactes</string>
+  <string name="context_menu_add_contact">Afegeix als contactes</string>
   <string name="context_menu_add_to_browser_favorite">Afegeix als marcadors del navegador</string>
   <string name="context_menu_browse_web">Obre l\'enllaç</string>
   <string name="context_menu_call">Trucada</string>
@@ -209,7 +209,7 @@
   <string name="hybrid_pull_to_refresh_refreshing_label">Un moment…</string>
   <string name="hybrid_pull_to_refresh_release_label">Deixeu anar per actualitzar&#8230;</string>
   <string name="hybrid_service_unavailiable">"Servei no disponible"</string>
-  <string name="hybrid_try_again">Torneu-ho a provar</string>
+  <string name="hybrid_try_again">Torna-ho a provar</string>
   <string name="i_know">D\'acord</string>
   <string name="importing_progress_private_message">S\'està important&#8230;</string>
   <string name="in_sms">Missatge</string>
@@ -247,7 +247,7 @@
   <string name="message_details_title">Detalls del missatge</string>
   <string name="message_download_failed_title">Missatge no baixat</string>
   <string name="message_expired">Caducat</string>
-  <string name="message_failed">Fallit</string>
+  <string name="message_failed">Ha fallat</string>
   <string name="message_failed_body">Toqueu per revisar el missatge i torneu-ho a provar.</string>
   <string name="message_number">Número de telèfon:</string>
   <string name="message_pending">S\'està enviant</string>
@@ -328,7 +328,7 @@
   <string name="mx_stranger_recommend_msg">Toqueu per bloquejar Missatges Mi de números desconeguts</string>
   <string name="mx_type_guide">Missatge Mi li permet enviar missatges a altres usuaris de MIUI de franc</string>
   <string name="need_download">S\'està sincronitzant&#8230;</string>
-  <string name="networking_allow_continue">D\'acord</string>
+  <string name="networking_allow_continue">Permet</string>
   <string name="networking_allow_desc">Els missatges intel·ligents li permeten enviar missatges de text i veu gratuïts, reconèixer nombres desconeguts, filtrar correu no desitjat, etc. Mitjançant l\'ús d\'aquest servei, vostè es compromet i està d\'acord amb els %1$s i %2$s de Xiaomi. Ara haureu d\'activar les Pàgines Grogues i connectar-vos a Internet per utilitzar aquest servei.</string>
   <string name="networking_allow_desc_without_mx">Els missatges intel·ligent li permeten identificar els números desconeguts, filtre d\'spam etc. En utilitzar aquest servei, accepteu els %1$s i %2$s de Xiaomi. Haureu d\'activar l\'aplicació Pàgines grogues i tenir accés a Internet per utilitzar aquest servei.</string>
   <string name="networking_allow_title">Atenció</string>
@@ -561,7 +561,6 @@
   <string name="sms_report_success">Informe enviat</string>
   <string name="snippet_audio">[àudio]</string>
   <string name="snippet_picture">[imatge]</string>
-  <string name="snippet_timed">[Timed]</string>
   <string name="sp_category_all">Tots els missatges de servei</string>
   <string name="sp_category_bank">Missatges de notificació del banc</string>
   <string name="sp_conversation_title">Notificacions</string>
@@ -599,7 +598,7 @@
   <string name="title_collapse_sp_messages">Grup de notificacions</string>
   <string name="title_hide_verification_code">Amaga automàticament l\'OTP a la pantalla de bloqueig</string>
   <string name="title_show_blocked_messages">Mostra els SMS bloquejats</string>
-  <string name="title_show_list_avatar">Mostra fotos i informació</string>
+  <string name="title_show_list_avatar">Mostra fotos de perfil</string>
   <string name="title_show_photo_word">Assigna fotos al contacte</string>
   <string name="title_show_sms_template">Comproveu els SMS per als codis de verificació</string>
   <string name="title_show_sms_template_in">Comproveu l\'SMS per OTP</string>

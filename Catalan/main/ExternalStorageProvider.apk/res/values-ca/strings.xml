@@ -3,4 +3,5 @@
 <resources>
   <string name="app_label">Emmagatzematge extern</string>
   <string name="root_internal_storage">Emmagatzematge intern</string>
+  <string name="storage_description">Emmagatzematge local</string>
 </resources>

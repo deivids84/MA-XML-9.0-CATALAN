@@ -99,7 +99,7 @@
   <string name="message_block_confirmation">Voleu bloquejar missatges d\'aquest compte?</string>
   <string name="message_block_processing">S\'hi està treballant&#8230;</string>
   <string name="message_block_reminder">Recordatori</string>
-  <string name="message_failed">S\'ha produït un error</string>
+  <string name="message_failed">Ha fallat</string>
   <string name="message_list_all_read">Marca tots com a llegits</string>
   <string name="message_pending">S\'està enviant</string>
   <string name="message_readed">Llegit</string>
@@ -180,7 +180,7 @@
   <string name="private_protect">Contrasenyes</string>
   <string name="processing">S\'està processant&#8230;</string>
   <string name="prvate_contact">Contactes privats</string>
-  <string name="rate_limit_surpassed">D’acord</string>
+  <string name="rate_limit_surpassed">D\'acord</string>
   <string name="remind_follow">Seguir aquest número?</string>
   <string name="remove">Elimina</string>
   <string name="replace">Substitueix</string>
@@ -188,7 +188,7 @@
   <string name="resize_image_error_information">Aquesta imatge és massa gran per enviar, encara que es canviï de mida.</string>
   <string name="restore_blocked_message">Restaureu el missatge</string>
   <string name="retrive_hms_tips">S\'està recuperant&#8230;</string>
-  <string name="save">Deseu</string>
+  <string name="save">Desa</string>
   <string name="scan_result">Resultats</string>
   <string name="search_empty">No s\'ha trobat cap coincidència</string>
   <string name="search_hint">Cerqueu missatges</string>
@@ -222,7 +222,7 @@
   <string name="to_label">"Per a "</string>
   <string name="to_send_wrapper">S\'enviarà a %s</string>
   <string name="too_many_unsent_mms">"No es pot enviar missatge. Massa missatges multimèdia no enviats."</string>
-  <string name="try_again">Torneu a provar-ho</string>
+  <string name="try_again">Torna-ho a provar</string>
   <string name="type_attachment">fitxer adjunt</string>
   <string name="type_audio">àudio</string>
   <string name="type_picture">imatge</string>
@@ -240,5 +240,5 @@
   <string name="view_hms_details_download">Baixa</string>
   <string name="view_message_details">Mostra els detalls</string>
   <string name="xiaomi_service_number">Número de servei</string>
-  <string name="yes">D’acord</string>
+  <string name="yes">D\'acord</string>
 </resources>

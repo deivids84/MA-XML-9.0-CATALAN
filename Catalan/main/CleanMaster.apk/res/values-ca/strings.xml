@@ -296,9 +296,9 @@
   <string name="network_not_available">"No es pot connectar a la xarxa"</string>
   <string name="news_change">Canvia</string>
   <string name="no_network">"No s'ha pogut connectar a la xarxa, torneu-ho a provar més tard"</string>
-  <string name="no_network_btn">Torneu-ho a provar</string>
+  <string name="no_network_btn">Torna-ho a provar</string>
   <string name="notification_summary_after_auto_cleanup">%s netejats.</string>
-  <string name="notification_summary_of_garbage_cleanup">Toqueu aquí per alliberar espai.</string>
+  <string name="notification_summary_of_garbage_cleanup">La brossa és superior a %s.</string>
   <string name="notification_title_of_garbage_cleanup">%s de fitxers brossa</string>
   <string name="notify_when">Notificar quan la mida de la brossa arribi als 100 MB</string>
   <string name="ok">D\'acord</string>

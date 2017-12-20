@@ -9,7 +9,6 @@
   <string name="ble_device_rename">Reanomena</string>
   <string name="bluetooth_connected">Vinculat</string>
   <string name="bluetooth_connecting">S\'està vinculant&#8230;</string>
-  <string name="bluetooth_device_context_unpair">Desenllaça</string>
   <string name="bluetooth_disconnected">Desvinculat</string>
   <string name="bluetooth_disconnecting">S\'està desvinculant&#8230;</string>
   <string name="bluetooth_preference_connected_devices">Dispositius vinculats</string>
@@ -38,7 +37,7 @@
   <string name="mi_key_take_photo">Fes una foto</string>
   <string name="notify_device_lose_connection_text">Premeu per desvincular %1$s</string>
   <string name="notify_device_lose_connection_title">S\'ha perdut la connexió amb %1$s</string>
-  <string name="ok_button">D’acord</string>
+  <string name="ok_button">D\'acord</string>
   <string name="progress_scanning">S\'està cercant&#8230;</string>
   <string name="reset_function_msg">Restablint aquesta característica es podria provocar que %1$s deixi de funcionar correctament.</string>
   <string name="some_app_taking">(%1$s ja està utilitzant aquesta funció)</string>

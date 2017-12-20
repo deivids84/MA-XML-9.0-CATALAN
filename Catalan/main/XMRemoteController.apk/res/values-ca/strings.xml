@@ -182,8 +182,8 @@ Proveu el següent per solucionar el problema:
   <string name="commit_done">Enviat</string>
   <string name="commit_thanks">Gràcies pels vostres comentaris.</string>
   <string name="common_use">Usats sovint</string>
-  <string name="confirm">D’acord</string>
-  <string name="confirm_on">D’acord</string>
+  <string name="confirm">D\'acord</string>
+  <string name="confirm_on">﻿D\'acord</string>
   <string name="connect_to_retry">"No es pot connectar a la xarxa. Comproveu la vostra connexió i torneu a provar."</string>
   <string name="connected">Connectat</string>
   <string name="continue_to_add_other_rc">Afegeix més dispositius</string>
@@ -251,7 +251,7 @@ Proveu el següent per solucionar el problema:
   <string name="downloading">S\'està baixant&#8230;</string>
   <string name="dpad_down">A baix</string>
   <string name="dpad_left">A l\'esquerra</string>
-  <string name="dpad_ok">Acceptar</string>
+  <string name="dpad_ok">D\'acord</string>
   <string name="dpad_right">A la dreta</string>
   <string name="dpad_up">Amunt</string>
   <string name="dvb_bind_epg">(Actual)</string>
@@ -400,7 +400,7 @@ Proveu el següent per solucionar el problema:
   <string name="hour">h</string>
   <string name="humidity">Humitat:</string>
   <string name="increase">Incrementa</string>
-  <string name="input_complete">Correcte</string>
+  <string name="input_complete">D\'acord</string>
   <string name="input_dialogue_cancel_button">Cancel·la</string>
   <string name="input_dialogue_guide1">Instal·la aplicacions no autoritzades</string>
   <string name="input_dialogue_guide2">Introduïu el codi mostrat a la TV</string>
@@ -447,7 +447,7 @@ Proveu el següent per solucionar el problema:
   <string name="jump_to_mivideo">Visionat en un dispositiu mòbil</string>
   <string name="just_now">Ara mateix</string>
   <string name="just_used">Ara mateix</string>
-  <string name="key_press_vibrate">Vibra en prèmer</string>
+  <string name="key_press_vibrate">Vibra en prémer</string>
   <string name="ky_receive_audio_preferred">Reconeix els espectacles que escolteu automàticament</string>
   <string name="ky_receive_audio_watching_tv">Esteu veient</string>
   <string name="last_bak_time">Darrera còpia de seguretat %1$s</string>
@@ -680,7 +680,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_error_empty_email">Introduïu la vostra adreça de correu</string>
   <string name="passport_error_empty_phone_num">Introduïu un número de telèfon</string>
   <string name="passport_error_empty_pwd">Introduïu la vostra contrasenya</string>
-  <string name="passport_error_empty_username">Introduïu el vostre nom d\'usuari</string>
+  <string name="passport_error_empty_username">Introduïu l\'ID del compte</string>
   <string name="passport_error_empty_vcode">Introduïu el codi de verificació</string>
   <string name="passport_error_illegal_pwd">Contrasenya no vàlida</string>
   <string name="passport_error_invalid_dev_id">"Invalid device ID"</string>
@@ -695,8 +695,8 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_error_user_name">Invalid username</string>
   <string name="passport_failed_to_send_activate_email">"No s'ha pogut enviar el correu d'activació"</string>
   <string name="passport_find_password_on_web_msg">Visiteu account.mi.com per restaurar la vostra contrasenya.</string>
-  <string name="passport_forget_password">Contrasenya oblidada</string>
-  <string name="passport_forget_password_no_underline">Contrasenya oblidada</string>
+  <string name="passport_forget_password">&lt;u&gt;He oblidat la contrasenya&lt;/u&gt;</string>
+  <string name="passport_forget_password_no_underline">He oblidat la contrasenya</string>
   <string name="passport_get_back_pwd">Recupera la contrasenya del compte</string>
   <string name="passport_get_verify_code">Obtén codi</string>
   <string name="passport_getting_verify_code">Obtenint</string>
@@ -730,7 +730,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_quick_login_dialog_step2_title">Verificació en dues etapes</string>
   <string name="passport_quick_login_dialog_title">Verifica la contrasenya</string>
   <string name="passport_quick_login_step2_title">Verificació en dues etapes</string>
-  <string name="passport_quick_login_title">Introduïu la vostra contrasenya</string>
+  <string name="passport_quick_login_title">Introduïu la contrasenya</string>
   <string name="passport_re_get_verify_code">Obteniu el codi un altre cop</string>
   <string name="passport_re_register">Torneu a registrar-vos</string>
   <string name="passport_recycle_account_prompt">Aquest és el vostre compte Mi?</string>
@@ -765,7 +765,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_restart">Torna a començar</string>
   <string name="passport_restart_register_prompt">Pot ser que sigui necessari un altre missatge de verificació per crear el vostre compte.</string>
   <string name="passport_restart_register_title">Crea un compte Mi</string>
-  <string name="passport_retry">Torneu a provar-ho</string>
+  <string name="passport_retry">Torna-ho a provar</string>
   <string name="passport_select_reg_ways_title">Altres maneres d\'inscriure\'s</string>
   <string name="passport_send_too_many_code">S\'han enviat massa codis de verificació a aquest número. Espereu 24 hores i torneu a provar.</string>
   <string name="passport_setting">S\'està configurant&#8230;</string>
@@ -863,13 +863,13 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="report_problem">Informa d’un problema</string>
   <string name="require_login">Inicieu primer la sessió</string>
   <string name="rescan">重新搜索</string>
-  <string name="reset">Reinicia</string>
+  <string name="reset">Restableix</string>
   <string name="respond">Funciona</string>
   <string name="retry_for_more">Premeu per veure més</string>
   <string name="room_guide_tips">"Controleu diversos dispositius
 
 directament des de la vostra pantalla de bloqueig"</string>
-  <string name="save">Guardar</string>
+  <string name="save">Desa</string>
   <string name="save_share_tips">Us agrada l\'aplicació? La podeu valorar.</string>
   <string name="save_share_title">Voleu desar el comandament d\'aquest dispositiu?</string>
   <string name="scaning">Cercant&#8230;</string>
@@ -926,7 +926,7 @@ directament des de la vostra pantalla de bloqueig"</string>
   <string name="share_done">Compartit correctament</string>
   <string name="share_fail">"No s'ha pogut connectar, intenteu-ho de nou"</string>
   <string name="share_friends_cancel">Cancel·la</string>
-  <string name="share_friends_confirm">D’acord</string>
+  <string name="share_friends_confirm">D\'acord</string>
   <string name="share_friends_none_text">No s\'han trobat amics</string>
   <string name="share_friends_not_find_text">No s\'han trobat resultats</string>
   <string name="share_friends_search_hint_text">Cerca amics</string>

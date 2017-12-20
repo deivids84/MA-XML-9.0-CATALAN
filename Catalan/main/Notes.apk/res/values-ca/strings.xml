@@ -20,7 +20,6 @@
   <string name="all_terms">%1$s i %2$s</string>
   <string name="call_folder_name">Notes de trucada</string>
   <string name="cancel_alarm_description">Cancel·la l\'alarma</string>
-  <string name="cloud_service_state_open_reminder">Activeu la sincronització amb Mi Cloud per sincronitzar notes.</string>
   <string name="cloud_trash_bin_title">Elimina notes al Mi Cloud</string>
   <string name="cta_reminder">Aquesta aplicació s\'ha de connectar a Internet per fer còpies de seguretat de les notes al Mi Cloud, així com per llegir els contactes per etiquetar les notes que preneu durant les trucades.</string>
   <string name="db_downgrade_clear_button">Esborra les dades de l\'aplicació</string>
@@ -49,7 +48,7 @@
   <string name="done">Fet</string>
   <string name="edit_header_done_description">Fet</string>
   <string name="edit_header_home_description">Enrere</string>
-  <string name="enable_sync">Sincronització</string>
+  <string name="enable_sync">Sincronitza</string>
   <string name="enable_sync_desc">Sincronitza les teves notes amb el teu compte de Mi (%1$s)?</string>
   <string name="error_contact_not_exist">"No existeix el contacte"</string>
   <string name="error_hide_empty_note">"No es pot ocultar una nota buida"</string>
@@ -131,7 +130,7 @@
   <string name="set_alarm_description">Estableix alarma</string>
   <string name="sina_share_fail">"No s'ha pogut enviar"</string>
   <string name="sina_share_fail_content_repeat">"No s'ha pogut compartir. El contingut ja existeix…\""</string>
-  <string name="sina_share_pendding">Enviant&#8230;</string>
+  <string name="sina_share_pendding">S\'està enviant…</string>
   <string name="sina_share_success">Enviada</string>
   <string name="sina_token_expired_warning">El compte Weibo ha expirat: Si us plau, reconnecti</string>
   <string name="sina_token_invalid_warning">El compte Weibo no és vàlid: Si us plau, reconnecti</string>

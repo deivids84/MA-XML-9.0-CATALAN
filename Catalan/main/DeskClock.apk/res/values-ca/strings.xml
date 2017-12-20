@@ -28,7 +28,7 @@
   <string name="auto_silence_never">Mai</string>
   <string name="auto_silence_title">Silencia automàticament</string>
   <string name="birthday_alarm">Recordatori d\'aniversari</string>
-  <string name="birthday_alarm_summary">Reprodueix \"Per molts anys\" enlloc de l\'alarma per defecte el dia del vostre aniversari</string>
+  <string name="birthday_alarm_summary">Reprodueix «Per molts anys» enlloc de l\'alarma per defecte el dia del vostre aniversari</string>
   <string name="cancel">Cancel·la</string>
   <string name="close_alarm">Atura l\'alarma</string>
   <string name="common_settings">Configuració</string>
@@ -37,8 +37,8 @@
   <string name="control_set_alarm_with_existing">Ajusta l\'alarma: %s</string>
   <string name="day">1 dia</string>
   <string name="days">%s dies</string>
-  <string name="default_alarm_alert">So d\'alarma predeterminat</string>
-  <string name="default_alarm_title">So predeterminat</string>
+  <string name="default_alarm_alert">So d\'alarma per defecte</string>
+  <string name="default_alarm_title">So per defecte</string>
   <string name="default_label">Alarma</string>
   <string name="delete">Suprimeix</string>
   <string name="delete_alarm">Suprimeix l\'alarma</string>
@@ -86,7 +86,7 @@
   <string name="life_post_wake_up_time_title">Hora de llevar-se</string>
   <string name="life_post_weather_description_secondary">%1$s, %2$s, %3$s</string>
   <string name="life_post_weather_invalid">"No s'ha pogut obtenir informació meteorològica, premeu per provar-ho un altre cop"</string>
-  <string name="loading_ringtone">S\'està carregant el timbre&#8230;</string>
+  <string name="loading_ringtone">S\'està carregant el so…</string>
   <string name="menu_add_worldclock">Afegeix un rellotge</string>
   <string name="menu_desk_clock">Rellotge</string>
   <string name="menu_edit_timer_item">Edita el temporitzador</string>
@@ -101,7 +101,7 @@
   <string name="oneshot_alarm">Elimina-la en aturar-la</string>
   <string name="pause">Pausa</string>
   <string name="remind_ringtone">So</string>
-  <string name="reset">Reinicialitza</string>
+  <string name="reset">Restableix</string>
   <string name="revert">Anul·la</string>
   <string name="search_alarm_clock_keywords">Alarma; Despertador;</string>
   <string name="search_stopwatch_keywords">Cronòmetre</string>

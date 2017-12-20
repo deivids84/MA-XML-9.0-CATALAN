@@ -21,7 +21,7 @@
   <string name="add_blacklist_dialog_message">Voleu blocar trucades i missatges des d\'aquest número?</string>
   <string name="add_blacklist_dialog_title">Voleu blocar aquest número de telèfon?</string>
   <string name="add_connection_button">Afegeix connexió</string>
-  <string name="add_contact_dlg_message_fmt">Voleu afegir \"%s\" a contactes?</string>
+  <string name="add_contact_dlg_message_fmt">Voleu afegir «%s» als contactes?</string>
   <string name="add_display_photo_entry">Afegeix foto del perfil</string>
   <string name="add_field">Afegeix un altre camp</string>
   <string name="add_field_toast">No hi ha més camps per afegir.</string>
@@ -44,7 +44,6 @@
   <string name="audio_chat">Xat de veu</string>
   <string name="auto_nickname">Automàtic</string>
   <string name="auto_set_nickname">Automàtic</string>
-  <string name="back_description">Enrere</string>
   <string name="back_view_description">Anar enrere</string>
   <string name="batch_delete">Elimina el lot</string>
   <string name="blacklist">Bloca</string>
@@ -89,6 +88,7 @@
   <string name="call_radio">Trucada a ràdio</string>
   <string name="call_record_setting_miui">Configuració d\'enregistrament</string>
   <string name="call_settings">Configuració</string>
+  <string name="call_settings_primary_user_only">Només l\'usuari principal pot canviar la configuració de trucades.</string>
   <string name="call_sim1_menu_title">Marca a SIM 1</string>
   <string name="call_sim2_menu_title">Marca a SIM 2</string>
   <string name="call_sim_menu_title_suffix">(Primària)</string>
@@ -98,8 +98,6 @@
   <string name="call_work">Trucar a la feina</string>
   <string name="call_work_mobile">Trucar al mòbil de la feina</string>
   <string name="call_work_pager">Trucar al cercapersones de la feina</string>
-  <string name="calllog_call_note_menu">Notes de la trucada</string>
-  <string name="calllog_call_record_menu">Trucades enregistrades</string>
   <string name="calllog_menu_blacklist">Bloca</string>
   <string name="calllog_menu_edit_before_call">Edita</string>
   <string name="calllog_menu_send_sms">Enviar un missatge</string>
@@ -165,7 +163,7 @@
   <string name="clearFrequentsConfirmation_title">Esborrar la llista de contactes freqüents?</string>
   <string name="clearFrequentsProgress_title">Esborrant contactes freqüents&#8230;</string>
   <string name="clear_copy_number_description">Esborra el número copiat</string>
-  <string name="clear_default">Desmarcar com a número per defecte</string>
+  <string name="clear_default">Esborra els valors per defecte</string>
   <string name="clear_digits">Elimina numero telefònic</string>
   <string name="click_close">Tocar per tancar</string>
   <string name="clip_dialog_title">Marcar número copiat?</string>
@@ -207,7 +205,7 @@
   <string name="contact_detail_miprofile_accept">Intercanviar targetes de contacte</string>
   <string name="contact_detail_miprofile_accept_fail_toast">"No s'han pogut intercanviar les targetes de contacte"</string>
   <string name="contact_detail_miprofile_accept_success_toast">Targetes de contacte intercanviades</string>
-  <string name="contact_detail_miprofile_binded_label">Verificada</string>
+  <string name="contact_detail_miprofile_binded_label">Verificat</string>
   <string name="contact_detail_miprofile_exchange_closed">"No hi ha cap número de telèfon associat amb aquest compte Mi
 Les targetes de contacte estan apagades"</string>
   <string name="contact_detail_miprofile_privacy_settings">Sol·licitar permís per veure</string>
@@ -218,14 +216,14 @@ Les targetes de contacte estan apagades"</string>
   <string name="contact_detail_miprofile_save">Tocar per obtenir targeta de contacte</string>
   <string name="contact_detail_miprofile_save_fail_toast">"No s'ha pogut obtenir la targeta de contacte"</string>
   <string name="contact_detail_miprofile_save_success_toast">Targeta de contacte rebuda</string>
-  <string name="contact_detail_miprofile_settings_header">AJUSTAMENTS ADDICIONALS</string>
+  <string name="contact_detail_miprofile_settings_header">CONFIGURACIÓ ADDICIONAL</string>
   <string name="contact_detail_miprofile_subtitle">Ja s\'han intercanviat les targetes </string>
   <string name="contact_detail_profile_switch_fail_network_toast">"No s'ha pogut connectar a la xarxa"</string>
   <string name="contact_detail_profile_switch_fail_toast">Alguna cosa va anar malament amb el nostre servidor</string>
   <string name="contact_detail_profile_switch_off">Apagar targetes de contacte</string>
   <string name="contact_detail_profile_switch_off_fail_toast">"No s'han pogut apagar les targetes de contacte"</string>
   <string name="contact_detail_profile_switch_off_success_toast">Targetes de contacte apagades</string>
-  <string name="contact_detail_profile_switch_on">"Veure les fotos de perfil del contacte"</string>
+  <string name="contact_detail_profile_switch_on">"Mostra les fotos de perfil dels contactes"</string>
   <string name="contact_detail_profile_switch_on_fail_toast">"No s'ha pogut engegar les targetes de contacte"</string>
   <string name="contact_detail_profile_switch_on_subtitle">Premeu per engegar les targetes de contacte</string>
   <string name="contact_detail_profile_switch_on_success_toast">Targetes de contacte enceses</string>
@@ -237,9 +235,6 @@ Les targetes de contacte estan apagades"</string>
   <string name="contact_editor_prompt_multiple_accounts">Seleccioneu un compte de contacte per guardar a</string>
   <string name="contact_editor_prompt_one_account">El nou contacte serà %1$s sincronitzat</string>
   <string name="contact_editor_prompt_zero_accounts">Desa al mòbil o en un compte en línia</string>
-  <string name="contact_import_methods_dialog_bluetooth">Bluetooth</string>
-  <string name="contact_import_methods_dialog_mi_mover">Mi Mover</string>
-  <string name="contact_import_methods_dialog_title">Seleccioneu el mètode d\'importació</string>
   <string name="contact_is_readOnly">"No es pot editar els contactes de només lectura"</string>
   <string name="contact_list_loading">Carregant&#8230;</string>
   <string name="contact_pick_photo">Foto</string>
@@ -258,8 +253,6 @@ Les targetes de contacte estan apagades"</string>
   <string name="contacts_unavailable_add_account">Inicieu sessió en un compte</string>
   <string name="contacts_unavailable_create_contact">Crea un nou contacte</string>
   <string name="contacts_unavailable_import_contacts">Importa contactes des d\'un fitxer</string>
-  <string name="contacts_unavailable_import_from_old_device">Importa des d\'un dispositiu antic</string>
-  <string name="contacts_unavailable_import_sim_contacts">Importa contactes de la SIM</string>
   <string name="convenient_service">Serveis</string>
   <string name="copy_number">Copia</string>
   <string name="copy_text">Copia al porta-retalls</string>
@@ -364,7 +357,7 @@ Les targetes de contacte estan apagades"</string>
   <string name="dial">Marcar</string>
   <string name="dialerDialpadHintText">Marca per afegir una trucada</string>
   <string name="dialerIconLabel">Recents</string>
-  <string name="dialerKeyboardHintText">Utilitza teclat per marcar</string>
+  <string name="dialerKeyboardHintText">Utilitza el teclat per marcar</string>
   <string name="dialer_addAnotherCall">Afegeix trucada</string>
   <string name="dialer_copy_view_delete_description">Esborra el número copiat</string>
   <string name="dialer_digits_copy_number_label">Número copiat</string>
@@ -473,7 +466,6 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="group_create_fail_toast">"No s'ha pogut crear grup"</string>
   <string name="group_create_success_toast">Grup creat</string>
   <string name="group_delete_success_toast">Grup eliminat</string>
-  <string name="group_detail_label_placeholder">&#160;</string>
   <string name="group_edit_field_hint_text">Nom del grup</string>
   <string name="group_member_remove_fail_toast">No s\'ha eliminat del grup</string>
   <string name="group_member_remove_success_toast">Eliminat del grup</string>
@@ -494,7 +486,7 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="hybrid_locating_fail">"No s'ha pogut accedir a la seva ubicació"</string>
   <string name="hybrid_network_unavaliable">"No s'ha pogut accedir a la xarxa"</string>
   <string name="hybrid_service_unavailiable">Sense servei</string>
-  <string name="hybrid_try_again">Intenta-ho de nou</string>
+  <string name="hybrid_try_again">Torna-ho a provar</string>
   <string name="hybrid_webpage_not_available">Pàgina web no està disponible</string>
   <string name="ic_menu_back">Enrere</string>
   <string name="ic_menu_done">Fet</string>
@@ -516,7 +508,6 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="import_name">Nom</string>
   <string name="import_one_vcard_string">Importa un fitxer vCard</string>
   <string name="import_selected_sim_entries_miui">Importa contactes seleccionats</string>
-  <string name="import_sim_contacts_hint_title">Importa contactes de la SIM</string>
   <string name="import_sim_entries_finish">Contactes importats de la targeta SIM</string>
   <string name="import_sim_entry_miui">Importar</string>
   <string name="import_to_xiaomi_account_confirm">Importar</string>
@@ -526,6 +517,16 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="import_to_xiaomi_account_title">Importar a compte Mi</string>
   <string name="import_vcard_description">"Importa contactes des de l'emmagatzematge del telèfon"</string>
   <string name="import_vcard_dialog_message">Importar vCard?</string>
+  <string name="import_weibo_dialog_title">Importació de contactes de Weibo</string>
+  <string name="import_weibo_error_no_matched_contacts">No hi ha contactes coincidents</string>
+  <string name="import_weibo_error_no_network">"No es pot connectar a la xarxa. Comproveu la connexió de dades i torneu-ho a provar."</string>
+  <string name="import_weibo_error_no_xiaomi_phone">No hi ha números de telèfon emmagatzemats al Compte Mi.</string>
+  <string name="import_weibo_error_unknown">Error desconegut</string>
+  <string name="import_weibo_error_user_cancel">Importació cancel·lada</string>
+  <string name="import_weibo_fetch_followers">S\'està obtenint els contactes…</string>
+  <string name="import_weibo_notification_title_done">S\'ha actualitzat %s contactes</string>
+  <string name="import_weibo_progress_name">S\'està enllaçant «%1$s»…</string>
+  <string name="import_weibo_progress_percent">%1$d%%</string>
   <string name="importing_sim_contacts_miui">Importar contactes de la targeta SIM&#8230;</string>
   <string name="importing_sim_contacts_miui_prepare">S\'estan preparant els contactes&#8230;</string>
   <string name="importing_vcard_canceled_title">Exportació de %s cancel·lat</string>
@@ -581,7 +582,7 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="menu_bar_group_add">Afegir</string>
   <string name="menu_bar_group_delete">Elimina</string>
   <string name="menu_bar_group_rename">Canviar el nom</string>
-  <string name="menu_bar_group_ringtone">To de trucada de grup</string>
+  <string name="menu_bar_group_ringtone">To de trucada</string>
   <string name="menu_bar_group_ringtone_largeui">To de trucada</string>
   <string name="menu_bar_group_sms">Grup SMS</string>
   <string name="menu_call">Trucar a contacte</string>
@@ -597,7 +598,7 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="menu_dial_ip_number">Marca per trucada IP</string>
   <string name="menu_dialpad_text">Teclat</string>
   <string name="menu_discard">Descarta</string>
-  <string name="menu_display_all">Mostra tot</string>
+  <string name="menu_display_all">Mostra-ho tot</string>
   <string name="menu_display_selected">Mostra seleccionada</string>
   <string name="menu_doNotSave">Cancel·la</string>
   <string name="menu_done">D\'acord</string>
@@ -620,7 +621,7 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="menu_select_none">Desselecciona-ho tot</string>
   <string name="menu_sendSMS">Contacte de text</string>
   <string name="menu_sendTextMessage">Envia el missatge de text</string>
-  <string name="menu_set_ring_tone">Ajustar el to de trucada</string>
+  <string name="menu_set_ring_tone">Estableix el to de trucada</string>
   <string name="menu_settings">Configuració</string>
   <string name="menu_share">Comparteix</string>
   <string name="menu_show_all_calls">Mostra totes les trucades</string>
@@ -717,6 +718,56 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="noAccounts">Per crear grups necessita un compte.</string>
   <string name="noContactHelpTextImportXiaomiAccountInfo">Restaurar dades de contactes utilitzant el compte Mi</string>
   <string name="noContacts">No hi ha contactes</string>
+  <string name="noContactsHelpText">"No teniu cap contacte per mostrar.
+
+Per afegir contactes, toqueu \"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;Menú&lt;/font&gt;&lt;/b&gt;\", a continuació, toqueu:
+ 
+\"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"Comptes per afegir o configurar un compte amb contactes que podeu sincronitzar amb el telèfon
+\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\" 
+\"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"Nou contacte per crear un contacte nou des de zero
+\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\" 
+\"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"Importa/exporta per importar contactes des de la targeta SIM o SD
+\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\"
+"</string>
+  <string name="noContactsHelpTextForCreateShortcut">"No teniu cap contacte per mostrar."</string>
+  <string name="noContactsHelpTextWithSync">"No teniu cap contacte per mostrar. (Si acabeu d\'afegir un compte, pot trigar uns minuts a sincronitzar els contactes).
+
+Per afegir contactes, toqueu \"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;Menú&lt;/font&gt;&lt;/b&gt;\", a continuació, toqueu:
+ 
+\"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"Comptes per afegir o configurar un compte amb contactes que podeu sincronitzar amb el telèfon
+\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\" 
+\"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"Mostra opcions per canviar quins contactes són visibles
+\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\" 
+\"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"Nou contacte per crear un contacte nou des de zero
+\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\" 
+\"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"Importa/exporta per importar contactes des de la targeta SIM o SD
+\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\"
+"</string>
+  <string name="noContactsHelpTextWithSyncForCreateShortcut">"No teniu cap contacte per mostrar. (Si acabeu d'afegir un compte, la sincronització dels contactes pot trigar una estona)."</string>
+  <string name="noContactsNoSimHelpText">"No teniu cap contacte per mostrar.
+
+Per afegir contactes, toqueu \"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;Menú&lt;/font&gt;&lt;/b&gt;\", a continuació, toqueu:
+ 
+\"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"Comptes per afegir o configurar un compte amb contactes que podeu sincronitzar amb el telèfon
+\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\" 
+\"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"Nou contacte per crear un contacte nou des de zero
+\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\" 
+\"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"Importa/exporta per importar contactes de la vostra targeta SD
+\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\"
+"</string>
+  <string name="noContactsNoSimHelpTextWithSync">"No teniu cap contacte per mostrar. (Si acaba d\'afegir un compte, pot trigar uns minuts a sincronitzar els contactes).
+
+To add contacts, touch \"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;Menú&lt;/font&gt;&lt;/b&gt;\", a continuació, toqueu:
+ 
+\"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"Comptes per afegir o configurar un compte amb contactes que podeu sincronitzar amb el telèfon
+\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\" 
+\"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"Mostra opcions per canviar quins contactes són visibles
+\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\" 
+\"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"Nou contacte per crear un contacte nou des de zero
+\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\" 
+\"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"Importa/exporta per importar contactes de la vostra targeta SD
+\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\"
+"</string>
   <string name="noContactsWithPhoneNumbers">No hi ha contactes amb números de telèfon</string>
   <string name="noFavoritesHelpText">"No té cap favorit.
 
@@ -843,8 +894,8 @@ Per afegir un contacte a la llista de favorits:
   <string name="preference_dial_pad_touch_tone_default">Per defecte</string>
   <string name="preference_dial_pad_touch_tone_human">Veu</string>
   <string name="preference_dial_pad_touch_tone_piano">Tecles piano</string>
-  <string name="preference_dial_pad_touch_tone_switch">Tons de teclat</string>
-  <string name="preference_dial_pad_touch_tone_title">Tons de teclat</string>
+  <string name="preference_dial_pad_touch_tone_switch">Tons del teclat</string>
+  <string name="preference_dial_pad_touch_tone_title">Tons del teclat</string>
   <string name="preference_display">Pantalla</string>
   <string name="preference_displayOptions">Opcions de visualització</string>
   <string name="preference_export">Exporta</string>
@@ -857,8 +908,8 @@ Per afegir un contacte a la llista de favorits:
   <string name="preference_phone">Telèfon</string>
   <string name="preference_phone_more_title">Configuració de trucada</string>
   <string name="preference_remove_duplicate">Combinar contactes duplicats</string>
-  <string name="preference_show_yellowpage_tab_description">Tanqueu la pestanya pàgina groga, la funció pàgina groga no funcionarà correctament</string>
-  <string name="preference_show_yellowpage_tab_title">Mostra la pestanya pàgina groga</string>
+  <string name="preference_show_yellowpage_tab_description">És possible que les pàgines grogues no funcionin correctament quan aquesta funció estigui desactivada.</string>
+  <string name="preference_show_yellowpage_tab_title">Mostra les pàgines grogues</string>
   <string name="preference_simple_mode_description">Mostra imatges i altra informació de contacte a la vista de llista</string>
   <string name="preference_simple_mode_title">Mostra fotos i informació</string>
   <string name="preference_smart_group_company_summary">Agrupa per empresa</string>
@@ -981,8 +1032,8 @@ Per afegir un contacte a la llista de favorits:
   <string name="service_provider">Agenda</string>
   <string name="service_provider_detail">Detalls de la guia</string>
   <string name="set_data_package">Estableix el pla de dades primer</string>
-  <string name="set_default">Marca com a número per defecte</string>
-  <string name="set_photo_failed_msg">"No s'ha pogut assignar una imatge."</string>
+  <string name="set_default">Defineix per defecte</string>
+  <string name="set_photo_failed_msg">"No s'ha pogut assignar la foto"</string>
   <string name="share_error">"Aquest contacte no es pot compartir"</string>
   <string name="share_over_limit">"Per sobre del límit, no pot compartir"</string>
   <string name="share_via">Envia usant</string>
@@ -1067,7 +1118,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="success_message_import_from_account">Importació realitzada</string>
   <string name="summary_kind_title">Resum</string>
   <string name="t9_search_empty_create_contact">Nou contacte</string>
-  <string name="t9_search_empty_edit_contact">Afegeix-lo als contactes</string>
+  <string name="t9_search_empty_edit_contact">Afegeix als contactes</string>
   <string name="t9_search_empty_send_sms">Envia missatge</string>
   <string name="t9_search_empty_video_call">Videotrucada</string>
   <string name="t9_search_guide_pinyin_title1">Cerca ràpida de contactes en introduir lletres</string>
@@ -1100,13 +1151,13 @@ Per afegir un contacte a la llista de favorits:
   <string name="type_outgoing">Trucades sortints</string>
   <string name="type_voicemail">Missatge de veu</string>
   <string name="unable_get_device_id">No es pot obtenir l\'IMEI</string>
-  <string name="unfold_all">desplega-ho tot</string>
+  <string name="unfold_all">Mostra-ho tot</string>
   <string name="unknow_phone_number_call_failed">"No es pot trucar a un número desconegut"</string>
   <string name="unknow_phone_number_mms_failed">"No es pot enviar un missatge a un número desconegut"</string>
   <string name="unknown">Desconegut</string>
   <string name="unknown_contact_name">Contacte desconegut</string>
   <string name="unknown_details_add_to_contact">Existent</string>
-  <string name="unknown_details_new_contact">Contacte nou</string>
+  <string name="unknown_details_new_contact">Nou</string>
   <string name="update_sim_contact_photo_toast">"No s'ha pogut definir la foto per als contactes SIM"</string>
   <string name="upgrade_in_progress">S\'està actualitzant la llista de contactes.</string>
   <string name="upgrade_out_of_memory">"Els contactes estan sent actualitzats.

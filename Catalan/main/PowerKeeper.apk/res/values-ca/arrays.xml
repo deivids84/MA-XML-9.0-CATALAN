@@ -33,9 +33,9 @@
   <string-array name="action_param_translate">
     <item>Cap</item>
     <item>Per defecte</item>
-    <item>Foto</item>
+    <item>Imatges</item>
     <item>Pel·lícules</item>
-    <item>Estalvi de la bateria</item>
+    <item>Estalvi de bateria</item>
     <item>Equilibri</item>
     <item>Rendimient</item>
     <item>Activat</item>
@@ -60,19 +60,19 @@
     <item>Recentment</item>
   </string-array>
   <string-array name="power_checker_running_group_titles">
-    <item>S\'està bloquejant el mode d\'espera profund</item>
-    <item>S\'està bloquejant el mode d\'espera</item>
+    <item>Bloqueig del mode suspensió profund</item>
+    <item>Bloqueig del mode suspensió</item>
     <item>S\'està cercant una Wi-Fi</item>
-    <item>S\'està utilitzant el GPS</item>
-    <item>S\'està ocupant la CPU</item>
+    <item>Ús del GPS</item>
+    <item>Ocupació de la CPU</item>
     <item>S\'està despertant el dispositiu freqüentment</item>
   </string-array>
   <string-array name="power_checker_recent_group_titles">
-    <item>Blocking deep sleep mode</item>
-    <item>Blocking sleep mode</item>
-    <item>Escaneig Wi-Fi</item>
-    <item>Using GPS</item>
-    <item>Occupying CPU</item>
+    <item>Bloqueig del mode suspensió profund</item>
+    <item>Bloqueig del mode suspensió</item>
+    <item>S\'està cercant una Wi-Fi</item>
+    <item>Ús del GPS</item>
+    <item>Ocupació de la CPU</item>
     <item>S\'està despertant el dispositiu freqüentment</item>
   </string-array>
   <string-array name="power_checker_group_suffix">
@@ -86,11 +86,11 @@
   </string-array>
   <string-array name="thermal_entries">
     <item>Mode de control de temperatura per defecte</item>
-    <item>Primer mode de rendiment</item>
+    <item>Mode rendiment</item>
   </string-array>
   <string-array name="thermal_summaries">
-    <item>El mode actual de control de temperatura, la temperatura d\'experiència és preferida</item>
-    <item>Es prefereix el model de rendiment actual, l\'experiència de rendiment, les temperatures podrien augmentar</item>
+    <item>Mode de control de temperatura actual</item>
+    <item>Mode de rendiment actual</item>
   </string-array>
   <string-array name="power_mode_entries">
     <item>Rendiment</item>
