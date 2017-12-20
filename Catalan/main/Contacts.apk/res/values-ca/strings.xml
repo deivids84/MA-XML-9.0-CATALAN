@@ -526,7 +526,6 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="import_weibo_fetch_followers">S\'està obtenint els contactes…</string>
   <string name="import_weibo_notification_title_done">S\'ha actualitzat %s contactes</string>
   <string name="import_weibo_progress_name">S\'està enllaçant «%1$s»…</string>
-  <string name="import_weibo_progress_percent">%1$d%%</string>
   <string name="importing_sim_contacts_miui">Importar contactes de la targeta SIM&#8230;</string>
   <string name="importing_sim_contacts_miui_prepare">S\'estan preparant els contactes&#8230;</string>
   <string name="importing_vcard_canceled_title">Exportació de %s cancel·lat</string>

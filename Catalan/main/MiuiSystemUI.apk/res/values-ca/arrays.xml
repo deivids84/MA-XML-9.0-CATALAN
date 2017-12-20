@@ -134,12 +134,6 @@
     <item>4 MB per registre de memòria</item>
     <item>16 MB per registre de memòria</item>
   </string-array>
-  <string-array name="select_logpersist_values">
-    <item></item>
-    <item>tots</item>
-    <item>default,security,kernel</item>
-    <item>kernel</item>
-  </string-array>
   <string-array name="select_logpersist_titles">
     <item>Desactivat</item>
     <item>Tots</item>
