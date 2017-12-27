@@ -44,6 +44,7 @@
   <string name="audio_chat">Xat de veu</string>
   <string name="auto_nickname">Automàtic</string>
   <string name="auto_set_nickname">Automàtic</string>
+  <string name="back_description">Enrere</string>
   <string name="back_view_description">Anar enrere</string>
   <string name="batch_delete">Elimina el lot</string>
   <string name="blacklist">Bloca</string>
@@ -88,7 +89,6 @@
   <string name="call_radio">Trucada a ràdio</string>
   <string name="call_record_setting_miui">Configuració d\'enregistrament</string>
   <string name="call_settings">Configuració</string>
-  <string name="call_settings_primary_user_only">Només l\'usuari principal pot canviar la configuració de trucades.</string>
   <string name="call_sim1_menu_title">Marca a SIM 1</string>
   <string name="call_sim2_menu_title">Marca a SIM 2</string>
   <string name="call_sim_menu_title_suffix">(Primària)</string>
@@ -98,6 +98,8 @@
   <string name="call_work">Trucar a la feina</string>
   <string name="call_work_mobile">Trucar al mòbil de la feina</string>
   <string name="call_work_pager">Trucar al cercapersones de la feina</string>
+  <string name="calllog_call_note_menu">Notes de trucades</string>
+  <string name="calllog_call_record_menu">Trucades enregistrades</string>
   <string name="calllog_menu_blacklist">Bloca</string>
   <string name="calllog_menu_edit_before_call">Edita</string>
   <string name="calllog_menu_send_sms">Enviar un missatge</string>
@@ -235,6 +237,7 @@ Les targetes de contacte estan apagades"</string>
   <string name="contact_editor_prompt_multiple_accounts">Seleccioneu un compte de contacte per guardar a</string>
   <string name="contact_editor_prompt_one_account">El nou contacte serà %1$s sincronitzat</string>
   <string name="contact_editor_prompt_zero_accounts">Desa al mòbil o en un compte en línia</string>
+  <string name="contact_import_methods_dialog_title">Seleccioneu el mètode d\'importació</string>
   <string name="contact_is_readOnly">"No es pot editar els contactes de només lectura"</string>
   <string name="contact_list_loading">Carregant&#8230;</string>
   <string name="contact_pick_photo">Foto</string>
@@ -253,6 +256,8 @@ Les targetes de contacte estan apagades"</string>
   <string name="contacts_unavailable_add_account">Inicieu sessió en un compte</string>
   <string name="contacts_unavailable_create_contact">Crea un nou contacte</string>
   <string name="contacts_unavailable_import_contacts">Importa contactes des d\'un fitxer</string>
+  <string name="contacts_unavailable_import_from_old_device">Importa des d\'un dispositiu antic</string>
+  <string name="contacts_unavailable_import_sim_contacts">Importa contactes de la SIM</string>
   <string name="convenient_service">Serveis</string>
   <string name="copy_number">Copia</string>
   <string name="copy_text">Copia al porta-retalls</string>
@@ -386,7 +391,7 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="display_only_phones">Amaga números incomplets</string>
   <string name="display_options_sort_by_family_name">Cognom</string>
   <string name="display_options_sort_by_given_name">Nom</string>
-  <string name="display_options_sort_list_by">Ordena per</string>
+  <string name="display_options_sort_list_by">Ordena la llista per</string>
   <string name="display_options_view_family_name_first">Cognoms primer</string>
   <string name="display_options_view_given_name_first">Noms primer</string>
   <string name="display_options_view_names_as">Veure noms de contacte com</string>
@@ -482,8 +487,8 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="hint_findContacts">Trobar contactes</string>
   <string name="hint_more_contact">Combinar contactes duplicats</string>
   <string name="hybrid_check_network">Configuració de la xarxa</string>
-  <string name="hybrid_data_error">s\'ha produït un error</string>
-  <string name="hybrid_locating_fail">"No s'ha pogut accedir a la seva ubicació"</string>
+  <string name="hybrid_data_error">S\'ha produït un error</string>
+  <string name="hybrid_locating_fail">"No s'ha pogut trobar la vostra ubicació"</string>
   <string name="hybrid_network_unavaliable">"No s'ha pogut accedir a la xarxa"</string>
   <string name="hybrid_service_unavailiable">Sense servei</string>
   <string name="hybrid_try_again">Torna-ho a provar</string>
@@ -508,6 +513,7 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="import_name">Nom</string>
   <string name="import_one_vcard_string">Importa un fitxer vCard</string>
   <string name="import_selected_sim_entries_miui">Importa contactes seleccionats</string>
+  <string name="import_sim_contacts_hint_title">Importa contactes de la SIM</string>
   <string name="import_sim_entries_finish">Contactes importats de la targeta SIM</string>
   <string name="import_sim_entry_miui">Importar</string>
   <string name="import_to_xiaomi_account_confirm">Importar</string>
@@ -517,15 +523,6 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="import_to_xiaomi_account_title">Importar a compte Mi</string>
   <string name="import_vcard_description">"Importa contactes des de l'emmagatzematge del telèfon"</string>
   <string name="import_vcard_dialog_message">Importar vCard?</string>
-  <string name="import_weibo_dialog_title">Importació de contactes de Weibo</string>
-  <string name="import_weibo_error_no_matched_contacts">No hi ha contactes coincidents</string>
-  <string name="import_weibo_error_no_network">"No es pot connectar a la xarxa. Comproveu la connexió de dades i torneu-ho a provar."</string>
-  <string name="import_weibo_error_no_xiaomi_phone">No hi ha números de telèfon emmagatzemats al Compte Mi.</string>
-  <string name="import_weibo_error_unknown">Error desconegut</string>
-  <string name="import_weibo_error_user_cancel">Importació cancel·lada</string>
-  <string name="import_weibo_fetch_followers">S\'està obtenint els contactes…</string>
-  <string name="import_weibo_notification_title_done">S\'ha actualitzat %s contactes</string>
-  <string name="import_weibo_progress_name">S\'està enllaçant «%1$s»…</string>
   <string name="importing_sim_contacts_miui">Importar contactes de la targeta SIM&#8230;</string>
   <string name="importing_sim_contacts_miui_prepare">S\'estan preparant els contactes&#8230;</string>
   <string name="importing_vcard_canceled_title">Exportació de %s cancel·lat</string>
@@ -560,7 +557,7 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="loading_groups">Un moment…</string>
   <string name="loading_recent">Un moment…</string>
   <string name="local_invisible_directory">Altres</string>
-  <string name="local_profile_title">El meu perfil local</string>
+  <string name="local_profile_title">El meu perfil</string>
   <string name="local_search_label">Tots els contactes</string>
   <string name="locale_change_in_progress">La llista de contactes s\'està actualitzant per reflectir el canvi d\'idioma.</string>
   <string name="login_ok">Inicia la sessió</string>
@@ -717,56 +714,6 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="noAccounts">Per crear grups necessita un compte.</string>
   <string name="noContactHelpTextImportXiaomiAccountInfo">Restaurar dades de contactes utilitzant el compte Mi</string>
   <string name="noContacts">No hi ha contactes</string>
-  <string name="noContactsHelpText">"No teniu cap contacte per mostrar.
-
-Per afegir contactes, toqueu \"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;Menú&lt;/font&gt;&lt;/b&gt;\", a continuació, toqueu:
- 
-\"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"Comptes per afegir o configurar un compte amb contactes que podeu sincronitzar amb el telèfon
-\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\" 
-\"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"Nou contacte per crear un contacte nou des de zero
-\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\" 
-\"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"Importa/exporta per importar contactes des de la targeta SIM o SD
-\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\"
-"</string>
-  <string name="noContactsHelpTextForCreateShortcut">"No teniu cap contacte per mostrar."</string>
-  <string name="noContactsHelpTextWithSync">"No teniu cap contacte per mostrar. (Si acabeu d\'afegir un compte, pot trigar uns minuts a sincronitzar els contactes).
-
-Per afegir contactes, toqueu \"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;Menú&lt;/font&gt;&lt;/b&gt;\", a continuació, toqueu:
- 
-\"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"Comptes per afegir o configurar un compte amb contactes que podeu sincronitzar amb el telèfon
-\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\" 
-\"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"Mostra opcions per canviar quins contactes són visibles
-\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\" 
-\"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"Nou contacte per crear un contacte nou des de zero
-\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\" 
-\"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"Importa/exporta per importar contactes des de la targeta SIM o SD
-\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\"
-"</string>
-  <string name="noContactsHelpTextWithSyncForCreateShortcut">"No teniu cap contacte per mostrar. (Si acabeu d'afegir un compte, la sincronització dels contactes pot trigar una estona)."</string>
-  <string name="noContactsNoSimHelpText">"No teniu cap contacte per mostrar.
-
-Per afegir contactes, toqueu \"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;Menú&lt;/font&gt;&lt;/b&gt;\", a continuació, toqueu:
- 
-\"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"Comptes per afegir o configurar un compte amb contactes que podeu sincronitzar amb el telèfon
-\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\" 
-\"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"Nou contacte per crear un contacte nou des de zero
-\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\" 
-\"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"Importa/exporta per importar contactes de la vostra targeta SD
-\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\"
-"</string>
-  <string name="noContactsNoSimHelpTextWithSync">"No teniu cap contacte per mostrar. (Si acaba d\'afegir un compte, pot trigar uns minuts a sincronitzar els contactes).
-
-To add contacts, touch \"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;Menú&lt;/font&gt;&lt;/b&gt;\", a continuació, toqueu:
- 
-\"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"Comptes per afegir o configurar un compte amb contactes que podeu sincronitzar amb el telèfon
-\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\" 
-\"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"Mostra opcions per canviar quins contactes són visibles
-\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\" 
-\"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"Nou contacte per crear un contacte nou des de zero
-\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\" 
-\"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"Importa/exporta per importar contactes de la vostra targeta SD
-\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\"
-"</string>
   <string name="noContactsWithPhoneNumbers">No hi ha contactes amb números de telèfon</string>
   <string name="noFavoritesHelpText">"No té cap favorit.
 
@@ -796,7 +743,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="non_phone_caption">Número de telèfon</string>
   <string name="non_phone_close">Tancar</string>
   <string name="none_paired">No hi ha dispositius actualment aparellatss</string>
-  <string name="not_applied">"No aplica"</string>
+  <string name="not_applied">"No s'ha pogut aplicar"</string>
   <string name="notification_action_voicemail_play">Reprodueix</string>
   <string name="notification_new_voicemail_ticker">Nou correu de veu de %1$s</string>
   <string name="openDialKeyboard">Teclat</string>
@@ -1048,7 +995,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="simContacts_title">Contactes de la targeta SIM</string>
   <string name="sim_capacity">Veure la capacitat de la targeta SIM</string>
   <string name="sim_capacity_content" formatted="false">Capacitat total %d | Usada %d </string>
-  <string name="sim_card_no_free_space_message">No hi ha espai suficient</string>
+  <string name="sim_card_no_free_space_message">No hi ha prou espai</string>
   <string name="sim_card_no_free_space_title">Targeta SIM plena</string>
   <string name="sim_contact_existing">El contacte ja existeix</string>
   <string name="sim_contact_invalid">Contacte SIM no vàlid</string>

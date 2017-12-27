@@ -40,6 +40,15 @@
   <string name="accessibility_button_instructional_text">Per canviar les funcions, mantingueu premut el botó Accessibilitat.</string>
   <string name="accessibility_button_prompt_text">Trieu una funció que s\'utilitzarà quan toqueu el botó Accessibilitat:</string>
   <string name="accessibility_magnification_chooser_text">Ampliació</string>
+  <string name="accessibility_shortcut_disabling_service">La drecera d\'accessibilitat ha desactivat %1$s</string>
+  <string name="accessibility_shortcut_enabling_service">La drecera d\'accessibilitat ha activat %1$s</string>
+  <string name="accessibility_shortcut_toogle_warning">"Quan la drecera estigui activada, premeu els dos botons de volum durant 3 segons per iniciar una funció d\'accessibilitat.
+
+Característica d\'accessibilitat actual:
+ %1$s
+
+Podeu canviar la característica en Configuració &gt; Accessibilitat."</string>
+  <string name="accessibility_shortcut_warning_dialog_title">Voleu utilitzar la drecera d\'accessibilitat?</string>
   <string name="action_bar_home_description">Torna a l\'inici</string>
   <string name="action_bar_up_description">Mou cap a dalt</string>
   <string name="action_menu_overflow_description">Més opcions</string>
@@ -69,7 +78,9 @@
   <string name="aerr_restart">Torna a obrir l\'aplicació</string>
   <string name="aerr_wait">Espereu</string>
   <string name="alert_windows_notification_channel_group_name">Mostra sobre altres aplicacions</string>
+  <string name="alert_windows_notification_channel_name">S\'està mostrant %s sobre altres aplicacions</string>
   <string name="alert_windows_notification_message">Si no voleu que %s utilitzi aquesta funció, toqueu per obrir la configuració i desactiveu-la.</string>
+  <string name="alert_windows_notification_title">S\'està mostrant %s sobre altres aplicacions</string>
   <string name="alert_windows_notification_turn_off_action">DESACTIVA</string>
   <string name="allow">Permet</string>
   <string name="allow_button">Permet</string>
@@ -102,6 +113,7 @@
   <string name="app_running_notification_title">%1$s s\'està executant</string>
   <string name="app_upgrading_toast">%1$s s\'està actualitzant…</string>
   <string name="autofill">Emplenament automàtic</string>
+  <string name="autofill_error_cannot_autofill">El contingut no es pot emplenar automàticament</string>
   <string name="autofill_picker_accessibility_title">Opcions d\'emplenament automàtic</string>
   <string name="autofill_picker_no_suggestions">No hi ha suggeriments d\'emplenament automàtic</string>
   <string name="autofill_postal_code">Codi postal</string>
@@ -111,6 +123,11 @@
   <string name="autofill_save_title_with_2types">Voleu desar %1$s i %2$s a &lt;b&gt;%3$s&lt;/b&gt;?</string>
   <string name="autofill_save_title_with_3types">Voleu desar %1$s, %2$s, i %3$s a &lt;b&gt;%4$s&lt;/b&gt;?</string>
   <string name="autofill_save_title_with_type">Voleu desar %1$s a &lt;b&gt;%2$s&lt;/b&gt;?</string>
+  <string name="autofill_save_type_address">adreça</string>
+  <string name="autofill_save_type_credit_card">targeta de crèdit</string>
+  <string name="autofill_save_type_email_address">adreça de correu</string>
+  <string name="autofill_save_type_password">contrasenya</string>
+  <string name="autofill_save_type_username">nom d\'usuari</string>
   <string name="autofill_save_yes">Desa</string>
   <string name="autofill_this_form">Emplenament automàtic</string>
   <string name="back_button_label">Enrere</string>
@@ -201,6 +218,7 @@ utilitzat %s"</string>
   <string name="date_picker_increment_day_button">Augmenta els dies</string>
   <string name="date_picker_increment_month_button">Augmenta els mesos</string>
   <string name="date_picker_increment_year_button">Augmenta els anys</string>
+  <string name="date_picker_mode">calendari</string>
   <string name="date_picker_next_month_button">Proper mes</string>
   <string name="date_picker_prev_month_button">Mes anterior</string>
   <string name="date_time_done">Fet</string>
@@ -214,6 +232,7 @@ utilitzat %s"</string>
   <string name="default_audio_route_name">Telèfon</string>
   <string name="default_audio_route_name_dock_speakers">Acoblador d\'altaveus</string>
   <string name="default_audio_route_name_headphones">Auriculars</string>
+  <string name="default_notification_channel_label">Sense categoria</string>
   <string name="delete">Suprimeix</string>
   <string name="deleteText">Suprimeix</string>
   <string name="deleted_key">%1$s suprimit</string>
@@ -226,9 +245,14 @@ utilitzat %s"</string>
   <string name="deny">Denega</string>
   <string name="deny_button">Denega</string>
   <string name="description_target_unlock_tablet">Llisqueu per desbloquejar.</string>
+  <string name="device_storage_monitor_notification_channel">Emmagatzematge del dispositiu</string>
+  <string name="dial">Telèfon</string>
   <string name="dial_number_using">"Marca el número
 utilitzat %s"</string>
   <string name="dialog_alert_title">Atenció</string>
+  <string name="disable_accessibility_shortcut">Desactiva la drecera</string>
+  <string name="disable_tether_notification_message">Per obtenir detalls, contacteu amb l\'administrador</string>
+  <string name="disable_tether_notification_title">L\'ancoratge està desactivat</string>
   <string name="display_manager_built_in_display_name">Pantalla integrada</string>
   <string name="display_manager_hdmi_display_name">Pantalla HDMI</string>
   <string name="display_manager_overlay_display_name">Superposició #%1$d</string>
@@ -254,6 +278,7 @@ utilitzat %s"</string>
   <string name="durationSeconds">%1$d s</string>
   <string name="editTextMenuTitle">Accions de text</string>
   <string name="elapsed_time_short_format_h_mm_ss">%1$d:%2$02d:%3$02d</string>
+  <string name="email">Correu</string>
   <string name="emailTypeCustom">Personalitzat</string>
   <string name="emailTypeHome">Casa</string>
   <string name="emailTypeMobile">Mòbil</string>
@@ -267,11 +292,17 @@ utilitzat %s"</string>
   <string name="enable_explore_by_touch_warning_title">Voleu activar l\'exploració tàctil?</string>
   <string name="error_message_change_not_allowed">"L'administrador no permet aquest canvi"</string>
   <string name="error_message_title">Error</string>
+  <string name="etws_primary_default_message_earthquake">Mantingueu la calma i busqueu refugi a prop.</string>
+  <string name="etws_primary_default_message_earthquake_and_tsunami">Mantingueu la calma i busqueu refugi a prop.</string>
+  <string name="etws_primary_default_message_test">Prova de missatges d\'emergència</string>
+  <string name="etws_primary_default_message_tsunami">Evacueu immediatament des de les regions costaneres i les zones riberenques fins a un lloc més segur com el sòl alt.</string>
   <string name="eventTypeAnniversary">Commemoració</string>
   <string name="eventTypeBirthday">Aniversari</string>
   <string name="eventTypeCustom">Personalitzat</string>
   <string name="eventTypeOther">Altres</string>
   <string name="expand_action_accessibility">commuta l\'expansió</string>
+  <string name="expand_button_content_description_collapsed">Expandeix</string>
+  <string name="expand_button_content_description_expanded">Replega</string>
   <string name="expires_on">Caduca el:</string>
   <string name="ext_media_badremoval_notification_message">Desmunteu %s abans d\'extreure\'l per evitar pèrdues de dades</string>
   <string name="ext_media_badremoval_notification_title">%s s\'ha extret inesperadament</string>
@@ -289,7 +320,7 @@ utilitzat %s"</string>
   <string name="ext_media_move_title">S\'estan movent dades</string>
   <string name="ext_media_new_notification_message">Nou %s detectat</string>
   <string name="ext_media_nomedia_notification_message">s\'ha extret %s; inseriu un de nou</string>
-  <string name="ext_media_nomedia_notification_title">%s extret</string>
+  <string name="ext_media_nomedia_notification_title">%s s\'ha eliminat</string>
   <string name="ext_media_ready_notification_message">Per a la transferència de fotos i elements multimèdia</string>
   <string name="ext_media_status_bad_removal">S\'ha extret de forma no segura</string>
   <string name="ext_media_status_checking">S\'està comprovant…</string>
@@ -331,6 +362,7 @@ utilitzat %s"</string>
   <string name="fingerprint_error_canceled">S\'ha cancel·lat l\'operació d\'empremta digital.</string>
   <string name="fingerprint_error_hw_not_available">El sensor d\'empremtes no està disponible.</string>
   <string name="fingerprint_error_lockout">S\'han produït massa intents. Torneu-ho a provar més tard.</string>
+  <string name="fingerprint_error_lockout_permanent">Massa intents. El sensor d\'empremtes s\'ha desactivat.</string>
   <string name="fingerprint_error_no_space">"L'empremta no es pot emmagatzemar. Elimineu-ne una existent."</string>
   <string name="fingerprint_error_timeout">S\'ha esgotat el temps d\'espera per a l\'empremta. Torneu-ho a provar.</string>
   <string name="fingerprint_error_unable_to_process">Torna-ho a provar.</string>
@@ -340,6 +372,9 @@ utilitzat %s"</string>
   <string name="floating_toolbar_close_overflow_description">Tanca el panell addicional</string>
   <string name="floating_toolbar_open_overflow_description">Més opcions</string>
   <string name="force_close">D\'acord</string>
+  <string name="foreground_service_app_in_background">%1$s s\'executa en segon pla</string>
+  <string name="foreground_service_apps_in_background">%1$d aplicacions s\'executen en segon pla</string>
+  <string name="foreground_service_tap_for_details">Toqueu per obtenir informació sobre la bateria i l\'ús de dades</string>
   <string name="forward_intent_to_owner">"Esteu utilitzant aquesta aplicació fora del vostre perfil de treball"</string>
   <string name="forward_intent_to_work">"Esteu utilitzant aquesta aplicació en el vostre perfil de treball"</string>
   <string name="gadget_host_error_inflating">"No s'ha pogut afegir el giny."</string>
@@ -504,7 +539,7 @@ Torneu-ho a provar en %2$d segons."</string>
   <string name="kg_too_many_failed_pin_attempts_dialog_message">"Heu introduït un codi PIN incorrecte %1$d vegades. 
 
 Torneu-ho a provar en %2$d segons."</string>
-  <string name="kg_wrong_password">Contrasenya incorrecta</string>
+  <string name="kg_wrong_password">Contrasenya errònia</string>
   <string name="kg_wrong_pattern">Patró erroni</string>
   <string name="kg_wrong_pin">PIN erroni</string>
   <string name="language_picker_section_all">Tots els idiomes</string>
@@ -515,6 +550,7 @@ Torneu-ho a provar en %2$d segons."</string>
   <string name="launch_warning_original">Inicialment, es va iniciar l\'aplicació %1$s.</string>
   <string name="launch_warning_replace">%1$s s\'està executant.</string>
   <string name="launch_warning_title">S\'ha redirigit l\'aplicació</string>
+  <string name="leave_accessibility_shortcut_on">Utilitza la drecera</string>
   <string name="loading">S\'està carregant…</string>
   <string name="locale_search_menu">Cerca</string>
   <string name="lock_pattern_view_aspect">quadrat</string>
@@ -603,6 +639,9 @@ Torneu-ho a provar en %2$d segons."</string>
   <string name="low_memory">L\'emmagatzematge del telèfon està ple. Suprimiu uns quants fitxers per alliberar espai.</string>
   <string name="managed_profile_label">Canvia al perfil laboral</string>
   <string name="managed_profile_label_badge">Feina %1$s</string>
+  <string name="managed_profile_label_badge_2">2n treball %1$s</string>
+  <string name="managed_profile_label_badge_3">3r treball %1$s</string>
+  <string name="map">Mapes</string>
   <string name="maximize_button_text">Maximitza</string>
   <string name="me">Jo</string>
   <string name="media_route_button_content_description">Emet</string>
@@ -638,14 +677,21 @@ Torneu-ho a provar en %2$d segons."</string>
   <string name="minute_picker_description">Control circular dels minuts</string>
   <string name="minutes">min</string>
   <string name="mismatchPin">"Els PIN que heu introduït no coincideixen."</string>
+  <string name="mmcc_authentication_reject">La SIM no està permesa</string>
+  <string name="mmcc_illegal_me">El telèfon no està permès</string>
+  <string name="mmcc_illegal_ms">La SIM no està permesa</string>
+  <string name="mmcc_imsi_unknown_in_hlr">La SIM no està subministrada</string>
   <string name="mmiComplete">MMI completat.</string>
   <string name="mmiError">Problema de connexió o codi MMI no vàlid.</string>
+  <string name="mmiErrorWhileRoaming">No podeu canviar la configuració de reenviament de trucades des del telèfon mentre esteu en itinerància.</string>
   <string name="mmiFdnError">L\'operació està restringida a números de marcatge fix.</string>
   <string name="more_item_label">Més</string>
   <string name="muted_by">Silenciat per %1$s</string>
   <string name="needPuk">La targeta SIM està bloquejada pel PUK. Introduïu el codi PUK per desbloquejar-la.</string>
   <string name="needPuk2">Escriviu el PUK2 per desbloquejar la targeta SIM.</string>
   <string name="network_available_sign_in">Inicieu la sessió a la xarxa</string>
+  <string name="network_logging_notification_text">L\'organització gestiona aquest dispositiu i pot controlar el trànsit de la xarxa. Toqueu per obtenir més informació.</string>
+  <string name="network_logging_notification_title">El dispositiu està gestionat</string>
   <string name="network_switch_metered">Canviat a %1$s</string>
   <string name="network_switch_metered_detail">El dispositiu utilitza %1$s quan %2$s no té accés a Internet. Es poden aplicar càrrecs.</string>
   <string name="network_switch_metered_toast">Canviat de %1$s a %2$s</string>
@@ -670,6 +716,7 @@ Torneu-ho a provar en %2$d segons."</string>
   <string name="notification_channel_device_admin">Administració del dispositiu</string>
   <string name="notification_channel_emergency_callback">Mode de devolució de trucada d\'emergència</string>
   <string name="notification_channel_foreground_service">Aplicacions que s\'executen en segon pla</string>
+  <string name="notification_channel_hotspot">Notificació del punt d\'accés Wi-Fi</string>
   <string name="notification_channel_mobile_data_alert">Alertes de dades mòbils</string>
   <string name="notification_channel_network_alert">Alertes</string>
   <string name="notification_channel_network_alerts">Alertes de xarxa</string>
@@ -797,6 +844,7 @@ Torneu-ho a provar en %2$d segons."</string>
   <string name="permdesc_requestIgnoreBatteryOptimizations">Permet que una aplicació sol·liciti permisos per ignorar les optimitzacions de la bateria d\'aquesta aplicació.</string>
   <string name="permdesc_requestInstallPackages">Permet que una aplicació sol·liciti la instal·lació de paquets.</string>
   <string name="permdesc_route_media_output">Permet que l\'aplicació dirigeixi sortides de mitjans a altres dispositius externs.</string>
+  <string name="permdesc_runInBackground">Aquesta aplicació no es pot executar en segon pla. Això pot drenar la bateria més ràpidament.</string>
   <string name="permdesc_sdcardRead">Permet que l\'aplicació llegeixi el contingut de l\'emmagatzematge intern.</string>
   <string name="permdesc_sdcardWrite">Permet que l\'aplicació escrigui a l\'emmagatzematge intern.</string>
   <string name="permdesc_sendSms">Permet que l\'aplicació enviï missatges SMS, el que pot generar càrrecs inesperats. Les aplicacions malicioses poden causar despeses imprevistes en enviar missatges sense la teva confirmació.</string>
@@ -812,6 +860,7 @@ Torneu-ho a provar en %2$d segons."</string>
   <string name="permdesc_systemAlertWindow">Permet que l\'aplicació escrigui sobre altres aplicacions o en parts d\'interfície d\'usuari. Poden interferir amb l\'ús de la interfície a qualsevol aplicació o modificar el que creus que es mostra en altres aplicacions.</string>
   <string name="permdesc_transmitIr">"Permet que l'aplicació utilitzi el transmissor d'infrarojos del telèfon."</string>
   <string name="permdesc_uninstall_shortcut">Permet que l\'aplicació elimini dreceres de la pantalla d\'inici sense la intervenció de l\'usuari.</string>
+  <string name="permdesc_useDataInBackground">Aquesta aplicació pot utilitzar dades en segon pla. Això pot augmentar l\'ús de dades.</string>
   <string name="permdesc_useFingerprint">Permet que l\'aplicació faci servir el maquinari d\'empremtes per a l\'autenticació</string>
   <string name="permdesc_use_sip">Permet que l\'aplicació pugui fer i rebre trucades SIP.</string>
   <string name="permdesc_vibrate">Permet que l\'aplicació controli la vibració.</string>
@@ -857,6 +906,7 @@ per al compte %s"</string>
   <string name="permlab_accessWimaxState">connectar i desconnectar a WiMAX</string>
   <string name="permlab_access_notification_policy">accedir al mode No molesteu</string>
   <string name="permlab_addVoicemail">afegir bústia de veu</string>
+  <string name="permlab_answerPhoneCalls">respondre trucades telefòniques</string>
   <string name="permlab_bindCarrierMessagingService">vincular al servei de missatgeria d\'un operador</string>
   <string name="permlab_bindCarrierServices">vincular als serveis de l\'operador</string>
   <string name="permlab_bindConditionProviderService">vincular amb un servei de proveïdor de condicions</string>
@@ -890,6 +940,7 @@ per al compte %s"</string>
   <string name="permlab_killBackgroundProcesses">tancar altres aplicacions</string>
   <string name="permlab_manageFingerprint">gestionar el maquinari d\'empremta</string>
   <string name="permlab_manageNetworkPolicy">gestionar la política de xarxa</string>
+  <string name="permlab_manageOwnCalls">encaminar trucades a través del sistema</string>
   <string name="permlab_manageProfileAndDeviceOwners">gestionar els propietaris del perfil i del dispositiu</string>
   <string name="permlab_modifyAudioSettings">canviar la configuració d\'àudio</string>
   <string name="permlab_modifyNetworkAccounting">modificar el càlcul d\'ús de xarxa</string>
@@ -903,6 +954,7 @@ per al compte %s"</string>
   <string name="permlab_readHistoryBookmarks">llegir les adreces d\'interès i l\'historial web</string>
   <string name="permlab_readInstallSessions">llegir les sessions d\'instal·lació</string>
   <string name="permlab_readNetworkUsageHistory">llegir l\'ús històric de la xarxa</string>
+  <string name="permlab_readPhoneNumbers">llegir números de telèfon</string>
   <string name="permlab_readPhoneState">llegir l\'estat i la identitat del telèfon</string>
   <string name="permlab_readSms">llegir els missatges de text (SMS / MMS)</string>
   <string name="permlab_readSyncSettings">llegir la configuració de sincronització</string>
@@ -916,8 +968,11 @@ per al compte %s"</string>
   <string name="permlab_register_sim_subscription">registrar connexions SIM de telecomunicacions noves</string>
   <string name="permlab_removeDrmCertificates">suprimir els certificats DRM</string>
   <string name="permlab_reorderTasks">reorganitzar les aplicacions en execució</string>
+  <string name="permlab_requestDeletePackages">sol·licitar la instal·lació de paquets</string>
+  <string name="permlab_requestIgnoreBatteryOptimizations">demanar ignorar les optimitzacions de la bateria</string>
   <string name="permlab_requestInstallPackages">sol·licitar la instal·lació de paquets</string>
   <string name="permlab_route_media_output">indicar la sortida de mitjans</string>
+  <string name="permlab_runInBackground">executar-se en segon pla</string>
   <string name="permlab_sdcardRead">llegir el contingut del vostre emmagatzematge intern</string>
   <string name="permlab_sdcardWrite">escriure/eliminar l\'emmagatzematge intern</string>
   <string name="permlab_sendSms">enviar missatges SMS</string>
@@ -933,6 +988,7 @@ per al compte %s"</string>
   <string name="permlab_systemAlertWindow">dibuixar sobre altres aplicacions</string>
   <string name="permlab_transmitIr">transmetre infrarojos</string>
   <string name="permlab_uninstall_shortcut">desinstal·lar dreceres</string>
+  <string name="permlab_useDataInBackground">utilitzar dades en segon pla</string>
   <string name="permlab_useFingerprint">utilitzar el maquinari d\'empremta</string>
   <string name="permlab_use_sip">realitzar/rebre trucades SIP</string>
   <string name="permlab_vibrate">controlar la vibració</string>
@@ -1054,6 +1110,8 @@ per al compte %s"</string>
   <string name="ringtone_default">To per defecte</string>
   <string name="ringtone_default_with_actual">To per defecte (%1$s)</string>
   <string name="ringtone_picker_title">Tons</string>
+  <string name="ringtone_picker_title_alarm">Sons de l\'alarma</string>
+  <string name="ringtone_picker_title_notification">Sons de notificació</string>
   <string name="ringtone_silent">Cap</string>
   <string name="ringtone_unknown">To desconegut</string>
   <string name="roamingText0">Indicador d\'itinerància activat</string>
@@ -1082,7 +1140,7 @@ Si escolteu sons a alt volum durant llargs períodes de temps podria danyar les 
   <string name="screen_compat_mode_hint">Torneu a activar-lo accedint a Configuració &gt; Aplicacions &gt; Baixades.</string>
   <string name="screen_compat_mode_scale">Escala</string>
   <string name="screen_compat_mode_show">Mostra sempre</string>
-  <string name="screen_lock">Pantalla de bloqueig</string>
+  <string name="screen_lock">Bloqueig de pantalla</string>
   <string name="search_go">Cerca</string>
   <string name="search_hint">Cerca…</string>
   <string name="search_language_hint">Escriviu el nom de l\'idioma</string>
@@ -1172,9 +1230,11 @@ Si escolteu sons a alt volum durant llargs períodes de temps podria danyar les 
   <string name="ssl_certificate_is_valid">El certificat és vàlid.</string>
   <string name="status_bar_rotate">gira</string>
   <string name="stk_cc_ss_to_dial">La sol·licitud SS s\'ha transformat en una sol·licitud DIAL.</string>
+  <string name="stk_cc_ss_to_dial_video">La sol·licitud SS s\'ha transformat en una sol·licitud DIAL de vídeo.</string>
   <string name="stk_cc_ss_to_ss">La sol·licitud SS s\'ha transformat en una sol·licitud SS nova.</string>
   <string name="stk_cc_ss_to_ussd">La sol·licitud SS s\'ha transformat en una sol·licitud USSD.</string>
   <string name="stk_cc_ussd_to_dial">La sol·licitud USSD s\'ha transformat en una sol·licitud DIAL.</string>
+  <string name="stk_cc_ussd_to_dial_video">La sol·licitud USSD s\'ha transformat en una sol·licitud DIAL de vídeo.</string>
   <string name="stk_cc_ussd_to_ss">La sol·licitud USSD s\'ha transformat en una sol·licitud SS.</string>
   <string name="stk_cc_ussd_to_ussd">La sol·licitud USSD s\'ha transformat en una nova sol·licitud USSD.</string>
   <string name="storage_internal">Emmagatzematge intern compartit</string>
@@ -1206,10 +1266,19 @@ Si escolteu sons a alt volum durant llargs períodes de temps podria danyar les 
   <string name="time_picker_decrement_minute_button">Redueix els minuts</string>
   <string name="time_picker_decrement_set_am_button">Estableix AM</string>
   <string name="time_picker_dialog_title">Estableix l\'hora</string>
+  <string name="time_picker_header_text">Estableix l\'hora</string>
+  <string name="time_picker_hour_label">hora</string>
   <string name="time_picker_increment_hour_button">Augmenta les hores</string>
   <string name="time_picker_increment_minute_button">Augmenta els minuts</string>
   <string name="time_picker_increment_set_pm_button">Estableix PM</string>
+  <string name="time_picker_input_error">Introduïu una hora vàlida</string>
+  <string name="time_picker_minute_label">minut</string>
+  <string name="time_picker_mode">rellotge</string>
+  <string name="time_picker_prompt_label">Escriu en hores</string>
+  <string name="time_picker_radial_mode_description">Canvieu al mode de rellotge per a l\'entrada de temps.</string>
+  <string name="time_picker_text_input_mode_description">Canvieu al mode d\'entrada de text per a l\'entrada de temps.</string>
   <string name="toolbar_collapse_description">Redueix</string>
+  <string name="tooltip_popup_title">Informació sobre les eines</string>
   <string name="turn_off_radio">Desactiva la connexió sense fils</string>
   <string name="turn_on_radio">Activa la connexió sense fils</string>
   <string name="tutorial_double_tap_to_zoom_message_short">Toqueu dues vegades per controlar el zoom</string>

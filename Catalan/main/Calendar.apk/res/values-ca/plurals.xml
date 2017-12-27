@@ -14,8 +14,8 @@
     <item quantity="one">%1$d dia abans a les %2$s</item>
   </plurals>
   <plurals name="Nhours">
-    <item quantity="other">%d hores</item>
-    <item quantity="one">1 hora</item>
+    <item quantity="other">%d hores abans</item>
+    <item quantity="one">%d hora abans</item>
   </plurals>
   <plurals name="Nminutes">
     <item quantity="other">%d minuts</item>

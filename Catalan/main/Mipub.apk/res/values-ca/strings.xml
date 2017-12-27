@@ -123,7 +123,7 @@
   <string name="mx_on_sim_1">Missatge Mi de la SIM 1</string>
   <string name="mx_on_sim_2">Missatge Mi de la SIM 2</string>
   <string name="mx_recommend_msg">Toqueu per activar Missatge Mi.</string>
-  <string name="need_download">S\'està sincronitzant&#8230;</string>
+  <string name="need_download">S\'està sincronitzant…</string>
   <string name="network_error">S\'ha produït un error de xarxa</string>
   <string name="new_message">Redacteu</string>
   <string name="new_phrase">Afegeix resposta</string>

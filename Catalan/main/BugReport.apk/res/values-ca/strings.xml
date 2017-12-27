@@ -7,6 +7,7 @@
   <string name="app_empty">"No s'han pogut trobar aplicacions."</string>
   <string name="app_label">Comentaris</string>
   <string name="app_name">Notificació d\'errors</string>
+  <string name="app_search">Cerca aplicacions</string>
   <string name="btn_send">Envia</string>
   <string name="bugreport_dialog_not_show_again">"No tornis a mostrar-ho"</string>
   <string name="bugreport_dialog_submit_content">Els informes d\'error poden contenir informació personal.</string>
@@ -28,7 +29,7 @@
   <string name="default_text_view">TextView</string>
   <string name="description">Descriviu el problema</string>
   <string name="dialog_ask_delete">Elimina</string>
-  <string name="dialog_ask_quit">Tanca</string>
+  <string name="dialog_ask_quit">Surt</string>
   <string name="discard_draft_dialog_button_cancel">Roman aquí</string>
   <string name="discard_draft_dialog_button_discard">Descarta</string>
   <string name="discard_draft_dialog_content">"Qualsevol canvi que hàgiu fet en aquest informe es perdrà."</string>
@@ -57,12 +58,15 @@
   <string name="feedback_bug_status_change_notification_desc">%1$s problema \"%2$s\"</string>
   <string name="feedback_choose_module">Trieu un element</string>
   <string name="feedback_choose_module_hint">Necessari</string>
+  <string name="feedback_choose_reproductivity">Reproductivitat</string>
+  <string name="feedback_choose_third_app_name">Seleccioneu el nom de l\'aplicació</string>
   <string name="feedback_collect_log_failed">"No s'han pogut obtenir els registres"</string>
   <string name="feedback_contact_info_hint">Número de telèfon/correu</string>
   <string name="feedback_continue">Continua amb els comentaris</string>
   <string name="feedback_delete_images">Elimina les imatges</string>
   <string name="feedback_description">Descripció</string>
   <string name="feedback_description_bugreport_hint">En alguns casos (&#8230;) el meu telèfon té errors (&#8230;).</string>
+  <string name="feedback_description_hint">"Descriviu el problema que heu trobat"</string>
   <string name="feedback_description_label">Descripció</string>
   <string name="feedback_description_suggest_hint">"M'agradaria afegir una nova funció () perquè necessito ()."</string>
   <string name="feedback_detail_tile">Progrés</string>
@@ -95,6 +99,7 @@
   <string name="feedback_status_recorded">Comentaris rebuts</string>
   <string name="feedback_status_replyed">Respost</string>
   <string name="feedback_status_reresolved">Resolt</string>
+  <string name="feedback_status_submit_attachment">S\'ha enviat un fitxer adjunt amb èxit</string>
   <string name="feedback_status_supplement">Descriviu el problema detalladament</string>
   <string name="feedback_status_supplement_more">Afegeix un comentari</string>
   <string name="feedback_submit_failed_notification_desc">Mostra els detalls</string>
@@ -111,12 +116,14 @@
   <string name="feedback_third_packagename_hint">Quina aplicació de tercers causa problemes?</string>
   <string name="feedback_title">Títol</string>
   <string name="feedback_title_hint">Descriviu el problema breument</string>
+  <string name="feedback_title_reproductivity">Selecció de la reproductivitat</string>
   <string name="feedback_tracking">Segueix els problemes</string>
   <string name="feedback_version_label">Versió</string>
   <string name="feesback_list">Informes</string>
   <string name="from">de %1$s</string>
   <string name="goon_feedback_main">Continua</string>
   <string name="hint_feedback_main">Descriviu el problema</string>
+  <string name="issue_search">Cerca</string>
   <string name="loading_apps">S\'està carregant la llista&#8230;</string>
   <string name="login_system_failed">"No s'ha pogut accedir, intenteu-ho de nou"</string>
   <string name="logo_title">Notificació d\'errors</string>
@@ -254,6 +261,7 @@
   <string name="section_description">Descripció</string>
   <string name="section_err_type">Tipus d\'error</string>
   <string name="section_screenshot">Captura de pantalla</string>
+  <string name="select_system_app_tag">Seleccioneu un problema</string>
   <string name="submit_dialog_cancel">Cancel·la</string>
   <string name="submit_dialog_confirm">Envia</string>
   <string name="submit_dialog_content">"L'informe, amb els arxius adjunts i els registres, s'enviarà als servidors de MIUI. Pot contenir informació personal."</string>
@@ -283,6 +291,7 @@
   <string name="toast_feedbackservice_in_submit">S\'estan enviant els comentaris anteriors&#8230;</string>
   <string name="toast_fill_brackets">Al vostre informe li falta informació</string>
   <string name="toast_log_not_exists">"El registre necessari s'ha suprimit o no existeix"</string>
+  <string name="toast_log_too_large">"No es pot penjar. El fitxer és massa gran."</string>
   <string name="toast_module_required">Trieu un element</string>
   <string name="toast_network_unavailable">"No s'ha pogut enviar. No es pot connectar a la xarxa."</string>
   <string name="toast_pending_log_collection">Encara s\'estan recuperant registres&#8230;</string>

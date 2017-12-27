@@ -53,7 +53,7 @@
   <string name="color_effect_entry_soda">Soda</string>
   <string name="color_effect_entry_vivid">Intens</string>
   <string name="color_effect_entry_warm">Sol</string>
-  <string name="config_name_group">Selfie grupal</string>
+  <string name="config_name_group">Autofotos grupal</string>
   <string name="config_name_hht">Nit</string>
   <string name="config_name_magic">Màgia</string>
   <string name="config_name_scene">Escena</string>
@@ -148,7 +148,7 @@ i les barrejarà per crear-ne una de nova on cadascú quedi millor."</string>
   <string name="portrait_mode_depth_effect_success_hint">Efecte de profunditat</string>
   <string name="portrait_mode_lowlight_hint">"Ara és massa fosc"</string>
   <string name="portrait_mode_too_close_hint">Allunyeu-vos de l\'objecte</string>
-  <string name="portrait_mode_too_far_hint">Col·loqueu el subjecte dins de 2,5 metres</string>
+  <string name="portrait_mode_too_far_hint">Col·loqueu l\'objecte a 2,5 metres</string>
   <string name="portrait_mode_use_hint">"El mode retrat us ajuda a desenfocar el fons
 amb un cos més clar i un retrat més bonic"</string>
   <string name="pref_advance_settings">Configuració addicional</string>
@@ -194,6 +194,9 @@ amb un cos més clar i un retrat més bonic"</string>
   <string name="pref_camera_coloreffect_entry_vsco_f2">Mat</string>
   <string name="pref_camera_coloreffect_title">Filtres</string>
   <string name="pref_camera_contrast_title">Contrast</string>
+  <string name="pref_camera_delay_capture_entry_10s">Retard de 10 s</string>
+  <string name="pref_camera_delay_capture_entry_3s">Retard de 3 s</string>
+  <string name="pref_camera_delay_capture_entry_5s">Retard de 5 s</string>
   <string name="pref_camera_delay_capture_entry_audio">Àudio</string>
   <string name="pref_camera_delay_capture_title">Compte enrere</string>
   <string name="pref_camera_device_watermark_title">Marca d\'aigua del dispositiu</string>
@@ -244,11 +247,10 @@ amb un cos més clar i un retrat més bonic"</string>
   <string name="pref_camera_multilevel_entry_lowest">Mínim</string>
   <string name="pref_camera_multilevel_entry_middle">Mitjà (per defecte)</string>
   <string name="pref_camera_panoramamode_title">Panoràmica</string>
+  <string name="pref_camera_parallel_process_enable_title">Activa el procés d\'imatge paral·lela</string>
   <string name="pref_camera_peak_entry_off">desactivada</string>
   <string name="pref_camera_peak_entry_on">activada</string>
   <string name="pref_camera_peak_title">Ajuda d\'enfocament</string>
-  <string name="pref_camera_picturesize_entry_fullscreen">Pantalla completa 16:9</string>
-  <string name="pref_camera_picturesize_entry_standard">Estàndard 4:3</string>
   <string name="pref_camera_picturesize_title_simple_mode">Format de càmera</string>
   <string name="pref_camera_portrait_mode_entry_off">El mode retrat està desactivat</string>
   <string name="pref_camera_portrait_mode_entry_on">El mode retrat està activat</string>

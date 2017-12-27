@@ -121,12 +121,12 @@
   <string name="downloading">S\'està baixant&#8230;</string>
   <string name="downloading_empty">Buit</string>
   <string name="downloads_operating">En procés&#8230;</string>
-  <string name="dredge_xunlei_account">Crear un compte Xunlei</string>
+  <string name="dredge_xunlei_account">Crea un compte Xunlei</string>
   <string name="durationDayHour">%1$d dia %2$d h</string>
   <string name="durationDayHours">%1$d dia %2$d hrs</string>
   <string name="durationDays">%1$d dies</string>
   <string name="durationHourMinute">%1$d h %2$d min</string>
-  <string name="durationHourMinutes">%1$d hs %2$d mins</string>
+  <string name="durationHourMinutes">%1$d h %2$d min</string>
   <string name="durationHours">%1$d hs</string>
   <string name="durationMinuteSecond">%1$d mins %2$d segs</string>
   <string name="durationMinuteSeconds">%1$d mins %2$d segs</string>
@@ -239,7 +239,7 @@ en tots els dispositius a través de Xunlei"</string>
   <string name="privacy_tip_content">"Voleu utilitzar l'accelerador Xunlei per augmentar la velocitat de baixada? La URL del host de baixades es pujarà al servidor de Xunlei. Els detalls del Compte Mi també es pujaran per comprovar si té alguna subscripció activa a aquest servei."</string>
   <string name="privacy_tip_ok">D\'acord</string>
   <string name="privacy_tip_title">Utilitzar accelerador Xunlei?</string>
-  <string name="quit_btn">Sortir</string>
+  <string name="quit_btn">Surt</string>
   <string name="rank">Classificacions</string>
   <string name="rank_data_empty">Sense classificacions</string>
   <string name="rank_guide_confirm">Feu-hi un cop d\'ull</string>

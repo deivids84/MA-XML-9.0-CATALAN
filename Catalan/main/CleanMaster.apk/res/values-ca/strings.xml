@@ -359,6 +359,7 @@
   <string name="qq_cache_files">Memòria cau QQ</string>
   <string name="qq_clean">Netejador QQ</string>
   <string name="qq_clean_exit_confirm_msg">Voleu aturar l\'anàlisi i sortir?</string>
+  <string name="qq_clean_finish_summary">S\'han eliminat els fitxers seleccionats amb èxit</string>
   <string name="qq_data_type_cache">Memòria cau QQ</string>
   <string name="qq_data_type_cache_desc">"Podreu restaurar aquests fitxers després de connectar-vos a Internet."</string>
   <string name="qq_data_type_chat">Historial de xat</string>
@@ -446,10 +447,10 @@
   <string name="toast_uninstall_success">Desinstal·lació completa</string>
   <string name="total_clean">Total netejat: %s</string>
   <string name="total_clean_text">Netejat</string>
+  <string name="unlike">No, gràcies</string>
   <string name="update_date_format">dd/MM/yyyy</string>
   <string name="virus_scan">Escaneig de seguretat</string>
   <string name="wechat_cache_files">Memòria cau del WeChat</string>
-  <string name="wechat_chat_clean_done">Tot sembla correcte</string>
   <string name="wechat_chat_data_type_cache">Memòria cau del WeChat</string>
   <string name="wechat_chat_data_type_cache_desc">"Podreu restaurar aquests fitxers després de connectar-vos a Internet."</string>
   <string name="wechat_chat_data_type_chat">Historial de xat</string>
@@ -460,8 +461,11 @@
   <string name="wechat_chat_data_type_other">Altres</string>
   <string name="wechat_chat_data_type_other_desc">Aneu amb compte, potser no podreu restaurar aquests fitxers després que els suprimiu.</string>
   <string name="wechat_clean">Netejador WeChat</string>
+  <string name="wechat_clean_canceled_empty_summary">"La neteja no ha acabat, torneu a començar."</string>
   <string name="wechat_clean_exit_confirm">Voleu sortir?</string>
   <string name="wechat_clean_exit_confirm_msg">Voleu aturar l\'anàlisi i sortir?</string>
+  <string name="wechat_clean_finish_empty_summary">Tot sembla correcte</string>
+  <string name="wechat_clean_finish_summary">S\'han eliminat els fitxers seleccionats amb èxit</string>
   <string name="wechat_clean_stop_confirm">Voleu aturar l\'anàlisi?</string>
   <string name="wechat_clean_stop_confirm_msg">Voleu aturar l\'anàlisi?</string>
   <string name="wechat_content_bad_pic_file">L\'arxiu està malmès</string>
@@ -474,7 +478,12 @@
   <string name="wechat_copying_video_dialog_title">Exporta-ho a la galeria</string>
   <string name="wechat_copying_video_empty">No hi ha vídeos per exportar</string>
   <string name="wechat_copying_video_success">S\'ha exportat amb èxit</string>
+  <string name="wechat_qq_celan_tab_file">Fitxers</string>
+  <string name="wechat_qq_celan_tab_image">Images</string>
+  <string name="wechat_qq_celan_tab_video">Vídeos</string>
+  <string name="wechat_qq_celan_tab_voice">Missatges de veu</string>
   <string name="wechat_qq_chat_files">Historial de xat</string>
+  <string name="wechat_qq_deep_clean_button_text">Neteja intensiva</string>
   <string name="wechat_qq_normal_files">Paperera</string>
   <string name="white_list_ad_header">Fitxers de publicitat: %d</string>
   <string name="white_list_apk_header">Instal·la paquets: %d</string>
@@ -482,6 +491,15 @@
   <string name="white_list_large_file_header">Fitxers grans i vídeos: %d</string>
   <string name="white_list_residual_header">Residuals: %d</string>
   <string name="white_list_title">Excepcions</string>
+  <string name="wq_deep_clean_filter_all">Tots</string>
+  <string name="wq_deep_clean_filter_month_ago">Fa 1 mes</string>
+  <string name="wq_deep_clean_filter_three_month_ago">Fa 3 mesos</string>
+  <string name="wq_deep_clean_filter_week_ago">Fa 1 setmana</string>
+  <string name="wq_deep_clean_filter_years_ago">Fa 6 mesos</string>
+  <string name="wqfile_group_chat_file">Fitxers enviats a missatgers</string>
+  <string name="wqfile_group_chat_pic">Imatges de missatgers</string>
+  <string name="wqfile_group_chat_video">Vídeos de missatgers</string>
+  <string name="wqfile_group_chat_voice">Missatges de veu</string>
   <string name="year_month_day_format">dd MMM, yyyy</string>
   <string name="yesterday">Ahir</string>
 </resources>

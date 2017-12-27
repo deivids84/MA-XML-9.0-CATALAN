@@ -22,36 +22,36 @@
     <item quantity="one">%d notificació nova</item>
   </plurals>
   <plurals name="keyguard_charging_info_charging_full_need_min_time__text">
-    <item quantity="other">Falten %d mins per carregar-se</item>
-    <item quantity="one">Falten %d min per carregar-se</item>
+    <item quantity="other">Falten %d minuts per carregar-se</item>
+    <item quantity="one">Falta %d minut per carregar-se</item>
   </plurals>
   <plurals name="keyguard_charging_info_charging_full_need_hour_time__text">
-    <item quantity="other">Falten %d h per carregar-se</item>
-    <item quantity="one">Falta %d h per carregar-se</item>
+    <item quantity="other">Falten %d hores per carregar-se</item>
+    <item quantity="one">Falta %d hora per carregar-se</item>
   </plurals>
   <plurals name="keyguard_charging_info_charging_full_need_time__text">
-    <item quantity="other">Falten %1$d h i %2$d mins per carregar-se</item>
+    <item quantity="other">Falten %1$d h i %2$d min per carregar-se</item>
     <item quantity="one">Falta %1$d h i %2$d min per carregar-se</item>
   </plurals>
   <plurals name="keyguard_charging_info_could_use_min_time_text">
-    <item quantity="other">Falten %d mins</item>
-    <item quantity="one">Falta %d min</item>
+    <item quantity="other">Falten %d minuts</item>
+    <item quantity="one">Falta %d minut</item>
   </plurals>
   <plurals name="keyguard_charging_info_could_use_hour_time_text">
-    <item quantity="other">Falten %d h</item>
-    <item quantity="one">Falta %d h</item>
+    <item quantity="other">Falten %d hores</item>
+    <item quantity="one">Falta %d hora</item>
   </plurals>
   <plurals name="keyguard_charging_info_could_use_time_text">
-    <item quantity="other">Falten %1$d h i %2$d mins</item>
+    <item quantity="other">Falten %1$d h i %2$d min</item>
     <item quantity="one">Falta %1$d h i %2$d min</item>
   </plurals>
   <plurals name="keyguard_charging_info_drained_hour_time_format">
-    <item quantity="other">%d h</item>
-    <item quantity="one">%d h</item>
+    <item quantity="other">%d hores</item>
+    <item quantity="one">%d hora</item>
   </plurals>
   <plurals name="keyguard_charging_info_drained_min_time_format">
-    <item quantity="other">%d mins</item>
-    <item quantity="one">%d min</item>
+    <item quantity="other">%d minuts</item>
+    <item quantity="one">%d minut</item>
   </plurals>
   <plurals name="keyguard_charging_info_drained_time_format">
     <item quantity="other">%1$d h %2$d mins</item>

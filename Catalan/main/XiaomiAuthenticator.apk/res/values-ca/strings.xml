@@ -21,7 +21,7 @@ En cas de dubte, si us plau visiteu el lloc web oficial de Xiaomi i sol·liciti 
   <string name="button_add_account_manual_entry">Afegeix manualment el compte</string>
   <string name="button_add_account_scan_barcode">Escaneja codi de barres</string>
   <string name="button_back">Enrere</string>
-  <string name="button_exit_howitworks_flow">Sortir</string>
+  <string name="button_exit_howitworks_flow">Surt</string>
   <string name="button_how_it_works">Veure com funciona</string>
   <string name="button_next">Siguiente</string>
   <string name="button_uninstall_old_app">Desinstal·la</string>
@@ -67,7 +67,7 @@ Regístrar-se a account.xiaomi.com，Protecció de les pàgines de destinació, 
   <string name="jump_createpattern_tip">Per defecte se li demanarà que estableixi una contrasenya de seguretat. Es recomana que no triï Saltar, </string>
   <string name="jump_lockpattern_title">Pareu atenció</string>
   <string name="jump_updatepattern_tip">Encara que Vè. pot no fixar un patró, es recomana no saltar aquest pas per seguretat.</string>
-  <string name="lockpassword_choose_your_pattern_header">Elija su patrón</string>
+  <string name="lockpassword_choose_your_pattern_header">Trieu el patró</string>
   <string name="lockpassword_confirm_your_pattern_header">Confirme su patrón</string>
   <string name="lockpassword_input_your_pattern_header">Confirme su patrón</string>
   <string name="lockpattern_confirm_button_text">Confirma</string>
@@ -80,7 +80,7 @@ Regístrar-se a account.xiaomi.com，Protecció de les pàgines de destinació, 
   <string name="lockpattern_recording_incorrect_too_short">Connecteu almenys %d punts. Torneu-ho a provar:</string>
   <string name="lockpattern_recording_inprogress">Retire el dedo al terminar.</string>
   <string name="lockpattern_recording_intro_header">Dibuixeu un patró de desbloqueig:</string>
-  <string name="lockpattern_redraw_button_text">Redibuixar</string>
+  <string name="lockpattern_redraw_button_text">Torneu-lo a dibuixar</string>
   <string name="lockpattern_retry_text">Contraseña para restablecer el patrón</string>
   <string name="lockpattern_settings_help_how_to_record">Cómo dibujar un patrón de desbloqueo</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Inténtelo de nuevo en %d segundos.</string>

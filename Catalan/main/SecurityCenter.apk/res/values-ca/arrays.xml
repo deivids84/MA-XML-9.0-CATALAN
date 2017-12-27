@@ -57,6 +57,7 @@
     <item>Freqüència d\'ús</item>
     <item>Emmagatzematge usat</item>
     <item>Data d\'instal·lació</item>
+    <item>Podeu desinstal·lar aquestes aplicacions</item>
   </string-array>
   <string-array name="sort_title">
     <item>Ordena per estat</item>
@@ -64,6 +65,7 @@
     <item>Ordena per freqüència d\'ús</item>
     <item>Ordena per l\'emmagatzematge usat</item>
     <item>Ordena per data d\'instal·lació</item>
+    <item>Mostra les aplicacions que es poden desinstal·lar primer</item>
   </string-array>
   <string-array name="title_app_info">
     <item>Origen de la instal·lació</item>
@@ -75,17 +77,21 @@
     <item>Ús de dades</item>
     <item>Saldo del telèfon</item>
   </string-array>
+  <string-array name="tether_limit_warn_type">
+    <item>Desactiva i notifica</item>
+    <item>Només notifica</item>
+  </string-array>
   <string-array name="alarm_repeat_type">
     <item>Un cop</item>
     <item>Cada dia</item>
     <item>Dies feiners</item>
     <item>Entre setmana</item>
-    <item>Personalitzar</item>
+    <item>Personalitzada</item>
   </string-array>
   <string-array name="alarm_repeat_type_no_workdays">
     <item>Un cop</item>
     <item>Cada dia</item>
     <item>Entre setmana</item>
-    <item>Personalitzar</item>
+    <item>Personalitzada</item>
   </string-array>
 </resources>

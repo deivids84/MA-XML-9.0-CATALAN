@@ -50,7 +50,7 @@
   <string name="notification_paused_in_background">Aturat en segon pla.</string>
   <string name="notify_disabled_net_by_app">Connexió a internet restringida per l\'aplicació Seguretat</string>
   <string name="notify_install_guide_forward_text">Obre</string>
-  <string name="notify_install_guide_msg">Instal·lat amb èxit</string>
+  <string name="notify_install_guide_msg">S\'ha instal·lat amb èxit</string>
   <string name="notify_install_guide_title">%s s\'ha instal·lat amb èxit</string>
   <string name="notify_only_wifi_download">S\'està esperant una conexió Wi-Fi</string>
   <string name="paused_waiting_for_network">A l\'espera d\'una connexió a la xarxa</string>
@@ -82,9 +82,9 @@
   <string name="warning_tip_content">"No esteu connectat a cap Wi-Fi. L'ús de la connexió de dades mòbils per completar la baixada incrementarà l'ús de dades. Si excediu el límit de la vostra tarifa, l'operador us pot cobrar càrrecs addicionals."</string>
   <string name="warning_tip_ok">Pausa</string>
   <string name="warning_tip_title">Alerta d\'ús de dades</string>
-  <string name="wifi_recommended_body" formatted="false">«Iniciar aquesta %s baixada podria donar lloc a un ús excessiu de la connexió de dades mòbil, que podria portar a càrrecs pel seu operador de telefonia mòbil en funció del seu pla de dades.
+  <string name="wifi_recommended_body" formatted="false">"Iniciar aquesta %s baixada podria donar lloc a un ús excessiu de la connexió de dades mòbil, que podria portar a càrrecs pel seu operador de telefonia mòbil en funció del seu pla de dades.
 
- Toqueu %s per iniciar la baixada la propera vegada que estigueu connectat a una xarxa Wi-Fi.»</string>
+ Toqueu %s per iniciar la baixada la propera vegada que estigueu connectat a una xarxa Wi-Fi."</string>
   <string name="wifi_recommended_title">Voleu posar-lo en cua per baixar-lo més tard?</string>
   <string name="wifi_required_body" formatted="false">"Heu d\'utilitzar la Wi-Fi per completar aquesta %s baixada. 
 

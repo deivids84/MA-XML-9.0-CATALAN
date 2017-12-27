@@ -66,6 +66,11 @@
   <string name="disable_wallpaper_scroll">Desactiva el desplaçament lateral</string>
   <string name="download_action">Baixa</string>
   <string name="edit_folder_title">Edita el nom de la carpeta</string>
+  <string name="edit_mode_group">Grup</string>
+  <string name="edit_mode_group_error_full">No hi ha prou espai</string>
+  <string name="edit_mode_group_error_in_folder">Tanqueu la carpeta abans d\'agrupar icones</string>
+  <string name="edit_mode_group_error_one_folder">"No es pot duplicar una carpeta amb les icones seleccionades"</string>
+  <string name="edit_mode_uninstall">Desinstal·la</string>
   <string name="editing_add_widget_tips">Editeu els ginys</string>
   <string name="editing_mode_enter_tip_text">Pessigueu per editar la pantalla d\'inici</string>
   <string name="editing_mode_title_empty">0 seleccionats</string>
@@ -146,14 +151,16 @@
   <string name="loading_desktop">Un moment…</string>
   <string name="loading_wallpaper">Un moment…</string>
   <string name="local_wallpaper">Baixat</string>
-  <string name="lock_screen">Pantalla de bloqueig</string>
+  <string name="lock_screen">Bloqueja la pantalla</string>
   <string name="lock_screen_failed_message">"No es pot aplicar el fons de pantalla"</string>
   <string name="lock_screen_success_message">S\'ha aplicat correctament</string>
   <string name="lock_screen_wallpaper">Fons de pantalla de bloqueig</string>
+  <string name="memory_clear_nothing_result">No hi ha res per esborrar a la memòria cau</string>
+  <string name="memory_clear_result">%1$sB netejats</string>
   <string name="menu_add">Afegeix</string>
-  <string name="menu_auto_fill">Omple automàticament</string>
+  <string name="menu_auto_fill">Emplena les cel·les buides</string>
   <string name="menu_back_desktop">Torna a la pantalla d\'inici</string>
-  <string name="menu_cell_setting">Configuració de pantalla</string>
+  <string name="menu_cell_setting">Disposició de la pantalla d\'inici</string>
   <string name="menu_customize">Configuració</string>
   <string name="menu_default_screen_preview">Estableix la pantalla per defecte</string>
   <string name="menu_edit">Edita la pantalla d\'inici</string>
@@ -167,14 +174,14 @@
   <string name="menu_search">Cerca</string>
   <string name="menu_settings">Configuració</string>
   <string name="menu_sort">Ordena les aplicacions</string>
-  <string name="menu_trans_effect">Efecte de transició</string>
+  <string name="menu_trans_effect">Efectes de transició</string>
   <string name="menu_wallpaper">Fons de pantalla</string>
   <string name="menu_workspace_preview">Vista prèvia de les pantalles d\'inici</string>
   <string name="mi_wallpaper">Botiga de Temes MIUI</string>
   <string name="mtzgadget_missing_text">"El giny no és disponible"</string>
   <string name="multi_selecting_tips">Recolliu una aplicació arrossegant-la i deixant-la aquí</string>
   <string name="no_detail_page">No hi ha pàgina de detalls</string>
-  <string name="no_space_toast">Sense espai</string>
+  <string name="no_space_toast">No hi ha prou espai</string>
   <string name="normal_wallpaper">Fons de pantalla</string>
   <string name="notification_installed">S\'ha instal·lat amb èxit</string>
   <string name="notification_open_button">Obre</string>
@@ -258,7 +265,7 @@
   <string name="unknown_artist_name">Artista desconegut</string>
   <string name="unnamed_folder_name">Carpeta</string>
   <string name="wallpaper">Fons de pantalla</string>
-  <string name="wallpaper_auto_change_title">Pantalla de bloqueig</string>
+  <string name="wallpaper_auto_change_title">Bloqueja la pantalla</string>
   <string name="wallpaper_failed_message">"No es pot aplicar el fons de pantalla"</string>
   <string name="wallpaper_scaling_message">S\'està escalant a la mida fixada</string>
   <string name="wallpaper_scroll_type_tips">Desplaçament del fons</string>
@@ -269,5 +276,5 @@
   <string name="widget_favorite_contacts_style">Canvia la mida</string>
   <string name="widget_gadget_player">Música</string>
   <string name="widget_global_search">Cerca</string>
-  <string name="widget_quick_function">Funció ràpida</string>
+  <string name="widget_quick_function">Funcions ràpides</string>
 </resources>

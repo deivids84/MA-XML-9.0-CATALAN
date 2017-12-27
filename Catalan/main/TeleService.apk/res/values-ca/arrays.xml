@@ -84,6 +84,17 @@
     <item>24 bits/mostra</item>
     <item>32 bits/mostra</item>
   </string-array>
+  <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+    <item>Utilitza la selecció del sistema (per defecte)</item>
+    <item>16 bits/mostra</item>
+    <item>24 bits/mostra</item>
+    <item>32 bits/mostra</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
+    <item>Utilitza la selecció del sistema (per defecte)</item>
+    <item>Mono</item>
+    <item>Estèreo</item>
+  </string-array>
   <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
     <item>Utilitza la selecció del sistema (per defecte)</item>
     <item>Mono</item>
@@ -284,5 +295,6 @@
     <item>TW;sagit,chiron</item>
     <item>MO;sagit,chiron</item>
     <item>JP;sagit,chiron</item>
+    <item>ID;riva</item>
   </string-array>
 </resources>

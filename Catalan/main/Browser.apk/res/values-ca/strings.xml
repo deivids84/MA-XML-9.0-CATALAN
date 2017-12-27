@@ -52,6 +52,9 @@
   <string name="action_menu_toolbox">Eines</string>
   <string name="action_menu_useful_page">Afegeix una drecera</string>
   <string name="action_menu_useful_page_added">Afegit a la pàgina d\'inici</string>
+  <string name="action_menu_user_center">Centre d\'usuari</string>
+  <string name="action_modify_bookmark">Modifica el marcador</string>
+  <string name="action_put_in_search_box">Introduïu %s al quadre de cerca</string>
   <string name="actionbar_share">Comparteix</string>
   <string name="actionbar_textselection_title">Selecció de text</string>
   <string name="actionbar_web_search">Cerca al web</string>
@@ -96,8 +99,8 @@
   <string name="aqi_quality_index_pure">Excel·lent</string>
   <string name="aqi_quality_index_unhealthy">Perjudicial</string>
   <string name="autoSwithcingSearchEngineTips">Ha canviat el motor de cerca pel seu hàbit</string>
-  <string name="autofill_keyboard_accessory_content_description">Suggeriments disponibles</string>
-  <string name="autofill_popup_content_description">S\'està mostrant una finestra emergent amb emplenament automàtic</string>
+  <string name="autofill_keyboard_accessory_content_description">Suggeriments disponibles…</string>
+  <string name="autofill_popup_content_description">S\'està mostrant una finestra emergent d\'emplenament automàtic</string>
   <string name="autologin_bar_error">"No s'ha pogut iniciar la sessió"</string>
   <string name="autologin_bar_hide_text">Amaga</string>
   <string name="autologin_bar_login_text">Inicia la sessió</string>
@@ -336,7 +339,7 @@ està a punt de passar»</string>
   <string name="geolocation_permissions_prompt_message">%s vol saber la vostra ubicació</string>
   <string name="geolocation_permissions_prompt_remember">Recorda la preferència</string>
   <string name="geolocation_permissions_prompt_share">Comparteix la ubicació</string>
-  <string name="geolocation_permissions_prompt_toast_allowed">Aquest lloc pot accedir a la informació d\'ubicació. Per canviar-ho aneu a Configuració &gt; Avançada &gt; Dades del lloc web.</string>
+  <string name="geolocation_permissions_prompt_toast_allowed">Aquest lloc pot accedir a la vostra informació d\'ubicació. Podeu canviar això a la Configuració.</string>
   <string name="geolocation_permissions_prompt_toast_disallowed">"Aquest lloc no pot accedir a la ubicació"</string>
   <string name="geolocation_settings_page_dialog_cancel_button">Cancel·la</string>
   <string name="geolocation_settings_page_dialog_message">Voleu esborrar l\'accés a la ubicació per a aquest lloc?</string>
@@ -551,6 +554,8 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="ok">D\'acord</string>
   <string name="older">Més antic</string>
   <string name="open_app_confirm_message">Voleu permetre que aquesta pàgina obri %s?</string>
+  <string name="open_cloud_sync">Obre la sincronització del núvol</string>
+  <string name="open_cloud_sync_desc">S\'ha afegit un marcador. Activeu la sincronització del núvol i els marcadors afegits a altres dispositius es sincronitzaran amb aquest. Voleu iniciar sessiói obriu-lo ara?</string>
   <string name="open_file_explorer_failed">"No es pot obrir l'Explorador de fitxers"</string>
   <string name="open_voice_permission">Permís per obrir la xarxa de veu</string>
   <string name="opening_file_error">"No es pot obrir el fitxer seleccionat"</string>
@@ -629,7 +634,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="pref_label_advert_manager">Gestor d\'anuncis etiquetats</string>
   <string name="pref_nav_mode_summary_pad">Tauleta</string>
   <string name="pref_nav_mode_summary_phone">Telèfon</string>
-  <string name="pref_nav_mode_title">Mode Navegació</string>
+  <string name="pref_nav_mode_title">Mode del navegador</string>
   <string name="pref_notifications_hint">Notificacions</string>
   <string name="pref_notifications_receive">Notificacions</string>
   <string name="pref_notifications_title">Notificacions</string>
@@ -642,7 +647,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="pref_privacy_clear_cookies_dlg">Voleu eliminar totes les galetes?</string>
   <string name="pref_privacy_clear_cookies_summary">Elimina totes les galetes del navegador</string>
   <string name="pref_privacy_clear_form_data">Esborra les dades de formularis</string>
-  <string name="pref_privacy_clear_form_data_dlg">Voleu eliminar totes les dades desades de formularis?</string>
+  <string name="pref_privacy_clear_form_data_dlg">Voleu eliminar totes les dades desades del formulari?</string>
   <string name="pref_privacy_clear_form_data_summary">Esborra totes les dades desades de formulari</string>
   <string name="pref_privacy_clear_geolocation_access">Esborra l\'accés a la ubicació</string>
   <string name="pref_privacy_clear_geolocation_access_dlg">Voleu esborrar l\'accés a la ubicació del lloc web?</string>
@@ -787,8 +792,8 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="senddesktop">Pantalla d\'inici</string>
   <string name="sendstartpage">Pàgina d\'inici</string>
   <string name="sequence_bookmark_description">Premeu i mantingueu premut per reordenar els marcadors</string>
-  <string name="share_image_text">Estic gaudint d\'una imatge molt meravellosa</string>
-  <string name="share_page_text">Estic gaudint 【%1$s】 | %2$s</string>
+  <string name="share_image_text">Mireu lo que he compartit! @MIUI</string>
+  <string name="share_page_text">Mireu el que he compartit: %1$s @MIUI| %2$s</string>
   <string name="show_check_security_url_check_tip_dialog_description">"Recollirem i utilitzarem les vostres dades personals si voleu utilitzar els nostres serveis.
 A continuació, es detallen les dades que recollirem:
 1. URLs segurs: recollirem les URL dels llocs web que visiteu mentre utilitzeu els nostres serveis.
@@ -798,6 +803,7 @@ Així és com utilitzem les dades que recopilem:
 2. Contingut: les vostres dades ens ajuden a proporcionar contingut rellevant de notícies localitzat.
 El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'acceptar el nostre %2$s i %1$s per poder utilitzar el Navegador. "</string>
   <string name="show_security_tip_dialog_title">Política de privadesa</string>
+  <string name="sign_and_open">Inicia sessió i obre\'l</string>
   <string name="sign_in_to" formatted="false">Inicia una sessió al %s1 \"%s2\"</string>
   <string name="skip_button_label">Omet</string>
   <string name="skip_current_version">Omet aquesta versió</string>
@@ -848,11 +854,14 @@ El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'
   <string name="switchText">SÍ</string>
   <string name="switch_proxy_dialog_msg">"S'ha detectat una intrusió per xarxa. Utilitzeu l'aplicació de Seguretat integrada a MIUI o informeu al vostre operador mòbil."</string>
   <string name="switch_proxy_dialog_title">Intrusió per xarxa</string>
+  <string name="sync_and_backup_bookmark">Sincronitza i fes còpia de seguretat dels marcadors</string>
+  <string name="sync_and_backup_history">Sincronitza i fes còpia de seguretat de l\'històric</string>
   <string name="sync_cloud_tabs">Sincronitza</string>
   <string name="tab_hotpage">Servei de notícies</string>
   <string name="tab_quicklinks">Pàgina d\'inici</string>
   <string name="tab_yellowpage">Enllaços</string>
   <string name="tabs_description">Pestanyes</string>
+  <string name="temp_refuse">Rebutja</string>
   <string name="time_picker_dialog_am">AM</string>
   <string name="time_picker_dialog_hour_minute_separator">:</string>
   <string name="time_picker_dialog_minute_second_separator">:</string>
@@ -927,7 +936,7 @@ El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'
   <string name="video_downloaded_group">Baixats</string>
   <string name="video_downloading_group">S\'està baixant</string>
   <string name="video_edit">Edita</string>
-  <string name="video_float_window">PopUp</string>
+  <string name="video_float_window">Emergent</string>
   <string name="video_float_window_playing">Reproduint vídeo</string>
   <string name="video_float_window_text">Emergent</string>
   <string name="video_fragment_name_collections">Favorits</string>

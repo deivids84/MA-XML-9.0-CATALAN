@@ -370,7 +370,7 @@ Taxa de mostreig"</string>
   <string name="call_advanced_setting_title">Configuració avançada</string>
   <string name="call_background_default">Per defecte</string>
   <string name="call_background_lock_wallpaper">Bloca el fons de pantalla</string>
-  <string name="call_background_setting">Fons de la trucada</string>
+  <string name="call_background_setting">Fons de la trucada entrant</string>
   <string name="call_barring">Restricció de trucades</string>
   <string name="call_barring_sum">Configuració de restricció de trucades de veu</string>
   <string name="call_description_recording">S\'està enregistrant&#8230;</string>
@@ -601,7 +601,9 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="dial_related_setting_catory">Marcador</string>
   <string name="dialerKeyboardHintText">Utilitzeu el teclat per marcar</string>
   <string name="dialog_alert_title">Atenció</string>
+  <string name="dialog_cancel">Cancel·la</string>
   <string name="dialog_network_priority_title">Xarxa prioritària</string>
+  <string name="dialog_report">Notifica</string>
   <string name="direct_boot_unaware_dialog_message">"Nota: després de reiniciar, aquesta aplicació no pot iniciar-se fins que desbloquegeu el telèfon"</string>
   <string name="disable">Apaga</string>
   <string name="disable_all_cf">Desactiva totes les funcions de desviament de trucada</string>
@@ -625,6 +627,8 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="dtmf_tone_entries_normal">Normal</string>
   <string name="dtmf_tones_summary">Defineix la durada dels tons DTMF</string>
   <string name="dtmf_tones_title">Tons DTMF</string>
+  <string name="dual_4g_switch_summary">Permet la connectivitat 4G a les dues ranures SIM.</string>
+  <string name="dual_4g_switch_title">4G dual</string>
   <string name="duration_disable_summary">La visualització de la durada està desactivada</string>
   <string name="duration_enable_summary">La visualització de la durada està activada</string>
   <string name="edit_fdn_contact">Edita número de marcatge predefinit</string>
@@ -664,6 +668,7 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="enable_disable_retail_directory">Directori de Comerços</string>
   <string name="enable_disable_stock_quotes">Cotitzacions d\'Accions</string>
   <string name="enable_disable_technology_news">Notícies de tecnologia</string>
+  <string name="enable_dual_4g_prompt_when_turn_on_volte">VoLTE requereix connectivitat 4G per a les dues ranures SIM. Voleu canviar al 4G dual?</string>
   <string name="enable_fdn">Activa els NMP</string>
   <string name="enable_fdn_ok">Desactiva els NMP</string>
   <string name="enable_freeform_support">Activa les finestres de format lliure</string>
@@ -884,6 +889,9 @@ Voleu canviar al nou proveïdor igualment?"</string>
   <string name="missed_call_notify_times_summary">els recordatoris es separen en intervals de 5 minuts</string>
   <string name="missed_call_notify_times_title">Recordatoris de trucades perdudes</string>
   <string name="missed_call_notify_twice">2 cops</string>
+  <string name="miui_network_selection_reset_text">Restableix</string>
+  <string name="miui_notification_network_selection_title">SIM sense servei</string>
+  <string name="miui_notification_network_selection_title_by_sim">SIM %s sense servei</string>
   <string name="mmiCancelled">Codi MMI cancel·lat</string>
   <string name="mmiStarted">Codi MMI iniciat</string>
   <string name="mobile_data">Dades mòbils</string>
@@ -895,6 +903,8 @@ Voleu canviar al nou proveïdor igualment?"</string>
   <string name="mock_location_app">Seleccioneu una aplicació per simular la ubicació</string>
   <string name="mock_location_app_not_set">Cap aplicació per simular ubicació seleccionada</string>
   <string name="mock_location_app_set">Aplicació d\'ubicació simulada: %1$s</string>
+  <string name="modem_dialog_body">La xarxa mòbil és inestable, això pot provocar interrupcions o problemes de xarxa. Voleu enviar un informe d\'error a Mi per a l\'anàlisi? Aquest informe pot contenir informació personalment identificable. L\'informe s\'utilitzarà per ajudar a solucionar aquest error i mai es compartirà en cap context comercial.</string>
+  <string name="modem_dialog_title">La xarxa mòbil és inestable</string>
   <string name="msim_apn_not_set">No definit</string>
   <string name="msim_default_setting">Configuració per defecte</string>
   <string name="msim_disable_sim_card_btn_text">D\'acord</string>
@@ -1042,7 +1052,7 @@ Torneu a provar-ho o truqueu al servei d\'atenció al client per a més opcions.
   <string name="path_auto_retry_mode_title">Aplicacions de sistema/Telèfon/Configuració avançada/Reintent automàtic</string>
   <string name="path_autoip">Aplicacions de sistema/Telèfon/Configuració avançada/Marcatge IP automàtic</string>
   <string name="path_call_advanced_settings_title">Aplicacions de sistema/Telèfon/Configuració avançada</string>
-  <string name="path_call_background_setting_name">Aplicacions de sistema/Telèfon/Configuració avançada/Soroll de fons de la trucada</string>
+  <string name="path_call_background_setting_name">Aplicacions de sistema/Telèfon/Configuració avançada/Fons de la trucada</string>
   <string name="path_call_forwarding_settings">Aplicacions de sistema/Telèfon/Paràmetres de desviament de trucada</string>
   <string name="path_call_record_auto_title">Aplicacions de sistema/Telèfon/Enregistrament de trucades/Enregistra trucades automàticament</string>
   <string name="path_call_record_setting">Aplicacions de sistema/Telèfon/Enregistrament de trucades</string>
@@ -1107,7 +1117,7 @@ Les funcions relacionades amb el PIN2 es bloquejaran després d\'un altre intent
   <string name="pin2_or_fdn_invalid">"Els NMP no es va actualitzar. El PIN2 era incorrecte o es va rebutjar el número de telèfon."</string>
   <string name="pin2_unblocked">El PIN2 ja no està bloquejat</string>
   <string name="pin_changed">El PIN s\'ha actualitzat</string>
-  <string name="pin_failed">El PIN no és correcte</string>
+  <string name="pin_failed">PIN incorrecte</string>
   <string name="pin_lock_warning">El vostre telèfon es bloquejarà automàticament després d\'un altre intent incorrecte</string>
   <string name="pin_progress_change_pin">S\'està canviant el PIN&#8230;</string>
   <string name="pin_progress_change_pin2">S\'està canviant el PIN2&#8230;</string>
@@ -1420,6 +1430,8 @@ Les funcions relacionades amb el PIN2 es bloquejaran després d\'un altre intent
   <string name="tether_settings_title_usb">Internet compartit per USB</string>
   <string name="tether_settings_title_usb_bluetooth">Connexió compartida</string>
   <string name="tether_settings_title_wifi">Punt d\'accés portàtil</string>
+  <string name="tethering_hardware_offload">Acceleració del maquinari de l\'ancoratge</string>
+  <string name="tethering_hardware_offload_summary">Utilitza l\'acceleració del maquinari de l\'ancoratge si està disponible</string>
   <string name="tethering_settings_not_available">La configuració d\'ancoratge no està disponible per a aquest usuari</string>
   <string name="third_party_account_summary">Aquest compte l\'utilitza actualment l\'aplicació %s.</string>
   <string name="throttle_current_usage">Volum de dades usat en el període actual</string>
@@ -1481,6 +1493,8 @@ El període següent comença en %2$d dies (%3$s)"</string>
   <string name="tty_mode_not_allowed_video_call">No es pot canviar el mode TTY durant una videotrucada</string>
   <string name="tty_mode_option_summary">Estableix mode TTY</string>
   <string name="tty_mode_option_title">Mode TTY</string>
+  <string name="turn_off_dual_4g_failed">"No s'ha pogut desactivar el 4G dual."</string>
+  <string name="turn_on_dual_4g_failed">"No s'ha pogut activar el 4G dual."</string>
   <string name="turnover_mute_summary">Quan el telèfon està en una superfície horitzontal amb la pantalla cap amunt, torneu-lo a fer per silenciar les trucades.</string>
   <string name="turnover_mute_title">Gira per silenciar la trucada</string>
   <string name="undefined">Cap</string>
@@ -1557,6 +1571,7 @@ Contacteu amb el vostre operador si persisteix aquest problema."</string>
   <string name="wapi_cert_manage_summary">Afegeix o suprimeix el certificat WAPI</string>
   <string name="wapi_cert_manage_title">Gestió de certificats WAPI</string>
   <string name="wapi_cert_roaming">S\'està connectant…</string>
+  <string name="wapi_no">no</string>
   <string name="wapi_no_vaild_cert">No hi ha cap certificat disponible, voleu instal·lar-ne un?</string>
   <string name="wapi_password_hex_format_add">El recompte de caràcters hexadecimals no pot ser un número senar</string>
   <string name="wapi_password_is_empty">El camp contrasenya no es pot deixar en blanc</string>
@@ -1564,6 +1579,7 @@ Contacteu amb el vostre operador si persisteix aquest problema."</string>
   <string name="wapi_password_length_is_max">La contrasenya no pot superar els 64 caràcters</string>
   <string name="wapi_password_length_is_min">La contrasenya no pot tenir menys de 8 caràcters</string>
   <string name="wapi_password_length_is_min_to_max">La contrasenya ha de ser de 8 a 64 caràcters</string>
+  <string name="wapi_yes">sí</string>
   <string name="wifi_aggressive_handover">Transferència forçada des de Wi-Fi a mòbil</string>
   <string name="wifi_aggressive_handover_summary">Si s\'activa, quan el senyal de Wi-Fi és baix es forçarà la transferència de dades des de Wi-Fi a mòbil</string>
   <string name="wifi_allow_scan_with_traffic">Permet sempre cerca de Wi-Fi en itinerància</string>

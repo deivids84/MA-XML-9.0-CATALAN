@@ -18,6 +18,8 @@
   <string name="face_data_input_msg">Col·loqueu la cara dins del marc</string>
   <string name="face_data_input_ok">Fet</string>
   <string name="face_data_input_ok_msg">Activeu la pantalla per desbloquejar el dispositiu mitjançant les dades de la vostra cara.</string>
+  <string name="face_data_input_ok_msg_angle">"Desbloquegeu el dispositiu amb la cara quan la pantalla estigui encesa.
+(Registreu les dades facials, inclosos tots els angles necessaris.)"</string>
   <string name="face_data_input_ok_title">S\'ha afegit amb èxit</string>
   <string name="face_data_input_title">Afegeix dades de la cara</string>
   <string name="face_data_introduction_msg">Les dades de la cara es poden utilitzar per desbloquejar el dispositiu o verificar la vostra identitat. Afegiu la contrasenya de la pantalla de bloqueig abans d\'afegir les dades de la vostra cara.</string>
@@ -29,7 +31,9 @@
   <string name="face_data_manage_delete_title">Dades de la cara</string>
   <string name="face_data_manage_unlock_msg">Desbloqueja el dispositiu amb les dades de la vostra cara</string>
   <string name="face_data_manage_unlock_title">Desbloqueja amb les dades de la cara</string>
-  <string name="face_data_suggesstion_first">Desbloqueja el dispositiu amb les dades de la vostra cara és menys segur que utilitzar una contrasenya de la pantalla de bloqueig. Pot ser que el vostre dispositiu sigui desbloquejat per persones que us semblin.</string>
+  <string name="face_data_siggesstion_next">Següent</string>
+  <string name="face_data_siggesstion_next_time">Següent (%d s)</string>
+  <string name="face_data_suggesstion_first">Problemes de seguretat: el desbloqueig facial és menys segur que un PIN, una contrasenya o un patró. És possible que el dispositiu es desbloqueji amb la vostra foto, així com per persones o objectes amb aspecte similar.</string>
   <string name="face_data_suggesstion_second">"Assegureu-vos que totes les parts de la vostra cara no estan cobertes per objectes i són clarament visibles. La vostra cara també ha d'estar ben il·luminada."</string>
   <string name="face_unlock_adjust_distance">Assegureu-vos que la distància entre la cara i el dispositiu sigui òptima.</string>
   <string name="face_unlock_be_on_the_screen">Mantén el dispositiu davant de la vostra cara</string>
@@ -48,6 +52,8 @@
   <string name="face_unlock_passwork">Utilitza contrasenya</string>
   <string name="face_unlock_passwork_and_fingerprint">Utilitzeu la contrasenya o les dades de la cara</string>
   <string name="face_unlock_quality">"No s'ha pogut veure la cara amb claredat"</string>
+  <string name="face_unlock_reenter_content">S\'està actualitzant l\'algoritme de desbloqueig facial. Toqueu per tornar a enregistrar les dades facials.</string>
+  <string name="face_unlock_reenter_title">Torna a registrar les dades facials.</string>
   <string name="face_unlock_reveal_eye">Feu que els vostres ulls siguin visibles</string>
   <string name="face_unlock_reveal_mouth">Feu que els vostres llavis siguin visibles</string>
   <string name="face_unlock_rise">Baixeu el cap</string>
@@ -117,7 +123,7 @@ Torneu a provar-ho d\'aquí %d segons."</string>
   <string name="lockscreen_failed_attempts_now_wiping">Heu intentat desbloquejar el telèfon sense èxit %d vegades. El telèfon es reiniciarà als valors de fàbrica.</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Desbloquejat per un dispositiu Bluetooth</string>
   <string name="open_camera_hint_text">Feu lliscar cap a l\'esquerra per obrir %s</string>
-  <string name="open_remote_center_hint_text">Feu lliscar cap a la dreta per obrir %s</string>
+  <string name="open_remote_center_hint_text">Feu lliscar cap a la dreta per obrir el Control Mi</string>
   <string name="phone_locked_foget_password">Heu oblidat la contrasenya?</string>
   <string name="phone_locked_foget_password_mehod_back">Enrere</string>
   <string name="phone_locked_foget_password_method">Heu oblidat la contrasenya?</string>

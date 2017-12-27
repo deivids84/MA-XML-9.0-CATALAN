@@ -24,6 +24,10 @@
     <item>Escala d\'animació 5x</item>
     <item>Escala d\'animació 10x</item>
   </string-array>
+  <string-array name="ap_identify">
+    <item>per defecte</item>
+    <item>iPhone</item>
+  </string-array>
   <string-array name="apn_auth_entries">
     <item>Cap</item>
     <item>PAP</item>
@@ -174,7 +178,7 @@
     <item>encén la pantalla</item>
     <item>aconsegueix comptes</item>
     <item>executa en segon pla</item>
-    <item>accessibility volume</item>
+    <item>volum d\'accessibilitat</item>
   </string-array>
   <string-array name="app_process_limit_entries">
     <item>Límit estàndard</item>
@@ -368,7 +372,7 @@
     <item>Vermell</item>
   </string-array>
   <string-array name="common_password_business_names">
-    <item>Bloqueig de pantalla</item>
+    <item>Bloqueja la pantalla</item>
     <item>Mode d\'infants</item>
     <item>Explorador de fitxers</item>
     <item>Explorador de fitxers</item>

@@ -24,7 +24,7 @@
   <string name="autofill">Emplenament automàtic</string>
   <string name="button_text_cancel">Cancel·la</string>
   <string name="button_text_delete">Elimina</string>
-  <string name="button_text_delete_timer">Elimina (%d)</string>
+  <string name="button_text_delete_timer">Desinstal·la (%d)</string>
   <string name="button_text_next_step">Següent</string>
   <string name="button_text_next_step_timer">Següent (%d)</string>
   <string name="call_record_or">" o "</string>
@@ -82,12 +82,12 @@
   <string name="miui_screen_ratio_hint">Problemes de relació de pantalla</string>
   <string name="miui_screen_ratio_hint_dont_show_again">"No tornis a mostrar-ho"</string>
   <string name="miui_screen_ratio_hint_go_to_settings">Aneu a la configuració</string>
-  <string name="miui_screen_ratio_hint_message">Heu permès a aquesta aplicació ser executada en mode de pantalla completa que pot provocar que es mostri incorrectament. Podeu canviar això a Configuració &gt; Configuració avançada &gt; Botons.</string>
+  <string name="miui_screen_ratio_hint_message">Aquesta aplicació pot executar-se en mode pantalla completa, el que pot fer que es mostri incorrectament. Podeu canviar això a Configuració &gt; Pantalla completa.</string>
   <string name="miui_screen_ratio_hint_ok">D\'acord</string>
-  <string name="miui_upgrading_notification_title">S\'està carregant el sistema, es podrien limitar algunes característiques</string>
+  <string name="miui_upgrading_notification_title">S\'està carregant el sistema, és possible que algunes funcions no estiguin disponibles.</string>
   <string name="onehour">30 minuts</string>
-  <string name="package_delete_confirm_step_1">Voleu eliminar %s?</string>
-  <string name="package_delete_confirm_step_2">En eliminar aquesta aplicació, el sistema pot tornar-se inestable.</string>
+  <string name="package_delete_confirm_step_1">Voleu desinstal·lar %s?</string>
+  <string name="package_delete_confirm_step_2">La desinstal·lació d\'aquesta aplicació pot provocar que el sistema es torni inestable.</string>
   <string name="package_delete_confirm_step_3">"No podreu obrir aquesta aplicació després d'eliminar-la."</string>
   <string name="paste">Enganxa</string>
   <string name="perm_send_push_dspt">Permet missatges de tramesa automàtica Mi</string>
@@ -97,7 +97,7 @@
   <string name="reboot_confirm_title">Voleu reiniciar el dispositiu ara?</string>
   <string name="reboot_info_auto_boot">Engegada programada del dispositiu: %s</string>
   <string name="reboot_info_shutdown_alarm">L\'alarma sonarà a les %s</string>
-  <string name="reboot_progress">S\'està reiniciant&#8230;</string>
+  <string name="reboot_progress">S\'està reiniciant…</string>
   <string name="remain">Restant: %s</string>
   <string name="replace">Substitueix</string>
   <string name="resource_select">Selecciona</string>
@@ -132,7 +132,7 @@
   <string name="softap_notifif_title">Punt d\'accés «%s» activat</string>
   <string name="standard">Silenci</string>
   <string name="standard_description">Silencia els tons de trucada per a trucades i notificacions entrants</string>
-  <string name="standard_title">Silenci...</string>
+  <string name="standard_title">Silenci</string>
   <string name="start_security_permission_verify_text">Comproveu els permisos amb el vostre Compte Mi</string>
   <string name="status_bar_toggle_auto_brightness">Brillantor</string>
   <string name="status_bar_toggle_battery_saver">Estalvi de bateria</string>
@@ -158,7 +158,7 @@
   <string name="switch_desc_tv">Dos espais. Un dispositiu.</string>
   <string name="switching_tv">S\'està canviant…</string>
   <string name="total">No molestis</string>
-  <string name="total_description">[DND] Silencia els sons i desactiva la vibració per a tots els elements excepte el despertador</string>
+  <string name="total_description">Silencia els sons i desactiva la vibració per a tots els elements, excepte l\'alarma</string>
   <string name="total_title">No molestis...</string>
   <string name="translation_more">Més</string>
   <string name="translation_query_error">"No s'ha pogut trobar resultats"</string>

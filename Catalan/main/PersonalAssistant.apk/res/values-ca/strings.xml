@@ -94,7 +94,7 @@
   <string name="book_store">Visualitza llibres</string>
   <string name="book_update">Actualització disponible</string>
   <string name="btn_back">enrere</string>
-  <string name="btn_more">més</string>
+  <string name="btn_more">Més</string>
   <string name="calc_currency">Tipus de canvi</string>
   <string name="calc_name">Científica</string>
   <string name="calc_num">Símbols financers</string>
@@ -741,6 +741,7 @@ Comproveu el número de seguiment."</string>
   <string name="payment_record_new_lable">Afegeix un registre d\'historial</string>
   <string name="payment_record_recent_title">Últims pagaments</string>
   <string name="payment_record_show_more">Mostra\'n més</string>
+  <string name="payment_report_failed_record_dialog_cancel">Cancel·la</string>
   <string name="payment_setting">configuració</string>
   <string name="payment_total_month_desc">Aquest mes</string>
   <string name="payment_total_today_desc">Avui</string>

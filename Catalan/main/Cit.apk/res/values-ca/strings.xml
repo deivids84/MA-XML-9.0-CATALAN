@@ -29,6 +29,7 @@
   <string name="action_nothing">esperant el resultat de la prova</string>
   <string name="audio_spk_cal_wait">Calibratge...</string>
   <string name="audio_spk_def">Calibreu dels altaveus</string>
+  <string name="baterry_percent">"Quantitat de bateria carregada: "</string>
   <string name="baterry_temperature">"Temperatura de la Bateria: "</string>
   <string name="battery_info">Informació relacionada amb la càrrega de la bateria</string>
   <string name="begin_to_save_finger_data">Comença a registrar les empremtes dels dits</string>
@@ -281,6 +282,7 @@ Toqueu la pantalla per iniciar el GPS&#8230;"</string>
   <string name="cit_reset_check_summary">Aquesta prova reiniciarà el dispositiu. Es perdran totes les dades de la prova anterior.</string>
   <string name="cit_reset_check_title">Prova de reinici</string>
   <string name="cit_reset_test">Prova</string>
+  <string name="cit_sar_sensor_check_summary">Els valors per als canals del sensor sar han d\'aparèixer a continuació, cobriu el botó del telèfon, si les dades han canviat, funciona correctament, no realitzeu el calibratge amb el cable USB connectat!</string>
   <string name="cit_sd_fail">S\'ha produït un error.</string>
   <string name="cit_sd_mount">Munta la targeta SD</string>
   <string name="cit_sd_mount_sucess">S\'ha muntat la targeta SD</string>
@@ -426,7 +428,7 @@ Després de col·locar «music.mp3» al directori de la targeta SD, toqueu la pa
   <string name="search_menu_title">Cerca</string>
   <string name="select">Selecciona</string>
   <string name="select_all">Selecciona-ho tot</string>
-  <string name="select_none">Seleccioneu cap</string>
+  <string name="select_none">No en seleccionis cap</string>
   <string name="speak_from_mic">Parleu al MICRO, la reproducció dels altaveus. Jutgeu si hi ha so.</string>
   <string name="start">Inicia</string>
   <string name="status_failed">Ha fallat una o més proves</string>

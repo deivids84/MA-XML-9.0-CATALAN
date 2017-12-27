@@ -16,4 +16,9 @@
     <item>Les dades de l\'aplicació es perdran després de moure les aplicacions al segon espai.</item>
     <item>Les aplicacions s\'utilitzen en tots dos espais.</item>
   </string-array>
+  <string-array name="choose_ask_type">
+    <item>Pregunta sempre</item>
+    <item>Aplicació per defecte</item>
+    <item>Aplicació dual</item>
+  </string-array>
 </resources>

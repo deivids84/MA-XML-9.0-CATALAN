@@ -764,7 +764,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_reset_password_title">Restableix contrasenya</string>
   <string name="passport_restart">Torna a començar</string>
   <string name="passport_restart_register_prompt">Pot ser que sigui necessari un altre missatge de verificació per crear el vostre compte.</string>
-  <string name="passport_restart_register_title">Crea un compte Mi</string>
+  <string name="passport_restart_register_title">Crea un Compte Mi</string>
   <string name="passport_retry">Torna-ho a provar</string>
   <string name="passport_select_reg_ways_title">Altres maneres d\'inscriure\'s</string>
   <string name="passport_send_too_many_code">S\'han enviat massa codis de verificació a aquest número. Espereu 24 hores i torneu a provar.</string>

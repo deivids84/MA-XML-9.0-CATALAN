@@ -8,9 +8,9 @@
   <string name="admin_has_ability_to_monitor_device">"L'administrador pot supervisar i gestionar la configuració, l'accés corporatiu, les aplicacions i les dades associades amb el dispositiu, inclosa l'activitat de xarxa i la informació d'ubicació del dispositiu."</string>
   <string name="admin_has_ability_to_monitor_profile">"L'administrador pot supervisar i gestionar la configuració, l'accés corporatiu, les aplicacions i les dades associades amb el perfil, inclosa l'activitat de xarxa i la informació d'ubicació del dispositiu."</string>
   <string name="app_label">Configuració del perfil professional</string>
-  <string name="cancel_delete_profile">CANCEL·LA</string>
-  <string name="cancel_provisioning">CANCEL·LA</string>
-  <string name="cancel_setup">CANCEL·LA</string>
+  <string name="cancel_delete_profile">Cancel·la</string>
+  <string name="cancel_provisioning">Cancel·la</string>
+  <string name="cancel_setup">Cancel·la</string>
   <string name="cancel_setup_and_factory_reset_dialog_cancel">Cancel·la</string>
   <string name="cancel_setup_and_factory_reset_dialog_msg">En concloure aquesta restauració a la configuració de fàbrica del vostre dispositiu us retornarà a la primera pantalla.</string>
   <string name="cancel_setup_and_factory_reset_dialog_ok">Reinicia el dispositiu</string>
@@ -41,7 +41,7 @@
   <string name="device_already_set_up">El dispositiu ja està configurat</string>
   <string name="device_doesnt_allow_encryption_contact_admin">"Aquest dispositiu no permet el xifratge, que és necessari per a la configuració. Per obtenir ajuda, contacteu amb l'administrador."</string>
   <string name="device_has_reset_protection_contact_admin">El dispositiu té activada la protecció de restabliment. Per obtenir ajuda, contacteu amb l\'administrador.</string>
-  <string name="device_owner_cancel_cancel">CANCEL·LA</string>
+  <string name="device_owner_cancel_cancel">Cancel·la</string>
   <string name="device_owner_cancel_message">"Voleu parar de configurar el dispositiu i esborrar-ne les dades?"</string>
   <string name="device_owner_error_download_failed">"No s'ha pogut baixar l'aplicació d'administració"</string>
   <string name="device_owner_error_hash_mismatch">"No s'ha pogut utilitzar l'aplicació d'administració per un error de la suma de verificació. Contacteu amb el Departament d'informàtica."</string>
@@ -84,7 +84,7 @@
   <string name="profile_owner_cancel_cancel">NO</string>
   <string name="profile_owner_cancel_message">Voleu aturar la configuració?</string>
   <string name="profile_owner_cancel_ok">SÍ</string>
-  <string name="profile_owner_cancelling">S\'està cancel·lant&#8230;</string>
+  <string name="profile_owner_cancelling">S\'està cancel·lant…</string>
   <string name="profile_owner_info">"Esteu a punt de crear un perfil de treball que serà gestionat i supervisat per l'organització. S'aplicaran les condicions."</string>
   <string name="profile_owner_info_comp">Es crearà un perfil per a les aplicacions de treball. Aquest perfil i la resta del dispositiu seran gestionats i supervisats per l\'organització. S\'aplicaran les condicions.</string>
   <string name="profile_owner_info_with_terms_headers">"Esteu a punt de crear un perfil de treball que serà gestionat i supervisat per l'organització. S'aplicaran les condicions de %1$s."</string>

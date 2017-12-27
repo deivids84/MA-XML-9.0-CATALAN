@@ -143,7 +143,7 @@ L\'estalvi de bateria tractarà de forma selectiva les aplicacions importants."<
   <string name="power_config_mode_title">Modes d\'estalvi de bateria</string>
   <string name="power_config_phone_charging_title">Carregant</string>
   <string name="power_config_phone_idle_title">Inactiu</string>
-  <string name="power_config_select_apps_empty">Toca per a seleccionar aplicacions</string>
+  <string name="power_config_select_apps_empty">Toqueu per seleccionar aplicacions</string>
   <string name="power_config_select_apps_title">Aplicacions</string>
   <string name="power_config_title">Configuració</string>
   <string name="power_config_ultimate_description">MIUI congelarà les aplicacions en segon pla</string>

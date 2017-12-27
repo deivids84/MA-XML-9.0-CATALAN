@@ -19,17 +19,10 @@
   <string name="choose_picture">Seleccioneu una imatge amb codi QR</string>
   <string name="com_taobao_tae_sdk_alert_message">Heu estat fora molt temps. Torneu a provar-ho.</string>
   <string name="com_taobao_tae_sdk_authorize_title">Autorització d\'inici de sessió</string>
-  <string name="com_taobao_tae_sdk_back_message">Enrera</string>
-  <string name="com_taobao_tae_sdk_cart_title">Carret de la compra</string>
-  <string name="com_taobao_tae_sdk_close_message">Enrera</string>
   <string name="com_taobao_tae_sdk_loading_progress_message">S\'està carregant</string>
-  <string name="com_taobao_tae_sdk_login_progress_message">Aterratge</string>
   <string name="com_taobao_tae_sdk_logout_fail_message">El tancament de la sessió ha fallat</string>
   <string name="com_taobao_tae_sdk_network_not_available_message">La xarxa no pot connectar-se</string>
-  <string name="com_taobao_tae_sdk_qr_login_title_bar_text">Inicia sessió al compte Taobao</string>
   <string name="com_taobao_tae_sdk_system_exception">Excepció del sistema</string>
-  <string name="com_taobao_tae_sdk_trade_confirm_progress_message">Confirmació de la compra</string>
-  <string name="com_taobao_tae_sdk_trade_title">Confirma la comanda</string>
   <string name="common_retake_picture">Repeteix</string>
   <string name="common_retry">Torna-ho a provar</string>
   <string name="common_save">Desa</string>
@@ -85,7 +78,7 @@
   <string name="image_file_name_format">"'scanner'_ddMMyyyy_HHmmss"</string>
   <string name="import_contact">Importar contacte</string>
   <string name="impunity_declaration_content">Aquesta aplicació necessita connectar-se a internet per funcionar amb normalitat.</string>
-  <string name="impunity_declaration_negative_text">Tanca</string>
+  <string name="impunity_declaration_negative_text">Surt</string>
   <string name="impunity_declaration_positive_text">Permet</string>
   <string name="impunity_declaration_title">Condicions del servei</string>
   <string name="keywords_search_code">Escàner;Escaneja;Codi QR;QR;Reconeixement;Codi de barres;Codis de barres;Producte;Productes;Alipay;WeChat;Com escannejar un codi QR;Com escannejar un codi de barres;Com escannejar;Escànner MIUI</string>

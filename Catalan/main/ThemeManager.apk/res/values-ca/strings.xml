@@ -97,7 +97,7 @@
   <string name="home_apply_failured">"No es pot aplicar el fons de la pantalla d'inici"</string>
   <string name="home_apply_success">S\'ha aplicat el fons de pantalla d\'inici</string>
   <string name="in_the_end">No hi ha més elements a mostrar</string>
-  <string name="incompatible_dialog_message">Aquest tema no és del tot compatible amb MIUI 8. Alguns elements es poden mostrar incorrectament.</string>
+  <string name="incompatible_dialog_message">Aquest tema no és del tot compatible amb MIUI 9. Alguns elements es poden mostrar incorrectament.</string>
   <string name="incompatible_dialog_ok">D\'acord</string>
   <string name="incompatible_dialog_title">Problemes de compatibilitat</string>
   <string name="is_setting_wallpaper_message">S\'està establint el fons de pantalla&#8230;</string>
@@ -120,7 +120,7 @@
   <string name="lockscreen_magazine_system_subscribe">%1$s fons de pantalla</string>
   <string name="lockscreen_magazine_system_title">Local</string>
   <string name="lockscreen_magazine_title">Pantalles de bloqueig diàries</string>
-  <string name="lockscreen_wallpaper">Pantalla de bloqueig</string>
+  <string name="lockscreen_wallpaper">Bloqueja la pantalla</string>
   <string name="lockstyle_personal_settings">Personalitza</string>
   <string name="mi_wallpaper">Fons de pantalla MIUI</string>
   <string name="multi_sim_ringtone_settings_dialog_message">El to de trucada s\'aplica a les dues targetes SIM.</string>
@@ -129,7 +129,7 @@
   <string name="multi_sim_ringtone_settings_dialog_title">Problemes de compatibilitat</string>
   <string name="my_gifts">Regals</string>
   <string name="my_gifts_purchased">Comprats</string>
-  <string name="my_gifts_received">Rebuts</string>
+  <string name="my_gifts_received">Rebut</string>
   <string name="no_data">"No s'ha pogut connectar a la xarxa"</string>
   <string name="online_no_network">"No s'ha pogut connectar a la xarxa"</string>
   <string name="online_precust_abstract">Abstracte</string>
@@ -343,7 +343,7 @@
   <string name="resource_trial_fail_message">Assegureu-vos que el rellotge del sistema tingui l\'hora correcta.</string>
   <string name="resource_trial_fail_title">"No s'ha pogut establir la sessió de prova"</string>
   <string name="resource_trial_hours">(prova: %1$dh)</string>
-  <string name="resource_trial_hours_minutes">(prova: %1$dh %2$dm)</string>
+  <string name="resource_trial_hours_minutes">(prova: %1$d h %2$d min)</string>
   <string name="resource_trial_minutes">(prova: %1$dm)</string>
   <string name="resource_unknow_error">S\'ha produït un error desconegut</string>
   <string name="resource_update">Actualitza</string>
@@ -364,7 +364,7 @@
   <string name="theme_apply_audio_dialog_item_notification">Notificació</string>
   <string name="theme_apply_audio_dialog_item_ringtone">To</string>
   <string name="theme_apply_failured">"No es pot aplicar el fons de la pantalla de bloqueig"</string>
-  <string name="theme_apply_success">Pantalla de bloqueig aplicada</string>
+  <string name="theme_apply_success">S\'ha aplicat la pantalla de bloqueig</string>
   <string name="theme_applying">S\'està aplicant&#8230;</string>
   <string name="theme_batch_update_all">Actualitza-ho tot</string>
   <string name="theme_batch_update_dlg_content">Voleu actualitzar %1$s i altres %2$d temes ara?</string>
@@ -388,7 +388,7 @@
   <string name="theme_component_title_icon">Icones</string>
   <string name="theme_component_title_launcher">Safata de favorits</string>
   <string name="theme_component_title_lockstyle">Estil de bloqueig</string>
-  <string name="theme_component_title_lockwallpaper">Pantalla de bloqueig</string>
+  <string name="theme_component_title_lockwallpaper">Bloqueja la pantalla</string>
   <string name="theme_component_title_miwallpaper">Fons de pantalla de MIUI</string>
   <string name="theme_component_title_mms">Missatgeria</string>
   <string name="theme_component_title_notification">Notificació</string>
@@ -428,7 +428,7 @@
   <string name="theme_user_agreement_content3">" i "</string>
   <string name="theme_user_agreement_content4">Política de privadesa</string>
   <string name="theme_user_agreement_content5">". Aquesta aplicació necessita connectar-se a internet per funcionar amb normalitat "</string>
-  <string name="theme_user_agreement_exit">Tanca</string>
+  <string name="theme_user_agreement_exit">Discrepa</string>
   <string name="theme_user_agreement_remind_again">Mostra les condicions d\'ús</string>
   <string name="theme_user_agreement_remind_never">"No tornis a mostrar-ho"</string>
   <string name="theme_user_agreement_remind_summary">Mostra les condicions d\'ús cada vegada que obris l\'aplicació Temes. S\'aplicarà després de reiniciar el dispositiu.</string>
@@ -446,7 +446,7 @@
   <string name="uid_change_dialog_ok">Entesos</string>
   <string name="uid_change_dialog_title">Reinicia el dispositiu</string>
   <string name="wallpaper_apply">Aplica</string>
-  <string name="wallpaper_crop">Retalla</string>
+  <string name="wallpaper_crop">Escapça</string>
   <string name="wallpaper_decoded_error">"No es pot carregar el fons de pantalla"</string>
   <string name="wallpaper_scroll_type_tips">Fons de pantalla de desplaçament</string>
   <string name="wallpaper_set_as_both">Estableix els dos</string>

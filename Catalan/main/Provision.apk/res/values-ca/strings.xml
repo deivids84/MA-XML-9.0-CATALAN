@@ -21,7 +21,6 @@
   <string name="enable_accessibility_dialog_message">Vau activar TalkBack prement la pantalla amb 2 dits durant més de 10 segons. TalkBack proporciona comentaris de veu per a persones amb impediments visuals. Si ho va activar per accident, toqueu el botó Cancel·la i a continuació, toqueu dues vegades la pantalla.</string>
   <string name="enable_accessibility_dialog_negative_btn">Cancel·la</string>
   <string name="enable_accessibility_dialog_positive_btn">D\'acord</string>
-  <string name="fail_to_generate_qr_code">"No s'ha pogut generar el codi QR. Torneu a obrir aquesta pàgina."</string>
   <string name="ime_privacy_policy">Política de privadesa del teclat seleccionat</string>
   <string name="ime_privacy_policy_no_network">Sense connexió de xarxa. Vegeu la política de privadesa d\'aquest teclat a %s.</string>
   <string name="input_method_category">"Seleccioneu el teclat per defecte que s'utilitzarà per escriure correus, notes i gairebé tota la resta. Recordeu que també podeu instal·lar teclats de tercers."</string>
@@ -68,8 +67,6 @@ Vegeu la política de privadesa del teclat seleccionat."</string>
 
 Heu d\'acceptar les nostres condicions del servei i la política de privadesa abans de poder utilitzar MIUI. Els serveis Mi, els serveis d\'activació de Mi SIM, els components de Mi Cloud, Cerca el dispositiu, Pantalla d\'inici, Centre de jocs, MAB i MSA, aplicacions web, targetes ràpides, estadístiques, targetes intel·ligents, Mi Link i el Compte Mi es connectaran a Internet i adquiriran la vostra ubicació."</string>
   <string name="title_fingerprint">Afegiu l\'empremta</string>
-  <string name="two_dimensional_code_scan">Escaneja el codi QR</string>
   <string name="user_agreement">Condicions del servei</string>
-  <string name="user_strayed_warning">Aquesta pàgina està dissenyada per a les proves de fàbrica. Toqueu «Enrere» per sortir.</string>
   <string name="welcome">Benvinguts</string>
 </resources>

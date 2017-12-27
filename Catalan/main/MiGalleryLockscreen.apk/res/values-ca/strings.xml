@@ -88,8 +88,8 @@
   <string name="sst_wifi_only_title">Actualitza els fons de pantalla utilitzat dades mòbils</string>
   <string name="summary">"En utilitzar aquesta funció accepteu la nostra &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Política de privadesa&lt;/a&gt;.. Aquesta funció necessita una connexió a Internet per funcionar correctament."</string>
   <string name="summary_international">"En utilitzar aquesta funció accepteu els nostres &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Acord d'usuari&lt;/a&gt; i &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Política de privadesa&lt;/a&gt;. Aquesta funció necessita una connexió a Internet per funcionar correctament"</string>
-  <string name="theme_apply_failured">"No es pot aplicar la pantalla de bloqueig"</string>
-  <string name="theme_apply_success">Pantalla de bloqueig aplicada</string>
+  <string name="theme_apply_failured">"No s'ha pogut aplicar, torneu-ho a provar més tard"</string>
+  <string name="theme_apply_success">S\'ha aplicat amb èxit</string>
   <string name="theme_applying">Aplicant&#8230;</string>
   <string name="wlan_download">Només Wi-Fi</string>
   <string name="wlan_download_cn">Actualització a través de Wi-Fi</string>

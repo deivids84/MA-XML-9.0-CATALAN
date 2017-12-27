@@ -12,7 +12,7 @@
   <string name="alert_message_delete_note">Voleu eliminar aquesta nota?</string>
   <string name="alert_message_edit_anyway">Si editeu aquesta nota, alguns dels seus continguts es podrien perdre.</string>
   <string name="alert_message_restore">"No s'ha pogut obrir aquesta nota. Restaureu-la per editar-ne el contingut."</string>
-  <string name="alert_title_delete">Voleu eliminar la nota?</string>
+  <string name="alert_title_delete">Supressió de la nota</string>
   <string name="alert_title_edit_anyway">Aquesta nota conté contingut no suportat</string>
   <string name="alert_title_hidden_note">S\'ha rebut un recordatori de nota oculta</string>
   <string name="alert_title_restore">Restauració de notes</string>
@@ -20,6 +20,7 @@
   <string name="all_terms">%1$s i %2$s</string>
   <string name="call_folder_name">Notes de trucada</string>
   <string name="cancel_alarm_description">Cancel·la l\'alarma</string>
+  <string name="cloud_service_state_open_reminder">Activeu la sincronització amb Mi Cloud per sincronitzar notes.</string>
   <string name="cloud_trash_bin_title">Elimina notes al Mi Cloud</string>
   <string name="cta_reminder">Aquesta aplicació s\'ha de connectar a Internet per fer còpies de seguretat de les notes al Mi Cloud, així com per llegir els contactes per etiquetar les notes que preneu durant les trucades.</string>
   <string name="db_downgrade_clear_button">Esborra les dades de l\'aplicació</string>
