@@ -15,7 +15,6 @@
   <string name="backup_finished_notification_content">Còpia de seguretat d\'aplicacions pantalla d\'inici, configuració del sistema, etc.</string>
   <string name="backup_now">Fes ara la còpia de seguretat</string>
   <string name="backup_size">Mida: %s</string>
-  <string name="backup_size_summary">Mida: %1$s</string>
   <string name="backup_success">Còpia realitzada amb èxit</string>
   <string name="backup_successfully">Còpia realitzada amb èxit</string>
   <string name="backup_to_cloud">Fes una còpia de l\'aplicació</string>
@@ -54,8 +53,6 @@ Nota: Les dades de les aplicacions instal·lades no es copiaran al Mi Cloud."</s
   <string name="cloud_back_up_frequence_choice_title">Programeu còpia</string>
   <string name="cloud_back_up_frequence_long">Cada 7 dies</string>
   <string name="cloud_back_up_frequence_short">Cada dia</string>
-  <string name="cloud_back_up_interval_long">7 dies</string>
-  <string name="cloud_back_up_interval_short">dia</string>
   <string name="cloud_back_up_no_network_warn">"No es pot connectar al Wi-Fi"</string>
   <string name="cloud_back_up_ok_btn">D\'acord</string>
   <string name="cloud_back_up_opening">Un moment…</string>
@@ -65,9 +62,7 @@ Nota: Les dades de les aplicacions instal·lades no es copiaran al Mi Cloud."</s
   <string name="cloud_back_up_task">Còpia en curs&#8230;</string>
   <string name="cloud_backup">Còpies de seguretat del Mi Cloud</string>
   <string name="cloud_backup_detail_frequence">Programació de la còpia</string>
-  <string name="cloud_backup_detail_frequence_day">Copia cada %1$s</string>
   <string name="cloud_backup_detail_manage">Administra còpies</string>
-  <string name="cloud_backup_detail_manage_summary">%1$s còpies, mida: %2$s</string>
   <string name="cloud_backup_detail_state">Còpies de seguretat automàtiques</string>
   <string name="cloud_backup_detail_state_summary">Crea còpies de seguretat de Mi Cloud automàticament quan estigueu connectat a la Wi-Fi.</string>
   <string name="cloud_backup_detail_time">Darrera còpia: %1$s</string>
@@ -127,8 +122,8 @@ Nota: Les dades de les aplicacions instal·lades no es copiaran al Mi Cloud."</s
   <string name="open_wifi_description">Connecteu-vos a una xarxa Wi-Fi per restaurar aplicacions</string>
   <string name="open_wifi_setting">Configuració Wi-Fi</string>
   <string name="process_whole_recovery">Restaurant «%s»</string>
-  <string name="provision_error_connect_msg">Podeu provar la xarxa i tornar-ho a provar. La funció de còpia de seguretat no estarà disponible sense una xarxa vàlida.</string>
-  <string name="provision_error_connect_title">No es pot connectar</string>
+  <string name="provision_error_connect_msg">"Podeu provar la xarxa i tornar-ho a provar. La funció de còpia de seguretat no estarà disponible sense una xarxa vàlida."</string>
+  <string name="provision_error_connect_title">"No es pot connectar"</string>
   <string name="query_restore_description">Restaura les aplicacions de la pantalla d\'inici i configuració usant aquesta còpia. Això sobreescriurà les dades de les aplicacions ja instal·lades al dispositiu. Les aplicacions no incloses a la còpia es mouran a l\'última pantalla de l\'escriptori.</string>
   <string name="query_restore_summary">S\'ha trobat una copia al Mi Cloud per a aquest dispositiu. Voleu restaurar les aplicacions de la pantalla d\'inici i configuracions o usar-lo com un nou dispositiu i eliminar les còpies anteriors del Mi Cloud?</string>
   <string name="recover_from_micloud">Restaurar còpia del Mi Cloud</string>

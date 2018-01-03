@@ -106,8 +106,6 @@ Si canvies de targeta SIM s\'enviarà un altre SMS automàticament per reactivar
   <string name="find_device_pref_alert_positive">D\'acord</string>
   <string name="find_device_pref_alert_title">Recorda el meu ID de compte Mi i la contrasenya</string>
   <string name="find_device_pref_initializing">S\'està inicialitzant…</string>
-  <string name="find_device_reading_status">Carregant status&#8230;</string>
-  <string name="find_device_reading_status_failure">"No s'ha pogut carregar el status."</string>
   <string name="find_device_send_sms_alert">Si canvieu la targeta SIM s\'enviarà un altre SMS automàticament per reactivar el servei.</string>
   <string name="find_device_service_summary">Accediu a i.mi.com per localitzar el dispositiu i bloquejar-lo remotament</string>
   <string name="find_device_service_summary_international">Accediu a i.mi.com per localitzar el dispositiu i bloquejar-lo remotament</string>

@@ -158,8 +158,8 @@ La configuració de Data i Hora en aquest dispositiu no s\'ha canviat."</string>
   <string name="title_nopassword_dialog">Límite diario</string>
   <string name="title_password">Contraseña</string>
   <string name="title_password_threshold">Límite diario = ￥%1$s</string>
-  <string name="title_patternforgotten">"Heu oblidat el patró de bloqueig?
-Vè. Pot："</string>
+  <string name="title_patternforgotten">"Heu oblidat la contrasenya?
+Podeu："</string>
   <string name="title_updatepattern">Modificar patró de bloqueig</string>
   <string name="title_visible_pattern">Mostra el patró</string>
   <string name="type_prompt">Tipus de clau</string>

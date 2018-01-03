@@ -33,6 +33,14 @@
     <item quantity="other">%d aplicacions</item>
     <item quantity="one">%d aplicació</item>
   </plurals>
+  <plurals name="bg_network_allow_count">
+    <item quantity="other">%d aplicacions poden connectar-se a la xarxa en segon pla</item>
+    <item quantity="one">%d aplicació pot connectar-se a la xarxa en segon pla</item>
+  </plurals>
+  <plurals name="bg_network_restrict_count">
+    <item quantity="other">"%d aplicacions no poden connectar-se a la xarxa en segon pla"</item>
+    <item quantity="one">"%d aplicació no pot connectar-se a la xarxa en segon pla"</item>
+  </plurals>
   <plurals name="daily_sim_over_limit_notify_title">
     <item quantity="other">"Ja heu fet servir %s del límit de dades diàries."</item>
     <item quantity="one">"Ja heu fet servir %s del límit de dades diàries."</item>
@@ -60,6 +68,10 @@ Si activeu les dades mòbils altra vegada, el vostre operador podria cobrar-li p
   <plurals name="hints_roaming_found_app_count_title">
     <item quantity="other">%d aplicacions trobades</item>
     <item quantity="one">%d aplicació trobada</item>
+  </plurals>
+  <plurals name="network_restrict_count">
+    <item quantity="other">"L'accés a la xarxa està restringit per a &lt;font color='#ff0000'&gt;%d&lt;/font&gt; aplicacions"</item>
+    <item quantity="one">"L'accés a la xarxa està restringit per a &lt;font color='#ff0000'&gt;%d&lt;/font&gt; aplicació"</item>
   </plurals>
   <plurals name="om_ill_proc_multi_app_title">
     <item quantity="other">"%d aplicacions no funcionen correctament i drenen la bateria"</item>

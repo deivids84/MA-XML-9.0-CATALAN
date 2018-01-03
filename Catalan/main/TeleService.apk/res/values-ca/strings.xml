@@ -305,8 +305,13 @@ Taxa de mostreig"</string>
   <string name="callFailed_data_limit_reached_description">La trucada s\'ha finalitzat perquè s\'ha assolit el límit de dades mòbils.</string>
   <string name="callFailed_destination_out_of_order">Destí fora de servei</string>
   <string name="callFailed_dialToDial">La petició DIAL s\'ha transformat en una DIAL amb un altre número.</string>
+  <string name="callFailed_dialToDialVideo">Petició DIAL modificada a una petició DIAL de vídeo.</string>
   <string name="callFailed_dialToSs">La petició DIAL s\'ha modificat a petició SS.</string>
   <string name="callFailed_dialToUssd">La petició DIAL s\'ha modificat a petició USSD.</string>
+  <string name="callFailed_dialVideoToDial">Petició DIAL de vídeo bmodificada a una petició DIAL.</string>
+  <string name="callFailed_dialVideoToDialVideo">La sol·licitud DIAL de vídeo s\'ha transformat en una sol·licitud DIAL de vídeo amb un altre número.</string>
+  <string name="callFailed_dialVideoToSs">Petició DIAL de vídeo modificada a una petició SS.</string>
+  <string name="callFailed_dialVideoToUssd">Petició DIAL de vídeo modificada a una petició USSD.</string>
   <string name="callFailed_dsac_restricted">El control d\'accés restringeix les trucades.</string>
   <string name="callFailed_dsac_restricted_emergency">El control d\'accés restringeix les trucades d\'emergència.</string>
   <string name="callFailed_dsac_restricted_normal">El control d\'accés restringeix les trucades normals.</string>

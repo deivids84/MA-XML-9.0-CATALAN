@@ -9,11 +9,13 @@
     <item>Cada dia</item>
     <item>Entre setmana</item>
     <item>Personalitzada</item>
+    <item>Personalitzat</item>
   </string-array>
   <string-array name="alarm_repeat_type_no_workdays">
     <item>Cada dia</item>
     <item>Entre setmana</item>
     <item>Personalitzada</item>
+    <item>Personalitzat</item>
   </string-array>
   <string-array name="animator_duration_scale_entries">
     <item>Sense animacions</item>

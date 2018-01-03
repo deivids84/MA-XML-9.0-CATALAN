@@ -1815,7 +1815,7 @@ Però ja no obtingué resposta, perquè el malalt greu acabava de morir d’una 
   <string name="force_touch_enable_tips">Per a visualitzar el menú de dreceres de les aplicacions amb el tàctil 3D habilitat, mantingueu la icona de l\'aplicació pitjada.</string>
   <string name="forget">Oblida-la</string>
   <string name="forget_password_button_text">&lt;u&gt;He oblidat la contrasenya&lt;/u&gt;</string>
-  <string name="forget_pattern">Heu oblidat el patró?</string>
+  <string name="forget_pattern">&lt;u&gt;Heu oblidat el patró?&lt;/u&gt;</string>
   <string name="forget_privacy_password_setting">Afegeix Compte Mi</string>
   <string name="forget_privacy_password_summary">Utilitzeu el Compte Mi per restablir la seva contrasenya</string>
   <string name="forget_wifi_message">El telèfon no es tornarà a connectar automàticament a aquesta xarxa.</string>
@@ -2623,6 +2623,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="music_title_dolby_control">Dolby Digital Plus</string>
   <string name="music_unsupport_effect_summary">"Els auriculars USB no són compatibles"</string>
   <string name="musicfx_title">Efectes musicals</string>
+  <string name="mute_music_stream">Silencia la transmissió de música</string>
   <string name="mvno_match_data">Valor de MVNO</string>
   <string name="mvno_type">Tipus de MVNO</string>
   <string name="my_device">El meu dispositiu</string>
@@ -3378,7 +3379,7 @@ Aquesta configuració afecta tots els usuaris del telèfon.»</string>
   <string name="running_processes_item_description_s_p">%1$d processos i %2$d tasques</string>
   <string name="running_processes_item_description_s_s">%1$d processos i %2$d tasca</string>
   <string name="runningservicedetails_processes_title">Processos</string>
-  <string name="runningservicedetails_services_title">Tasques</string>
+  <string name="runningservicedetails_services_title">Serveis</string>
   <string name="runningservicedetails_settings_title">Aplicació en execució</string>
   <string name="runningservicedetails_stop_dlg_text">Si s\'atura aquest servei, algunes funcions del telèfon poden deixar de funcionar correctament fins que l\'apagueu i l\'engegueu un altre cop.</string>
   <string name="runningservicedetails_stop_dlg_title">Voleu aturar la tasca del sistema?</string>
@@ -3831,7 +3832,7 @@ Nota: no podeu utilitzar la vostra empremta per desbloquejar aquest dispositiu. 
   <string name="service_started_by_app">Iniciat per l\'aplicació.</string>
   <string name="service_stop">Atura</string>
   <string name="service_stop_description">L\'aplicació ha començat a executar el servei. Si l\'atureu hi pot haver errors.</string>
-  <string name="services_subtitle">Tasques</string>
+  <string name="services_subtitle">Serveis</string>
   <string name="set_data_limit">Estableix un límit de dades</string>
   <string name="set_data_warning">Estableix l\'avís de dades</string>
   <string name="setting_privacy_password">Estableix la contrasenya de privacitat</string>
@@ -4349,7 +4350,7 @@ La sincronització de dades que ha ideat Google per tal de permetre l\'accés al
   <string name="system_alert_window_apps_title">Aplicacions</string>
   <string name="system_alert_window_on">Sí</string>
   <string name="system_alert_window_settings">Mostra a sobre d\'altres aplicacions</string>
-  <string name="system_alert_window_summary" formatted="false">%d de %d aplicacions es poden mostrar a sobre d\'altres aplicacions</string>
+  <string name="system_alert_window_summary">%d de %d aplicacions es poden mostrar a sobre d\'altres aplicacions</string>
   <string name="system_and_device_section_title">Sistema i dispositiu</string>
   <string name="system_app">(Sistema)</string>
   <string name="system_app_settings">Aplicacions del sistema</string>
@@ -4376,6 +4377,8 @@ La sincronització de dades que ha ideat Google per tal de permetre l\'accés al
   <string name="testing_usage_stats">Estadístiques d\'ús</string>
   <string name="testing_wifi_info">Informació del senyal Wi-Fi</string>
   <string name="tether_and_hotspot_title">Connexió compartida d\'Internet</string>
+  <string name="tether_data_usage_limit">Límit de dades d\'una sola vegada</string>
+  <string name="tether_data_usage_limit_summary">El límit de dades s\'aplicarà la propera vegada que el punt d\'accés estigui activat</string>
   <string name="tether_devices_management_title">Gestió de dispositius</string>
   <string name="tether_devices_max_number">Límit de dispositius connectats</string>
   <string name="tether_settings_disabled">S\'ha desactivat el punt d\'accés portàtil</string>
@@ -5216,7 +5219,7 @@ Voleu permetre-ho per a totes les aplicacions que vulguin cercar xarxes?"</strin
   <string name="wifi_scan_notify_remember_choice">No tornis a mostrar-ho</string>
   <string name="wifi_scan_notify_text">Per millorar la precisió de la ubicació, les aplicacions i serveis encara poden cercar xarxes Wi-Fi. Es pot configurar des de LINK_BEGINscanning settingsLINK_END.</string>
   <string name="wifi_scan_notify_text_scanning_off">Per millorar la precisió d\'ubicació, activeu l\'escaneig Wi-Fi a la configuració d\'escaneig.</string>
-  <string name="wifi_security">Tipus de seguretat</string>
+  <string name="wifi_security">Seguretat</string>
   <string name="wifi_security_eap">802.1 x EAP</string>
   <string name="wifi_security_none">Cap</string>
   <string name="wifi_security_short_eap">802.1 x</string>

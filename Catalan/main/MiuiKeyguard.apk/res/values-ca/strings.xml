@@ -122,7 +122,7 @@
 Torneu a provar-ho d\'aquí %d segons."</string>
   <string name="lockscreen_failed_attempts_now_wiping">Heu intentat desbloquejar el telèfon sense èxit %d vegades. El telèfon es reiniciarà als valors de fàbrica.</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Desbloquejat per un dispositiu Bluetooth</string>
-  <string name="open_camera_hint_text">Feu lliscar cap a l\'esquerra per obrir %s</string>
+  <string name="open_camera_hint_text">Feu lliscar cap a l\'esquerra per obrir la càmera</string>
   <string name="open_remote_center_hint_text">Feu lliscar cap a la dreta per obrir el Control Mi</string>
   <string name="phone_locked_foget_password">Heu oblidat la contrasenya?</string>
   <string name="phone_locked_foget_password_mehod_back">Enrere</string>

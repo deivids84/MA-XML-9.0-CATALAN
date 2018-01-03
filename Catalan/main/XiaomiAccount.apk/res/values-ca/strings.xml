@@ -353,6 +353,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_skip_setup_account_msg">Podeu configurar després un compte Mi a Configuració.</string>
   <string name="passport_skip_setup_account_title">Omet configuració</string>
   <string name="passport_sms_send_success">Enviat</string>
+  <string name="passport_sms_verification_code_login">Codi de verificació SMS d\'inici de sessió</string>
   <string name="passport_sync_account_data">S\'està sincronitzant la informació del compte…</string>
   <string name="passport_sync_account_data_failed_warning">La informació del vostre compte s\'està sincronitzant, podeu iniciar la sessió amb l\'ID del Compte Mi. Si voleu iniciar la sessió amb el telèfon o correu, espereu fins que la informació estigui completament sincronitzada.</string>
   <string name="passport_title_reg">Crea un compte</string>

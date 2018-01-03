@@ -114,6 +114,7 @@
   <string name="antivirus_update_btn_update">Actualitza</string>
   <string name="apn_exception_summary">"Configuracions de prova de companyia Nom Punt d'Accés"</string>
   <string name="apn_exception_title">Comprovar configuració d\'APN</string>
+  <string name="app_bg_restrict_dialog_message">La restricció de la connexió de xarxa en segon pla pot evitar que l\'aplicació funcioni normalment. Per exemple, pot ser que ja no pugui rebre missatges o actualitzar el contingut. Voleu restringir-la de totes maneres?</string>
   <string name="app_check_no_issue">Sembla que no hi ha problemes amb la bateria. Genial!</string>
   <string name="app_detail">Detalls</string>
   <string name="app_error_tip_for_launcher">"Els components del maquinari o la versió del sistema Android del vostre dispositiu poden causar problemes de compatibilitat i fer que algunes aplicacions no funcionin bé, s'alenteixin o s'aturin definitivament. Si teniu aquests problemes, envieu el vostre feedback als desenvolupadors de l'aplicació."</string>
@@ -192,6 +193,7 @@
   <string name="app_manager_notify_bar">Insígnies</string>
   <string name="app_manager_notify_floating">Notificacions flotants</string>
   <string name="app_manager_notify_keyguard">Bloqueja la pantalla</string>
+  <string name="app_manager_open_show_all_apps_immediate">Mostrar tots els resultats</string>
   <string name="app_manager_perm">Permisos</string>
   <string name="app_manager_permission_manager_title">Permisos</string>
   <string name="app_manager_permission_notify_title">Notificacions</string>
@@ -214,7 +216,9 @@
 
  No es perdran les dades de les aplicacions."</string>
   <string name="app_manager_reset_app_preferences_title">Voleu reiniciar les preferències de les aplicacions?</string>
+  <string name="app_manager_search_prompt">"No s'ha pogut trobar cap resultat? Proveu de mostrar els resultats de totes les aplicacions."</string>
   <string name="app_manager_show_all_apps">Mostra totes les aplicacions</string>
+  <string name="app_manager_show_all_apps_opened">S\'està mostrant els resultats de totes les aplicacions…</string>
   <string name="app_manager_show_detail_infos">Mostra-ho tot</string>
   <string name="app_manager_start_by">Iniciat per %s</string>
   <string name="app_manager_support_uninstall">Podeu desinstal·lar aquestes aplicacions</string>
@@ -329,6 +333,10 @@
   <string name="back_app_name">Torna al bloqueig d\'aplicacions</string>
   <string name="back_description_securitycenter">Enrere</string>
   <string name="back_modifypassword">Vés enrere per canviar la contrasenya</string>
+  <string name="back_sound_data">Requereix d\'accés a la xarxa mòbil, torneu-ho a provar.</string>
+  <string name="back_sound_fail">Ha fallat</string>
+  <string name="back_sound_success">Correcte</string>
+  <string name="back_sound_support">"Els operadors de xarxa actuals no són compatibles"</string>
   <string name="background_restrict_app_dialog_message">La restricció de l\'accés a la xarxa en segon pla per a aquesta aplicació pot fer que l\'aplicació no funcioni correctament, rebre missatges, baixar contingut, etc. Voleu restringir-lo de totes maneres?</string>
   <string name="background_traffic">Fons %s</string>
   <string name="backsound_set_hint">Voleu configurar un missatge d\'absència per a %s?</string>
@@ -365,6 +373,7 @@
   <string name="battery_temperature_title">Temperatura</string>
   <string name="begin_date">Restablir data d\'ús</string>
   <string name="best_booster_status">La velocitat de joc és la millor disponible ara.</string>
+  <string name="bg_network_exception_title">Connexió en segon pla restringida</string>
   <string name="bind_xiaomi_account_cancel">Cancel·la</string>
   <string name="bind_xiaomi_account_confirm">Afegir</string>
   <string name="bind_xiaomi_account_dialog_summery">"Estàs a punt d'afegir el compte Mi %s. Si oblida la seva contrasenya, pot utilitzar aquest compte per restablir-la. Si finalitza la sessió el compte s'elimina automàticament."</string>
@@ -575,6 +584,7 @@
   <string name="dlg_add_blacklist">Voleu bloquejar aquest número?</string>
   <string name="dlg_add_blacklist_title">Afegeix a la llista de bloqueig</string>
   <string name="dlg_add_keyword">Afegeix paraules clau</string>
+  <string name="dlg_add_white">"Les trucades i els missatges nous dels números afegits a les excepcions es mostraran a l'historial de trucades i a la safata d'entrada dels missatges. No obstant això, els elements bloquejats anteriorment no apareixeran aquí. Voleu afegiu els números seleccionats a les excepcions?"</string>
   <string name="dlg_antispam_mode_delete_message">"No podreu recuperar els criteris després d'haver-los eliminat."</string>
   <string name="dlg_antispam_mode_delete_title">Voleu eliminar els criteris?</string>
   <string name="dlg_antispam_using_mode_delete_message">"Voleu eliminar els criteris que utilitzeu actualment i tornar als criteris per defecte de la llista de bloqueig?"</string>
@@ -594,9 +604,12 @@
   <string name="dlg_import_whitelist">S\'està afegint&#8230;</string>
   <string name="dlg_keyword_ok">Desa</string>
   <string name="dlg_message_not_open_stranger_identify">Per activar aquesta funció, aneu a Configuració &gt; Telèfon.</string>
+  <string name="dlg_move_to_white">Afegeix a excepcions</string>
   <string name="dlg_no_block">"Voleu desbloqueja aquest número i restaurar-ne les trucades d\'aquest número a l\'historial de trucades?
 (El número s\'afegirà a la llista blanca)"</string>
   <string name="dlg_no_block_ok">Desbloqujea</string>
+  <string name="dlg_not_block_call">"Voleu desbloquejar els números seleccionats? S'afegiran a les excepcions, però els elements bloquejats anteriorment no apareixeran a l'historial de trucades."</string>
+  <string name="dlg_not_block_sms">"Voleu desbloquejar els números seleccionats? S'afegiran a les excepcions, però els ítems bloquejats anteriorment no apareixeran a la safata d'entrada dels missatges."</string>
   <string name="dlg_remove_address_blacklist">Voleu eliminar aquesta ubicació de la llista de bloqueig?</string>
   <string name="dlg_remove_address_whitelist">Voleu eliminar aquesta ubicació de les excepcions?</string>
   <string name="dlg_remove_blacklist">Voleu eliminar aquests números de la llista de bloqueig?</string>
@@ -725,6 +738,8 @@
   <string name="gb_description_image_button_reject">Declina</string>
   <string name="gb_description_image_button_video_answer">Videotrucada</string>
   <string name="get_sys_info">Obtenint informació…</string>
+  <string name="gmscore_support_remind">Activeu aquesta funció si teniu problemes amb l\'ús de Gmail, Google Maps i altres aplicacions de Google. Això reduirà lleugerament la durada de la bateria.</string>
+  <string name="gmscore_support_service">Serveis de Google</string>
   <string name="go_to">Endavant</string>
   <string name="go_to_setting_fingerprint">Configuració</string>
   <string name="google_base_app_install_choice">«%s» requerix de les aplicacions del Marc de Servei de Google per funcionar amb normalitat, voleu baixar-les i instal·lar-les?</string>
@@ -1249,7 +1264,6 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="permission_action_reject">Denegar</string>
   <string name="permission_close_permission_control_dialog_msg">"Quan l'administrador de permisos està desactivat, les aplicacions no li demanaran permís per llegir els seus contactes, veure el seu registre de trucades, canviar paràmetres del sistema o accedir a la càmera i altres recursos."</string>
   <string name="permission_close_permission_control_dialog_title">Apagar?</string>
-  <string name="permission_exception_summary">"Algunes aplicacions no tenen permís per connectar-se a internet"</string>
   <string name="permission_exception_title">Veure permisos de xarxa</string>
   <string name="permission_permission_control_closed_desc_dialog_msg">"Les aplicacions no us demanaran permís per llegir els contactes, veure el registre de trucades, canviar paràmetres del sistema o accedir a la càmera i altres recursos. Activeu aquesta característica a la configuració de Permisos."</string>
   <string name="permission_permission_control_closed_desc_dialog_title">Gestor de permisos</string>
@@ -1339,6 +1353,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="pref_auto_adjust_traffic">Estadístiques d\'ús de dades per Auto sincronitzar</string>
   <string name="pref_automatic_adjust">Configuració</string>
   <string name="pref_avaible_traffic">Pla de dades</string>
+  <string name="pref_bg_network_title">Connexió en segon pla</string>
   <string name="pref_category_daily_package_tile">Pla de dades diàries</string>
   <string name="pref_category_extra_package_tile">Paquet de recàrrega</string>
   <string name="pref_category_half_year_package_tile">Paquet de dades semestral</string>
