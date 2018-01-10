@@ -322,7 +322,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_error_device_id">"No es pot obtenir la identitat del dispositiu"</string>
   <string name="passport_error_dup_email">El correu que heu introduït ja està associat a un altre compte.</string>
   <string name="passport_error_email">L\'adreça de correu que heu introduït no és vàlida</string>
-  <string name="passport_error_empty_captcha_code">Introduïu el codi passport_captcha</string>
+  <string name="passport_error_empty_captcha_code">Introduïu el codi captcha</string>
   <string name="passport_error_empty_email">Introduïu la vostra adreça de correu</string>
   <string name="passport_error_empty_phone_num">Introduïu un número de telèfon</string>
   <string name="passport_error_empty_pwd">Introduïu la vostra contrasenya</string>

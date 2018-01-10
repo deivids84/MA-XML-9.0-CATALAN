@@ -298,7 +298,7 @@
   <string name="no_network">"No s'ha pogut connectar a la xarxa, torneu-ho a provar més tard"</string>
   <string name="no_network_btn">Torna-ho a provar</string>
   <string name="notification_summary_after_auto_cleanup">%s netejats.</string>
-  <string name="notification_summary_of_garbage_cleanup">La brossa és superior a %s.</string>
+  <string name="notification_summary_of_garbage_cleanup">Toqueu per alliberar espai.</string>
   <string name="notification_title_of_garbage_cleanup">%s de fitxers brossa</string>
   <string name="notify_when">Notificar quan la mida de la brossa arribi als 100 MB</string>
   <string name="ok">D\'acord</string>
@@ -474,7 +474,7 @@
   <string name="wechat_copy_video_failed_dialog_title">"No s'ha pogut exportar"</string>
   <string name="wechat_copying_video">S\'està exportant&#8230;</string>
   <string name="wechat_copying_video_dialog_checkbox">Suprimeix els arxius després d\'exportar-los</string>
-  <string name="wechat_copying_video_dialog_msg">Els arxius es guardaran en aquesta carpeta: / DCIM/WeChat</string>
+  <string name="wechat_copying_video_dialog_msg">Els fitxers es desaran en aquesta carpeta: %s</string>
   <string name="wechat_copying_video_dialog_title">Exporta-ho a la galeria</string>
   <string name="wechat_copying_video_empty">No hi ha vídeos per exportar</string>
   <string name="wechat_copying_video_success">S\'ha exportat amb èxit</string>

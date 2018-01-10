@@ -87,7 +87,7 @@
   </plurals>
   <plurals name="move_conversation">
     <item quantity="other">Mou %1$d converses</item>
-    <item quantity="one">Mou conversa</item>
+    <item quantity="one">Mou la conversa</item>
   </plurals>
   <plurals name="new_incoming_messages_many">
     <item quantity="other">Mostra %1$d missatges nous.</item>

@@ -174,7 +174,7 @@
   <string name="encrypt_success">Ocultats correctament</string>
   <string name="encrypt_success_first_five">"Encriptat i ocultat. Tira cap avall a la pantalla d'inici del Explorador per veure els fitxers."</string>
   <string name="encrypting">Encriptant&#8230;</string>
-  <string name="error_contains_sharer_path">"No es pot xifrar fitxers a la carpeta /MIUI/Gallery/cloud/sharer. Moveu-los a un altre lloc i proveu-ho de nou."</string>
+  <string name="error_contains_sharer_path">"No es pot xifrar fitxers a la carpeta /MIUI/Gallery/cloud/sharer. Moveu-los a una altre carpeta i proveu-ho de nou."</string>
   <string name="error_create_dir">"No s'ha pogut crear la carpeta"</string>
   <string name="error_create_file">"No s'ha pogut crear el fitxer"</string>
   <string name="error_delete_failed">"No s'ha pogut eliminar el fitxer"</string>
@@ -564,7 +564,7 @@
   <string name="share_topic_title">"Estic veient #%1$s#, feu una ullada!"</string>
   <string name="shared_sticker_network_permission_tip">"No s'ha pogut connectar a la xarxa. Comprova la teva connexió i torna a provar."</string>
   <string name="shared_sticker_page_no_file">"No s'ha pogut connectar a la xarxa. Comprova la teva connexió i torna a provar."</string>
-  <string name="shared_sticker_str">Compartits per fans de Mi</string>
+  <string name="shared_sticker_str">Recent</string>
   <string name="shared_sticker_suffix">Adhesiu a %s</string>
   <string name="shared_sticker_use_tip">"Podeu enviar els adhesius que heu desat a converses de WeChat igual que envieu imatges.
 (Els GIF es poden afegir a Personalitzats en els adhesius de WeChat)."</string>

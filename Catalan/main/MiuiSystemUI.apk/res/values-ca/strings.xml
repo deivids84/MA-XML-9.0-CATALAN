@@ -334,10 +334,10 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
   <string name="force_rtl_layout_all_locales_summary">Força l\'orientació de la pantalla dreta-esquerra en totes les llengües</string>
   <string name="fs_gesture_back_home_summary">Llisqueu des de baix ràpidament</string>
   <string name="fs_gesture_back_ready_title">Com torno a la darrera pàgina?</string>
-  <string name="fs_gesture_final_over">Finalitza</string>
+  <string name="fs_gesture_final_over">"Finalitza"</string>
   <string name="fs_gesture_final_restart">Torna a estudiar</string>
   <string name="fs_gesture_final_summary">Podeu definir-lo a [Configuració-Pantalla completa]</string>
-  <string name="fs_gesture_final_title">Acabar d\'estudiar</string>
+  <string name="fs_gesture_final_title">"Acabar d'estudiar"</string>
   <string name="fs_gesture_finish">Ben fet!</string>
   <string name="fs_gesture_left_back_ready_summary">Llisqueu cap a l\'esquerra des de la pantalla</string>
   <string name="fs_gesture_right_back_ready_summary">Llisqueu cap a la dreta des de la pantalla</string>
@@ -444,6 +444,30 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="mock_location_app">Seleccioneu una aplicació per simular la ubicació</string>
   <string name="mock_location_app_not_set">Cap aplicació per simular ubicació seleccionada</string>
   <string name="mock_location_app_set">Aplicació d\'ubicació simulada: %1$s</string>
+  <string name="monitoring_button_view_policies">Mostra les polítiques</string>
+  <string name="monitoring_description_ca_certificate">S\'ha instal·lat una autoritat de certificació en aquest dispositiu. El vostre trànsit de xarxa segura es pot controlar o modificar.</string>
+  <string name="monitoring_description_managed_profile_ca_certificate">La vostra organització ha instal·lat una autoritat certificadora al vostre perfil de treball. El vostre trànsit de xarxa segura es pot controlar o modificar.</string>
+  <string name="monitoring_description_managed_profile_named_vpn">El vostre perfil de treball està connectat a %1$s, que pot controlar l\'activitat de la xarxa, inclosos els correus, les aplicacions i els llocs web.</string>
+  <string name="monitoring_description_management">"El vostre dispositiu el gestiona l\'organització.
+
+L\'administrador pot supervisar i gestionar la configuració, l\'accés corporatiu, les aplicacions, les dades associades al vostre dispositiu i la informació d\'ubicació del dispositiu.
+
+Per obtenir més informació, contacteu amb l\'administrador."</string>
+  <string name="monitoring_description_management_ca_certificate">L\'organització ha instal·lat una autoritat certificadora en aquest dispositiu. El vostre trànsit de xarxa segura es pot controlar o modificar.</string>
+  <string name="monitoring_description_management_network_logging">L\'administrador ha activat el registre de xarxa, que supervisa el trànsit al vostre dispositiu.</string>
+  <string name="monitoring_description_named_management">"El vostre dispositiu el gestiona %1$s.
+
+L\'administrador pot supervisar i gestionar la configuració, l\'accés corporatiu, les aplicacions, les dades associades al vostre dispositiu i la informació d\'ubicació del dispositiu.
+
+Per obtenir més informació, contacteu amb l\'administrador."</string>
+  <string name="monitoring_description_named_vpn">"Esteu connectat a %1$s, que pot controlar l'activitat de la xarxa, inclosos els correus, les aplicacions i els llocs web."</string>
+  <string name="monitoring_description_personal_profile_named_vpn">El vostre perfil personal està connectat a %1$s, que pot controlar l\'activitat de la xarxa, inclosos els correus, les aplicacions i els llocs web.</string>
+  <string name="monitoring_description_two_named_vpns">"Esteu connectat a %1$s i %2$s, que pot controlar l'activitat de la xarxa, inclosos els correus, les aplicacions i els llocs web."</string>
+  <string name="monitoring_description_vpn_settings">Obre la configuració de la VPN</string>
+  <string name="monitoring_subtitle_ca_certificate">Certificats CA</string>
+  <string name="monitoring_subtitle_network_logging">Registre de xarxa</string>
+  <string name="monitoring_title">Supervisió de xarxa</string>
+  <string name="monitoring_title_device_owned">Administració de dispositius</string>
   <string name="mount_storage">Sí</string>
   <string name="nav_guide_cancel">Ignora</string>
   <string name="nav_guide_message">Podeu utilitzar gestos per ocultar o mostrar els botons en pantalla després de configurar-ho.</string>
@@ -509,6 +533,21 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="quick_settings_bluetooth_detail_empty_text">No hi ha dispositius emparellats disponibles</string>
   <string name="quick_settings_connect_success">Connectat</string>
   <string name="quick_settings_connecting">Connectant</string>
+  <string name="quick_settings_disclosure_managed_profile_monitoring">L\'organització pot controlar el trànsit de la xarxa en el vostre perfil de treball</string>
+  <string name="quick_settings_disclosure_managed_profile_named_vpn">Perfil de treball connectat a %1$s</string>
+  <string name="quick_settings_disclosure_management">Aquest dispositiu el gestiona l\'organització</string>
+  <string name="quick_settings_disclosure_management_monitoring">L\'organització gestiona aquest dispositiu i pot controlar el trànsit de la xarxa</string>
+  <string name="quick_settings_disclosure_management_named_vpn">El dispositiu el gestiona l\'organització i connectat a %1$s</string>
+  <string name="quick_settings_disclosure_management_vpns">El dispositiu el gestiona l\'organització i està connectat a una VPN</string>
+  <string name="quick_settings_disclosure_monitoring">És possible que la xarxa se supervisi</string>
+  <string name="quick_settings_disclosure_named_managed_profile_monitoring">%1$s pot controlar el trànsit de la xarxa en el vostre perfil de treball</string>
+  <string name="quick_settings_disclosure_named_management">El dispositiu el gestiona %1$s</string>
+  <string name="quick_settings_disclosure_named_management_monitoring">%1$s gestiona aquest dispositiu i pot controlar el trànsit de xarxa</string>
+  <string name="quick_settings_disclosure_named_management_named_vpn">El dispositiu el gestiona %1$s i connectat a %2$s</string>
+  <string name="quick_settings_disclosure_named_management_vpns">El dispositiu el gestiona %1$s i està connectat a una VPN</string>
+  <string name="quick_settings_disclosure_named_vpn">Dispositiu connectat a %1$s</string>
+  <string name="quick_settings_disclosure_personal_profile_named_vpn">Perfil personal connectat a %1$s</string>
+  <string name="quick_settings_disclosure_vpns">Dispositiu connectat a una VPN</string>
   <string name="quick_settings_done">Fet</string>
   <string name="quick_settings_more_settings">Més opcions</string>
   <string name="quick_settings_wifi_detail_empty_text">No hi ha xarxes Wifi disponibles</string>
@@ -731,7 +770,7 @@ d MMMM"</string>
   <string name="verify_apps_over_usb_title">Verificació d\'aplicacions per USB</string>
   <string name="vpn_settings_not_available">La configuració de la VPN no està disponible per a aquest usuari</string>
   <string name="vpn_text">Toqui per veure els ajustaments.</string>
-  <string name="vpn_text_long">Connectat a %s. Premeu per veure els detalls.</string>
+  <string name="vpn_text_long">Connectat a %s. Toqueu per veure els detalls.</string>
   <string name="vpn_title">VPN activat</string>
   <string name="vpn_title_long">Connectant a VPN usant %s</string>
   <string name="wait_for_debugger">Espereu el depurador</string>

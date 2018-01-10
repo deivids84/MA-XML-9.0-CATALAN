@@ -9,6 +9,14 @@
     <item quantity="other">S\'han afegit %d fotos al núvol, desactiveu «Mostra només els àlbums locals» per veure-les.</item>
     <item quantity="one">S\'ha afegit %d foto al núvol, desactiveu «Mostra només els àlbums locals» per veure-la.</item>
   </plurals>
+  <plurals name="add_to_album_failed_with_reason_and_count">
+    <item quantity="other">"Els elements %2$d no es poden afegir a l'àlbum. %1$s."</item>
+    <item quantity="one">"L'element %2$d no es pot afegir a l'àlbum. %1$s."</item>
+  </plurals>
+  <plurals name="add_to_secret_failed_with_reason_and_count">
+    <item quantity="other">"Els elements %2$d no es poden afegir a l'àlbum ocult. %1$s."</item>
+    <item quantity="one">"L'element %2$d no es pot afegir a l'àlbum ocult. %1$s."</item>
+  </plurals>
   <plurals name="age_day">
     <item quantity="other">%d dies</item>
     <item quantity="one">%d dia</item>
@@ -121,6 +129,10 @@
     <item quantity="other">%d fotos en total</item>
     <item quantity="one">%d foto en total</item>
   </plurals>
+  <plurals name="fail_reason_processing_file">
+    <item quantity="other">S\'està processant les fotos…</item>
+    <item quantity="one">S\'està processant la foto…</item>
+  </plurals>
   <plurals name="fast_share_auto_render_failed">
     <item quantity="other">"S'han omès %1$d fotos que no s'han pogut renderitzar."</item>
     <item quantity="one">"S'ha omès una foto que no s'ha pogut renderitzar."</item>
@@ -205,6 +217,10 @@
     <item quantity="other">%d fotos en total</item>
     <item quantity="one">%d foto en total</item>
   </plurals>
+  <plurals name="remove_from_secret_failed_with_reason_and_count">
+    <item quantity="other">"Els elements %2$d no es poden eliminar de l'àlbum ocult. %1$s."</item>
+    <item quantity="one">"L'element %2$d no es pot eliminar de l'àlbum ocult. %1$s."</item>
+  </plurals>
   <plurals name="search_feedback_done_mark_and_contribute_false_negative">
     <item quantity="other">S\'ha afegit %1$d fotos a «%2$s» i s\'ha afegit a la base de dades.</item>
     <item quantity="one">S\'ha afegit %1$d foto a «%2$s» i s\'ha afegit a la base de dades.</item>
@@ -220,6 +236,10 @@
   <plurals name="search_feedback_done_mark_false_positive">
     <item quantity="other">S\'ha suprimit %1$d fotos de «%2$s».</item>
     <item quantity="one">S\'ha suprimit %1$d foto de «%2$s».</item>
+  </plurals>
+  <plurals name="send_processing_files_error">
+    <item quantity="other">"No s'ha pogut compartir. Encara s'està processant les foto %d…"</item>
+    <item quantity="one">"No s'ha pogut compartir. Encara s'està processant la foto %d…"</item>
   </plurals>
   <plurals name="sync_error_title">
     <item quantity="other">"No s'han copiat %d fotos i vídeos"</item>

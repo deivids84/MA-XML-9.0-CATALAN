@@ -27,7 +27,7 @@
   <string name="download_apk_desktop_pause">Aturat</string>
   <string name="download_apk_desktop_pending">Pendent</string>
   <string name="download_apk_desktop_running">S\'està baixant</string>
-  <string name="download_error">Error</string>
+  <string name="download_error">Han fallat</string>
   <string name="download_no_application_title">"No es pot obrir el fitxer"</string>
   <string name="download_queued">A la cua</string>
   <string name="download_remaining">Falten %s</string>
@@ -52,7 +52,7 @@
   <string name="notify_install_guide_forward_text">Obre</string>
   <string name="notify_install_guide_msg">S\'ha instal·lat amb èxit</string>
   <string name="notify_install_guide_title">%s s\'ha instal·lat amb èxit</string>
-  <string name="notify_only_wifi_download">S\'està esperant una conexió Wi-Fi</string>
+  <string name="notify_only_wifi_download">S\'està esperant una Wi-Fi</string>
   <string name="paused_waiting_for_network">A l\'espera d\'una connexió a la xarxa</string>
   <string name="permdesc_accessAllDownloads">Permet que l\'aplicació consulti i modifiqui totes les baixades iniciades per qualsevol aplicació del sistema.</string>
   <string name="permdesc_downloadCacheNonPurgeable">"Permet que l'aplicació baixi fitxers a la memòria cau de baixada que no es poden suprimir automàticament quan el gestor de baixades necessita més espai."</string>

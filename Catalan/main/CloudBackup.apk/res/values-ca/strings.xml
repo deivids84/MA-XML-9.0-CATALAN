@@ -61,6 +61,7 @@ Nota: Les dades de les aplicacions instal·lades no es copiaran al Mi Cloud."</s
   <string name="cloud_back_up_share_activity_title">Millorar Compte Mi</string>
   <string name="cloud_back_up_task">Còpia en curs&#8230;</string>
   <string name="cloud_backup">Còpies de seguretat del Mi Cloud</string>
+  <string name="cloud_backup_derail_size_summary">Mida: %s</string>
   <string name="cloud_backup_detail_frequence">Programació de la còpia</string>
   <string name="cloud_backup_detail_manage">Administra còpies</string>
   <string name="cloud_backup_detail_state">Còpies de seguretat automàtiques</string>

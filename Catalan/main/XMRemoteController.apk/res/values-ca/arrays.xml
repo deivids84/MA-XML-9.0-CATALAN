@@ -26,6 +26,31 @@
     <item>"Perquè només puc encendre el meu aparell d'A/C i no el puc apagar?"</item>
     <item>Puc utilitzar el Mi 3, el Mi 2, o el Redmi com a comandament d\'infraroigs?</item>
   </string-array>
+  <string-array name="voice_ac_help">
+    <item>Encén l\'aire condicionat Haier en la sala d\'estar</item>
+    <item>Estableix la temperatura a 25 graus</item>
+    <item>Estableix la direcció del vent cap «Amunt»</item>
+  </string-array>
+  <string-array name="voice_fan_help">
+    <item>Encén l\'aire condicionat Gree</item>
+    <item>Canvia al mode balanceig</item>
+    <item>Fes que l\'aire condicionat bufi més fort</item>
+  </string-array>
+  <string-array name="voice_stb_help">
+    <item>Encén el descodificador</item>
+    <item>Vull veure Hunan TV</item>
+    <item>Torna a canal 15</item>
+  </string-array>
+  <string-array name="voice_tips">
+    <item>Encén l\'aire condicionat</item>
+    <item>Vull veure Shenzhen TV</item>
+    <item>Torna a canal 12</item>
+  </string-array>
+  <string-array name="voice_tv_help">
+    <item>Encén la TV al dormitori</item>
+    <item>Apaga la TV</item>
+    <item>Apuja el volum a la TV</item>
+  </string-array>
   <string-array name="assistant_tab">
     <item>Vídeos</item>
     <item>Captures de pantalla</item>
@@ -56,10 +81,10 @@
   </string-array>
   <string-array name="epg_channel_tab_v53">
     <item>Tots</item>
-    <item>Recent</item>
-    <item>HD</item>
     <item>TV</item>
     <item>CCTV</item>
+    <item>HD</item>
+    <item>Recent</item>
   </string-array>
   <string-array name="epg_program_genre">
     <item></item>

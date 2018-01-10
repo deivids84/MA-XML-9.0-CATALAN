@@ -305,13 +305,16 @@ Si no s\'actualitza, és possible que les aplicacions duals no funcionin correct
   <string name="wating">Un moment…</string>
   <string name="weibo_send">Envia al Weibo</string>
   <string name="weixin_pay">Pagament WeChat</string>
-  <string name="weixin_share">Comparteix a Moments</string>
+  <string name="weixin_share_sign">Inicia sessió i comparteix-ho</string>
   <string name="xpsace_guide_button">Crea</string>
   <string name="xspace_account">Comptes d\'aplicacions duals</string>
   <string name="xspace_chocie">Suport d\'aplicacions duals</string>
   <string name="xspace_creating">S\'està creant l\'aplicació dual&#8230;</string>
   <string name="xspace_default_app_summary">Estableix l\'aplicació per defecte per als pagaments, l\'ús compartit, els preferits i molt més.</string>
   <string name="xspace_default_app_title">Aplicació per defecte</string>
+  <string name="xspace_default_guide_notification_content">Toqueu per canviar-ho</string>
+  <string name="xspace_default_guide_notification_main_title">S\'està utilitzant l\'aplicació per defecte</string>
+  <string name="xspace_default_guide_notification_xspace_title">S\'està utilitzant aplicacions duals</string>
   <string name="xspace_default_setting_dialog_title">Per defecte</string>
   <string name="xspace_default_setting_label">Aplicació per defecte</string>
   <string name="xspace_description">"Les aplicacions duals són còpies d\'aplicacions que es poden utilitzar per separat amb un compte diferent.

@@ -103,7 +103,7 @@
   <string name="keyguard_left_buscard">Notes</string>
   <string name="keyguard_left_remotecentral">Calendari</string>
   <string name="keyguard_left_smarthome">Contactes</string>
-  <string name="keyguard_quick_charging_info_click_to_detail">Càrrega ràpida. Premeu per visualitzar els detalls.</string>
+  <string name="keyguard_quick_charging_info_click_to_detail">Càrrega ràpida. Toqueu per veure els detalls.</string>
   <string name="keyguard_quickly_charging_info_charging_text">Càrrega ràpida…</string>
   <string name="keyguard_torch_cover_text">Per mantenir la llanterna encesa, mantingueu premut el botó d\'engegada</string>
   <string name="lock_screen_date">EEEE, d MMMM</string>

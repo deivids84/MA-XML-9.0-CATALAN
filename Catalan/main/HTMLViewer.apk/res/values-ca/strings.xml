@@ -11,7 +11,7 @@
 aneu a %s»</string>
   <string name="loading">Un moment…</string>
   <string name="mibi_license">Acord d\'usuari del Mi Credit</string>
-  <string name="open_wifi_connect_summary">Toqueu per veure\'n els detalls.</string>
+  <string name="open_wifi_connect_summary">Toqueu per veure els detalls.</string>
   <string name="open_wifi_connect_title">Connecta\'t a %1$s</string>
   <string name="permdesc_accessDrm">Permet a l\'aplicació l\'accés a contingut protegit per DRM.</string>
   <string name="policy_name">Política: %s</string>

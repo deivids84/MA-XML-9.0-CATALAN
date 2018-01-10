@@ -225,7 +225,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_error_device_id">"No es pot obtenir la identitat del dispositiu"</string>
   <string name="passport_error_dup_email">El correu electrònic que heu introduït ja està associat a un altre compte.</string>
   <string name="passport_error_email">L\'adreça de correu que heu introduït no és vàlida</string>
-  <string name="passport_error_empty_captcha_code">Introduïu el codi passport_captcha</string>
+  <string name="passport_error_empty_captcha_code">Introduïu el codi captcha</string>
   <string name="passport_error_empty_email">Introduïu la vostra adreça de correu</string>
   <string name="passport_error_empty_phone_num">Introduïu el número de telèfon</string>
   <string name="passport_error_empty_pwd">Introduïu la contrasenya</string>
@@ -281,7 +281,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_message_dialog_title">SMS amb els codis de verificació</string>
   <string name="passport_next">Següent</string>
   <string name="passport_no">No</string>
-  <string name="passport_notification_title">Error d\'inici de sessió per a %1$s</string>
+  <string name="passport_notification_title">Error d\'inici de sessió de %1$s</string>
   <string name="passport_password_phone_login">Inicia sessió amb el Compte Mi</string>
   <string name="passport_password_req_notice">La contrasenya ha de tenir de 8 a 16 caràcters i incloure números i lletres (sensible a majúscules).</string>
   <string name="passport_phone_num_hint_text">Número de telèfon</string>
@@ -349,7 +349,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_set_password_no_phone_msg">Afegiu el vostre número de telèfon per protegir el compte.</string>
   <string name="passport_setting">S\'està configurant&#8230;</string>
   <string name="passport_skip_login">Omet</string>
-  <string name="passport_skip_register">Omet registre</string>
+  <string name="passport_skip_register">Omet el registre</string>
   <string name="passport_skip_setup_account_msg">Podeu configurar després un compte Mi a Configuració.</string>
   <string name="passport_skip_setup_account_title">Omet configuració</string>
   <string name="passport_sms_send_success">Enviat</string>

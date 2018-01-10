@@ -10,15 +10,15 @@
     <item quantity="one">%d aplicació</item>
   </plurals>
   <plurals name="power_config_ultimate_on_count">
-    <item quantity="other">Esteu a %1$d passos del canvi al mode Ultimate</item>
-    <item quantity="one">Esteu a %1$d pas del canvi al mode Ultimate</item>
+    <item quantity="other">A %1$d passos de canviar al mode extrem</item>
+    <item quantity="one">A %1$d pas de canviar al mode extrem</item>
   </plurals>
   <plurals name="power_config_ultimate_off_count">
-    <item quantity="other">A %1$d passos d\'apagar el mode Ultimate</item>
-    <item quantity="one">A %1$d pas d\'apagar el mode Ultimate</item>
+    <item quantity="other">A %1$d passos de desactivar el mode extrem</item>
+    <item quantity="one">A %1$d pas de desactivar el mode extrem</item>
   </plurals>
   <plurals name="power_config_ultimate_unlock_count">
-    <item quantity="other">Acaba %1$d passos per desbloquejar tots els elements</item>
-    <item quantity="one">Acaba %1$d pas per desbloquejar tots els elements</item>
+    <item quantity="other">Finalitzeu %1$d passos per desbloquejar tots els elements</item>
+    <item quantity="one">Finalitzeu %1$d pas per desbloquejar tots els elements</item>
   </plurals>
 </resources>

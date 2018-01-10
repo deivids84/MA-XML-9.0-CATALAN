@@ -23,6 +23,7 @@
   <string name="audio_focus_exit_button_text">Tancar enfocament d\'àudio</string>
   <string name="beauty_fragment_tab_name_beauty">Bellesa</string>
   <string name="beauty_fragment_tab_name_makeup">Avançat</string>
+  <string name="bokeh_use_hint">Efecte de profunditat</string>
   <string name="burst_shoot_exit_button_text">Tanca el mode ràfega</string>
   <string name="button_fisheye_camera_title">Ull de peix</string>
   <string name="button_front_camera_title">Fer una selfie</string>
@@ -174,6 +175,7 @@ amb un cos més clar i un retrat més bonic"</string>
   <string name="pref_camera_beautify_entry_high">Alt</string>
   <string name="pref_camera_beautify_entry_low">Baix</string>
   <string name="pref_camera_beautify_entry_normal">Mitjà</string>
+  <string name="pref_camera_bokeh_title">Vertical</string>
   <string name="pref_camera_coloreffect_entry_big_face">Dispersa</string>
   <string name="pref_camera_coloreffect_entry_blackwhite">Blanc i negre</string>
   <string name="pref_camera_coloreffect_entry_fisheye">Ull de peix</string>
@@ -200,7 +202,7 @@ amb un cos més clar i un retrat més bonic"</string>
   <string name="pref_camera_delay_capture_entry_audio">Àudio</string>
   <string name="pref_camera_delay_capture_title">Compte enrere</string>
   <string name="pref_camera_device_watermark_title">Marca d\'aigua del dispositiu</string>
-  <string name="pref_camera_exposuretime_entry_auto">Automàtic</string>
+  <string name="pref_camera_exposuretime_entry_auto">AUTOMÀTIC</string>
   <string name="pref_camera_face_info_watermark_title">Afegeix la marca d\'edat a la foto</string>
   <string name="pref_camera_facedetection_auto_hidden_title">Detecció de cares ocultes automàticament</string>
   <string name="pref_camera_facedetection_title">Detecció de cares</string>
@@ -210,10 +212,12 @@ amb un cos més clar i un retrat més bonic"</string>
   <string name="pref_camera_flashmode_title">Mode de flaix</string>
   <string name="pref_camera_focus_shoot_summary">Toqueu per enfocar i, tot seguit, toqueu de nou per fer una foto.</string>
   <string name="pref_camera_focus_shoot_title">Enfoca i dispara</string>
-  <string name="pref_camera_focusmode_entry_auto">Automàtic</string>
+  <string name="pref_camera_focusmode_entry_auto">AUTOMÀTIC</string>
   <string name="pref_camera_focusmode_entry_infinity">Infinit</string>
   <string name="pref_camera_focusmode_entry_normal">Estàndard</string>
   <string name="pref_camera_focusmode_title">Mode d\'enfocament</string>
+  <string name="pref_camera_front_bokeh_entry_off">Desactivat</string>
+  <string name="pref_camera_front_bokeh_entry_on">Activat</string>
   <string name="pref_camera_gradienter_title">Redreçament</string>
   <string name="pref_camera_groupshot_mode_title">Autofotos grupal</string>
   <string name="pref_camera_hdr_entry_live">En viu</string>
@@ -221,7 +225,7 @@ amb un cos més clar i un retrat més bonic"</string>
   <string name="pref_camera_hfr_entry_off">Apagat</string>
   <string name="pref_camera_histogram_entry_disable">Desactiva</string>
   <string name="pref_camera_histogram_entry_enable">Activa</string>
-  <string name="pref_camera_iso_entry_auto">Automàtic</string>
+  <string name="pref_camera_iso_entry_auto">AUTOMÀTIC</string>
   <string name="pref_camera_iso_entry_iso100">ISO100</string>
   <string name="pref_camera_iso_entry_iso1600">ISO1600</string>
   <string name="pref_camera_iso_entry_iso200">ISO200</string>
@@ -314,7 +318,7 @@ amb un cos més clar i un retrat més bonic"</string>
   <string name="pref_camera_volumekey_function_entry_volume">Volum</string>
   <string name="pref_camera_volumekey_function_title">Funció dels botons de volum</string>
   <string name="pref_camera_watermark_title">Afegeix la marca horària a la foto</string>
-  <string name="pref_camera_whitebalance_entry_auto">Automàtic</string>
+  <string name="pref_camera_whitebalance_entry_auto">AUTOMÀTIC</string>
   <string name="pref_camera_whitebalance_entry_cloudy">Ennuvolat</string>
   <string name="pref_camera_whitebalance_entry_daylight">Llum del dia</string>
   <string name="pref_camera_whitebalance_entry_fluorescent">Fluorescent</string>
@@ -322,9 +326,9 @@ amb un cos més clar i un retrat més bonic"</string>
   <string name="pref_camera_whitebalance_entry_manual">Manual</string>
   <string name="pref_camera_whitebalance_entry_measure">Mesura</string>
   <string name="pref_camera_whitebalance_title">Balanç de blancs</string>
-  <string name="pref_camera_zoom_mode_entry_tele">Tele</string>
-  <string name="pref_camera_zoom_mode_entry_wide">Panoràmica</string>
-  <string name="pref_camera_zoom_mode_title">Lents</string>
+  <string name="pref_camera_zoom_mode_entry_tele">TELE</string>
+  <string name="pref_camera_zoom_mode_entry_wide">PANORÀMICA</string>
+  <string name="pref_camera_zoom_mode_title">LENTS</string>
   <string name="pref_camera_zsl_entry_off">Apagat</string>
   <string name="pref_camera_zsl_entry_on">Activat</string>
   <string name="pref_capture_settings">Càmera</string>
@@ -422,6 +426,7 @@ amb un cos més clar i un retrat més bonic"</string>
   <string name="user_notice_title">Termes i condicions</string>
   <string name="video_camera_label">Càmera de vídeo</string>
   <string name="video_effect_entry_blackwhite">B/N</string>
+  <string name="video_effect_entry_bygone">Passat</string>
   <string name="video_effect_entry_film">Pel·licula</string>
   <string name="video_effect_entry_forest">Bosc</string>
   <string name="video_effect_entry_holiday">Reflexions</string>

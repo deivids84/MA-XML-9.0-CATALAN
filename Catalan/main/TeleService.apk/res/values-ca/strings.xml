@@ -1205,6 +1205,7 @@ Les funcions relacionades amb el PIN2 es bloquejaran després d\'un altre intent
   <string name="puk_lock_warning">La vostra targeta SIM es bloquejarà després d\'un altre intent incorrecte.</string>
   <string name="puk_requested">La contrasenya no és correcta i el PIN es bloquejarà. Introduïu el PUK.</string>
   <string name="puk_unlocked">La vostra targeta SIM s\'ha desbloquejat. El vostre telèfon s\'està desbloquejant&#8230;</string>
+  <string name="quick_dial_setting_title">Marcació ràpida</string>
   <string name="radio_off_during_emergency_call">No es pot activar al mode avió durant una trucada d\'emergència.</string>
   <string name="radio_off_error">Per veure aquesta configuració, heu d\'activar el radio.</string>
   <string name="reading_settings">Configuració de lectura&#8230;</string>

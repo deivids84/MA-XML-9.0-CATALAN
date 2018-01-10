@@ -222,7 +222,7 @@
     <item>Suspesa</item>
     <item>S\'està desconnectant&#8230;</item>
     <item>S\'ha desconnectat</item>
-    <item>Error</item>
+    <item>Ha fallat</item>
     <item>Boquejat</item>
     <item>S\'està evitant temporalment una mala connexió</item>
   </string-array>
@@ -236,7 +236,7 @@
     <item>Suspesa</item>
     <item>S\'està desconnectant de %1$s&#8230;</item>
     <item>Desconnectada</item>
-    <item>Error</item>
+    <item>Han fallat</item>
     <item>Bloquejada</item>
     <item>S\'està evitant temporalment una mala connexió</item>
   </string-array>

@@ -736,7 +736,7 @@ Torneu-ho a provar en %2$d segons."</string>
   <string name="notification_hidden_text">Contingut ocult</string>
   <string name="notification_listener_binding_label">Detector de notificacions</string>
   <string name="notification_ranker_binding_label">Servei de classificació de notificacions</string>
-  <string name="notification_title">Error d\'inici de sessió per a %1$s</string>
+  <string name="notification_title">Error d\'inici de sessió de %1$s</string>
   <string name="notification_work_profile_content_description">Perfil de feina</string>
   <string name="now_string_shortest">ara</string>
   <string name="number_picker_decrement_button">Redueix</string>

@@ -174,7 +174,7 @@
   <string name="cloud_antispam_marked">Marcat</string>
   <string name="cloud_antispam_title">Identificar números desconeguts</string>
   <string name="cloud_recommend_msg">Tocar per sincronitzar contactes amb Mi Cloud.</string>
-  <string name="cloud_state_disabled">La sincronització amb Mi Cloud està apagada</string>
+  <string name="cloud_state_disabled">Sincronitza contactes amb Mi Cloud</string>
   <string name="cloud_state_loading">Un moment…</string>
   <string name="cloud_state_sync_finished">Sincronitzat amb Mi Cloud</string>
   <string name="cloud_state_syncing">Sincronitzat amb Mi Cloud</string>
@@ -197,7 +197,7 @@
   <string name="contactSavedErrorToast">"No es poden desar els canvis del contacte"</string>
   <string name="contactSavedToast">Contacte guardat</string>
   <string name="contact_clear_search_history">Esborra l\'historial</string>
-  <string name="contact_delete_toast">Contacte eliminat amb èxit</string>
+  <string name="contact_delete_toast">S\'ha eliminat el contacte amb èxit</string>
   <string name="contact_detail_action_item_calllog">Historial de trucades</string>
   <string name="contact_detail_action_item_nocalllog">No hi ha historial</string>
   <string name="contact_detail_calllog_call_note_tips">Notes</string>
@@ -327,6 +327,7 @@ Les targetes de contacte estan apagades"</string>
   <string name="description_minus_button">Menys</string>
   <string name="description_plus_button">Més</string>
   <string name="description_quick_contact_for">Contacte ràpid per %1$s</string>
+  <string name="description_quick_dial_button">Marcació ràpida</string>
   <string name="description_search_button">Cerca</string>
   <string name="description_send_message">Envia el missatge a %1$s</string>
   <string name="description_send_text_message">Envia el missatge de text a %1$s</string>
@@ -369,6 +370,7 @@ Les targetes de contacte estan apagades"</string>
   <string name="dialer_empty_text_loading">Un moment…</string>
   <string name="dialer_empty_text_no_call_log">No hi ha contactes recents</string>
   <string name="dialer_empty_text_no_search_result">No s\'han trobat els contactes</string>
+  <string name="dialer_firewall_entry_name">Registres de trucades bloquejades</string>
   <string name="dialer_menu_description">Mostra marcador</string>
   <string name="dialer_menu_title">Menú d\'opcions</string>
   <string name="dialer_returnToInCallScreen">Retornar a la trucada en progrés</string>
@@ -751,10 +753,10 @@ Per afegir un contacte a la llista de favorits:
   <string name="open_dial_pad_description">Obre el marcador</string>
   <string name="option_delete_batch_contacts">Elimina el lot</string>
   <string name="option_delete_contact">Elimina</string>
-  <string name="option_delete_group">Eliminar</string>
+  <string name="option_delete_group">Elimina</string>
   <string name="option_edit_contact">Edita</string>
   <string name="option_not_in_group">Treure</string>
-  <string name="option_not_star">Elimina dels favorits</string>
+  <string name="option_not_star">Elimina dels preferits</string>
   <string name="option_rename_group">Canviar el nom</string>
   <string name="option_send_to_desktop">Afegeix a la pantalla d\'inici</string>
   <string name="option_send_to_others">Reenvia</string>
@@ -780,6 +782,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="path_key_rebuild_t9_index_title">Aplicacions del sistema/Contactes/Organitza els contactes/Reconstrueix dades de l\'índex</string>
   <string name="path_key_sim_manage">Aplicacions del sistema/Contactes/Organitza els contactes/Targetes SIM</string>
   <string name="path_preference_contacts_filter">Aplicacions del sistema/Contactes/Preferències de visualització/Configura les llistes de contactes</string>
+  <string name="path_quick_dial_setting">Aplicacions del sistema/Contactes/Marcació ràpida</string>
   <string name="path_remove_duplicate">Aplicacions del sistema/Contactes/Organitza els contactes/Combina els contactes duplicats</string>
   <string name="path_share_visible_contacts">Aplicacions del sistema/Contactes/Importa/Exporta contactes/Comparteix contactes</string>
   <string name="path_sim_capacity">Aplicacions del sistema/Contactes/Emmagatzematge de la targeta SIM</string>
@@ -861,7 +864,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="preference_smart_group_company_summary">Agrupa per empresa</string>
   <string name="preference_smart_group_company_title">Per empresa</string>
   <string name="preference_smart_group_frequency_summary">Agrupa per el més recent</string>
-  <string name="preference_smart_group_frequency_title">Per més recents</string>
+  <string name="preference_smart_group_frequency_title">Recents</string>
   <string name="preference_smart_group_location_summary">Agrupa per codi d\'àrea</string>
   <string name="preference_smart_group_location_title">Per ubicació</string>
   <string name="preference_smart_group_title">Grups intel·ligents</string>
@@ -887,6 +890,12 @@ Per afegir un contacte a la llista de favorits:
   <string name="pull_to_refresh_release_label">Deixeu anar per refrescar…</string>
   <string name="qr_card_card">Codi QR</string>
   <string name="qrcode_card_title">Targeta en codi QR</string>
+  <string name="quick_dial_setting_delete_dialog_message">Voleu suprimir el número de marcació ràpida assignat?</string>
+  <string name="quick_dial_setting_delete_dialog_option_delete">Suprimeix</string>
+  <string name="quick_dial_setting_hint">Toqueu un botó per assignar o suprimir un número de marcació ràpida. Mantingueu premut el botó amb un número assignat per marcar-lo.</string>
+  <string name="quick_dial_setting_set_dialog_message">Voleu assigneu un número de marcació ràpida a aquest botó?</string>
+  <string name="quick_dial_setting_set_dialog_option_set">Sí</string>
+  <string name="quick_dial_setting_title">Marcació ràpida</string>
   <string name="quickcontact_missing_app">No s\'ha trobat una aplicació per gestionar aquesta acció</string>
   <string name="quit_dialog_confirm_message">"No has fusionat cap contacte"</string>
   <string name="quit_dialog_confirm_title">Cancel·la la fusió de contactes</string>
@@ -954,6 +963,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="search_key_rebuild_t9_index_title">Organitza;Contactes;t9</string>
   <string name="search_key_sim_manage">Organitza;Contactes</string>
   <string name="search_preference_contacts_filter">Contactes;Pantalla</string>
+  <string name="search_quick_dial_setting">Contactes</string>
   <string name="search_remove_duplicate">Organitza;Contactes</string>
   <string name="search_results_searching">Cercant&#8230;</string>
   <string name="search_settings_description">Noms dels teus contactes</string>
@@ -1022,7 +1032,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="smart_group_frequency_2">En els últims 3 mesos</string>
   <string name="smart_group_frequency_3">En els últims 6 mesos</string>
   <string name="smart_group_frequency_4">Fa més de 6 mesos</string>
-  <string name="smart_group_frequency_label">Per més recents</string>
+  <string name="smart_group_frequency_label">Recents</string>
   <string name="smart_group_label">Grups intel·ligents</string>
   <string name="smart_group_loading">Un moment…</string>
   <string name="smart_group_location_label">Per ubicació</string>
@@ -1059,6 +1069,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="starred_contacts">Favorits</string>
   <string name="status_available">Disponible</string>
   <string name="status_away">Lluny</string>
+  <string name="status_bar_notification_info_overflow">+999</string>
   <string name="status_busy">Ocupat</string>
   <string name="strequentList">Favorits</string>
   <string name="success_message_import_from_account">Importació realitzada</string>
@@ -1098,8 +1109,8 @@ Per afegir un contacte a la llista de favorits:
   <string name="type_voicemail">Missatge de veu</string>
   <string name="unable_get_device_id">No es pot obtenir l\'IMEI</string>
   <string name="unfold_all">Mostra-ho tot</string>
-  <string name="unknow_phone_number_call_failed">"No es pot trucar a un número desconegut"</string>
-  <string name="unknow_phone_number_mms_failed">"No es pot enviar un missatge a un número desconegut"</string>
+  <string name="unknow_phone_number_call_failed">"No es pot trucar a números desconeguts"</string>
+  <string name="unknow_phone_number_mms_failed">"No es pot enviar missatges a números desconeguts"</string>
   <string name="unknown">Desconegut</string>
   <string name="unknown_contact_name">Contacte desconegut</string>
   <string name="unknown_details_add_to_contact">Existent</string>

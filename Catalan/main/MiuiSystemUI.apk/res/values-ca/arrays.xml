@@ -11,7 +11,7 @@
     <item>Suspès</item>
     <item>S\'està desconnectant&#8230;</item>
     <item>Desconnectat</item>
-    <item>Incorrecte</item>
+    <item>Ha fallat</item>
     <item>Bloquejat</item>
     <item>S\'està evitant temporalment una mala connexió</item>
   </string-array>
@@ -25,7 +25,7 @@
     <item>Suspès</item>
     <item>S\'està desconnectant de %1$s&#8230;</item>
     <item>Desconnectat</item>
-    <item>Incorrecte</item>
+    <item>Han fallat</item>
     <item>Boquejat</item>
     <item>S\'està evitant temporalment una mala connexió</item>
   </string-array>

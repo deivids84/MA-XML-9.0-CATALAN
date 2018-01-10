@@ -482,9 +482,9 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="miuichromium_error_page_problem_page_not_working_reason_invalid_response">"Aquesta pàgina no funciona perquè %s0 ha enviat una resposta no vàlida."</string>
   <string name="miuichromium_error_page_problem_page_not_working_reason_too_many_redirects">"Aquesta pàgina no funciona perquè %s0 us ha redirigit massa vegades."</string>
   <string name="miuichromium_error_page_problem_security_error_reason_bad_client_cert">"Aquest lloc no pot proporcionar una connexió segura perquè %s0 no ha acceptat el vostre certificat."</string>
-  <string name="miuichromium_error_page_problem_security_error_reason_bad_server_cert">"Aquest lloc no pot proporcionar una connexió segura. %s0 no compleix els estàndards de seguretat."</string>
+  <string name="miuichromium_error_page_problem_security_error_reason_bad_server_cert">"Aquest lloc no pot proporcionar una connexió segura perquè %s0 no compleix els estàndards de seguretat."</string>
   <string name="miuichromium_error_page_problem_security_error_reason_invalid_response">"Aquest lloc no pot proporcionar una connexió segura perquè %s0 ha enviat una resposta no vàlida."</string>
-  <string name="miuichromium_error_page_problem_security_error_reason_unsupported_protocol">"Aquest lloc no pot proporcionar una connexió segura. %s0 utilitza un protocol no compatible."</string>
+  <string name="miuichromium_error_page_problem_security_error_reason_unsupported_protocol">"Aquest lloc no pot proporcionar una connexió segura perquè %s0 utilitza un protocol no compatible."</string>
   <string name="miuichromium_error_page_problem_server_fault">%s0 no pot gestionar aquesta sol·licitud.</string>
   <string name="miuichromium_error_page_reload">Actualitza</string>
   <string name="miuichromium_error_page_safe_network">Mode segur</string>
@@ -558,7 +558,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="open_cloud_sync_desc">S\'ha afegit un marcador. Activeu la sincronització del núvol i els marcadors afegits a altres dispositius es sincronitzaran amb aquest. Voleu iniciar sessiói obriu-lo ara?</string>
   <string name="open_file_explorer_failed">"No es pot obrir l'Explorador de fitxers"</string>
   <string name="open_voice_permission">Permís per obrir la xarxa de veu</string>
-  <string name="opening_file_error">"No es pot obrir el fitxer seleccionat"</string>
+  <string name="opening_file_error">"No es pot obrir el fitxer seleccionat."</string>
   <string name="page_info">Informació de la pàgina</string>
   <string name="page_info_address">Adreça:</string>
   <string name="page_info_view">Visualitza la informació de la pàgina</string>

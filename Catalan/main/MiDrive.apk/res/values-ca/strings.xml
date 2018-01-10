@@ -118,7 +118,7 @@
   <string name="uploading">S\'està pujant</string>
   <string name="wait_net">A l\'espera d\'una connexió de xarxa</string>
   <string name="wait_sdcard">Esperant a la targeta SD&#8230;</string>
-  <string name="wait_wifi">S\'està esperant una conexió Wi-Fi</string>
+  <string name="wait_wifi">S\'està esperant una Wi-Fi</string>
   <string name="waiting">S\'està esperant</string>
   <string name="wangpan_root_path">La meva unitat</string>
   <string name="xiaomi_drive_description_content">El Mi Drive és una eina d\'emmagatzematge en línia que us permet mantenir els fitxers en línia i alliberar l\'emmagatzematge al dispositiu. Voleu deixar d\'utilitzar Mi Drive?</string>
