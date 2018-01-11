@@ -16,7 +16,7 @@
   <string name="announce_for_drop_shortcut_icon">per crear una carpeta per %1$s,%2$s</string>
   <string name="announce_for_drop_thumbnail_container">a pantalla de vista prèvia, número %1$d</string>
   <string name="announce_for_drop_trash">zona de desinstal·lació</string>
-  <string name="announce_for_drop_workspace">a la pantalla% %1$d, al número de fila %2$d, al número de columna %3$d</string>
+  <string name="announce_for_drop_workspace">a la pantalla %1$d, al número de fila %2$d, al número de columna %3$d</string>
   <string name="announce_for_edit_mode">accedeix al mode d\'edició</string>
   <string name="announce_for_edit_mode_disable">surt del mode d\'edició</string>
   <string name="announce_for_open_default_preview">obre la pàgina de selecció d\'inici</string>
