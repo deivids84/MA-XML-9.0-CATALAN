@@ -358,7 +358,6 @@ Comproveu el número de seguiment."</string>
   <string name="express_order_failed">Ha fallat</string>
   <string name="express_order_ongoing">S\'està fent la comanda…</string>
   <string name="express_order_result">Resultat</string>
-  <string name="express_order_state">%1$s / %2$s</string>
   <string name="express_order_state_accepted">Acceptada</string>
   <string name="express_order_state_allograph">Signada</string>
   <string name="express_order_state_cancelled">Cancel·lada</string>
@@ -762,7 +761,6 @@ Comproveu el número de seguiment."</string>
   <string name="pie_chart_label_remain">Queden:</string>
   <string name="pie_chart_label_remittance">Transferits:</string>
   <string name="pie_chart_label_shopping">De compres:</string>
-  <string name="pie_chart_label_special">%1$s &lt;0.01%%</string>
   <string name="pie_chart_label_spending">Pagaments:</string>
   <string name="pie_chart_label_telephone_charge">Comunicacions:</string>
   <string name="pie_chart_label_tenement">Lloguer:</string>

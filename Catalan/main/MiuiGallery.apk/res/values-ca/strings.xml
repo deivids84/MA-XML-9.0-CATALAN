@@ -747,8 +747,6 @@ Feu més fotos als vostres amics!"</string>
   <string name="photo_editor_saving">S\'està desant&#8230;</string>
   <string name="photo_editor_sticker">Adhesiu</string>
   <string name="photo_editor_text">Text</string>
-  <string name="photo_editor_transition_image_view">visualitza_foto</string>
-  <string name="photo_editor_transition_menu_view">visualitza_menú</string>
   <string name="photo_page_save_uri_image_fail">"No s'ha pogut desar a la galeria"</string>
   <string name="photo_page_save_uri_image_ok">Foto desada a la galeria</string>
   <string name="photo_print_menu_loading">S\'està carregant el connector…</string>
