@@ -333,6 +333,7 @@ Comproveu el número de seguiment."</string>
   <string name="express_inquiry_status_unknown">Desconegut</string>
   <string name="express_install_cainiao_description">%s requereix la instal·lació de l\'aplicació Cainiao. Voleu instal·lar-la?</string>
   <string name="express_install_cainiao_hidden">&lt;u&gt;No ho tornis a mostrar&lt;/u&gt;</string>
+  <string name="express_install_cainiao_not_found">No s\'ha trobat el Mimarket</string>
   <string name="express_install_cainiao_ok">Instal·la</string>
   <string name="express_install_cainiao_title">Instal·la Cainiao</string>
   <string name="express_install_delivery_service">Seguiu la vostra comanda, poseu-vos en contacte amb el repartidor i molt més.</string>

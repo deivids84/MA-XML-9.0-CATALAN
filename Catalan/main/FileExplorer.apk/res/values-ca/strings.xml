@@ -14,7 +14,7 @@
   <string name="all_topic">Tots els temes</string>
   <string name="already_liked">"Ja has marcat aquest element com a destacat"</string>
   <string name="apk_installing">S\'està instal·lant...</string>
-  <string name="app_name">Explorador</string>
+  <string name="app_name">Mi File Manager</string>
   <string name="app_name_camera">Càmera</string>
   <string name="app_name_downloadedrom">Paquets</string>
   <string name="app_name_downloads">Baixades</string>
@@ -117,7 +117,7 @@
   <string name="data_consumption_checkbox_hint">"No mostrar de nou"</string>
   <string name="data_consumption_confirm">D\'acord</string>
   <string name="data_consumption_message">Aquesta aplicació necessita connectar-se a internet per Wi-Fi per funcionar amb normalitat.</string>
-  <string name="data_consumption_message1">El dispositiu ha d\'estar connectat a internet per veure adhesius i vídeos.</string>
+  <string name="data_consumption_message1">Mi File Manager necessita connectar-se a Internet per fer que els vídeos i adhesius populars estiguin disponibles.</string>
   <string name="data_consumption_title">Connexió a internet</string>
   <string name="decompress_cancel">Cancel·la</string>
   <string name="decompress_confirm">Extreure</string>
@@ -172,7 +172,7 @@
   <string name="encrypt_error">"No s'han pogut ocultar els fitxers, intenta de nou"</string>
   <string name="encrypt_prefix">OCULT</string>
   <string name="encrypt_success">Ocultats correctament</string>
-  <string name="encrypt_success_first_five">"Encriptat i ocultat. Tira cap avall a la pantalla d'inici del Explorador per veure els fitxers."</string>
+  <string name="encrypt_success_first_five">"Fitxer xifrat i ocult. Podeu visualitzar els fitxers ocults baixant la pàgina d'inici del Mi File Manager."</string>
   <string name="encrypting">Encriptant&#8230;</string>
   <string name="error_contains_sharer_path">"No es pot xifrar fitxers a la carpeta /MIUI/Gallery/cloud/sharer. Moveu-los a una altre carpeta i proveu-ho de nou."</string>
   <string name="error_create_dir">"No s'ha pogut crear la carpeta"</string>
@@ -312,7 +312,7 @@
   <string name="mobile_network_dialog_title">Alerta d\'ús de dades</string>
   <string name="month_day_format">dd MMM</string>
   <string name="move_failed">"No es pot retallar"</string>
-  <string name="move_icon_to_desktop_hint">Crea un accés directe a la pantalla d\'inici per administrar els fitxers més eficaçment.</string>
+  <string name="move_icon_to_desktop_hint">Crea un accés directe a la pantalla d\'inici del Mi File Manager per administrar fitxers de manera més eficient.</string>
   <string name="move_icon_to_desktop_success">Accés directe afegit a la pantalla d\'inici.</string>
   <string name="move_to">Mou a&#8230;</string>
   <string name="msg_notify_setting">Configuració de notificacions</string>
@@ -322,7 +322,7 @@
   <string name="my_follows">Els meus canals</string>
   <string name="name_empty">Introduïu un nom</string>
   <string name="need_login">Inicieu la sessió primer</string>
-  <string name="need_read_storage_permission">"L'Explorador necessita accedir a la memòria interna del dispositiu per funcionar com va ser dissenyat."</string>
+  <string name="need_read_storage_permission">"El Mi File Manager necessita accedir a la memòria interna del dispositiu per funcionar correctament."</string>
   <string name="net_error_text">Error de xarxa</string>
   <string name="network_dialog_checkbox_tip">"No tornar a mostrar"</string>
   <string name="network_not_available">"No s'ha pogut connectar a la xarxa"</string>
@@ -333,7 +333,7 @@
   <string name="no_apk">Toqui per obtenir aplicacions.</string>
   <string name="no_app_tags">Buit</string>
   <string name="no_comment">Cap comentari</string>
-  <string name="no_content">Obre l\'Explorador una altra vegada per veure vídeos populars</string>
+  <string name="no_content">Obre el Mi File Manager una altra vegada per veure vídeos populars</string>
   <string name="no_daren_tip">No hi ha res</string>
   <string name="no_downloaded_sticker_tip">"No s'ha trobat adhesius baixats. Descobriu els adhesius compartits per fans de Mi."</string>
   <string name="no_enough_storage_indication">"L'espai d'emmagatzematge del dispositiu és ple."</string>
@@ -413,8 +413,8 @@
   <string name="path_hot_video">Visualitzeu vídeos curts populars de franc</string>
   <string name="path_kuai_chuan">Transferència de fitxers punt a punt</string>
   <string name="path_recent_file">Gestiona els fitxers al dispositiu</string>
-  <string name="permission_denial">"No s'ha pogut accedir als fitxers. Permeteu a l'explorador accedir als fitxers des de la configuració."</string>
-  <string name="permission_required">"No s'ha pogut accedir als fitxers. Permeteu a l'explorador accedir als fitxers des de la configuració."</string>
+  <string name="permission_denial">"No s'ha pogut accedir als fitxers. Permeteu al Mi File Manager accedir als fitxers des de la configuració."</string>
+  <string name="permission_required">"No s'ha pogut accedir als fitxers. Permeteu al Mi File Manager accedir als fitxers des de la configuració"</string>
   <string name="phone">Emmagatzematge intern</string>
   <string name="phone_bind_skip">Saltar</string>
   <string name="phone_bind_tip">Afegir número telefònic per participar en els rànquings i guanyar premis</string>
@@ -441,7 +441,7 @@
   <string name="phone_storage_image_title">Imatges: </string>
   <string name="phone_storage_info_str">%1$s de %2$s disponibles</string>
   <string name="phone_storage_other_title">Altres:&#160;</string>
-  <string name="phone_storage_size_tip">"L'espai d'emmagatzematge lliure que es mostra en el Explorador podria diferir d'altres aplicacions."</string>
+  <string name="phone_storage_size_tip">"L'espai d'emmagatzematge lliure que es mostra en el Mi File Manager podria diferir d'altres aplicacions"</string>
   <string name="phone_storage_video_title">Vídeos:&#160;</string>
   <string name="phone_storage_zip_title">Fitxers:&#160;</string>
   <string name="phone_valid_code_tip">El codi ha estat introduït massa vegades, intenta aconseguir-ne un altra</string>

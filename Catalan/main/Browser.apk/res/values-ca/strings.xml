@@ -52,7 +52,7 @@
   <string name="action_menu_toolbox">Eines</string>
   <string name="action_menu_useful_page">Afegeix una drecera</string>
   <string name="action_menu_useful_page_added">Afegit a la pàgina d\'inici</string>
-  <string name="action_menu_user_center">Centre d\'usuari</string>
+  <string name="action_menu_user_center">Perfil</string>
   <string name="action_modify_bookmark">Modifica el marcador</string>
   <string name="action_put_in_search_box">Introduïu %s al quadre de cerca</string>
   <string name="actionbar_share">Comparteix</string>
@@ -384,6 +384,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="keep_queued_download">Manté</string>
   <string name="last_month">L\'últim mes</string>
   <string name="license_activity_title">Llicències WebView del sistema</string>
+  <string name="loading_dialog_title">S\'està movent…</string>
   <string name="loading_tips">Llisqueu cap avall per actualitzar</string>
   <string name="login_failed_toast">"No s'ha pogut iniciar la sessió, actualitzeu i proveu-ho de nou"</string>
   <string name="low_memory_error">"No es pot completar l'operació anterior perquè hi ha poca memòria."</string>
@@ -554,8 +555,8 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="ok">D\'acord</string>
   <string name="older">Més antic</string>
   <string name="open_app_confirm_message">Voleu permetre que aquesta pàgina obri %s?</string>
-  <string name="open_cloud_sync">Obre la sincronització del núvol</string>
-  <string name="open_cloud_sync_desc">S\'ha afegit un marcador. Activeu la sincronització del núvol i els marcadors afegits a altres dispositius es sincronitzaran amb aquest. Voleu iniciar sessiói obriu-lo ara?</string>
+  <string name="open_cloud_sync">Activa la sincronització amb Mi Cloud</string>
+  <string name="open_cloud_sync_desc">S\'ha afegit marcador amb èxit. Activeu la sincronització amb el Mi Cloud per sincronitzar els marcadors afegits en altres dispositius. Voleu iniciar sessió i activar-lo?</string>
   <string name="open_file_explorer_failed">"No es pot obrir l'Explorador de fitxers"</string>
   <string name="open_voice_permission">Permís per obrir la xarxa de veu</string>
   <string name="opening_file_error">"No es pot obrir el fitxer seleccionat."</string>
@@ -803,14 +804,15 @@ Així és com utilitzem les dades que recopilem:
 2. Contingut: les vostres dades ens ajuden a proporcionar contingut rellevant de notícies localitzat.
 El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'acceptar el nostre %2$s i %1$s per poder utilitzar el Navegador. "</string>
   <string name="show_security_tip_dialog_title">Política de privadesa</string>
-  <string name="sign_and_open">Inicia sessió i obre\'l</string>
-  <string name="sign_in_to" formatted="false">Inicia una sessió al %s1 \"%s2\"</string>
+  <string name="sign_and_open">Inicieu sessió i activeu-lo</string>
+  <string name="sign_in_to" formatted="false">Inicia sessió a %s1 \"%s2\"</string>
   <string name="skip_button_label">Omet</string>
   <string name="skip_current_version">Omet aquesta versió</string>
   <string name="snapshot">Local</string>
   <string name="snapshot_failed">"No s'ha pogut desar per llegir-la fora de línia"</string>
   <string name="snapshot_successed">Obre els marcadors i l\'historial -&gt; LOCAL per veure la pàgina</string>
   <string name="soft_toast_see_view">Mostra</string>
+  <string name="speech_engine_not_install">El motor de veu no està instal·lat</string>
   <string name="ssl_bad_clock_date_settings">Configuració de data</string>
   <string name="ssl_bad_clock_warning" formatted="false">"No es pot establir una connexió privada a %s1 perquè la data i l'hora (%s2) del dispositiu són incorrectes."</string>
   <string name="ssl_certificate">Certificat de Seguretat</string>
@@ -861,7 +863,7 @@ El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'
   <string name="tab_quicklinks">Pàgina d\'inici</string>
   <string name="tab_yellowpage">Enllaços</string>
   <string name="tabs_description">Pestanyes</string>
-  <string name="temp_refuse">Rebutja</string>
+  <string name="temp_refuse">No, gràcies</string>
   <string name="time_picker_dialog_am">AM</string>
   <string name="time_picker_dialog_hour_minute_separator">:</string>
   <string name="time_picker_dialog_minute_second_separator">:</string>

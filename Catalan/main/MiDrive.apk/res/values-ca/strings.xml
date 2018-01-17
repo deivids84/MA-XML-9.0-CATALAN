@@ -24,10 +24,10 @@
   <string name="downloading">S\'està baixant</string>
   <string name="downloading_in_3g">S\'està baixant per 3G&#8230;</string>
   <string name="downloading_in_wifi">S\'està baixant&#8230;</string>
-  <string name="drive_low_memory_description_content">L\'espai d\'emmagatzematge del telèfon no és suficient, aneu a netejar la brossa del telèfon per alliberar més espai d\'emmagatzematge</string>
-  <string name="drive_low_memory_description_title">Avís de poca memòria</string>
-  <string name="drive_low_memory_description_toast">L\'espai d\'emmagatzematge del telèfon no és suficient, netegeu-lo després de l\'ús del MiDrive</string>
-  <string name="drive_low_memory_positive_content">Neteja</string>
+  <string name="drive_low_memory_description_content">"No es pot utilitzar Mi Drive degut a la manca d'espai necessari."</string>
+  <string name="drive_low_memory_description_title">Emmagatzematge insuficient</string>
+  <string name="drive_low_memory_description_toast">"No es pot utilitzar Mi Drive degut a la manca d'espai necessari. Allibereu espai i torneu-ho a provar."</string>
+  <string name="drive_low_memory_positive_content">Allibera</string>
   <string name="empty_file_download">"Els fitxers buits no són compatibles."</string>
   <string name="empty_file_upload">"Els fitxers buits no són compatibles."</string>
   <string name="file_already_downlaoded">Fitxer desat a \"%1$s\"</string>

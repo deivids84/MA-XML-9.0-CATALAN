@@ -43,6 +43,10 @@
   <string name="apps_sort_type_title">Ordena</string>
   <string name="auto_clean_switch_off">Apaga</string>
   <string name="auto_clean_switch_on">Encén</string>
+  <string name="auto_clean_time_every_day">Cada dia</string>
+  <string name="auto_clean_time_fifteen_day">Cada 15 dies</string>
+  <string name="auto_clean_time_seven_day">Cada 7 dies</string>
+  <string name="auto_clean_time_three_day">Cada 3 dies</string>
   <string name="auto_cleaner_open">Activa</string>
   <string name="back">Enrere</string>
   <string name="browser_scan_history_desc">Historial de navegació</string>
@@ -478,6 +482,7 @@
   <string name="wechat_copying_video_dialog_title">Exporta-ho a la galeria</string>
   <string name="wechat_copying_video_empty">No hi ha vídeos per exportar</string>
   <string name="wechat_copying_video_success">S\'ha exportat amb èxit</string>
+  <string name="wechat_qq_activity_title">Neteja intensiva</string>
   <string name="wechat_qq_celan_tab_file">Fitxers</string>
   <string name="wechat_qq_celan_tab_image">Images</string>
   <string name="wechat_qq_celan_tab_video">Vídeos</string>

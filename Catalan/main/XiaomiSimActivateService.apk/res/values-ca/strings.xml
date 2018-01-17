@@ -3,12 +3,12 @@
 <resources>
   <string name="accept">D\'acord</string>
   <string name="activate">Activa</string>
-  <string name="activate_auto_sms_notification_desc_1_card">S\'ha enviat SMS per activar «Troba dispositiu»</string>
-  <string name="activate_auto_sms_notification_desc_2_cards">S\'ha enviat SMS des de la targeta SIM %s per activar «Troba dispositiu»</string>
+  <string name="activate_auto_sms_notification_desc_1_card">S\'ha enviat un SMS per activar «Troba el dispositiu»</string>
+  <string name="activate_auto_sms_notification_desc_2_cards">S\'ha enviat SMS des de la targeta SIM %s per activar «Troba el dispositiu»</string>
   <string name="activate_auto_sms_notification_title">Activació de targeta SIM</string>
   <string name="activate_feature_call_log_sync">Sincronització del registre de trucades</string>
   <string name="activate_feature_default_name">Serveis Mi</string>
-  <string name="activate_feature_find_device">Troba dispositiu</string>
+  <string name="activate_feature_find_device">Troba el dispositiu</string>
   <string name="activate_feature_live_talk">Recàrrega</string>
   <string name="activate_feature_mi_roaming">Mi Roaming</string>
   <string name="activate_feature_mms_sync">Sincronització dels missatges</string>

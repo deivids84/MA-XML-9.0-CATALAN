@@ -5,6 +5,10 @@
     <item quantity="other">%1$d trucades de %2$s i altres</item>
     <item quantity="one">%1$d trucada de %2$s</item>
   </plurals>
+  <plurals name="fw_blocked_count_call_one">
+    <item quantity="other">%1$d trucades de %2$s i altres</item>
+    <item quantity="one">%1$d trucada de %2$s</item>
+  </plurals>
   <plurals name="fw_blocked_count_sms">
     <item quantity="other">%d SMS</item>
     <item quantity="one">1 SMS</item>

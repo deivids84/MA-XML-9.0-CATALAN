@@ -67,6 +67,7 @@
   <string name="fingerprint_enter_second_psw_msg_oldman">"No es pot accedir al segon espai mentre esteu en el mode bàsic"</string>
   <string name="fingerprint_enter_second_psw_title">Introduïu la contrasenya del segon espai</string>
   <string name="fingerprint_not_identified_msg">Per desbloquejar el dispositiu, introduïu la contrasenya.</string>
+  <string name="fingerprint_not_identified_msg_lock">Massa intents fallits. Introduïu ara la contrasenya.</string>
   <string name="fingerprint_not_identified_title">Introduïu la contrasenya</string>
   <string name="fingerprint_try_again_msg">"No s'ha pogut verificar l'empremta, torneu-ho a provar."</string>
   <string name="fingerprint_try_again_text">Torna-ho a provar</string>

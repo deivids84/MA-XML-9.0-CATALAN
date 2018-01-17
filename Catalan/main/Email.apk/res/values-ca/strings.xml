@@ -209,8 +209,8 @@
   <string name="auto_advance_help_title">Després d\'eliminar un missatge, consulta&#8230;</string>
   <string name="auto_advance_label">Elimina el flux de missatges</string>
   <string name="auto_advance_summary">Trieu quin missatge es mostrarà després d\'eliminar un missatge</string>
-  <string name="auto_login_fail">Ha fallat l\'inici de sessió automàtic</string>
-  <string name="auto_login_fail_to_retry">Ha fallat l\'inici de sessió automàtic, torneu-ho a provar.</string>
+  <string name="auto_login_fail">"No s'ha pogut iniciar la sessió automàticament"</string>
+  <string name="auto_login_fail_to_retry">"No s'ha pogut iniciar la sessió automàticament, torneu-ho a provar."</string>
   <string name="auto_mail_describe">El servei de correu electrònic de configuració automàtica li pot ajudar a emplenar la informació d\'inici de sessió a la bustia de correu 139. Voleu activar aquesta funció?</string>
   <string name="auto_mail_disable_txt">Desactivat</string>
   <string name="auto_mail_enable_txt">Configuració inicial</string>
@@ -228,6 +228,8 @@
   <string name="bank_card_detail">Detalls de la targeta de crèdit</string>
   <string name="battery_saver">Estalvi de bateria</string>
   <string name="battery_saver_keywords">estalvi de bateria;bateria de correu</string>
+  <string name="bcc">Cco</string>
+  <string name="bcc_heading">"Cco: "</string>
   <string name="bill_center_setting">Configuració de la facturació</string>
   <string name="bill_center_setting_head">Importa informació d\'aquests comptes</string>
   <string name="bill_cycle_text">Cicle de facturació</string>
@@ -249,6 +251,8 @@
   <string name="cancel_pop3_attchemt_downloading">"No es poden cancel·lar les baixades en curs dels fitxers adjunts als comptes POP3"</string>
   <string name="cant_move_or_change_labels">"\"\"No es pot moure perquè la selecció conté diversos 
          comptes.\"\""</string>
+  <string name="cc_attribution">Cc: %1$s</string>
+  <string name="cc_bcc">Cc/Cco</string>
   <string name="change_folders_selection_dialog_title">Canvia carpetes</string>
   <string name="change_sync_settings">Canvia la configuració de sincronització</string>
   <string name="changepw_dialog_tips">Torneu a introduir la contrasenya per %s</string>
@@ -809,9 +813,9 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="push_wps_confirm_message">Prova a utilitzar WPS Office per obrir aquest fitxer adjunt.</string>
   <string name="push_wps_confirm_title">Provar WPS Office</string>
   <string name="push_wps_no_response_app">No s\'ha trobat l\'aplicació per gestionar aquesta acció</string>
-  <string name="qq_auto_login_failed_cpy_pass_success">S\'ha copiat amb èxit; torneu a la pàgina d\'inici de sessió i enganxeu-lo per completar el camp de contrasenya</string>
-  <string name="qq_auto_login_failed_dialog_message">Copieu el codi d\'autorització, després torneu a la pàgina d\'inici de sessió i toqueu «Introduïu el nom d\'usuari i contrasenya per iniciar sessió»; enganxeu-lo per completar el camp de contrasenya per iniciar sessió manualment</string>
-  <string name="qq_auto_login_failed_dialog_positive_label">Copia el codi d\'autorització</string>
+  <string name="qq_auto_login_failed_cpy_pass_success">S\'ha copiat amb èxit. Torneu a la pàgina d\'inici de sessió i enganxeu el codi al formulari de la contrasenya.</string>
+  <string name="qq_auto_login_failed_dialog_message">Copieu el codi de verificació, toqueu «Introdueix el nom d\'usuari i la contrasenya per iniciar la sessió» a la pàgina d\'inici de sessió i enganxeu el codi al formulari de la contrasenya.</string>
+  <string name="qq_auto_login_failed_dialog_positive_label">Copia el codi</string>
   <string name="qq_bar_open_imap">Activa</string>
   <string name="qq_bar_send_message">Envia SMS</string>
   <string name="qq_login_basecode">S\'està iniciant sessió al correu QQ a través de la pagina web. Introduïu la contrasenya independent.</string>
@@ -901,6 +905,10 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="reply_all">Respon a tots</string>
   <string name="reply_attribution" formatted="false">En %s, %s va escriure:</string>
   <string name="report_phishing">Denunciar phishing</string>
+  <string name="report_rendering_improvement">Pinta bé</string>
+  <string name="report_rendering_improvement_desc">Aquest missatge pinta bé.</string>
+  <string name="report_rendering_problem">Pinta malament</string>
+  <string name="report_rendering_problem_desc">Aquest missatge pinta malament.</string>
   <string name="report_spam">Denunciar spam</string>
   <string name="request_entity_large">El fitxer és massa gran</string>
   <string name="request_permission_activity">Sol·licitud de permís</string>
@@ -1008,6 +1016,7 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="tablet">tauleta tàctil</string>
   <string name="tap_to_configure">Toqui per configurar.</string>
   <string name="tap_to_enable_sync">Toqui per encendre.</string>
+  <string name="to">Per</string>
   <string name="to_heading">"Per: "</string>
   <string name="toast_bar_fail_synchronization">"No es pot connectar a la xarxa"</string>
   <string name="toast_bar_insufficient_memory_space">"No es poden rebre correus. No hi ha prou espai d'emmagatzematge."</string>

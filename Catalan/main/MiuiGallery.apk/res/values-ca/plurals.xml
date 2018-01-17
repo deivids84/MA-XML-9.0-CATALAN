@@ -241,6 +241,18 @@
     <item quantity="other">"No s'ha pogut compartir. Encara s'està processant les foto %d…"</item>
     <item quantity="one">"No s'ha pogut compartir. Encara s'està processant la foto %d…"</item>
   </plurals>
+  <plurals name="slim_complete_photo_count">
+    <item quantity="other">%d fotos optimitzades</item>
+    <item quantity="one">%d foto optimitzada</item>
+  </plurals>
+  <plurals name="slim_exit_dialog_message">
+    <item quantity="other">"No s'ha optimitzat %d fotos. Voleu aturar-lo?"</item>
+    <item quantity="one">"No s'ha optimitzat %d foto. Voleu aturar-lo?"</item>
+  </plurals>
+  <plurals name="slim_remain_photo_count">
+    <item quantity="other">Queden %d fotos</item>
+    <item quantity="one">Queda %d foto</item>
+  </plurals>
   <plurals name="sync_error_title">
     <item quantity="other">"No s'han copiat %d fotos i vídeos"</item>
     <item quantity="one">"No s'ha copiat %d foto or vídeo"</item>

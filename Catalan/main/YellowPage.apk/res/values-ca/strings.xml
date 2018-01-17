@@ -18,6 +18,14 @@
   <string name="agree_to_turn_on">D\'acord</string>
   <string name="all_services">Tots</string>
   <string name="allow">Permet</string>
+  <string name="antispam_curr_version">Versió actual: %d</string>
+  <string name="antispam_data_downloading">S\'està baixant la informació de l\'ID de trucades. Això pot trigar entre 3 i 5 segons.</string>
+  <string name="antispam_data_downloading_error">"No és possible connectar-se a la xarxa"</string>
+  <string name="antispam_local_newest">No hi ha actualitzacions.</string>
+  <string name="antispam_network_remind_summary">Voleu baixar actualitzacions mitjançant dades mòbils?</string>
+  <string name="antispam_network_remind_title">Avís d\'ús de dades</string>
+  <string name="antispam_pull_newest">S\'ha actualitzat amb èxit a la versió %d</string>
+  <string name="antispam_update_version">Cerca actualitzacions</string>
   <string name="app_label">Pàgines grogues</string>
   <string name="app_recommendation_install">Instal·la</string>
   <string name="average_price">Mitjana de %d iuans</string>

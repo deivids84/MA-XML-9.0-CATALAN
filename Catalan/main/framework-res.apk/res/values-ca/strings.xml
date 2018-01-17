@@ -931,7 +931,7 @@ per al compte %s"</string>
   <string name="permlab_disableKeyguard">desactivar la pantalla de bloqueig</string>
   <string name="permlab_enableCarMode">activar el mode de cotxe</string>
   <string name="permlab_expandStatusBar">expandir/col·lapsar la barra d\'estat</string>
-  <string name="permlab_getAccounts">cercar comptes al dispositiu</string>
+  <string name="permlab_getAccounts">trobar comptes al dispositiu</string>
   <string name="permlab_getPackageSize">mesurar de l\'espai d\'emmagatzematge d\'aplicació</string>
   <string name="permlab_getTasks">recuperar aplicacions en execució</string>
   <string name="permlab_handoverStatus">rebre l\'estat de la transferència d\'Android Beam</string>

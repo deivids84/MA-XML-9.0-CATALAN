@@ -589,7 +589,7 @@ Per obtenir més informació, contacteu amb l\'administrador."</string>
   <string name="screen_button_notification_title">Els botons de navegació estan apagats</string>
   <string name="screen_pinning_description">La manté a la vista fins que treguis la fixació. Toca i mantén premut alhora Home i el botó d\'encesa per treure la fixació.</string>
   <string name="screen_pinning_description_accessible">La manté a la vista fins que treguis la fixació. Toca i mantén premut alhora Home i el botó d\'encesa per treure la fixació.</string>
-  <string name="screen_pinning_negative">No gràcies</string>
+  <string name="screen_pinning_negative">No, gràcies</string>
   <string name="screen_pinning_positive">Ho tinc</string>
   <string name="screen_pinning_title">Pantalla fixada</string>
   <string name="screen_zoom_summary_custom">Personalitzat (%d)</string>

@@ -893,7 +893,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="quick_dial_setting_delete_dialog_message">Voleu suprimir el número de marcació ràpida assignat?</string>
   <string name="quick_dial_setting_delete_dialog_option_delete">Suprimeix</string>
   <string name="quick_dial_setting_hint">Toqueu un botó per assignar o suprimir un número de marcació ràpida. Mantingueu premut el botó amb un número assignat per marcar-lo.</string>
-  <string name="quick_dial_setting_set_dialog_message">Voleu assigneu un número de marcació ràpida a aquest botó?</string>
+  <string name="quick_dial_setting_set_dialog_message">Voleu assignar un número de marcació ràpida a aquest botó?</string>
   <string name="quick_dial_setting_set_dialog_option_set">Sí</string>
   <string name="quick_dial_setting_title">Marcació ràpida</string>
   <string name="quickcontact_missing_app">No s\'ha trobat una aplicació per gestionar aquesta acció</string>

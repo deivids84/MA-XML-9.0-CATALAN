@@ -341,7 +341,7 @@ Es mantindran totes les dades d\'usuari prèvies."</string>
   <string name="permission_revoked_none">cap desactivat</string>
   <string name="permission_summary_enforced_by_policy">Imposat per la política</string>
   <string name="permission_title">%1$s permisos</string>
-  <string name="permission_warning_template">Voleu permetre a &lt;b&gt;%1$s&lt;/b&gt; a %2$s?</string>
+  <string name="permission_warning_template">Voleu permetre a %1$s a %2$s?</string>
   <string name="permlab_togglePermissions">commuta els permisos</string>
   <string name="picture_color_mode">Mode de color de la imatge</string>
   <string name="picture_color_mode_desc">Utilitza sRGB</string>

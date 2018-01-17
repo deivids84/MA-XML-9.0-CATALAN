@@ -412,7 +412,7 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="auto_restore_title">Restauració automàtica</string>
   <string name="auto_rule">regla prevista</string>
   <string name="auto_silent">Temps silenciat</string>
-  <string name="auto_startup_application_manage">Auto-inici</string>
+  <string name="auto_startup_application_manage">Inici automàtic</string>
   <string name="auto_sync_account_summary">Permet que les aplicacions actualitzin les dades automàticament</string>
   <string name="auto_sync_account_title">Sincronització automàtica de les dades</string>
   <string name="auto_sync_personal_account_title">Sincronització automàtica de les dades personals</string>
@@ -462,7 +462,7 @@ Darrera execució el %2$s"</string>
   <string name="backup_pw_cancel_button_text">Cancel·la</string>
   <string name="backup_pw_set_button_text">Establiu la contrasenya de la còpia de seguretat</string>
   <string name="backup_section_title">Còpia de seguretat i restauració</string>
-  <string name="band_mode_failed">No s\'ha pogut realitzar</string>
+  <string name="band_mode_failed">Han fallat</string>
   <string name="band_mode_loading">S\'està carregant la llista de les freqüències…</string>
   <string name="band_mode_set">Defineix</string>
   <string name="band_mode_succeeded">S\'ha realitzat</string>
@@ -838,7 +838,7 @@ Taxa de mostreig"</string>
   <string name="bootloader_device_bind_no_account">Primer inicia la sessió al Compte Mi</string>
   <string name="bootloader_device_bind_no_network">Connecteu-vos a la xarxa i torneu-ho a provar</string>
   <string name="bootloader_locked_answer_1">"Bloquejarem els dispositius per assegurar que són segurs i la informació personal no sigui revelada a tercers. Si ha d'accedir al mode Fastboot i en flaixejar el dispositiu, podríeu desbloquejar-lo."</string>
-  <string name="bootloader_locked_answer_1_warning">"Recordeu: No sereu capaços d'utilitzar Cerca el dispositiu després que el telèfon estigui desbloquejat."</string>
+  <string name="bootloader_locked_answer_1_warning">"Recordeu: No sereu capaços d'utilitzar troba el dispositiu després que el telèfon estigui desbloquejat."</string>
   <string name="bootloader_locked_answer_2">"Feu clic al botó de sota per associar el vostre Compte Mi amb aquest dispositiu. A continuació, aneu a la pàgina web de MIUI per baixar l'eina de desbloqueig i instal·lar-la a l'ordinador. Aquí està l'adreça:"</string>
   <string name="bootloader_locked_check_status">Afegeix un compte i el dispositiu</string>
   <string name="bootloader_locked_question_1">Per què s\'han de bloquejar els dispositius?</string>
@@ -966,7 +966,7 @@ Taxa de mostreig"</string>
   <string name="check_update">Comprova les actualitzacions</string>
   <string name="checkbox_notification_same_as_incoming_call">Utilitza el volum de les trucades entrants per a les notificacions</string>
   <string name="checking_decryption">S\'està comprovant&#8230;</string>
-  <string name="checking_find_device_status">S\'està comprovant l\'estat de Localitza el dispositiu&#8230;</string>
+  <string name="checking_find_device_status">S\'està comprovant l\'estat de troba el dispositiu…</string>
   <string name="checking_for_updates">S\'estan cercant actualitzacions&#8230;</string>
   <string name="choose_profile">Trieu el perfil</string>
   <string name="choose_smartcover_type">Trieu el tipus de funda</string>
@@ -1676,10 +1676,10 @@ Per obtenir més informació, contacteu amb l\'administrador de l\'organització
   <string name="face_unlock_disable">El desbloqueig facial està desactivat</string>
   <string name="face_unlock_enable">El desbloqueig facial està activat</string>
   <string name="factory_reset_summary">"Esborra totes les dades de l'emmagatzematge intern del telèfon"</string>
-  <string name="failed_to_check_find_device_status_content">"No s'ha pogut comprovar l'estat de Localitza el dispositiu. Espereu-vos un minut o dos i torneu-ho a provar."</string>
+  <string name="failed_to_check_find_device_status_content">"No s'ha pogut comprovar l'estat de troba el dispositiu. Espereu-vos un minut o dos i torneu-ho a provar."</string>
   <string name="failed_to_check_find_device_status_title">"No s'ha pogut comprovar l'estat"</string>
   <string name="failed_to_open_app_settings_toast">No s\'ha pogut obrir la configuració de %1$s</string>
-  <string name="failed_to_shut_down_find_device_content">"No s'ha pogut comprovar l'estat de Localitza el dispositiu. Espereu-vos un minut o dos i torneu-ho a provar."</string>
+  <string name="failed_to_shut_down_find_device_content">"No s'ha pogut desactivar troba el dispositiu. Espereu un minut o dos i torneu-ho a provar."</string>
   <string name="failed_to_shut_down_find_device_title">"No s'ha pogut desactivar Localitza el dispositiu"</string>
   <string name="fcc_equipment_id">ID de l\'equip</string>
   <string name="file_privacy_password_role_instruction">Els vostres fitxers privats es desaran aquí.</string>
@@ -2630,7 +2630,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="my_device_disclaimer">Nota: la informació de maquinari, incloent la CPU, capacitat de la bateria, mida de pantalla, resolució i la càmera, és proporcionada pels laboratoris de Xiaomi, dissenyadors i proveïdors.</string>
   <string name="n_cacrts">%d certificats de CA</string>
   <string name="nature_color">Per defecte</string>
-  <string name="navigation_guide_back_anim_summary">Gest cap enrere amb animació</string>
+  <string name="navigation_guide_back_anim_summary">"Gest cap enrere amb animació"</string>
   <string name="navigation_guide_back_anim_title">Animació del gest cap enrrere</string>
   <string name="navigation_guide_back_summary">Llisqueu cap a l\'esquerra o cap a la dreta des de la pantalla</string>
   <string name="navigation_guide_back_title">Torna a la darrera pàgina</string>
@@ -3918,9 +3918,9 @@ Nota: no podeu utilitzar la vostra empremta per desbloquejar aquest dispositiu. 
   <string name="show_touches_summary">Mostra la ubicació dels tocs a la pantalla</string>
   <string name="show_user_info_on_lockscreen_label">Mostra informació del propietari a la pantalla de bloqueig</string>
   <string name="shut_down_find_device_failure_confirm">D\'acord</string>
-  <string name="shut_down_find_device_network_failure_content">"No s'ha pogut apagar Localitza el dispositiu. Assegureu-vos que el dispositiu és connectat a Internet."</string>
+  <string name="shut_down_find_device_network_failure_content">"No s'ha pogut desactivar troba el dispositiu. Assegureu-vos que el dispositiu està connectat a Internet."</string>
   <string name="shut_down_find_device_network_failure_title">"No s'ha pogut connectar a la xarxa"</string>
-  <string name="shuting_down_find_device">S\'està apagant Localitza el dispositiu&#8230;</string>
+  <string name="shuting_down_find_device">S\'està desactivant troba el dispositiu…</string>
   <string name="silent_duration">Durada</string>
   <string name="silent_mode">Mode silenci</string>
   <string name="silent_mode_title">Mode silenci</string>
@@ -4350,7 +4350,7 @@ La sincronització de dades que ha ideat Google per tal de permetre l\'accés al
   <string name="system_alert_window_apps_title">Aplicacions</string>
   <string name="system_alert_window_on">Sí</string>
   <string name="system_alert_window_settings">Mostra a sobre d\'altres aplicacions</string>
-  <string name="system_alert_window_summary" formatted="false">%d de %d aplicacions es poden mostrar a sobre d\'altres aplicacions</string>
+  <string name="system_alert_window_summary">%d de %d aplicacions es poden mostrar a sobre d\'altres aplicacions</string>
   <string name="system_and_device_section_title">Sistema i dispositiu</string>
   <string name="system_app">(Sistema)</string>
   <string name="system_app_settings">Aplicacions del sistema</string>
@@ -4548,9 +4548,7 @@ Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloq
 
 Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloquejar el telèfon, autoritzar compres o iniciar la sessió a les aplicacions."</string>
   <string name="unlock_disable_frp_warning_content_pin_profile">Les funcions de protecció del dispositiu no funcionaran sense el PIN.</string>
-  <string name="unlock_disable_frp_warning_content_profile">"Les característiques de protecció del perfil no funcionaran sense la vostra contrasenya.
-
- No podreu desbloquejar el perfil, autoritzar compres ni iniciar sessió a les aplicacions."</string>
+  <string name="unlock_disable_frp_warning_content_profile">"Les característiques de protecció del perfil no funcionaran sense la vostra contrasenya."</string>
   <string name="unlock_disable_frp_warning_content_unknown">Les funcions de protecció del dispositiu no funcionaran sense la pantalla de bloqueig.</string>
   <string name="unlock_disable_frp_warning_content_unknown_fingerprint">«Les funcions de protecció del dispositiu no funcionaran sense la pantalla de bloqueig.
 
@@ -4737,7 +4735,7 @@ Qualsevol usuari pot acceptar una actualització de permisos d\'una aplicació e
   <string name="user_dict_settings_edit_dialog_title">Edita la paraula</string>
   <string name="user_dict_settings_empty_text">«No hi ha cap diccionari
 Afegiu una paraula tocant el botó Afegeix (+)»</string>
-  <string name="user_dict_settings_more_languages">Més idiomes&#8230;</string>
+  <string name="user_dict_settings_more_languages">Més idiomes…</string>
   <string name="user_dict_settings_title">Diccionari personal</string>
   <string name="user_enable_calling">Activa les trucades telefòniques</string>
   <string name="user_enable_calling_and_sms_confirm_message">Es compartirà amb aquest usuari l\'historial de trucades i de SMS.</string>
@@ -5415,7 +5413,7 @@ Toqueu \"&lt;b&gt;Enrere&lt;/b&gt; per connectar a una altra xarxa Wi-Fi.</strin
   <string name="wrong_pin_code_pukked">El codi PIN de la SIM no és correcte. Heu de contactar amb l\'operador de telefonia mòbil per a desbloquejar el dispositiu.</string>
   <string name="xiaomi_account">Compte Mi</string>
   <string name="xiaomi_cloud_service">Cloud Mi</string>
-  <string name="xiaomi_cloud_service_description">El Mi Cloud sincronitza contactes, fotos i altres elements a través dels vostres dispositius. «Cerca el dispositiu» també requereix que Mi Cloud funcioni correctament.</string>
+  <string name="xiaomi_cloud_service_description">El Mi Cloud sincronitza contactes i fotos, fa còpies de seguretat de les aplicacions i de les configuracions i us ajuda a trobar el telèfon mitjançant troba el dispositiu.</string>
   <string name="xiaomi_cloud_service_disabled">Desactivat</string>
   <string name="xiaomi_cloud_service_unknown">Desconegut</string>
   <string name="xiaomi_money_service">Credit Mi</string>

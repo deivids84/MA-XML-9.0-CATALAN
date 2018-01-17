@@ -158,7 +158,7 @@
   <string name="group_folder">Carpeta nova</string>
   <string name="group_live_folders">Carpetes</string>
   <string name="group_shortcuts">Dreceres</string>
-  <string name="guide_install_app_msg">"L'aplicació no està instal·lada. La voleu trobar i baixar ara?"</string>
+  <string name="guide_install_app_msg">"L'aplicació no està instal·lada al dispositiu. Voleu cercar-la i instal·lar-la?"</string>
   <string name="guide_install_app_title">Voleu trobar i instal·lar l\'aplicació?</string>
   <string name="guide_tips_editing_mode">Manteniu premut per triar un giny</string>
   <string name="home_screen">Pantalla d\'inici</string>
@@ -261,6 +261,7 @@
   <string name="sort_by_not_defined">Ordena automàticament</string>
   <string name="start_activity_failed">"No es pot iniciar el llançador"</string>
   <string name="starting_preset_app">S\'està iniciant&#8230;</string>
+  <string name="status_bar_notification_info_overflow">+999</string>
   <string name="status_downloaded">Baixat</string>
   <string name="status_downloading">S\'està baixant</string>
   <string name="status_installing">S\'està instal·lant</string>

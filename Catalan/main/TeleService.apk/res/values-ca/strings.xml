@@ -1418,7 +1418,7 @@ Les funcions relacionades amb el PIN2 es bloquejaran després d\'un altre intent
   <string name="telocation_countrycode_alert_title">Alerta</string>
   <string name="telocation_custom_empty">Afegiu un número tocant el botó més (+)</string>
   <string name="telocation_custom_location_summary">Organitza els codis d\'àrea i els números de grup desats</string>
-  <string name="telocation_custom_location_title">Les meves localitzacions</string>
+  <string name="telocation_custom_location_title">Les meves ubicacions</string>
   <string name="telocation_custom_name_hint">Nom</string>
   <string name="telocation_custom_number_hint">Codi d\'àrea o número de grup</string>
   <string name="telocation_edit_custom_location_title">Configura la ubicació</string>

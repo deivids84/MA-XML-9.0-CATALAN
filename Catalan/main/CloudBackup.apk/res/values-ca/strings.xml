@@ -13,7 +13,7 @@
   <string name="backing_up_to_micloud">Realitzant còpia de seguretat&#8230;</string>
   <string name="backup_fail_wifi_needed">"No s'ha pogut fer la còpia de seguretat, es necessita Wi-Fi."</string>
   <string name="backup_finished_notification_content">Còpia de seguretat d\'aplicacions pantalla d\'inici, configuració del sistema, etc.</string>
-  <string name="backup_now">Fes ara la còpia de seguretat</string>
+  <string name="backup_now">Fes la còpia de seguretat</string>
   <string name="backup_size">Mida: %s</string>
   <string name="backup_success">Còpia realitzada amb èxit</string>
   <string name="backup_successfully">Còpia realitzada amb èxit</string>
@@ -63,7 +63,7 @@ Nota: Les dades de les aplicacions instal·lades no es copiaran al Mi Cloud."</s
   <string name="cloud_backup">Còpies de seguretat del Mi Cloud</string>
   <string name="cloud_backup_derail_size_summary">Mida: %s</string>
   <string name="cloud_backup_detail_frequence">Programació de la còpia</string>
-  <string name="cloud_backup_detail_manage">Administra còpies</string>
+  <string name="cloud_backup_detail_manage">Gestiona les còpies de seguretat</string>
   <string name="cloud_backup_detail_state">Còpies de seguretat automàtiques</string>
   <string name="cloud_backup_detail_state_summary">Crea còpies de seguretat de Mi Cloud automàticament quan estigueu connectat a la Wi-Fi.</string>
   <string name="cloud_backup_detail_time">Darrera còpia: %1$s</string>

@@ -24,6 +24,7 @@
   <string name="access_control_need_password">"S\'ha afegit %s amb èxit
 "</string>
   <string name="access_control_need_to_unlock_nofingerprint">Introduïu la contrasenya de desbloqueig</string>
+  <string name="accessibility_gameboosterservice_description">"Activeu-lo per silenciar les trucades entrants de WeChat quan estigueu jugant"</string>
   <string name="action_button_text_100">Optimitza</string>
   <string name="action_button_text_60">Arregla</string>
   <string name="action_button_text_60_80">Arregla</string>
@@ -76,7 +77,6 @@
   <string name="after_the_lock_screen">Bloqueja aplicacions juntament amb la pantalla</string>
   <string name="all_address_choose_hint">Tots els números d\'aquesta província</string>
   <string name="already_close_gamebooster">L\'accelerador de velocitat dels jocs està desactivat</string>
-  <string name="anim_gamebooster_text">Un moment…</string>
   <string name="anti_disturb_msg_detail">Desactiva les notificacions excepte per a les trucades entrants</string>
   <string name="anti_disturb_msg_title">No molesteu</string>
   <string name="antispam_mode_details">detalls del mode d\'intercepció</string>
@@ -115,7 +115,7 @@
   <string name="antivirus_update_btn_update">Actualitza</string>
   <string name="apn_exception_summary">"Configuracions de prova de companyia Nom Punt d'Accés"</string>
   <string name="apn_exception_title">Comprovar configuració d\'APN</string>
-  <string name="app_bg_restrict_dialog_message">La restricció de la connexió de xarxa en segon pla pot evitar que l\'aplicació funcioni normalment. Per exemple, pot ser que ja no pugui rebre missatges o actualitzar el contingut. Voleu restringir-la de totes maneres?</string>
+  <string name="app_bg_restrict_dialog_message">La restricció de la connexió de xarxa en segon pla pot evitar que l\'aplicació funcioni correctament. Per exemple, pot ser que deixi de rebre missatges o actualitzar el contingut.</string>
   <string name="app_check_no_issue">Sembla que no hi ha problemes amb la bateria. Genial!</string>
   <string name="app_detail">Detalls</string>
   <string name="app_error_tip_for_launcher">"Els components del maquinari o la versió del sistema Android del vostre dispositiu poden causar problemes de compatibilitat i fer que algunes aplicacions no funcionin bé, s'alenteixin o s'aturin definitivament. Si teniu aquests problemes, envieu el vostre feedback als desenvolupadors de l'aplicació."</string>
@@ -186,8 +186,10 @@
   <string name="app_manager_manage_space">Gestiona l\'espai</string>
   <string name="app_manager_memory">RAM</string>
   <string name="app_manager_menu_clear_data">Suprimeix les dades</string>
+  <string name="app_manager_mobile_slot1">Dades mòbils (SIM 1)</string>
+  <string name="app_manager_mobile_slot2">Dades mòbils (SIM 2)</string>
   <string name="app_manager_net_control_title">Restricció d\'ús de dades</string>
-  <string name="app_manager_net_mobile">Mòbil</string>
+  <string name="app_manager_net_mobile">Dades mòbils</string>
   <string name="app_manager_net_wifi">Wi-Fi</string>
   <string name="app_manager_not_allow">No</string>
   <string name="app_manager_not_support_uninstall">"No es pot desinstal·lar aquestes aplicacions"</string>
@@ -258,7 +260,7 @@
   <string name="apps_item_sign_dialog_content">"\"%s\"signatura és diferent de la versió de l'App Store. Eliminar aquesta aplicació i instal·lar la versió oficial? Nota: la instal·lació d'una aplicació amb una signatura en conflicte pot conduir a la pèrdua de dades de l'aplicació."</string>
   <string name="apps_item_sign_dialog_title">Instal·lar versió oficial de l\'aplicació</string>
   <string name="apps_item_sign_install_button_text">Reemplaçar</string>
-  <string name="apps_item_sms_default_set_success">Configurat correctament!</string>
+  <string name="apps_item_sms_default_set_success">S\'ha establert amb èxit</string>
   <string name="apps_item_sms_reset_button_text">Restaura els valors per defecte</string>
   <string name="apps_item_sms_title">Configuració de missatgeria per defecte</string>
   <string name="apps_item_summary_sms">%s té accés als seus missatges, pot causar problemes de seguretat</string>
@@ -334,10 +336,10 @@
   <string name="back_app_name">Torna al bloqueig d\'aplicacions</string>
   <string name="back_description_securitycenter">Enrere</string>
   <string name="back_modifypassword">Vés enrere per canviar la contrasenya</string>
-  <string name="back_sound_data">Requereix d\'accés a la xarxa mòbil, torneu-ho a provar.</string>
-  <string name="back_sound_fail">Ha fallat! Degut a la modificació de la interfície de l\'operador, podeu intentar canviar la targeta SIM actual a la targeta de xarxa i tornar-ho a provar.</string>
-  <string name="back_sound_success">Correcte</string>
-  <string name="back_sound_support">"Els operadors de xarxa actuals no són compatibles"</string>
+  <string name="back_sound_data">Activeu les dades mòbils i torneu-ho a provar.</string>
+  <string name="back_sound_fail">"No s'ha pogut configurar. S'ha canviat la configuració de l'operador. Establiu la targeta SIM actual com a targeta de dades, connecteu-vos a la xarxa i torneu-ho a provar."</string>
+  <string name="back_sound_success">S\'ha establert amb èxit</string>
+  <string name="back_sound_support">"La xarxa del vostre operador no és compatible amb aquesta configuració."</string>
   <string name="background_restrict_app_dialog_message">La restricció de l\'accés a la xarxa en segon pla per a aquesta aplicació pot fer que l\'aplicació no funcioni correctament, rebre missatges, baixar contingut, etc. Voleu restringir-lo de totes maneres?</string>
   <string name="background_traffic">Fons %s</string>
   <string name="backsound_set_hint">Voleu configurar un missatge d\'absència per a %s?</string>
@@ -401,7 +403,7 @@
   <string name="brand_diagnostic">Diagnòstics de l\'operador</string>
   <string name="btn_back">Enrere</string>
   <string name="btn_finish_diagnostic">D\'acord</string>
-  <string name="btn_start_diagnostic">Comproveu l\'estat de la xarxa</string>
+  <string name="btn_start_diagnostic">Comprova la xarxa</string>
   <string name="btn_stop_diagnostic">Atura</string>
   <string name="btn_text_already_opened">Encès</string>
   <string name="btn_text_goto_power_rank">Veure la classificació de la bateria</string>
@@ -490,7 +492,7 @@
   <string name="charging_text_battery_full_time">"Última càrrega "</string>
   <string name="charging_text_battery_nearly_full">Quasi carregada</string>
   <string name="charging_text_battery_perfect">Càrrega completa</string>
-  <string name="check_network_state">Comproveu l\'estat de la xarxa</string>
+  <string name="check_network_state">Comprovació de la xarxa</string>
   <string name="choose">Triar</string>
   <string name="clean_immediately">Neteja</string>
   <string name="cleaned">Netejat</string>
@@ -607,8 +609,8 @@
   <string name="dlg_keyword_ok">Desa</string>
   <string name="dlg_message_not_open_stranger_identify">Per activar aquesta funció, aneu a Configuració &gt; Telèfon.</string>
   <string name="dlg_move_to_white">Afegeix a excepcions</string>
-  <string name="dlg_no_block">"Voleu desbloqueja aquest número i restaurar-ne les trucades d\'aquest número a l\'historial de trucades?
-(El número s\'afegirà a la llista blanca)"</string>
+  <string name="dlg_no_block">"Voleu desbloqueja aquest número de telèfon?
+S\'afegirà a les excepcions, però els elements bloquejats anterioment no apareixeran a l\'historial de trucades."</string>
   <string name="dlg_no_block_ok">Desbloqujea</string>
   <string name="dlg_not_block_call">"Voleu desbloquejar els números seleccionats? S'afegiran a les excepcions, però els elements bloquejats anteriorment no apareixeran a l'historial de trucades."</string>
   <string name="dlg_not_block_sms">"Voleu desbloquejar els números seleccionats? S'afegiran a les excepcions, però els ítems bloquejats anteriorment no apareixeran a la safata d'entrada dels missatges."</string>
@@ -677,7 +679,7 @@
   <string name="firewall_mobile_dialog_message">"L'aplicació instal·lada no podrà connectar-se a Internet utilitzant dades mòbils quan aquest interruptor està desactivat."</string>
   <string name="firewall_network_allow">S\'ha permès a %1$s a utilitzar la connexió %2$s</string>
   <string name="firewall_network_restrict_notify_message">Tocar per canviar la configuració.</string>
-  <string name="firewall_network_restrict_notify_mobile">dades mòbils</string>
+  <string name="firewall_network_restrict_notify_mobile">Dades mòbils</string>
   <string name="firewall_partial">Permet que algunes aplicacions es connectin utilitzant el següent mètode</string>
   <string name="firewall_restrict_all">Restringeix la connexió per a totes les aplicacions utilitzant el següent mètode</string>
   <string name="firewall_restrict_android_dialog_content">Per assegurar que el dispositiu funciona amb normalitat, alguna aplicacions d\'Android es connectaran a internet de totes formes. Aquestes aplicacions faran servir la teva connexió de dades i poden ocasionar lleugeres despeses amb el teu proveïdor.</string>
@@ -1066,11 +1068,11 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="net_delay_title">Retard</string>
   <string name="net_overdue">Sessió finalitzada</string>
   <string name="network_blocked_connected_open_wifi">Connectat a xarxa pública</string>
-  <string name="network_blocked_notification_summary">Comproveu l\'estat de la xarxa</string>
+  <string name="network_blocked_notification_summary">Comprovació de la xarxa</string>
   <string name="network_blocked_switch_wifi">Canvia xarxes</string>
-  <string name="network_connected_exception_title">Comproveu l\'estat de la xarxa</string>
+  <string name="network_connected_exception_title">Comprovació de la xarxa</string>
   <string name="network_control">Veure paràmetres de l\'aplicació</string>
-  <string name="network_diagnostics">Comproveu l\'estat de la xarxa</string>
+  <string name="network_diagnostics">Comprovació de la xarxa</string>
   <string name="network_mobile_exception_detail">"El dispositiu no es pot connectar a internet:
 
  1. Assegureu-vos que no heu superat el límit de dades mòbils del pla del vostre operador.
@@ -1313,6 +1315,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="power_btn_analyze">Analitza l\'ús de la bateria</string>
   <string name="power_cell">Telèfon en espera</string>
   <string name="power_center_auto_shutdown">Programar encesa i apagat</string>
+  <string name="power_center_back">Torna a l\'energia</string>
   <string name="power_center_charge_time">%1$sper completar la càrrega</string>
   <string name="power_center_ontime_boot">Hora d\'encesa</string>
   <string name="power_center_ontime_shutdown">Hora d\'apagat</string>
@@ -1362,7 +1365,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="power_save_title_text">Estalvi de bateria</string>
   <string name="power_screen">Pantalla</string>
   <string name="power_settings_category_title">Indicador de bateria</string>
-  <string name="power_settings_number">Amb el percentatge</string>
+  <string name="power_settings_number">Percentatge</string>
   <string name="power_settings_saver_title">Estalvi d\'energia</string>
   <string name="power_settings_shape">Gràfic</string>
   <string name="power_settings_title">Configuració</string>
@@ -1546,7 +1549,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="sc_allow_network_dialog_message">Cal permetre a aquesta aplicació connectar-se a internet perquè funcioni normalment.</string>
   <string name="sc_allow_network_dialog_tiltle">"No es pot fer servir l'Estalvi de dades"</string>
   <string name="sc_system_risk_fix_info_xspace">"Això no es pot resoldre en el segon espai. Torneu-ho a provar al primer espai."</string>
-  <string name="sc_warning_updater_not_found">No s\'ha trobat l\'Actualitzador. No es pot actualitzar!</string>
+  <string name="sc_warning_updater_not_found">"No s'ha pogut trobar l'aplicació Actualitzador."</string>
   <string name="scan_installed_games">S\'està comprovant els jocs instal·lats…</string>
   <string name="scan_status_risk">Arriscat</string>
   <string name="scan_status_safe">Segur</string>
@@ -1732,8 +1735,8 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="st_title_call_wait_setting">Trucada en espera</string>
   <string name="st_title_editblacklist">Edita la llista de bloqueig</string>
   <string name="st_title_editwhitelist">Edita les excepcions</string>
-  <string name="st_title_keywords_blacklist">Llista negra de paraules clau</string>
-  <string name="st_title_keywords_whitelist">Llista blanca de paraules clau</string>
+  <string name="st_title_keywords_blacklist">Llista de bloqueig de paraules clau</string>
+  <string name="st_title_keywords_whitelist">Excepcions de paraules clau</string>
   <string name="st_title_man_addblacklist">Afegeix el número a la llista de bloqueig</string>
   <string name="st_title_man_addwhitelist">Afegeix el número de telèfon a les excepcions</string>
   <string name="st_title_man_editblacklist">Trieu un codi d\'àrea per afegir a la llista de bloqueig</string>
@@ -1918,7 +1921,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="title_dev_no">Opcions de desenvolupador activades</string>
   <string name="title_dev_yes">Opcions de desenvolupador desactivades</string>
   <string name="title_device_not_root">"L'accés arrel no s'ha concedit"</string>
-  <string name="title_find_device">Activa Trobar dispositiu</string>
+  <string name="title_find_device">Troba el dispositiu</string>
   <string name="title_flow_notification">Informe d\'ús de dades</string>
   <string name="title_flow_purchase">Hora de recarregar</string>
   <string name="title_flow_rank">Ús de dades mòbils</string>
@@ -1967,7 +1970,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="toast_lockscreen_glogin_empty_password">Es requereix contrasenya</string>
   <string name="toast_network_eror">"No s'ha pogut connectar a la xarxa"</string>
   <string name="toast_network_switch">Aquesta aplicació pot connectar-se a internet</string>
-  <string name="toast_reject_sms_read_permission_success">Configurat amb èxit!</string>
+  <string name="toast_reject_sms_read_permission_success">S\'ha establert amb èxit</string>
   <string name="toast_removed_from_virus_white_list">S\'ha eliminat de les excepcions. L\'element serà escanejat la propera vegada.</string>
   <string name="toast_root_apply_accept">Accés root concedit a %s</string>
   <string name="toast_root_apply_reject">Accés root denegat a %s</string>
@@ -2076,7 +2079,7 @@ Dades extres en ús"</string>
   <string name="website">Pàgina web</string>
   <string name="whitelist_prefix_add_hint">Afegeix tots els números amb prefix a les excepcions</string>
   <string name="wifi_exception_summary">Comprovar connexions de xarxa Wi-Fi disponibles</string>
-  <string name="wifi_exception_title">Comproveu l\'estat de la xarxa Wi-Fi</string>
+  <string name="wifi_exception_title">Comprovació de la xarxa Wi-Fi</string>
   <string name="wifi_item_status_connection_no">No connectat</string>
   <string name="wifi_item_title_arp_attack">Atacs ARP</string>
   <string name="wifi_item_title_connection">Connexió Wi-Fi</string>
