@@ -24,15 +24,15 @@
   <string name="ac_mode_dry">Deshumidificació</string>
   <string name="ac_mode_fan">Ventilador</string>
   <string name="ac_mode_hot">Calefacció</string>
-  <string name="ac_power_off">Apaga</string>
-  <string name="ac_power_on">Encén</string>
+  <string name="ac_power_off">Atura</string>
+  <string name="ac_power_on">Engega</string>
   <string name="ac_set_timer_title_text">Seleccioneu l\'hora i premeu el botó de temporitzador a l\'AC</string>
   <string name="accept">D\'acord</string>
   <string name="activity_stb_list_title">Trieu descodificador</string>
   <string name="actor_intro_title_text">Repartiment</string>
   <string name="add">Afegeix</string>
   <string name="add_control">Afegeix control remot</string>
-  <string name="add_control_frame">Afegeix control remot %1$s</string>
+  <string name="add_control_frame">Afegeix comandament %1$s</string>
   <string name="add_device">Afegeix dispositiu</string>
   <string name="add_device_match_desc_bottom">3. Trieu %1$s per verificar la connexió</string>
   <string name="add_device_match_desc_center">2. Premeu el botó</string>
@@ -42,7 +42,7 @@
   <string name="add_fav_channel_hint">Afegeix més canals favorits</string>
   <string name="add_more">Afegeix més dispositius d\'infraroig</string>
   <string name="add_new_box">Afegeix un descodificador</string>
-  <string name="add_new_control">Afegeix control remot</string>
+  <string name="add_new_control">Afegeix comandament</string>
   <string name="add_new_stb">Afegeix un descodificador</string>
   <string name="add_new_tv">Afegeix TV&#8230;</string>
   <string name="add_new_tv_power_only">Afegeix interruptor de TV&#8230;</string>
@@ -121,7 +121,7 @@
   <string name="bind_stb_dlg">Emparella el descodificador per canviar els canals</string>
   <string name="bind_stb_dlg_2">Afegiu primer el descodificador</string>
   <string name="bind_stb_dlg_agree">Emparella</string>
-  <string name="brand_search_box_hint">Selecciona fabricant</string>
+  <string name="brand_search_box_hint">Seleccioneu fabricant</string>
   <string name="brand_title_all">Totes</string>
   <string name="brand_title_hot">Popular</string>
   <string name="brand_title_other">Una altra</string>
@@ -211,7 +211,7 @@ Proveu el següent per solucionar el problema:
   <string name="decrease">Disminueix</string>
   <string name="delete">Esborra</string>
   <string name="delete_confirm">Voleu suprimir el dispositiu?</string>
-  <string name="delete_desc">"No podreu controlar \"%s\" amb Mi control remot."</string>
+  <string name="delete_desc">"No podreu controlar \"%s\" amb Mi Control."</string>
   <string name="delete_device_frame">Voleu eliminar %1$s?</string>
   <string name="delete_frame">Voleu eliminar \"%1$s\"?</string>
   <string name="delete_navigate_view_cancel_button_text">Cancel·la</string>
@@ -388,7 +388,7 @@ Proveu el següent per solucionar el problema:
   <string name="guid_one">Connecteu el dispositiu a la mateixa xarxa Wi-Fi que el telèfon.</string>
   <string name="guid_three">"Alguns controls podrien no estar disponibles si el vostre televisor o descodificador no és compatible amb Android."</string>
   <string name="guid_two">Els dispositius es detectaran i es mostraran en aquesta pàgina.</string>
-  <string name="guid_zero">"El dispositiu no admet els dispositius IR, però és compatible amb els controls remots Wi-Fi."</string>
+  <string name="guid_zero">"El vostre dispositiu no es apte per controlar via IR, però ho pot fer via Wi-Fi."</string>
   <string name="guide">Guia</string>
   <string name="guide_title_one">"El telèfon no pot controlar dispositius infrarojos"</string>
   <string name="guide_title_three">Ús</string>
@@ -396,7 +396,7 @@ Proveu el següent per solucionar el problema:
   <string name="has_installed">Instal·lat</string>
   <string name="hd_channel_preferred">Descodificador HD</string>
   <string name="help">Utilitzeu l\'ajuda</string>
-  <string name="history_none">"No n'heu vist cap de vídeo."</string>
+  <string name="history_none">"No heu vist cap vídeo."</string>
   <string name="history_title">Historial</string>
   <string name="home">Inici</string>
   <string name="home_pad_ac_status">%1$d ℃ %2$s</string>
@@ -450,7 +450,7 @@ Proveu el següent per solucionar el problema:
   <string name="ir_device_tv">TV</string>
   <string name="ir_device_water_heater">Escalfador d\'aigua</string>
   <string name="ir_device_wifi">Comandament Wi-Fi</string>
-  <string name="ir_not_supported_devices">"*Algun TV Mi/descodificador no operen amb IR, utilitzeu comandament WiFi"</string>
+  <string name="ir_not_supported_devices">"* MI TV 3/MI TV Bar/MI BOX 3/MI Box no admeten IR. Proveu amb un comandament WiFi."</string>
   <string name="jump_to_mivideo">Visionat en un dispositiu mòbil</string>
   <string name="just_now">Ara mateix</string>
   <string name="just_used">Ara mateix</string>
@@ -497,7 +497,7 @@ Proveu el següent per solucionar el problema:
   <string name="management_video_favor">Historial i preferits</string>
   <string name="management_video_recent_watch">Vist recentment</string>
   <string name="match_ac_intro_mode">Allibereu quan l\'AC es posi en mode refredament</string>
-  <string name="match_ac_intro_power">Allibereu quan l\'AC s\'aturi</string>
+  <string name="match_ac_intro_power">Deixeu anar quan l\'AC s\'aturi</string>
   <string name="match_ac_name_mode">Refrigeració</string>
   <string name="match_ac_name_power">Apaga</string>
   <string name="match_ch_inc">Canvia al canal següent?</string>
@@ -521,16 +521,15 @@ Retrocediu per continuar"</string>
   <string name="match_fan_name_open">Engega</string>
   <string name="match_guide_main_frame">Apunteu el dispositiu a %1$s</string>
   <string name="match_guide_sub_frame">S\'han aparellat els botons de %1$d</string>
-  <string name="match_intro_power">Allibereu quan el dispositiu arranqui</string>
+  <string name="match_intro_power">Deixeu anar quan l\'equip s\'engegui</string>
   <string name="match_is_respond">El dispositiu respon?</string>
   <string name="match_main_tip_frame">"Apunteu el comandament vers %1$s i premeu el botó mantenint-lo premut
 Deixeu-lo quan %1$s reaccioni"</string>
-  <string name="match_main_tip_frame_click">"Apunteu el comandament vers %1$s i premeu el botó
-Llavors responeu la pregunta"</string>
+  <string name="match_main_tip_frame_click">Apunteu el comandament vers %1$s i premeu el botó\nComproveu que %1$s reacciona</string>
   <string name="match_mibox_first">S\'ha trobat la TV Mi</string>
   <string name="match_mibox_sencond">· Controleu la vostra TV Mi amb aquest dispositiu.</string>
   <string name="match_mibox_third">· Afegeix uns altres dispositius Mi automàticament</string>
-  <string name="match_name_power">Encesa</string>
+  <string name="match_name_power">Engega</string>
   <string name="match_number_default">Funcionen els botons de numeració?</string>
   <string name="match_power_confirm_tip_frame">%1$s està funcionant?</string>
   <string name="match_power_main_tip_frame">%1$s està funcionant?</string>
@@ -584,7 +583,7 @@ Llavors responeu la pregunta"</string>
   <string name="milink_device_newfound">Nou dispositiu</string>
   <string name="milink_device_offline">Desconnectat</string>
   <string name="milink_device_online">Connectat</string>
-  <string name="milink_device_rc_saved">S\'ha desat el comandament a distància</string>
+  <string name="milink_device_rc_saved">S\'ha desat el comandament</string>
   <string name="milink_nowifi">No connectat a la Wi-Fi</string>
   <string name="milink_screenshot_done">La captura de pantalla de TV s\'ha fet amb èxit</string>
   <string name="milink_screenshot_pic">Captures de pantalla</string>
@@ -878,14 +877,14 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="pm_2.5_out">PM2.5 exterior:</string>
   <string name="popup_installed_app_no_app">Obtenint l\'aplicació, espereu un minut i torneu a provar</string>
   <string name="popup_installed_app_title">Seleccioneu l\'aplicació que voleu obrir a la televisió</string>
-  <string name="popup_select_device">Seleccioneu el comandament per obrir la Wi-Fi</string>
+  <string name="popup_select_device">Seleccioneu un comandament Wi-Fi</string>
   <string name="power">Activació</string>
   <string name="power_off">Aturat</string>
   <string name="power_on">Engegat</string>
   <string name="press_to_continue_match">Premeu per continuar</string>
   <string name="press_to_match">Premeu per vincular</string>
   <string name="prev_remote">Control remot anterior</string>
-  <string name="privacy_content">\"Llegiu la \"&lt;a href=\"http://www.miui.com/res/doc/privacy/en.html\"&gt;política de privadesa de Xiaomi &lt;/a&gt; i &lt;a href=\"http://www.miui.com/res/doc/eula/en.html\"&gt;L\'acord d\'usuari&lt;/a&gt; abans d\'utilitzar el Control Mi. L\'accés a Internet i als serveis d\'ubicació són obligatoris perquè l\'aplicació funcioni amb normalitat.</string>
+  <string name="privacy_content">\"Consulteu la \"&lt;a href=\"http://www.miui.com/res/doc/privacy/en.html\"&gt;política de privadesa de Xiaomi &lt;/a&gt; i &lt;a href=\"http://www.miui.com/res/doc/eula/en.html\"&gt;L\'acord d\'usuari&lt;/a&gt; abans d\'utilitzar el Control Mi. L\'accés a Internet i als serveis d\'ubicació són obligatoris perquè l\'aplicació funcioni amb normalitat.</string>
   <string name="privacy_nohit">"No ho mostris més"</string>
   <string name="privacy_title">Termes i condicions</string>
   <string name="program_booking_book_filter_book_status">Estat de programació</string>
@@ -987,8 +986,8 @@ Obriu la configuració del control remot i toqueu «Comparteix»."</string>
   <string name="service_info">Informació de servei</string>
   <string name="setting_airkan">PANTALLA SENSE CABLES</string>
   <string name="setting_sharerc">Compartit per la gent</string>
-  <string name="setting_sharerc_tips">Accepta un comandament compartit d\'una persona propera</string>
-  <string name="setting_version">Versió %1$s de comandament Mi</string>
+  <string name="setting_sharerc_tips">Accepta un comandament compartit de algú del voltant</string>
+  <string name="setting_version">Versió %1$s de Control Mi</string>
   <string name="share">Comparteix</string>
   <string name="share_action_cancel">Cancel·la</string>
   <string name="share_action_confirm">Envia</string>
@@ -1132,8 +1131,8 @@ Vés a la pàgina d\'inici &gt; «+» &gt; Escànner."</string>
   <string name="upgrade_log">"Novetats"</string>
   <string name="upgrade_now">Actualitza</string>
   <string name="upgrading">S\'està actualitzant…</string>
-  <string name="use_tv_power_key">"Utilitzeu el botó d\'encesa de %1$s
-Per canviar, premeu contínuament el botó d\'encesa del TV"</string>
+  <string name="use_tv_power_key">"Premeu el botó d\'engegada de %1$s
+Per canviar, manteniu premut el botó d\'engegada del TV"</string>
   <string name="user_title">El meu compte</string>
   <string name="vendor_peel">Aparença</string>
   <string name="video">Vídeos</string>

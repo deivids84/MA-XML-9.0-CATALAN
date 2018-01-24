@@ -285,7 +285,7 @@
     <item>Mode triple</item>
   </string-array>
   <string-array name="region_support_volte">
-    <item>HK;capricorn,gemini,lithium,natrium,sagit,scorpio,chiron,vince</item>
+    <item>HK;capricorn,gemini,lithium,natrium,sagit,scorpio,chiron,vince,rosy</item>
     <item>CN</item>
     <item>IN</item>
     <item>MY</item>

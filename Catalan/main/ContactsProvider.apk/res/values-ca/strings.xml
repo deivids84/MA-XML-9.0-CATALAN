@@ -23,6 +23,7 @@
   <string name="send_sms">Envia un missatge</string>
   <string name="sharedUserLabel">Aplicacions del nucli d\'Android</string>
   <string name="third_party_delete_contact_info">"«%s» està intentant eliminar els vostres contactes, acció que no poden realitzar aplicacions de tercers. Per fer-ho, feu servir l'aplicació de contactes integrada a MIUI."</string>
+  <string name="update_accounts_changed">Comptes canviades</string>
   <string name="upgrade_msg">S\'està actualitzant la base de dades de Contactes.</string>
   <string name="upgrade_out_of_memory_notification_text">Toqueu per completar l\'actualització.</string>
   <string name="upgrade_out_of_memory_notification_ticker">L\'actualització necessita més memòria.</string>

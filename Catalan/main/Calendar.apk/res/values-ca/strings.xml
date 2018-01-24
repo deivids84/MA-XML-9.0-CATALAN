@@ -68,11 +68,11 @@
   <string name="can_not_modify_allday_event">"Els esdeveniments de tot el dia no es poden modificar"</string>
   <string name="can_not_modify_event">"No es pot modificar l'esdeveniment"</string>
   <string name="can_not_modify_repeating_acrossing_days_event">"Els esdeveniments periòdics no es poden modificar"</string>
-  <string name="card_detail_dialog_message">“%1$s”内容每日更新，订阅后，即可每天浏览到当日最新的内容，不错过每日精彩。</string>
-  <string name="card_detail_dialog_negative">下次再说</string>
-  <string name="card_detail_dialog_positive">立即订阅</string>
-  <string name="card_detail_dialog_title">是否订阅</string>
-  <string name="card_detail_hint">订阅后，内容会展示到首页，每日更新</string>
+  <string name="card_detail_dialog_message">%1$s s\'actualitzarà cada dia. Subscriviu-vos per rebre actualitzacions diàries.</string>
+  <string name="card_detail_dialog_negative">Subscriviu-vos més tard</string>
+  <string name="card_detail_dialog_positive">Subscriviu-vos ara</string>
+  <string name="card_detail_dialog_title">Voleu subscriviu-vos ara?</string>
+  <string name="card_detail_hint">El contingut es mostrarà a la pàgina d\'inici i s\'actualitzarà diàriament un cop us hageu subscrit</string>
   <string name="card_detail_title">Detalls</string>
   <string name="card_manager">Administrador de targeta</string>
   <string name="card_manager_no_data">Sense subscripcions</string>
@@ -393,9 +393,9 @@
   <string name="show_day_view">Mostra el dia</string>
   <string name="sms_import_description">Una millor gestió dels missatges d\'esdeveniments relacionats amb el temps</string>
   <string name="start_date_calculate">Calcula</string>
-  <string name="subscribe_card">立即订阅</string>
-  <string name="subscribe_card_success">订阅“%1$s”成功</string>
-  <string name="subscribe_card_success_for_homepage">S\'ha subscrit amb èxit a «%1$s»</string>
+  <string name="subscribe_card">Subscriviu-vos ara</string>
+  <string name="subscribe_card_success">Us heu subscrit amb èxit. Consulteu els detalls a la pàgina d\'inici.</string>
+  <string name="subscribe_card_success_for_homepage">Us heu subscrit amb èxit a «%1$s»</string>
   <string name="subscribe_channel_bottom_hint">—— Calendari Mi ——</string>
   <string name="subscribe_channel_click_hint">Cal subscripció</string>
   <string name="subscribe_channel_footer_button">Gestiona les subscripcions</string>
@@ -404,7 +404,7 @@
   <string name="subscribe_channel_footer_view">Comprova</string>
   <string name="subscribe_channel_hint">"Subscriviu-vos als serveis que us agraden i rebeu actualitzacions diàries a la pàgina d\'inici.
 També podeu afegir recordatoris perquè no us perdeu res important. "</string>
-  <string name="subscribe_channel_subscribe">Subscriure\'s</string>
+  <string name="subscribe_channel_subscribe">Subscriviu-vos</string>
   <string name="subscribe_channel_subscribing">Suscribir-se</string>
   <string name="subscribe_channel_title">Canal</string>
   <string name="subscribing_card">Subscripcions</string>
@@ -450,7 +450,7 @@ També podeu afegir recordatoris perquè no us perdeu res important. "</string>
   <string name="travel_train_number_text">Tren</string>
   <string name="travel_train_station">Estació de tren</string>
   <string name="unsubscribe_card">Anul·la</string>
-  <string name="unsubscribe_card_success">退订“%1$s”成功</string>
+  <string name="unsubscribe_card_success">Heu anul·lat la subscripció amb èxit a «%1$s»</string>
   <string name="unsubscribing_card">Cancel·la la subscripció</string>
   <string name="user_notice_button_exit">Surt</string>
   <string name="user_notice_button_ok">D\'acord</string>

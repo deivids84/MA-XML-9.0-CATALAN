@@ -29,11 +29,6 @@
     <item>De camí</item>
     <item>En tramitació</item>
   </string-array>
-  <string-array name="payment_chooser">
-    <item>SMS (targetes de dèbit i de crèdit)</item>
-    <item>WeChat</item>
-    <item>Alipay</item>
-  </string-array>
   <string-array name="stock_color_schema">
     <item>Vermell - amunt, verd - avall</item>
     <item>Verd - amunt, vermell - avall</item>

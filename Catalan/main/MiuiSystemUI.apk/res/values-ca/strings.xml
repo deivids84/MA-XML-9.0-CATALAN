@@ -42,6 +42,7 @@
   <string name="accessibility_display_daltonizer_preference_subtitle">Aquesta característica és experimental i podria afectar el rendiment.</string>
   <string name="accessibility_display_daltonizer_preference_title">Correcció del color</string>
   <string name="accessibility_divider">Divisor de pantalla dividida</string>
+  <string name="accessibility_drag_hint_message">Arrossegueu elements a la part superior de la pantalla</string>
   <string name="accessibility_home">Casa</string>
   <string name="accessibility_ime_switch_button">Canvia el botó de mètode d\'entrada.</string>
   <string name="accessibility_managed_profile">Perfil de feina</string>
@@ -58,8 +59,10 @@
   <string name="accessibility_recent">Aplicacions recents</string>
   <string name="accessibility_recent_task_exit">Tancades recentment</string>
   <string name="accessibility_recent_task_locked">Bloquejada, feu lliscar cap avall per desbloquejar-la.</string>
+  <string name="accessibility_recent_task_locked_state">Bloquejat</string>
   <string name="accessibility_recent_task_memory_info">RAM total: %2$s | RAM disponible: %1$s. Toqueu dues vegades per netejar-la.</string>
   <string name="accessibility_recent_task_unlocked">Desbloquejada</string>
+  <string name="accessibility_recent_task_unlocked_state">Desbloquejat</string>
   <string name="accessibility_recents_all_items_dismissed">S\'han eliminat totes les aplicacions recents</string>
   <string name="accessibility_recents_item_dismissed">S\'ha eliminat %s</string>
   <string name="accessibility_recents_item_launched">%s s\'està iniciant…</string>
@@ -470,7 +473,7 @@ Per obtenir més informació, contacteu amb l\'administrador."</string>
   <string name="monitoring_title_device_owned">Administració de dispositius</string>
   <string name="mount_storage">Sí</string>
   <string name="nav_guide_cancel">Ignora</string>
-  <string name="nav_guide_message">Podeu utilitzar gestos per ocultar o mostrar els botons en pantalla després de configurar-ho.</string>
+  <string name="nav_guide_message">Utilitzeu gestos per amagar/mostrar els botons de la pantalla.</string>
   <string name="nav_guide_ok">Configuració</string>
   <string name="nav_guide_title">Amaga els botons de la pantalla</string>
   <string name="no_application">Cap</string>
@@ -521,6 +524,7 @@ Per obtenir més informació, contacteu amb l\'administrador."</string>
   <string name="pip_play">Reprodueix</string>
   <string name="pip_skip_to_next">Salta a la següent</string>
   <string name="pip_skip_to_prev">Salta a l\'anterior</string>
+  <string name="please_slide_agian">Feu lliscar de nou</string>
   <string name="pointer_location">Ubicació del punter</string>
   <string name="pointer_location_summary">Pantalla de superposició que mostra les dades tàctils actuals</string>
   <string name="power_charging_duration">%1$s - %2$s fins carregar-la</string>

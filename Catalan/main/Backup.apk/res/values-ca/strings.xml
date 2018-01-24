@@ -6,13 +6,13 @@
   <string name="account_contact_backup_info">Dades del compte Google, Mi i contactes</string>
   <string name="account_login">Inicia la sessió</string>
   <string name="account_summary">Còpia de seguretat del compte Google, Mi i altres dades d\'usuari</string>
-  <string name="alert_button_agree_and_continue">Permet</string>
-  <string name="alert_button_deny">Declina</string>
-  <string name="alert_message_backup_to_miasist">Mi PC Suite sol·licita permís per crear una còpia de seguretat a l\'ordinador. Voleu permetre-ho?</string>
-  <string name="alert_message_restore_from_miasist">Mi PC Suite sol·licita permís per restaurar elements al telèfon. Voleu permetre-ho?</string>
+  <string name="alert_button_agree_and_continue">Permetre</string>
+  <string name="alert_button_deny">Rebutjar</string>
+  <string name="alert_message_backup_to_miasist">Mi PC Suite demana permís per crear una còpia de seguretat a un ordinador. Permetre?</string>
+  <string name="alert_message_restore_from_miasist">Mi PC Suite demana permís per restaurar elements al vostre telèfon. Permetre?</string>
   <string name="alert_miasist_occupy_backup">S\'està fent la còpia de seguretat dels elements utilitzant Mi PC Suite… Espereu fins que es completi la còpia de seguretat i torneu-ho a provar.</string>
-  <string name="alert_miasist_occupy_restore">S\'està restaurant els elements utilitzant Mi PC Suite… Espereu fins que es restaurin els elements i torneu-ho a provar.</string>
-  <string name="alert_phone_occupy_backup">"No es pot utilitzar Mi PC Suite. Completeu la còpia de seguretat o la restauració d'elements en el telèfon i torneu-ho a provar."</string>
+  <string name="alert_miasist_occupy_restore">S\'estan restaurant els elements utilitzant Mi PC Suite… Espereu fins que es restaurin els elements i torneu-ho a provar.</string>
+  <string name="alert_phone_occupy_backup">"No es pot utilitzar Mi PC Suite en aquests moments. Completeu la còpia de seguretat o la restauració d'elements al vostre telèfon i torneu-ho a provar."</string>
   <string name="alert_second_space_not_support_miasist">"No es pot utilitzar Mi PC Suite en el segon espai. Canvieu al primer espai."</string>
   <string name="alert_title_backup_to_miasist">Voleu fer una còpia de seguretat d\'elements amb Mi PC Suite?</string>
   <string name="alert_title_restore_from_miasist">Voleu restaurar elements al telèfon?</string>
@@ -224,7 +224,7 @@ primer heu de crear una còpia de seguretat d\'iCloud "</string>
   <string name="notif_backup_complete_title">S\'ha copiat amb èxit</string>
   <string name="notif_backup_content">Còpia de seguretat de les dades d\'usuari</string>
   <string name="notif_backup_title">Còpia de seguretat de les dades</string>
-  <string name="notif_calculating_app">S\'eastà calculant %1$s (%2$s)…</string>
+  <string name="notif_calculating_app">S\'està calculant %1$s (%2$s)…</string>
   <string name="notif_connect_miasist">Connectat al Mi PC Suite</string>
   <string name="notif_disconnect_miasist">No connectat al Mi PC Suite</string>
   <string name="notif_icloud_canceled_summary">Cancel·lat</string>
@@ -386,7 +386,7 @@ Allibera %s com a mínim. "</string>
   <string name="trans_detail_category_account">Comptes i contactes</string>
   <string name="trans_detail_category_audio_video_doc">Àudio, vídeo i fitxers</string>
   <string name="trans_detail_category_files">Fitxers</string>
-  <string name="trans_detail_category_sysdata">Dades del sistema</string>
+  <string name="trans_detail_category_sysdata">Dades del sistema (inclou missatges, contactes i l\'historial de trucades)</string>
   <string name="trans_detail_category_user_app_data">Dades de l\'aplicació</string>
   <string name="trans_detail_category_userdata">Aplicacions</string>
   <string name="trans_detail_category_wechat_qq">Dades de WeChat i QQ (incloent l\'historial de xat)</string>

@@ -38,19 +38,19 @@
     <item quantity="one">element</item>
   </plurals>
   <plurals name="save_item_saving_summary">
-    <item quantity="other">S\'han restaurat %d elements</item>
-    <item quantity="one">S\'ha restaurat %d element</item>
+    <item quantity="other">%d elements restaurats</item>
+    <item quantity="one">%d element restaurat</item>
   </plurals>
   <plurals name="save_item_saved_summary">
-    <item quantity="other">S\'han importat i restaurat %d elements</item>
-    <item quantity="one">S\'ha importat i restaurat %d element</item>
+    <item quantity="other">%d elements importats i restaurats</item>
+    <item quantity="one">%d element importat i restaurat</item>
   </plurals>
   <plurals name="save_item_failed_summary_seg1">
-    <item quantity="other">"S'han importat %d elements. "</item>
-    <item quantity="one">"S'ha importat %d element. "</item>
+    <item quantity="other">"%d elements importats. "</item>
+    <item quantity="one">"%d element importat. "</item>
   </plurals>
   <plurals name="save_item_failed_summary_seg2">
-    <item quantity="other">Importa %d elements de nou.</item>
-    <item quantity="one">Importa %d element de nou.</item>
+    <item quantity="other">%d elements necessiten ser importats de nou</item>
+    <item quantity="one">%d element necessita ser importat de nou</item>
   </plurals>
 </resources>

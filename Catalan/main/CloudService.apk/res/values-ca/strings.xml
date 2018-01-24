@@ -407,8 +407,7 @@ Toca el botó de configuració de sincronització per veure més opcions\"</stri
   <string name="micloud_sync_alert_dialog_title">Utilitza Mi Cloud</string>
   <string name="micloud_sync_off">La sincronització amb Mi Cloud està desactivada</string>
   <string name="micloud_sync_prompt_for_no_gallery_sync">Sincronitza només en contactes, calendari i notes, per sincronitzar més elements, aneu a la configuració del Mi Cloud.</string>
-  <string name="micloud_title_dspt" formatted="false">"%s total
- %s usats | %s restants"</string>
+  <string name="micloud_title_dspt" formatted="false">Utilitzat %s/Espai total %s,</string>
   <string name="micloud_title_dspt_remain">%s restants</string>
   <string name="micloud_title_full_dspt">"Has arribat al teu límit d'emmagatzematge!"</string>
   <string name="micloud_unlogin_for_time_title">Activar Mi Cloud</string>
@@ -512,7 +511,7 @@ Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi."</
   <string name="sub_sync_item_sms_title_wifi_only">Utilitzar només Wi-Fi per sincronitzar MMS</string>
   <string name="success_upgraded_space">%s afegits</string>
   <string name="sync_dspt">Sincronitza</string>
-  <string name="sync_dspt_entrance_provision">El Mi Cloud us ajuda a sincronitzar fotos, contactes i altres elements a través dels dispositius. Podeu accedir als elements sincronitzats en qualsevol lloc a %s.</string>
+  <string name="sync_dspt_entrance_provision">"Sincronitza les teves fotos, contactes, historial de trucades i missatges a través de tots els seus dispositius. Entreu a les coses sincronitzades des de qualsevol navegador a %s. "</string>
   <string name="sync_dspt_entrance_provision_2">Saber més</string>
   <string name="sync_dspt_entrance_provision_confirm_close">"No utilitzar"</string>
   <string name="sync_dspt_entrance_provision_confirm_content">"Les aplicacions integrades de MIUI necessiten Mi Cloud per fer còpia de seguretat de les seves fotos, contactes i més. Mi Cloud és gratuït i llest per usar-se."</string>
@@ -559,10 +558,10 @@ Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi."</
   <string name="virtual_sim_desc">Activeu Mi SIM per localitzar el dispositiu sense una targeta SIM</string>
   <string name="voip_choose_sim">Trieu el número de telèfon per activar Mi Voice</string>
   <string name="wipe_data_dialog_button_check_sync">Comprova si està sincronitzat</string>
-  <string name="wipe_data_dialog_msg">"%s no s'han sincronitzat i seguiran al telèfon."</string>
+  <string name="wipe_data_dialog_msg">"Alguns elements %s no se sincronitzen. Es desaran al dispositiu i no se suprimiran."</string>
   <string name="wipe_data_dialog_msg_and_on">i d\'altres elements</string>
   <string name="wipe_data_dialog_msg_separator">,</string>
-  <string name="wipe_data_dialog_title">"Alguns elements no s'han sincronitzat"</string>
+  <string name="wipe_data_dialog_title">"Els elements no estan sincronitzats"</string>
   <string name="wipe_secret_photo_dialog_title">"Les fotos ocultes no es sincronitzen"</string>
   <string name="xiaomi_cloud_service_subtitle">Tots els elements importants en un sol lloc</string>
 </resources>

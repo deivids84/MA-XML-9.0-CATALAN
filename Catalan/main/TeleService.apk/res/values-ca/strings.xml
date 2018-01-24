@@ -895,8 +895,8 @@ Voleu canviar al nou proveïdor igualment?"</string>
   <string name="missed_call_notify_times_title">Recordatoris de trucades perdudes</string>
   <string name="missed_call_notify_twice">2 cops</string>
   <string name="miui_network_selection_reset_text">Restableix</string>
-  <string name="miui_notification_network_selection_title">SIM sense servei</string>
-  <string name="miui_notification_network_selection_title_by_sim">SIM %s sense servei</string>
+  <string name="miui_notification_network_selection_title">SIM: Sense servei</string>
+  <string name="miui_notification_network_selection_title_by_sim">SIM %s: Sense servei</string>
   <string name="mmiCancelled">Codi MMI cancel·lat</string>
   <string name="mmiStarted">Codi MMI iniciat</string>
   <string name="mobile_data">Dades mòbils</string>

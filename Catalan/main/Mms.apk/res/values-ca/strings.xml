@@ -363,7 +363,7 @@
   <string name="playing_failed">"No es pot reproduir"</string>
   <string name="pref_advanced_settings_title">Configuració addicional</string>
   <string name="pref_allow_network_access_summary">Activa per obtenir la informació sobre el lliurament i altres serveis.</string>
-  <string name="pref_cell_broadcast">Difusions mòbils</string>
+  <string name="pref_cell_broadcast">Difusions de cel·la</string>
   <string name="pref_collapse_sp_messages_summary">Agrupa automàticament les notificacions d\'SMS</string>
   <string name="pref_delivery_ringtone">So de notificació</string>
   <string name="pref_edit_smsc_address">Centre de servei de missatges curts (SMSC)</string>

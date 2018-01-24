@@ -156,7 +156,7 @@
   <string name="app_manager_default_close_summary">No s\'ha establert els valors per defecte.</string>
   <string name="app_manager_default_open_summary">S\'ha definit aquesta aplicació com a predeterminada per fer algunes accions.</string>
   <string name="app_manager_default_open_title">Esborra els valors per defecte</string>
-  <string name="app_manager_defaults_setting">Per defecte</string>
+  <string name="app_manager_defaults_setting">Aplicacions per defecte</string>
   <string name="app_manager_details_electric_title">Bateria</string>
   <string name="app_manager_details_storage_title">Emmagatzematge</string>
   <string name="app_manager_details_traffic_title">Ús de dades mòbils</string>
@@ -344,7 +344,7 @@
   <string name="background_traffic">Fons %s</string>
   <string name="backsound_set_hint">Voleu configurar un missatge d\'absència per a %s?</string>
   <string name="battery_capacity_title">Bateria</string>
-  <string name="battery_charge_estimating">Calculant&#8230;</string>
+  <string name="battery_charge_estimating">S\'està calculant…</string>
   <string name="battery_charge_full">Carregat</string>
   <string name="battery_charging_prompt">S\'està carregant </string>
   <string name="battery_desc_apps">Bateria utilitzada per les aplicacions</string>
@@ -407,7 +407,7 @@
   <string name="btn_stop_diagnostic">Atura</string>
   <string name="btn_text_already_opened">Encès</string>
   <string name="btn_text_goto_power_rank">Veure la classificació de la bateria</string>
-  <string name="btn_text_goto_setup">Anar a configuració</string>
+  <string name="btn_text_goto_setup">Vés a la configuració</string>
   <string name="btn_text_network_speed_detail">Connexió</string>
   <string name="btn_text_open_now">Activar</string>
   <string name="btn_text_optimize_extend_battery_time">Afegeix %s</string>
@@ -454,7 +454,7 @@
   <string name="cancel">Cancel·la</string>
   <string name="cancel_button">Cancel·la</string>
   <string name="card_main_applock_action">Activa</string>
-  <string name="card_main_applock_summary">Protegiu els elements privats amb el bloquejador d\'aplicacions</string>
+  <string name="card_main_applock_summary">Protegeix les aplicacions seleccionades amb una contrasenya. Oculta missatges, fotos, notes i més.</string>
   <string name="card_main_applock_title">Bloquejador d\'aplicacions</string>
   <string name="card_main_deepclean_action">Neteja</string>
   <string name="card_main_deepclean_qq_title">Netejador QQ</string>
@@ -768,7 +768,7 @@ S\'afegirà a les excepcions, però els elements bloquejats anterioment no apare
   <string name="gs_game_net_priority">Prioritat de connexió</string>
   <string name="gs_game_net_priority_detail">Limita la velocitat de baixada per tenir prou ample de banda per jugar</string>
   <string name="gs_game_performance">Rendiment</string>
-  <string name="gs_game_shortcut">Gaudiu d\'una experiència de joc més fluida</string>
+  <string name="gs_game_shortcut">Millora la vostra experiència de joc</string>
   <string name="gs_only_self_start_for_list">Redueix els processos en segon pla per deixar més bateria pel joc</string>
   <string name="gs_open_game_booster">Augment de velocitat</string>
   <string name="gs_performance_mode">Mode rendiment</string>
@@ -1038,6 +1038,7 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="menu_text_power_percent_title">Bateria %s</string>
   <string name="menu_text_power_percent_title_default">Bateria</string>
   <string name="menu_wh_remove">Treure de les excepcions</string>
+  <string name="menu_white">Excepte</string>
   <string name="mi_service_app_detail">Detalls d\'ús de dades</string>
   <string name="mi_service_traffic_detail">Detalls de Marc</string>
   <string name="mian_page_primary_txt">Itinerància en ultramar</string>
@@ -2038,7 +2039,7 @@ Dades extres en ús"</string>
   <string name="uninstall_danagerous_btn">Desinstal·la</string>
   <string name="uninstall_danagerous_desc">«%s» pot danyar el vostre dispositiu</string>
   <string name="uninstall_danagerous_msg">«%s» pot danyar el vostre dispositiu, reduir el rendiment o provocar reinicis.</string>
-  <string name="uninstall_danagerous_title">Desinstal·lació de l\'aplicació maliciosa</string>
+  <string name="uninstall_danagerous_title">Desinstal·lació d\'aplicacions malicioses</string>
   <string name="unlike">No, gràcies</string>
   <string name="unlock_pattern">&lt;u&gt;Patró&lt;/u&gt;</string>
   <string name="unlock_pattern_to_bind_fingerprint">Introduïu la contrasenya per activar l\'empremta</string>

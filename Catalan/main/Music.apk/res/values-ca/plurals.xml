@@ -117,6 +117,18 @@
     <item quantity="other">%d elements seleccionats</item>
     <item quantity="one">%d element seleccionat</item>
   </plurals>
+  <plurals name="notif_title_multiple_downloading">
+    <item quantity="other">S\'està baixant %1$d cançons</item>
+    <item quantity="one">S\'està baixant %1$d cançó</item>
+  </plurals>
+  <plurals name="notification_download_failed_more">
+    <item quantity="other">"No s'ha pogut baixar %1$d cançons"</item>
+    <item quantity="one">"No s'ha pogut baixar %1$d cançó"</item>
+  </plurals>
+  <plurals name="notification_download_success_more">
+    <item quantity="other">%1$d cançons</item>
+    <item quantity="one">%1$d cançó</item>
+  </plurals>
   <plurals name="reader_count">
     <item quantity="other">%d seguidors</item>
     <item quantity="one">%d seguidor</item>

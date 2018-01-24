@@ -109,13 +109,16 @@
   <string name="face_beauty_intelligent_level_3">Alt</string>
   <string name="face_beauty_smart">Auto</string>
   <string name="face_score_info">Puntuació: %.1f</string>
+  <string name="front_camera_hint_text_place">"Prendre selfies serà més fàcil
+si gireu el telèfon"</string>
+  <string name="front_camera_hint_text_rotate">Gireu el telèfon</string>
   <string name="hine_hht">"Amb poca llum, la càmera farà diverses fotos
 i després crearà un tir amb una mínima quantitat de soroll."</string>
   <string name="hint_device_water_mark">La marca d\'aigua del dispositiu s\'afegirà automàticament.</string>
   <string name="hint_fast_motion">El vídeo que enregistreu es visualitzarà més ràpid.</string>
   <string name="hint_groupshot">"La càmera farà varies fotos
 i les barrejarà per crear-ne una de nova on cadascú quedi millor."</string>
-  <string name="hint_groupshot_beauty">L\'autofoto grupal no suporta el mode bellesa</string>
+  <string name="hint_groupshot_beauty">"No es pot fer servir el mode bellesa en fotos grupals"</string>
   <string name="hint_slow_motion">El vídeo que enregistreu es visualitzarà més lent.</string>
   <string name="hunt_dual_water_mark">La marca d\'aigua de la càmera dual s\'afegirà automàticament.</string>
   <string name="install_confirmed">Instal·la</string>
@@ -176,7 +179,7 @@ amb un cos més clar i un retrat més bonic"</string>
   <string name="pref_camera_beautify_entry_high">Alt</string>
   <string name="pref_camera_beautify_entry_low">Baix</string>
   <string name="pref_camera_beautify_entry_normal">Mitjà</string>
-  <string name="pref_camera_beauty_deep">bellesa profunda</string>
+  <string name="pref_camera_beauty_deep">Bellesa pro</string>
   <string name="pref_camera_bokeh_title">Vertical</string>
   <string name="pref_camera_coloreffect_entry_big_face">Dispersa</string>
   <string name="pref_camera_coloreffect_entry_blackwhite">Blanc i negre</string>

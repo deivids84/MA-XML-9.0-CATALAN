@@ -13,7 +13,7 @@
   <string name="bugreport_dialog_submit_content">Els informes d\'error poden contenir informació personal.</string>
   <string name="bugreport_dump_complete_notification_summary">Toqueu per veure-ho.</string>
   <string name="bugreport_dump_complete_notification_title">S\'ha creat l\'informe d\'error</string>
-  <string name="bugreport_dump_start_notification_summary">Tardarà diversos minuts.</string>
+  <string name="bugreport_dump_start_notification_summary">Això pot trigar uns quants minuts.</string>
   <string name="bugreport_dump_start_notification_title">S\'està creant l\'informe d\'error&#8230;</string>
   <string name="bugreport_tool_log_dumping_desc">Trigarà un minut</string>
   <string name="bugreport_tool_log_dumping_title">S\'està creant l\'informe d\'error</string>

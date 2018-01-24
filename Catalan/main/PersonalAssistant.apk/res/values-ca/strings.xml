@@ -701,10 +701,6 @@ Comproveu el número de seguiment."</string>
   <string name="payment_clear_records_failed">"No s'ha pogut esborrar l'historial de pagaments"</string>
   <string name="payment_clear_records_success">S\'ha esborrat l\'historial de pagaments</string>
   <string name="payment_date_time_picker_dialog_title">Estableix la data i l\'hora</string>
-  <string name="payment_dialog_chooser_cancel">Cancel·la</string>
-  <string name="payment_dialog_chooser_message_footer">"Nota: tota la informació de pagament es desarà de manera segura al vostre telèfon. No es sincronitzarà amb Mi Cloud ni s'utilitzarà de cap altra manera."</string>
-  <string name="payment_dialog_chooser_message_header">Seleccioneu les fonts de «Els meus pagaments»</string>
-  <string name="payment_dialog_chooser_toast">Seleccioneu com a mínim una font</string>
   <string name="payment_dialog_notice_title">Atenció</string>
   <string name="payment_guide_hint">Recopila informació del pagament des de Missatges i altres aplicacions.</string>
   <string name="payment_guide_hint_link">Seguretat i privadesa</string>

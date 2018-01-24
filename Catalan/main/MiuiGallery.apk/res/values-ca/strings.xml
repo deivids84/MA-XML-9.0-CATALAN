@@ -1059,7 +1059,7 @@ Feu més fotos als vostres amics!"</string>
   <string name="to_count">%d en total</string>
   <string name="to_enable_gallery_sync_dialog_message">Cal que primer activeu la sincronització de la galeria</string>
   <string name="to_enable_sync_dialog_message">Cal que primer activeu la sincronització</string>
-  <string name="to_enable_sync_dialog_positive_button_text">Vés a «Configuració»</string>
+  <string name="to_enable_sync_dialog_positive_button_text">Vés a la configuració</string>
   <string name="to_enable_sync_dialog_title">Sincronització</string>
   <string name="today">Avui</string>
   <string name="too_many_recipients">"No es poden afegir més de %2$s destinataris (N'heu afegit %1$s)."</string>
