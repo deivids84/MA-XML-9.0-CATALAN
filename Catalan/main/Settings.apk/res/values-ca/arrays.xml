@@ -27,7 +27,7 @@
     <item>Escala d\'animació 10x</item>
   </string-array>
   <string-array name="ap_identify">
-    <item>per defecte</item>
+    <item>Per defecte</item>
     <item>iPhone</item>
   </string-array>
   <string-array name="apn_auth_entries">
@@ -376,7 +376,7 @@
   <string-array name="common_password_business_names">
     <item>Bloqueja la pantalla</item>
     <item>Mode d\'infants</item>
-    <item>Explorador de fitxers</item>
+    <item>Mode de mainada</item>
     <item>Explorador de fitxers</item>
     <item>Bloqueig d\'aplicacions</item>
     <item>Segon espai</item>

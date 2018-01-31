@@ -117,7 +117,7 @@
   <string name="download_title_sorted_by_size">Baixades - Ordenades per mida</string>
   <string name="download_wait_connect">Esperant a connectar</string>
   <string name="download_when_network_connected">Baixa-ho per connexió de dades</string>
-  <string name="downloaded">Baixada completada</string>
+  <string name="downloaded">Baixada completa</string>
   <string name="downloaded_empty">Buit</string>
   <string name="downloading">S\'està baixant&#8230;</string>
   <string name="downloading_empty">Buit</string>

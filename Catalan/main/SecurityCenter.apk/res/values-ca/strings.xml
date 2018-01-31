@@ -130,7 +130,7 @@
   <string name="app_manager_app_info_name">Nom de l\'aplicació</string>
   <string name="app_manager_app_info_pkg">Nom de l\'APK</string>
   <string name="app_manager_app_lock">Bloqueig d\'aplicacions</string>
-  <string name="app_manager_app_power">"Ús de la bateria: "</string>
+  <string name="app_manager_app_power">"Ús de bateria: "</string>
   <string name="app_manager_app_storage">"Emmagatzematge: "</string>
   <string name="app_manager_app_traffic">"Ús de dades: "</string>
   <string name="app_manager_app_update">Actualitzacions</string>
@@ -454,7 +454,7 @@
   <string name="cancel">Cancel·la</string>
   <string name="cancel_button">Cancel·la</string>
   <string name="card_main_applock_action">Activa</string>
-  <string name="card_main_applock_summary">Protegeix les aplicacions seleccionades amb una contrasenya. Oculta missatges, fotos, notes i més.</string>
+  <string name="card_main_applock_summary">Protegiu missatges, fotos i altres elements amb una contrasenya.</string>
   <string name="card_main_applock_title">Bloquejador d\'aplicacions</string>
   <string name="card_main_deepclean_action">Neteja</string>
   <string name="card_main_deepclean_qq_title">Netejador QQ</string>
@@ -896,6 +896,8 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">Massa intents fallits!</string>
   <string name="lockpattern_tutorial_cancel_label">Cancel·la</string>
   <string name="lockpattern_tutorial_continue_label">Següent</string>
+  <string name="lockpattern_tutorial_continue_label_confirm">Toqueu «D\'acord»</string>
+  <string name="lockpattern_tutorial_continue_label_next">Toqueu «Següent»</string>
   <string name="lockscreen_access_pattern_cell_added">Cel·la afegida</string>
   <string name="lockscreen_access_pattern_cleared">Patró eliminat</string>
   <string name="lockscreen_access_pattern_detected">Patró completat</string>
@@ -1310,13 +1312,13 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="pm_root_success_notification_infomation">Cal que conegueu els riscos relacionats amb l\'accés a l\'arrel</string>
   <string name="pm_root_success_notification_title">Accés root habilitat</string>
   <string name="power_20s_shutdown">Dispositiu s\'apagarà en %d segons</string>
-  <string name="power_analysis_consume_title">Ús de la bateria</string>
+  <string name="power_analysis_consume_title">Ús de bateria</string>
   <string name="power_analysis_suggestion_need_optimize">Problemes d\'ús de la bateria detectats.</string>
   <string name="power_autorun_apps_empty">Sense aplicacions d\'arrencada automàtica</string>
   <string name="power_btn_analyze">Analitza l\'ús de la bateria</string>
   <string name="power_cell">Telèfon en espera</string>
   <string name="power_center_auto_shutdown">Programar encesa i apagat</string>
-  <string name="power_center_back">Torna a l\'energia</string>
+  <string name="power_center_back">Torna a l\'ús de bateria</string>
   <string name="power_center_charge_time">%1$sper completar la càrrega</string>
   <string name="power_center_ontime_boot">Hora d\'encesa</string>
   <string name="power_center_ontime_shutdown">Hora d\'apagat</string>
@@ -1325,7 +1327,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="power_center_state_on">Activat</string>
   <string name="power_center_time_to_boot">Hora d\'encesa</string>
   <string name="power_center_time_to_shutdown">Hora d\'apagat</string>
-  <string name="power_center_title">Energia</string>
+  <string name="power_center_title">Ús de bateria</string>
   <string name="power_consume_hardware_total_format">Maquinari: %s</string>
   <string name="power_consume_other">Un altre</string>
   <string name="power_consume_rank_hardware">Maquinari</string>
@@ -1915,7 +1917,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="title_cloud_space_almost_full">Emmagatzematge en el núvol gairebé ple, pot ser que no es puguin sincronitzar alguns elements</string>
   <string name="title_cloud_space_full">Emmagatzematge en el núvol ple, no es poden sincronitzar les fotos</string>
   <string name="title_cmcc_app_check">"La verificació no ha estat completada"</string>
-  <string name="title_consume_power_rank">Ús de la bateria</string>
+  <string name="title_consume_power_rank">Ús de bateria</string>
   <string name="title_data_flow">Establir un avís d\'ús de dades</string>
   <string name="title_data_flow_monitor">El monitor d\'ús de dades està activat</string>
   <string name="title_dev_model_off">Les opcions de desenvolupament estan desactivades</string>

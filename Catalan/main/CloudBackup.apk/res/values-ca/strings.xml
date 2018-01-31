@@ -98,8 +98,8 @@ Nota: Les dades de les aplicacions instal·lades no es copiaran al Mi Cloud."</s
   <string name="dialog_cancel_backup_confirm">D\'acord</string>
   <string name="dialog_cancel_backup_msg">En commutar l\'interruptor, es cancel·laran les còpies de seguretat en curs.</string>
   <string name="dialog_cancel_backup_title">Voleu cancel·lar la còpia de seguretat en curs?</string>
-  <string name="dialog_msg_restore_require_wlan">La restauració dels fitxers de la còpia de seguretat requereix Wi-Fi.</string>
-  <string name="dialog_title_require_wlan">Es necessita Wi-Fi</string>
+  <string name="dialog_msg_restore_require_wlan">La restauració de còpies de seguretat requereix connexió a la Wi-Fi.</string>
+  <string name="dialog_title_require_wlan">Connecta a la Wi-Fi</string>
   <string name="dir_date_format">HHmmss_ddMMyyyy</string>
   <string name="doing_restore_home">S\'està restaurant la pantalla d\'inici i la configuració…</string>
   <string name="done_remove">S\'ha suprimit correctament</string>

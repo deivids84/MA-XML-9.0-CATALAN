@@ -57,7 +57,7 @@
     <item>Freqüència d\'ús</item>
     <item>Emmagatzematge usat</item>
     <item>Data d\'instal·lació</item>
-    <item>Podeu desinstal·lar aquestes aplicacions</item>
+    <item>Aplicacions que es poden desinstal·lar</item>
   </string-array>
   <string-array name="sort_title">
     <item>Ordena per estat</item>
