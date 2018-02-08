@@ -1065,7 +1065,6 @@ Vés a la pàgina d\'inici &gt; «+» &gt; Escànner."</string>
   <string name="splash_desc">Controleu-ho tot amb un toc només.</string>
   <string name="start_diagnosis">Prova</string>
   <string name="start_match">Emparella</string>
-  <string name="status_bar_notification_info_overflow">+999</string>
   <string name="stb">Descodificador</string>
   <string name="stb_power">Engega/atura receptor</string>
   <string name="steps">Intent #%d</string>

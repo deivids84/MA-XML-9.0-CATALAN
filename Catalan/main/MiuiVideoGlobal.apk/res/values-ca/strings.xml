@@ -52,7 +52,6 @@
   <string name="screenrecord_slience">"El vídeo enregistrat està en silenci perquè la versió actual de MIUI no és compatible amb l'enregistrament de pistes d'àudio."</string>
   <string name="screenrecord_success">S\'ha enregistrat correctament. Ja podeu compartir el vídeo.</string>
   <string name="share_tips">S\'ha fet la captura de pantalla amb èxit. Toqueu per compartir.</string>
-  <string name="status_bar_notification_info_overflow">+999</string>
   <string name="storage_external_sdcard">Emmagatzematge extern</string>
   <string name="storage_internal_sdcard">Emmagatzematge intern</string>
   <string name="storage_root_dir">"Ja esteu a la carpeta arrel"</string>

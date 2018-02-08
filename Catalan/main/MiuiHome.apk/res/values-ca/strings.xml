@@ -262,7 +262,6 @@
   <string name="sort_by_not_defined">Ordena automàticament</string>
   <string name="start_activity_failed">"No es pot iniciar el llançador"</string>
   <string name="starting_preset_app">S\'està iniciant&#8230;</string>
-  <string name="status_bar_notification_info_overflow">+999</string>
   <string name="status_downloaded">Baixat</string>
   <string name="status_downloading">S\'està baixant</string>
   <string name="status_installing">S\'està instal·lant</string>

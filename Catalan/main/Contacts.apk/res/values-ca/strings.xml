@@ -1069,7 +1069,6 @@ Per afegir un contacte a la llista de favorits:
   <string name="starred_contacts">Favorits</string>
   <string name="status_available">Disponible</string>
   <string name="status_away">Lluny</string>
-  <string name="status_bar_notification_info_overflow">+999</string>
   <string name="status_busy">Ocupat</string>
   <string name="strequentList">Favorits</string>
   <string name="success_message_import_from_account">Importació realitzada</string>

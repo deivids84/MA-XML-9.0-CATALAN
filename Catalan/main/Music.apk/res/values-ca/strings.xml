@@ -887,7 +887,6 @@
   <string name="start_to_play">Reprodueix</string>
   <string name="start_to_use">Obre Música</string>
   <string name="start_update">Actualitza a la darrera versió de l\'aplicació Música.</string>
-  <string name="status_bar_notification_info_overflow">+999</string>
   <string name="stop">Atura</string>
   <string name="stop_backup">Atura</string>
   <string name="storage_internal">Emmagatzematge intern</string>
