@@ -100,7 +100,6 @@ Comproveu la vostra data local i torneu a provar."</string>
   <string name="mibi_error_common_summary">Error del sistema. Intenteu-ho més tard.</string>
   <string name="mibi_error_deduct">"No es va poder activar el protocol de pagament automàtic"</string>
   <string name="mibi_error_expired_summary">La vostra comanda ha caducat</string>
-  <string name="mibi_error_frozen_service_num">400-100-2234</string>
   <string name="mibi_error_frozen_summary">El vostre compte s\'ha congelat, contacteu amb el nostre centre d\'atenció al client.</string>
   <string name="mibi_error_has_bought_summary">Ja heu comprat aquest producte.</string>
   <string name="mibi_error_illegal_order_summary">Error en la comanda. Torneu-ho a provar més tard</string>
@@ -304,8 +303,6 @@ Comproveu la vostra data local i torneu a provar."</string>
   <string name="mibi_title_password">Contraseya</string>
   <string name="mibi_title_password_threshold">Límit diari = %1$s€</string>
   <string name="mibi_title_sms_code">Introduïu el codi de verificació del telèfon mòbil</string>
-  <string name="mibi_unit_value_redeemed">%1$s Crèdits Mi s\'han bescanviat</string>
-  <string name="mibi_unit_value_remained">%1$s Crèdits Mi es mantenen</string>
   <string name="mibi_voucher_card_text">Traieu-vos l\'abric</string>
   <string name="mibi_voucher_error_password">El codi no és vàlid.</string>
   <string name="mibi_voucher_input_password_prompt">Introduïu codi</string>
@@ -508,5 +505,4 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_wrong_phone_number_format">El format de número de telèfon que heu introduït és incorrecte</string>
   <string name="passport_wrong_vcode">El codi que heu introduït és incorrecte</string>
   <string name="passport_yes">Sí</string>
-  <string name="status_bar_notification_info_overflow">+999</string>
 </resources>
