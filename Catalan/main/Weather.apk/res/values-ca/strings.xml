@@ -140,7 +140,7 @@ Toqueu la pantalla per afegir una ciutat manualment o moure-la"</string>
   <string name="minute_rain_feedback_subtitle">Només digueu-me com és el temps</string>
   <string name="minute_rain_feedback_text">Comentaris</string>
   <string name="minute_rain_feedback_title">El temps no sembla correcte.</string>
-  <string name="minute_rain_let_go_refresh">Permet refrescar</string>
+  <string name="minute_rain_let_go_refresh">Deixeu anar per actualitzar</string>
   <string name="minute_rain_no_data">Sense dades</string>
   <string name="minute_rain_now">Ara</string>
   <string name="minute_rain_pull_down_refresh">Feu lliscar cap avall per actualitzar</string>

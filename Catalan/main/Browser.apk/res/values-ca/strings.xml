@@ -454,6 +454,7 @@ està a punt de passar»</string>
   <string name="mw_color_picker_dialog_title">Seleccioneu un color</string>
   <string name="mw_color_picker_hue">To</string>
   <string name="mw_color_picker_saturation">Saturació</string>
+  <string name="mw_color_picker_value">Valor</string>
   <string name="mw_common_google_play_services_enable_button">Activa</string>
   <string name="mw_common_google_play_services_enable_text">"%1$s no funcionarà si no activeu els serveis de Google Play."</string>
   <string name="mw_common_google_play_services_enable_title">Activació dels serveis de Google Play</string>
@@ -653,6 +654,10 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="mw_payments_add_valid_card_number">Afegeix un número de targeta vàlid</string>
   <string name="mw_payments_android_app_error">No es pot obrir l\'aplicació de pagament</string>
   <string name="mw_payments_billing_address_required">Cal l\'adreça de facturació</string>
+  <string name="mw_payments_card_and_address_settings">Podeu gestionar les targetes i adreces a la BEGIN_LINKConfiguracióEND_LINK.</string>
+  <string name="mw_payments_card_and_address_settings_signed_in">Les targetes i adreces provenen de Chrome i del vostre compte de Google
+(%1$s). Podeu gestionar-les a la BEGIN_LINKConfiguracióEND_LINK.</string>
+  <string name="mw_payments_card_and_address_settings_signed_out">Les targetes i adreces provenen de Chrome. Podeu gestionar-les a la BEGIN_LINKConfiguracióEND_LINK.</string>
   <string name="mw_payments_card_billing_address_required">Cal l\'adreça de facturació de la targeta</string>
   <string name="mw_payments_card_expiration_invalid_validation_message">Introduïu una data de venciment vàlida</string>
   <string name="mw_payments_card_number_invalid_validation_message">Introduïu un número de targeta vàlid</string>
