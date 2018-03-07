@@ -15,6 +15,12 @@
   <string name="ac_firstUseApplock_subTitle">Utilitzeu el bloquejador d\'aplicacions per protegir la seva privacitat</string>
   <string name="ac_firstUseApplock_title">Sol·licitar contrasenya per obrir les aplicacions seleccionades</string>
   <string name="ac_mask_all_apps">Amaga per a totes les aplicacions</string>
+  <string name="ac_notification_contentText">Toqueu per activar-lo</string>
+  <string name="ac_notification_contentTitle">Protegeix les aplicacions amb el bloqueig d\'aplicacions</string>
+  <string name="ac_post_notification_contentText">Obtén protecció al nivell del sistema</string>
+  <string name="ac_post_notification_contentTitle">Activa el bloquejador d\'aplicacions</string>
+  <string name="ac_pre_notification_contentText">Protegeix la vostra informació personal</string>
+  <string name="ac_pre_notification_contentTitle">Proveu el bloquejador d\'aplicacions</string>
   <string name="ac_summaryOff">Desactivat, no es requereix cap contrasenya per obrir aplicacions</string>
   <string name="ac_summaryOn">Activat, es requereix una clau per obrir aplicacions</string>
   <string name="ac_unmask_all_apps">Mostra-ho per a totes les aplicacions</string>
@@ -150,7 +156,7 @@
   <string name="app_manager_clear_failed_dlg_message">No s\'han pogut suprimir les dades de l\'aplicació.</string>
   <string name="app_manager_code_size">Mida de l\'aplicació</string>
   <string name="app_manager_comuting_size">S\'està calculant…</string>
-  <string name="app_manager_copy_pkg_to_clip">S\'ha copiat al porta-retalls</string>
+  <string name="app_manager_copy_pkg_to_clip">Copiat al porta-retalls</string>
   <string name="app_manager_data_size">Dades de l\'usuari</string>
   <string name="app_manager_default_cleared">Netejat</string>
   <string name="app_manager_default_close_summary">No s\'ha establert els valors per defecte.</string>
@@ -549,10 +555,16 @@
   <string name="data_usage_leisure_warning_body">Toqueu per veure els detalls d\'ús de dades.</string>
   <string name="data_usage_leisure_warning_title">Límit d\'ús de dades</string>
   <string name="data_usage_limit_body">Premeu per activar les dades mòbils.</string>
+  <string name="data_usage_mobile_dialog_title">"Ja heu utilitzat 5 GB de dades mòbils. MIUI ha desactivat les dades mòbils."</string>
   <string name="data_usage_mobile_limit_title"> Dades mòbils apagades</string>
   <string name="data_usage_no_total_package_body">Toqui per establir el límit de dades</string>
   <string name="data_usage_no_total_package_body_dual">No hi ha límit de dades establert per %s.</string>
   <string name="data_usage_no_total_package_title">Estableix un límit d\'ús de dades</string>
+  <string name="data_usage_protected_dialog_message">"MIUI ha desactivat les dades mòbils per evitar que es generin càrrecs addicionals per l\'operadora.
+
+La vostra operadora podria cobrar-li càrrecs addicionals si torneu a activar les dades mòbils."</string>
+  <string name="data_usage_protected_notify_message">MIUI ha desactivat les dades mòbils per evitar que es generin càrrecs addicionals per a la operadora.</string>
+  <string name="data_usage_protected_notify_title">"Ja heu utilitzat 5 GB de dades mòbils"</string>
   <string name="data_usage_warning_body">Toqueu per veure els detalls d\'ús de dades.</string>
   <string name="data_usage_warning_body_notify">Premeu per veure els detalls</string>
   <string name="data_usage_warning_title_notify">Heu superat el limit de dades</string>
@@ -578,6 +590,12 @@
   <string name="dialog_msg_auto_start_declare">Algunes aplicacions de seguretat poden indicar incorrectament que MIUI els ha prohibit iniciar. Per comprovar els permisos que han estat concedits a les aplicacions individualment, aneu a Configuració i Aplicacions.</string>
   <string name="dialog_msg_stop_virus_scan">"Voleu aturar l'anàlisi de virus abans que acabi?"</string>
   <string name="dialog_no_longer_alert">"No ho tornis a mostrar"</string>
+  <string name="dialog_restrict_all_mobile_summary">%s La connexió de dades mòbils es restringirà a totes les aplicacions després d\'això.</string>
+  <string name="dialog_restrict_all_mobile_title">Restringeix la connexió %s de dades mòbils</string>
+  <string name="dialog_restrict_all_wlan_summary">La connexió Wi-Fi es restringirà a totes les aplicacions després d\'això.</string>
+  <string name="dialog_restrict_all_wlan_title">Restringeix la connexió Wi-Fi</string>
+  <string name="dialog_restrict_negative">Restringeix</string>
+  <string name="dialog_restrict_positive">Cancel·la</string>
   <string name="dialog_roaming_message">Voleu permetre que aquesta aplicació utilitzi dades mòbils en itinerància a l\'estranger?</string>
   <string name="dialog_roaming_title">Itinerància en ultramar</string>
   <string name="dialog_text">Crea una drecera a la pantalla d\'inici per a l\'accelerador de velocitat dels jocs</string>
@@ -623,7 +641,13 @@ S\'afegirà a les excepcions, però els elements bloquejats anterioment no apare
   <string name="dlg_remove_whitelist">Voleu treure aquests números del llistat d\'excepcions?</string>
   <string name="dlg_remove_whitelist_ing">S\'està eliminant&#8230;</string>
   <string name="dlg_remove_whitelist_title">Suprimeix</string>
+  <string name="dlg_sec_network_unavailable">"L'aplicació de seguretat no es pot actualitzar perquè heu restringit la connexió a Internet. Voleu que l'aplicació es connecti a Internet?"</string>
   <string name="dlg_title_not_open_stranger_identify">Identifica els desconeguts</string>
+  <string name="dlg_update_btn_contiue">Continua</string>
+  <string name="dlg_update_btn_open">Permet</string>
+  <string name="dlg_update_data_content">"No esteu connectats a Wi-Fi. L'ús de dades mòbils pot generar càrrecs addicionals. Voleu continuar de totes maneres?"</string>
+  <string name="dlg_update_date_title">Advertència</string>
+  <string name="dlg_update_updating">S\'està actualitzant…</string>
   <string name="dlg_white_address_antispam_message">Voleu afegir aquesta ubicació a les excepcions?</string>
   <string name="dlg_white_antispam_hint">Llista d\'excepcions</string>
   <string name="dlg_white_antispam_message">Voleu afegir aquest número a les excepcions?</string>
@@ -745,6 +769,7 @@ S\'afegirà a les excepcions, però els elements bloquejats anterioment no apare
   <string name="gb_description_image_button_reject">Declina</string>
   <string name="gb_description_image_button_video_answer">Videotrucada</string>
   <string name="gb_new_feature">Nova característica</string>
+  <string name="gdpr_msg">&lt;Data&gt;\"Per utilitzar les característiques bàsiques de Seguretat, haureu d\'acceptar que Xiaomi recopili, processi i utilitzi les vostres dades personals, incloent-hi informació sobre les maneres d\'utilitzar les funcions de seguretat (per exemple, estadístiques d\'ús de dades mòbils, informació sobre aplicacions malicioses, informació bàsica sobre el vostre dispositiu) i altres tipus d\'informació que s\'especifiquen a la nostra &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Política de privadesa&amp;lt;/a&amp;gt;.\"&lt;/Data&gt;</string>
   <string name="get_sys_info">Obtenint informació…</string>
   <string name="gmscore_support_remind">Activeu aquesta funció si teniu problemes amb l\'ús de Gmail, Google Maps i altres aplicacions de Google. Això reduirà lleugerament la durada de la bateria.</string>
   <string name="gmscore_support_service">Serveis de Google</string>
@@ -1073,6 +1098,8 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="network_blocked_connected_open_wifi">Connectat a xarxa pública</string>
   <string name="network_blocked_notification_summary">Comprovació de la xarxa</string>
   <string name="network_blocked_switch_wifi">Canvia xarxes</string>
+  <string name="network_changed_noti_summary">S\'està utilitzant dades mòbils</string>
+  <string name="network_changed_noti_title">Desconnectat de la Wi-Fi</string>
   <string name="network_connected_exception_title">Comprovació de la xarxa</string>
   <string name="network_control">Veure paràmetres de l\'aplicació</string>
   <string name="network_diagnostics">Comprovació de la xarxa</string>
@@ -1130,12 +1157,10 @@ Proveu a fer servir un altre cable Ethernet per connectar l\'encaminador. Si sos
   <string name="notification_battery_consume_abnormal_title">La bateria s\'està descarregant massa ràpid</string>
   <string name="notification_exit_power_save_mode">Desactiva l\'estalvi de bateria</string>
   <string name="notification_exit_power_save_mode_subtitle">Bateria %s carregada.</string>
-  <string name="notification_item">Protegeix les aplicacions amb el bloqueig d\'aplicacions</string>
   <string name="notification_mask_summary">Oculta el contingut per les notificacions a la pantalla de bloqueig i a la barra notificacions</string>
   <string name="notification_mask_title">Amaga el contingut</string>
   <string name="notification_masked_item">Amaga les notificacions</string>
   <string name="notification_masked_subtitle">Amaga les notificacions d\'aplicacions protegides amb bloqueig de l\'aplicació</string>
-  <string name="notification_subtitle">Tocar per activar</string>
   <string name="notification_summary_cmcc_app_check">Toqueu per veure els detalls.</string>
   <string name="notify_daily_data_usage_body">Per limitar l\'ús de dades automàticament, establir el pla de dades mensual.</string>
   <string name="notify_daily_limit_body">Tocar per establir el límit de dades.</string>
@@ -1611,6 +1636,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="sms_prefix">Llista de bloqueig de prefixos</string>
   <string name="sms_service">Bloqueja el servei SMS</string>
   <string name="sms_smart_engine_update">Actualitza el filtre d\'SMS automàticament</string>
+  <string name="sms_smart_engine_update_now">Actualitza</string>
   <string name="sms_stranger_block">Bloqueja SMS d\'estranys</string>
   <string name="sorted_dialog_title">Ordena per</string>
   <string name="sp_background_risk_dialog_summary">, feu un control detallat i corregiu els riscos de pagament</string>
@@ -1677,7 +1703,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="st_antispam_title_contactandanoy_group">Configuració</string>
   <string name="st_antispam_title_null_incoming">Números privats</string>
   <string name="st_antispam_title_service_sms">Servei de notificacions</string>
-  <string name="st_antispam_title_whitelist">Exceptions</string>
+  <string name="st_antispam_title_whitelist">Excepcions</string>
   <string name="st_call_backsound_group">So de la llista de bloqueig</string>
   <string name="st_call_intercept_contacts">Bloqueja trucades dels contactes</string>
   <string name="st_call_intercept_forwarding">Bloqueja trucades desviades</string>
@@ -1979,6 +2005,10 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="toast_root_apply_reject">Accés root denegat a %s</string>
   <string name="toast_set_success">Obert amb èxit!</string>
   <string name="toast_show_notification">Adjunt al tauler de notificacions</string>
+  <string name="toast_update_fail">"No s'ha pogut actualitzar"</string>
+  <string name="toast_update_nonetwork">"No és possible connectar-se a la xarxa"</string>
+  <string name="toast_update_notneed">Al dia</string>
+  <string name="toast_update_success">S\'ha actualitzat amb èxit</string>
   <string name="top_game">Els millors jocs</string>
   <string name="top_load_fail_detail">"No s'ha pogut carregar, toqueu per tornar-ho a provar"</string>
   <string name="top_no_network_detial">"No s'ha pogut carregar. Comproveu la connexió de xarxa i torneu-ho a provar"</string>

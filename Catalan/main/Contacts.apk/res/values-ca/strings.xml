@@ -887,7 +887,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="profile_name_photo">Foto</string>
   <string name="pull_to_refresh_pull_label">Arrossegueu per refrescar…</string>
   <string name="pull_to_refresh_refreshing_label">Un moment…</string>
-  <string name="pull_to_refresh_release_label">Deixeu anar per refrescar…</string>
+  <string name="pull_to_refresh_release_label">Deixeu anar per refrescar</string>
   <string name="qr_card_card">Codi QR</string>
   <string name="qrcode_card_title">Targeta en codi QR</string>
   <string name="quick_dial_setting_delete_dialog_message">Voleu suprimir el número de marcació ràpida assignat?</string>

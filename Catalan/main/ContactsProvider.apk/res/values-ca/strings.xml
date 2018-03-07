@@ -22,6 +22,7 @@
   <string name="search_the_yellowpage">Cerca a les pàgines grogues</string>
   <string name="send_sms">Envia un missatge</string>
   <string name="sharedUserLabel">Aplicacions del nucli d\'Android</string>
+  <string name="sim_state_changed">S\'ha canviat la targeta SIM</string>
   <string name="third_party_delete_contact_info">"«%s» està intentant eliminar els vostres contactes, acció que no poden realitzar aplicacions de tercers. Per fer-ho, feu servir l'aplicació de contactes integrada a MIUI."</string>
   <string name="update_accounts_changed">Comptes canviades</string>
   <string name="upgrade_msg">S\'està actualitzant la base de dades de Contactes.</string>
@@ -29,5 +30,6 @@
   <string name="upgrade_out_of_memory_notification_ticker">L\'actualització necessita més memòria.</string>
   <string name="upgrade_out_of_memory_notification_title">S\'està actualitzant l\'emmagatzematge pels contactes</string>
   <string name="video_call">Vídeotrucada</string>
+  <string name="voicemail_cleanup">Neteja el correu de veu</string>
   <string name="voicemail_from_column">"Missatge de veu de "</string>
 </resources>

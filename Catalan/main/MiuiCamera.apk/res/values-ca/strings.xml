@@ -61,6 +61,7 @@
   <string name="config_name_setting">Configuració</string>
   <string name="config_name_sound">Àudio</string>
   <string name="config_name_straighten">Redreçament</string>
+  <string name="config_name_super_resolution">Resolució súper</string>
   <string name="config_name_tilt">Canvi d\'inclinació</string>
   <string name="config_name_timer">Temporitzador</string>
   <string name="confirm_install_scanner_message">"L'escàner us permet escanejar codis QR, codis de barres i molt més. No cal connectar-se a Internet per instal·lar-lo."</string>
@@ -157,12 +158,14 @@ i les barrejarà per crear-ne una de nova on cadascú quedi millor."</string>
   <string name="portrait_mode_use_hint">"El mode retrat us ajuda a desenfocar el fons
 amb un cos més clar i un retrat més bonic"</string>
   <string name="pref_advance_settings">Configuració addicional</string>
+  <string name="pref_ai_detect">Detecció d\'IA</string>
   <string name="pref_audio_focus_entry_front">Davant</string>
   <string name="pref_audio_focus_entry_rear">Darrere</string>
   <string name="pref_audio_focus_title">Focus d\'àudio</string>
   <string name="pref_burst_shoot_title">Ràfega</string>
   <string name="pref_camcorder_settings">Vídeo</string>
   <string name="pref_camcorder_settings_category">Configuració de la càmera</string>
+  <string name="pref_camera_ai_scene_title">Escena d\'IA</string>
   <string name="pref_camera_antibanding_entry_0">Apagat</string>
   <string name="pref_camera_antibanding_entry_3">Automàtic</string>
   <string name="pref_camera_antibanding_title">Antiparpelleig</string>
@@ -179,6 +182,7 @@ amb un cos més clar i un retrat més bonic"</string>
   <string name="pref_camera_beautify_entry_high">Alt</string>
   <string name="pref_camera_beautify_entry_low">Baix</string>
   <string name="pref_camera_beautify_entry_normal">Mitjà</string>
+  <string name="pref_camera_beauty">Embellidor</string>
   <string name="pref_camera_beauty_deep">Bellesa pro</string>
   <string name="pref_camera_bokeh_title">Vertical</string>
   <string name="pref_camera_coloreffect_entry_big_face">Dispersa</string>
@@ -207,6 +211,8 @@ amb un cos més clar i un retrat més bonic"</string>
   <string name="pref_camera_delay_capture_entry_audio">Àudio</string>
   <string name="pref_camera_delay_capture_title">Compte enrere</string>
   <string name="pref_camera_device_watermark_title">Marca d\'aigua del dispositiu</string>
+  <string name="pref_camera_dual_enable_title">Activa la càmera dual</string>
+  <string name="pref_camera_dual_sat_enable_title">Activa la càmera dual SAT</string>
   <string name="pref_camera_exposuretime_entry_auto">AUTOMÀTIC</string>
   <string name="pref_camera_face_info_watermark_title">Afegeix la marca d\'edat a la foto</string>
   <string name="pref_camera_facedetection_auto_hidden_title">Detecció de cares ocultes automàticament</string>
@@ -221,6 +227,8 @@ amb un cos més clar i un retrat més bonic"</string>
   <string name="pref_camera_focusmode_entry_infinity">Infinit</string>
   <string name="pref_camera_focusmode_entry_normal">Estàndard</string>
   <string name="pref_camera_focusmode_title">Mode d\'enfocament</string>
+  <string name="pref_camera_front_ai_scene_entry_off">L\'escena d\'IA està desactivada</string>
+  <string name="pref_camera_front_ai_scene_entry_on">Escena d\'IA</string>
   <string name="pref_camera_front_bokeh_entry_off">Desactivat</string>
   <string name="pref_camera_front_bokeh_entry_on">Activat</string>
   <string name="pref_camera_gradienter_title">Redreçament</string>
@@ -247,6 +255,7 @@ amb un cos més clar i un retrat més bonic"</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_focus">Enfocament</string>
   <string name="pref_camera_long_pressing_shutter_title">Mantingueu premut el disparador per fixar AE/AF/AWB</string>
   <string name="pref_camera_magic_mirror_title">Mirall màgic</string>
+  <string name="pref_camera_mfnr_sat_enable_title">Activa l\'MFNR</string>
   <string name="pref_camera_movie_solid_title">Estabilitzador d\'imatge</string>
   <string name="pref_camera_multilevel_entry_high">Alt</string>
   <string name="pref_camera_multilevel_entry_higher">Més alt</string>
@@ -255,6 +264,7 @@ amb un cos més clar i un retrat més bonic"</string>
   <string name="pref_camera_multilevel_entry_lower">Més baix</string>
   <string name="pref_camera_multilevel_entry_lowest">Mínim</string>
   <string name="pref_camera_multilevel_entry_middle">Mitjà (per defecte)</string>
+  <string name="pref_camera_optimized_flash_enable_title">Flaix optimitzat</string>
   <string name="pref_camera_panoramamode_title">Panoràmica</string>
   <string name="pref_camera_parallel_process_enable_title">Activa el procés d\'imatge paral·lela</string>
   <string name="pref_camera_peak_entry_off">desactivada</string>
@@ -331,6 +341,8 @@ amb un cos més clar i un retrat més bonic"</string>
   <string name="pref_camera_whitebalance_entry_manual">Manual</string>
   <string name="pref_camera_whitebalance_entry_measure">Mesura</string>
   <string name="pref_camera_whitebalance_title">Balanç de blancs</string>
+  <string name="pref_camera_zoom_mode_entry_high_pixel">GRAN PÍXEL</string>
+  <string name="pref_camera_zoom_mode_entry_standard">NORMAL</string>
   <string name="pref_camera_zoom_mode_entry_tele">TELE</string>
   <string name="pref_camera_zoom_mode_entry_wide">PANORÀMICA</string>
   <string name="pref_camera_zoom_mode_title">LENTS</string>
@@ -361,6 +373,10 @@ amb un cos més clar i un retrat més bonic"</string>
   <string name="pref_skin_beautify_intelligent_title">Intel·ligent</string>
   <string name="pref_skin_beautify_slim_title">Prim</string>
   <string name="pref_skin_beautify_smooth_title">Pell</string>
+  <string name="pref_video_focusmode_entry_auto">Toqueu</string>
+  <string name="pref_video_focusmode_entry_continuous">AF-C</string>
+  <string name="pref_video_focusmode_title">Mode d\'enfocament</string>
+  <string name="pref_video_hfr_title">Vídeo HFR</string>
   <string name="pref_video_quality_entry_1080p">Full HD</string>
   <string name="pref_video_quality_title">Qualitat de vídeo</string>
   <string name="pref_video_speed_entry_fast">Ràpid</string>
@@ -416,6 +432,8 @@ amb un cos més clar i un retrat més bonic"</string>
   <string name="sticker_tab2">Divertit</string>
   <string name="tap_to_exposure">Premeu per ajustar manualment l\'exposició</string>
   <string name="tap_to_focus">Toqueu per enfocar</string>
+  <string name="text_ai_scene_selector_text_off">CONTRALLUM</string>
+  <string name="text_ai_scene_selector_text_on">SILUETA</string>
   <string name="time_lapse_error">"No es pot fer servir aquesta mida de vídeo en un enregistrament a càmera ràpida"</string>
   <string name="title_snap_double_confirm">Torneu-ho a confirmar</string>
   <string name="toast_burst_snap_finished_summary">Ràfega de captures feta, s\'han fet %1$s fotos</string>

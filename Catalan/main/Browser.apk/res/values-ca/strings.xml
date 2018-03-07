@@ -14,6 +14,7 @@
   <string name="action_menu_account_not_login_hint">Inicieu la sessió per sincronitzar amb Mi Cloud</string>
   <string name="action_menu_bookshelf">Prestatgeria</string>
   <string name="action_menu_current_version">Versió actual</string>
+  <string name="action_menu_download">Baixa</string>
   <string name="action_menu_request_desktop_site">Visualitza la versió per a ordinador</string>
   <string name="action_menu_request_desktop_site_off">Visualitza la versió per a ordinador/desactivat</string>
   <string name="action_menu_request_desktop_site_on">Visualitza la versió per a ordinador/activat</string>
@@ -34,6 +35,7 @@
   <string name="action_menu_text_nightmode">Mode nocturn</string>
   <string name="action_menu_text_nightmode_off">Mode nocturn</string>
   <string name="action_menu_text_nightmode_on">Mode nocturn</string>
+  <string name="action_menu_text_readmode">Mode lectura</string>
   <string name="action_menu_text_refresh">Actualitza</string>
   <string name="action_menu_text_setting">Configuració</string>
   <string name="action_menu_text_share">Comparteix</string>
@@ -85,7 +87,7 @@
   <string name="aqi_quality_index_moderate">Moderat</string>
   <string name="aqi_quality_index_pure">Excel·lent</string>
   <string name="aqi_quality_index_unhealthy">Perjudicial</string>
-  <string name="autoSwithcingSearchEngineTips">Ha canviat el motor de cerca pel seu hàbit</string>
+  <string name="autoSwithcingSearchEngineTips">S\'ha canviat al cercador habitual</string>
   <string name="autologin_bar_error">"No s'ha pogut iniciar la sessió"</string>
   <string name="autologin_bar_hide_text">Amaga</string>
   <string name="autologin_bar_login_text">Inicia la sessió</string>
@@ -126,7 +128,7 @@
   <string name="bottom_bar_tabs_long_click_up_tip_txt">Llisqueu cap amunt per tancar</string>
   <string name="browserFrameFileErrorLabel">Problema de fitxer</string>
   <string name="browserFrameFormResubmitMessage">"La pagina que esteu intentant veure conté dades que ja s'han enviat. Si torneu a enviar les dades, les accions ja realitzades (per exemple, cerques o compres) es repetiran."</string>
-  <string name="browserFrameNetworkErrorLabel">Problema de connexió</string>
+  <string name="browserFrameNetworkErrorLabel">Error de connexió</string>
   <string name="cancel">Cancel·la</string>
   <string name="cancle_sync_cloud_tabs">Cancel·la la sincronització</string>
   <string name="cannot_download">Només podeu baixar URLs «http» o «https»</string>
@@ -138,6 +140,7 @@
   <string name="clear_search_history">Esborra l\'historial</string>
   <string name="clear_video_download">Esborra els vídeos</string>
   <string name="clip_dialog_title">Voleu obrir l\'URL copiat?</string>
+  <string name="close">Tanca</string>
   <string name="close_ads_choice_no">Permet</string>
   <string name="close_ads_choice_yes">Bloqueja</string>
   <string name="close_ads_message">"Voleu bloquejar el contingut d'aquest web? Podeu veure els llocs que heu bloquejat a Configuració &gt; Avançat &gt; Llocs bloquejats."</string>
@@ -153,6 +156,8 @@
   <string name="cloud_tabs_sync_off">Sincronització desactivada</string>
   <string name="cloud_time_tips">Darrera sincronització</string>
   <string name="cloud_up_to_loading_tips">Deixeu anar per sincronitzar</string>
+  <string name="com_taobao_tae_sdk_web_view_activity_feedback_strings_delete">Elimina</string>
+  <string name="com_taobao_tae_sdk_web_view_activity_sendfeedback_strings_add_picture">Afegeix una foto</string>
   <string name="comment_app_menu">Comentari</string>
   <string name="comment_description">Comentari</string>
   <string name="comment_hint">Comentari</string>
@@ -191,7 +196,7 @@
   <string name="current_version_phone">Telèfon</string>
   <string name="custom_head_card_text">«Creu sempre que alguna cosa meravellosa
 està a punt de passar»</string>
-  <string name="data_monitor">Monitor de dades</string>
+  <string name="data_monitor">Monitor d\'ús de dades</string>
   <string name="data_monitor_dialog_message">Sembla que alguna cosa està drenant les vostres dades mòbils. Obriu la pàgina d\'inici per aturar-ho.</string>
   <string name="data_traffic_prompt_message">"L'ús de la connexió de dades mòbils per navegar pels vídeos augmentarà el vostre ús de dades. Si excediu el límit d'ús de dades del vostre pla, l'operador us podria cobrar despeses addicionals."</string>
   <string name="data_traffic_prompt_title">Alerta d\'ús de dades</string>
@@ -274,6 +279,9 @@ està a punt de passar»</string>
   <string name="enable_geolocation_confirm_message">Si desactiveu els serveis d\'ubicació es veuran afectades les recomanacions que rebeu.</string>
   <string name="enter_developer_mode">Entra al mode programador</string>
   <string name="enter_incongnito_mode">Entra al mode incògnit</string>
+  <string name="enter_the_group_name">Introduïu el nom del grup</string>
+  <string name="enter_the_password">Introduïu la contrasenya</string>
+  <string name="enter_the_user_name">Introduïu el nom d\'usuari</string>
   <string name="error_console_eval_button_text">Avalua</string>
   <string name="error_console_eval_text_hint">Avalua JavaScript</string>
   <string name="error_console_header_text_maximized">Consola de JavaScript</string>
@@ -295,7 +303,7 @@ està a punt de passar»</string>
   <string name="find_on_page_next">Següent</string>
   <string name="find_on_page_prev">Anterior</string>
   <string name="finish_sync_cloud_tabs">Sincronització finalitzada</string>
-  <string name="firstUsingSearchEngineTips">Si voleu canviar la cerca</string>
+  <string name="firstUsingSearchEngineTips">Canviar el motor de cerca?</string>
   <string name="fling_on_border_gesture_hint">Podeu triar la funció d\'aquest gest a la Configuració</string>
   <string name="force_quick_search_title">Cerca</string>
   <string name="force_touch_bookmark_history_title">Marcadors i historial</string>
@@ -454,6 +462,7 @@ està a punt de passar»</string>
   <string name="mw_color_picker_dialog_title">Seleccioneu un color</string>
   <string name="mw_color_picker_hue">To</string>
   <string name="mw_color_picker_saturation">Saturació</string>
+  <string name="mw_color_picker_value">Valor</string>
   <string name="mw_common_google_play_services_enable_button">Activa</string>
   <string name="mw_common_google_play_services_enable_text">"%1$s no funcionarà si no activeu els serveis de Google Play."</string>
   <string name="mw_common_google_play_services_enable_title">Activació dels serveis de Google Play</string>
@@ -555,6 +564,7 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="mw_miuichromium_error_page_problem_connection_interrupted_reason_device_slept">S\'ha interromput la connexió quan el dispositiu es va suspendre.</string>
   <string name="mw_miuichromium_error_page_problem_connection_interrupted_reason_network_changed">S\'ha interromput la connexió a causa d\'un canvi de xarxa.</string>
   <string name="mw_miuichromium_error_page_problem_file_not_found_reason_moved_or_deleted">"No s'ha pogut trobar el fitxer. Pot ser que s'hagi mogut o suprimit."</string>
+  <string name="mw_miuichromium_error_page_problem_file_not_readable_reason_access_denied">"No s'ha pogut llegir el fitxer. És possible que els permisos del fitxer impedeixin l'accés."</string>
   <string name="mw_miuichromium_error_page_problem_gateway_timed_out">%s0 ha tardat massa a respondre.</string>
   <string name="mw_miuichromium_error_page_problem_network_access_denied">L\'accés a la xarxa està restringit.</string>
   <string name="mw_miuichromium_error_page_problem_no_internet_connection_reason_proxy_error">"No s'ha pogut connectar a Internet. Alguna cosa està malament amb el servidor intermediari, o l'adreça del servidor intermediari és incorrecta."</string>
@@ -759,7 +769,7 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="nav_screen_container_tab_normal">Pestanya normal</string>
   <string name="nav_screen_incognito_message">"L\'historial de navegació i cerca no es desarà al mode incògnit. Recordeu que els fitxers que baixeu i els marcadors que afegiu es desaran."</string>
   <string name="nav_screen_incognito_title">Mode d\'incògnit</string>
-  <string name="navigation_delete_all">llisqueu cap a l\'esquerra i cap a la dreta per tancar totes les pestanyes</string>
+  <string name="navigation_delete_all">Llisqueu cap a l\'esquerra i cap a la dreta per tancar totes les pestanyes</string>
   <string name="navigationbar_rightbutton_actiontext_cancle">Cancel·la</string>
   <string name="navigationbar_rightbutton_actiontext_go">Vés</string>
   <string name="navigationbar_rightbutton_actiontext_search">Cerca</string>
@@ -784,7 +794,7 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="open_voice_permission">Permís per obrir la xarxa de veu</string>
   <string name="page_info">Informació de la pàgina</string>
   <string name="page_info_address">Adreça:</string>
-  <string name="page_info_view">Visualitza la informació de la pàgina</string>
+  <string name="page_info_view">Mostra la informació de la pàgina</string>
   <string name="password">Contrasenya</string>
   <string name="pause_download">En pausa</string>
   <string name="paused_queued_for_wifi">S\'està esperant la connexió&#8230;</string>
@@ -798,7 +808,6 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="popup_window_attempt">Voleu que aquest lloc pugui obrir una finestra emergent?</string>
   <string name="positive_confirm_message">Desactiva-ho de totes maneres</string>
   <string name="pref_accept_quicklink_push">Servei de notícies</string>
-  <string name="pref_accessibility">Accessibilitat</string>
   <string name="pref_accessibility_title">Accessibilitat</string>
   <string name="pref_accessibility_url_shortcut_enter_summary">Es poden introduir combinacions habituals de lletres totes de cop a la barra d\'adreces</string>
   <string name="pref_accessibility_url_shortcut_enter_title">Entrada ràpida d\'URL</string>
@@ -965,6 +974,7 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="save_image_success">Imatge desada</string>
   <string name="save_page_capture_tip">Obre la taula de notificacions per veure la captura de pantalla.</string>
   <string name="save_page_capture_to_camera">S\'ha desat la captura de pantalla</string>
+  <string name="save_to_bookmark">Desa als marcadors</string>
   <string name="save_to_camera">Desa a càmera</string>
   <string name="save_to_camera_failed">"No es pot desar la imatge"</string>
   <string name="save_to_camera_success">S\'ha desat a càmera</string>
@@ -1022,13 +1032,13 @@ El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'
   <string name="skip_button_label">Omet</string>
   <string name="skip_current_version">Omet aquesta versió</string>
   <string name="snapshot">Local</string>
-  <string name="snapshot_failed">"No s'ha pogut desar per llegir-la fora de línia"</string>
+  <string name="snapshot_failed">"No s'ha pogut desar la pàgina"</string>
   <string name="snapshot_successed">Obre els marcadors i l\'historial -&gt; LOCAL per veure la pàgina</string>
   <string name="soft_toast_see_view">Mostra</string>
   <string name="speech_engine_not_install">El motor de veu no està instal·lat</string>
-  <string name="ssl_bad_clock_date_settings">Configuració de data</string>
+  <string name="ssl_bad_clock_date_settings">Estableix la data</string>
   <string name="ssl_bad_clock_warning" formatted="false">"No es pot establir una connexió privada a %s1 perquè la data i l'hora (%s2) del dispositiu són incorrectes."</string>
-  <string name="ssl_certificate">Certificat de Seguretat</string>
+  <string name="ssl_certificate">Certificat de seguretat</string>
   <string name="ssl_certificate_is_valid">Aquest certificat és vàlid.</string>
   <string name="ssl_continue">Continua</string>
   <string name="ssl_date_error_warnings_header">"El certificat d'aquest lloc ha caducat o encara no és vàlid. Se us recomana que abandoneu aquesta pàgina."</string>
@@ -1039,10 +1049,12 @@ El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'
   <string name="ssl_mismatch">"El nom del lloc no coincideix amb el nom del certificat."</string>
   <string name="ssl_not_yet_valid">"Aquest certificat encara no és vàlid."</string>
   <string name="ssl_unknown">Error de certificat desconegut.</string>
-  <string name="ssl_untrusted">"Aquest certificat no és d'una autoritat fiable."</string>
+  <string name="ssl_untrusted">"El certificat no és d'una autoritat de confiança."</string>
   <string name="ssl_warnings_header">Hi ha problemes amb el certificat de seguretat d\'aquest lloc.</string>
   <string name="start_save_page_capture">Desant captura pantalla&#8230;</string>
+  <string name="storage_close">Tanca</string>
   <string name="storage_internal">Emmagatzematge intern</string>
+  <string name="storage_open">Obre</string>
   <string name="storage_permission_request_toast">"Baixades necessita permís d'emmagatzematge, obriu-lo"</string>
   <string name="storage_sd_card">Targeta SD</string>
   <string name="storage_usb">Emmagatzematge USB</string>
@@ -1052,11 +1064,11 @@ El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'
   <string name="suggest_access_btn_play">Reprodueix</string>
   <string name="suggest_access_btn_view">Mostra</string>
   <string name="suggest_access_item_album_songs">%d cançons</string>
-  <string name="suggest_access_item_app_mark">APLICACIÓ</string>
+  <string name="suggest_access_item_app_mark">APLICACIONS</string>
   <string name="suggest_access_item_app_size">%.2f MB</string>
   <string name="suggest_access_item_app_update">Actualització: %s</string>
   <string name="suggest_access_item_book_mark">LLIBRES</string>
-  <string name="suggest_access_item_mina_mark">APLICACIONS INSTANTÀNIES</string>
+  <string name="suggest_access_item_mina_mark">APLICACIONS RÀPIDES</string>
   <string name="suggest_access_item_music_mark">MÚSICA</string>
   <string name="suggest_access_item_singer_albums">%d àlbums</string>
   <string name="suggest_access_item_singer_pop">%d cançons populars</string>
@@ -1068,10 +1080,10 @@ El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'
   <string name="suggest_item_delete_text">Elimina</string>
   <string name="suggest_open_app_failed">"No s'ha pogut obrir aquesta aplicació"</string>
   <string name="suggestion_lottery_detail_pour">%s NOTA</string>
-  <string name="suggestion_lottery_detail_price">CADA NOTA %s IUAN</string>
-  <string name="suggestion_lottery_detail_text">AQUEST %s</string>
-  <string name="suggestion_lottery_period">Nº %s</string>
-  <string name="suggestion_translation_more">TRADUEIX MÉS</string>
+  <string name="suggestion_lottery_detail_price">CADA NOTA VAL MÉS QUE %s IUAN</string>
+  <string name="suggestion_lottery_detail_text">AQUESTA RONDA %s</string>
+  <string name="suggestion_lottery_period">RONDA %s</string>
+  <string name="suggestion_translation_more">MOSTRA\'N MÉS</string>
   <string name="switchText">SÍ</string>
   <string name="switch_proxy_dialog_msg">"S'ha detectat una intrusió per xarxa. Utilitzeu l'aplicació de Seguretat integrada a MIUI o informeu al vostre operador mòbil."</string>
   <string name="switch_proxy_dialog_title">Intrusió per xarxa</string>
@@ -1089,15 +1101,15 @@ El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'
   <string name="transfer_prompt_0">Reprodueix el vídeo</string>
   <string name="transfer_restart">Reinicia</string>
   <string name="translation_copy">Copia</string>
-  <string name="translation_more">Més traducció</string>
-  <string name="translation_query_error">Sense significat</string>
-  <string name="translation_query_error_network">Ha fallat la consulta, comproveu la connexió de xarxa</string>
-  <string name="translation_result_copy">Els resultats de la traducció s\'han replicat</string>
+  <string name="translation_more">Mostra\'n més</string>
+  <string name="translation_query_error">"No s'ha pogut traduir"</string>
+  <string name="translation_query_error_network">"No s'ha pogut obtenir informació. Connecteu-vos a la xarxa i torneu-ho a provar."</string>
+  <string name="translation_result_copy">Copiat al porta-retalls</string>
   <string name="unSwitchText">NO</string>
   <string name="undo">Desfés</string>
   <string name="unknown_title">Desconegut</string>
   <string name="unsecurity_url_toast">"Aquesta web no és segura"</string>
-  <string name="up_to_loading_tips">Allibereu per actualitzar</string>
+  <string name="up_to_loading_tips">Deixeu anar per actualitzar</string>
   <string name="update_no_network_toast">"No es pot connectar a la xarxa"</string>
   <string name="uploads_disabled">La pujada de fitxers està desactivada</string>
   <string name="url_copy_done">La URL s\'ha copiat al porta-retalls</string>

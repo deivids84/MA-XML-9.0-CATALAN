@@ -6,11 +6,9 @@
   <string name="alert_message_delete_record_title">Voleu eliminar la gravació?</string>
   <string name="app_name">Gravadora</string>
   <string name="back">Enrere</string>
-  <string name="btn_clear_records">Elimina les gravacions (%d elements)</string>
   <string name="button_queue_for_wifi">Espera</string>
   <string name="button_start_now">Baixa</string>
   <string name="call_record">Trucades enregistrades</string>
-  <string name="choose_call_records_count">%d elements</string>
   <string name="clear_records">Elimina les gravacions sincronitzades</string>
   <string name="cloud_record_open">Sincronitza gravacions</string>
   <string name="cloud_record_tip">Sincronitza les gravacions amb Mi Cloud.</string>
@@ -51,6 +49,7 @@
   <string name="low_battery_error_confirm">D\'acord</string>
   <string name="low_battery_error_title">Bateria baixa</string>
   <string name="mark_point_list_title">Marques</string>
+  <string name="menu">Menú</string>
   <string name="message_file_size_error">La gravació ha arribat a la durada màxima permesa per %s</string>
   <string name="network_tip_dialog_cancel">Cancel·la</string>
   <string name="network_tip_dialog_content">La gravadora necessita connectar-se a Internet, així com llegir els vostres contactes perquè funcioni normalment. Hi esteu d\'acord?</string>
@@ -64,7 +63,6 @@
   <string name="notification_recording_ticker">Telèfon silenciat</string>
   <string name="notification_stopped">S\'ha aturat la gravació</string>
   <string name="notification_title_all_paused">Baixada en pausa</string>
-  <string name="notification_warning">Queda poc espai lliure (menys de %d minuts)</string>
   <string name="path_soundrecorder_setting">Aplis del sistema/Gravadora</string>
   <string name="pause">Pausa</string>
   <string name="playback_delete_records">Elimina la gravació</string>

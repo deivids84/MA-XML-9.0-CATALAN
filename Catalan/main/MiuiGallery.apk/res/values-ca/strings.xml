@@ -495,6 +495,17 @@ Feu més fotos als vostres amics!"</string>
   <string name="family_member_invitation_text">Un altre membre de la família</string>
   <string name="fast_share_auto_render">Embelleix</string>
   <string name="fast_share_auto_render_finish">Embellit</string>
+  <string name="filter_bi_memory">Memòria</string>
+  <string name="filter_bi_mono">Mono</string>
+  <string name="filter_bi_pink">Rosa</string>
+  <string name="filter_bi_portrait">Vertical</string>
+  <string name="filter_bi_retro">Retro</string>
+  <string name="filter_bi_romantic">Romàntic</string>
+  <string name="filter_bi_strong">Intens</string>
+  <string name="filter_bi_sunny">Assolellat</string>
+  <string name="filter_bi_sweet">Dolç</string>
+  <string name="filter_bi_warm">Càlid</string>
+  <string name="filter_bi_young">Jove</string>
   <string name="filter_category_film">Pel·lícula</string>
   <string name="filter_category_food">Menjar</string>
   <string name="filter_category_portrait">Vertical</string>
@@ -560,7 +571,7 @@ Feu més fotos als vostres amics!"</string>
   <string name="hybrid_network_unavaliable">"No es pot connectar a la xarxa"</string>
   <string name="hybrid_pull_to_refresh_pull_label">Estireu per actualitzar&#8230;</string>
   <string name="hybrid_pull_to_refresh_refreshing_label">Un moment…</string>
-  <string name="hybrid_pull_to_refresh_release_label">Deixeu anar per actualitzar&#8230;</string>
+  <string name="hybrid_pull_to_refresh_release_label">Deixeu anar per actualitzar…</string>
   <string name="hybrid_service_unavailiable">Servei no disponible</string>
   <string name="hybrid_try_again">Torna-ho a provar</string>
   <string name="ignore_album">"No el mostris"</string>
@@ -625,6 +636,14 @@ Feu més fotos als vostres amics!"</string>
   <string name="main_discard_negative_btn">Descarta</string>
   <string name="main_discard_positive_btn">Desa i surt</string>
   <string name="main_save_error_msg">"No s'ha pogut desar els canvis degut a un error"</string>
+  <string name="mark_myself_default_name">Jo</string>
+  <string name="mark_myself_suggestion_load_more">"No sóc jo"</string>
+  <string name="mark_myself_suggestion_title">"Seleccioneu fotos amb la vostra cara
+per personalitzar la galeria"</string>
+  <string name="mark_operation_failed">"No s'ha pogut afegir"</string>
+  <string name="mark_operation_processing">S\'està processant…</string>
+  <string name="mark_operation_succeeded">S\'ha afegit amb èxit</string>
+  <string name="mark_people_ignore_info_message">Mantingueu premut les fotos de les persones per afegir-les als grups</string>
   <string name="menu_album_new_album">Àlbum nou</string>
   <string name="menu_item_sort_date">Data</string>
   <string name="menu_item_sort_name">Nom</string>

@@ -47,7 +47,7 @@
   <string name="date_picker_dialog_title">Estableix la data</string>
   <string name="date_time_done">Fet</string>
   <string name="date_time_picker_dialog_title">Estableix la data i l\'hora</string>
-  <string name="dateformat">dd/LL/yyyy</string>
+  <string name="dateformat">dd/MM/yyyy</string>
   <string name="day">dia</string>
   <string name="del">SUPR</string>
   <string name="deleteDesc">elimina</string>
@@ -126,7 +126,7 @@
   <string name="label">SDK de MIUI</string>
   <string name="leftParenDesc">parèntesi esquerre</string>
   <string name="lgDesc">logaritme</string>
-  <string name="lnDesc">logaritme neperià</string>
+  <string name="lnDesc">logaritme natural</string>
   <string name="loan_edittext_hint_commercial">Introduïu una quantitat</string>
   <string name="loan_edittext_hint_commercial_combined">Comercial</string>
   <string name="loan_edittext_hint_fund">Introduïu una quantitat</string>

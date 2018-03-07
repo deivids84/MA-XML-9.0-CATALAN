@@ -27,6 +27,7 @@
   <string name="db_downgrade_clear_date_reminder">"Canviar a una versió diferent de MIUI requereix esborrar les dades de l'aplicació Notes. Abans de fer això, assegureu-vos que heu copiat les notes al Mi Cloud."</string>
   <string name="default_folder_name">Carpeta sense nom</string>
   <string name="delete_folder_dialog_tile">Elimina la carpeta</string>
+  <string name="dialog_privacy_revoke_tips">"Després de revocar l'autorització, l'aplicació deixarà de recopilar dades i totes les dades relacionades se suprimiran dels servidors. Això pot fer que l'aplicació sigui pràcticament inutilitzable. Voleu revocar l'autorització de totes maneres? Per garantir la seguretat del vostre compte, inicieu sessió a i.mi.com abans de revocar l'autorització dels serveis de Mi Cloud."</string>
   <string name="dialog_share_as_pic">Compartir la nota com a imatge</string>
   <string name="dialog_share_as_text">Compartir la nota com a text</string>
   <string name="dialog_share_title">Compartir nota</string>

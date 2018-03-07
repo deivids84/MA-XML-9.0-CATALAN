@@ -490,7 +490,7 @@
   <string name="rlv_pull_to_refresh">Tira avall per recarregar</string>
   <string name="rlv_refreshing">S\'està actualitzant&#8230;</string>
   <string name="rlv_release_to_close">Deixeu anar per tancar</string>
-  <string name="rlv_release_to_refresh">Deixar anar per recarregar</string>
+  <string name="rlv_release_to_refresh">Deixeu anar per actualitzar</string>
   <string name="save">Desa</string>
   <string name="save_desc_success">S\'ha canviat amb èxit</string>
   <string name="save_failed">"No s'ha pogut desar, torneu-ho a provar"</string>

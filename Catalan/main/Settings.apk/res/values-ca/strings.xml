@@ -992,8 +992,6 @@ Taxa de mostreig"</string>
   <string name="close_gesture">Tanca amb un gest</string>
   <string name="close_miui_optimization_title">Atura la optimització de MIUI</string>
   <string name="close_miui_optimization_warning_message">El dispositiu arrencarà de nou per aplicar els canvis.</string>
-  <string name="close_sdcard_optimization_title">Desactiva la simulació de l\'optimització de la targeta SD</string>
-  <string name="close_sdcard_optimization_warning_message">Per aplicar aquest canvi el dispositiu es reiniciarà.</string>
   <string name="cloud_backup_section_title">Còpia de seguretat del Mi Cloud</string>
   <string name="cloud_backup_settings_section_title">Còpia de seguretat de la configuració</string>
   <string name="cloud_restore_section_summary">Restaura la configuració del sistema, el disseny de la pantalla d\'inici i les aplicacions</string>
@@ -1407,6 +1405,7 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»"</string>
   <string name="disable_service_title">Voleu aturar %1$s?</string>
   <string name="disable_text">Desactiva</string>
   <string name="disabled">S\'ha desactivat</string>
+  <string name="disabled_authorised_apps_title">Autorització revocada</string>
   <string name="disabled_because_no_backup_security">Per utilitzar-lo, heu de configurar un bloqueig de pantalla</string>
   <string name="disabled_by_admin">Desactivat per l\'administrador</string>
   <string name="disabled_by_admin_summary_text">Controlat per l\'administrador</string>
@@ -1417,6 +1416,7 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»"</string>
   <string name="disabled_by_policy_title_outgoing_calls">La trucada no està permesa</string>
   <string name="disabled_by_policy_title_screen_capture">Captura de pantalla no permesaa</string>
   <string name="disabled_by_policy_title_sms">SMS no permès</string>
+  <string name="disabled_low_ram_device">Aquesta característica no està disponible en aquest dispositiu</string>
   <string name="disconnect">desconnecta</string>
   <string name="disconnected">S\'ha desconnectat</string>
   <string name="display_auto_rotate_rotate">Activat</string>
@@ -1569,6 +1569,8 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»"</string>
   <string name="enable_terminal_title">Terminal local</string>
   <string name="enable_text">Activa</string>
   <string name="enable_wifi_display">Activa la pantalla sense fils</string>
+  <string name="enabled_authorised_apps_summary">La vostra autorització es revocarà després de commutar canvis d\'aplicacions individuals.</string>
+  <string name="enabled_authorised_apps_title">Autorització concedida</string>
   <string name="enabled_by_admin">Activat per l\'administrador</string>
   <string name="enalbe_identify_iPhone">Identificació de l\'AP</string>
   <string name="encrypt_talkback_dialog_message_password">En introduir la contrasenya per a iniciar aquest dispositiu, els serveis d\'accessibilitat com %1$s encara no estaran disponibles.</string>
@@ -1705,6 +1707,9 @@ Per obtenir més informació, contacteu amb l\'administrador de l\'organització
   <string name="filter_personal_apps">Personal</string>
   <string name="filter_work_apps">Laboral</string>
   <string name="filter_write_settings_apps">L\'aplicació pot canviar la configuració del sistema</string>
+  <string name="find_my_device">Cerca el dispositiu</string>
+  <string name="find_my_device_disable">Desactivat</string>
+  <string name="find_my_device_enable">Activat</string>
   <string name="fingerprint_add_max">Podeu afegir fins a %d empremtes</string>
   <string name="fingerprint_add_title">Afegeix una empremta</string>
   <string name="fingerprint_and_password_entrance_title">Pantalla de bloqueig i empremta</string>
@@ -1846,6 +1851,8 @@ Però ja no obtingué resposta, perquè el malalt greu acabava de morir d’una 
   <string name="free_xiaomi_wifi_connect_summary">Toqueu-ho per a connectar amb %1$s.</string>
   <string name="frequently_fragment_delete">Suprimeix</string>
   <string name="frequently_fragment_tempty">Els elements freqüents es mostraran aquí</string>
+  <string name="fsg_mistake_touch_summary">En algunes escenes, com jocs de i vídeos a pantalla completa, els gestos han de tenir doble toc perquè tinguin efecte</string>
+  <string name="fsg_mistake_touch_title">Doble comprovació per als gestos</string>
   <string name="full_transparent_smarrcover_title">Tapa frontal transparent</string>
   <string name="fullbackup_data_summary">«Creeu còpies de seguretat automàtiques de les dades del dispositiu (com ara les contrasenyes de la Wi-Fi o l\'historial de trucades) i de les aplicacions (com ara les configuracions i els fitxers que desin) de manera remota.
 
@@ -2223,10 +2230,6 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="lock_screen_notifications_summary_show">Mostra totes les notificacions i els seu contingut</string>
   <string name="lock_screen_notifications_summary_show_profile">Mostra tot el contingut de notificacions laborals</string>
   <string name="lock_screen_notifications_title">Amb el dispositiu bloquejat</string>
-  <string name="lock_screen_secure_after_timeout_immediately_never">Mai cal la contrasenya</string>
-  <string name="lock_screen_secure_after_timeout_immediately_summary">Cal la contrasenya</string>
-  <string name="lock_screen_secure_after_timeout_summary">Cal la contrasenya en %1$s</string>
-  <string name="lock_screen_secure_after_timeout_title">Cal contrasenya</string>
   <string name="lock_screen_signature_summary">La signatura es mostrarà a la pantalla de bloqueig</string>
   <string name="lock_screen_signature_title">Signatura de la pantalla de bloqueig</string>
   <string name="lock_screen_unlock_show">Omet la pantalla de bloqueig</string>
@@ -2500,6 +2503,7 @@ Hi ha altres usuaris presents en aquest dispositiu.
   <string name="menu_stats_unplugged">%1$s des que es va desendollar</string>
   <string name="menu_use_uss">Utiliza Uss</string>
   <string name="mi_shopping_mall">El meu centre comercial</string>
+  <string name="mi_upi_settings">Compte Mi Pay</string>
   <string name="misc_files">Fitxers diversos</string>
   <string name="misc_files_selected_count">Seleccionats %1$d de %2$d</string>
   <string name="miui_allow_alarm">Alarmes</string>
@@ -2719,6 +2723,12 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="night_display_temperature_title">Intensitat</string>
   <string name="night_display_text">La llum nocturna tinta la pantalla de color ambre. Això fa que sigui més fàcil mirar la pantalla o llegir amb poca llum, i pot ajudar-vos a agafar el son més fàcilment.</string>
   <string name="night_display_title">Llum nocturna</string>
+  <string name="night_light">Mode nit</string>
+  <string name="night_light_brightness">Lluentor de llum nit</string>
+  <string name="night_light_color">Temperatura de color del mode nit</string>
+  <string name="night_light_color_tip">Els canvis tindran efecte quan el mode lectura estigui desactivat</string>
+  <string name="night_light_summary">Per activar el mode nit, minimitzeu la brillantor de la pantalla en condicions de poca llum.</string>
+  <string name="night_light_tip">Els canvis tindran efecte quan el mode nit estigui activat</string>
   <string name="no_application">Res</string>
   <string name="no_applications">Cap aplicació.</string>
   <string name="no_battery_summary">Cap ús de la bateria des de l\'última càrrega completa</string>
@@ -2862,8 +2872,6 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="open_personal_assistant_dialog_desc">"No podreu fer servir el cofre d'aplicacions i rebre les seves actualitzacions. Voleu desactivar-lo ara?"</string>
   <string name="open_personal_assistant_dialog_title">Desactiva el cofre d\'aplicacions</string>
   <string name="open_personal_assistant_title">Activa el cofre d\'aplicacions</string>
-  <string name="open_sdcard_optimization_title">Activa la simulació de l\'optimització de la targeta SD</string>
-  <string name="open_sdcard_optimization_warning_message">Per aplicar aquest canvi el dispositiu es reiniciarà.</string>
   <string name="open_wifi_connect_summary">Premeu per veure els detalls.</string>
   <string name="open_wifi_connect_title">Connecta amb %1$s</string>
   <string name="opening_paragraph_delete_profile_unknown_company">L\'administrador d\'aquest perfil professional és:</string>
@@ -3093,6 +3101,22 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="priority_storage_settings_summary">"Si no es detecta cap SD, les dades d'usuari seran guardades de forma automàtica a l'emmagatzematge intern del dispositiu"</string>
   <string name="priority_storage_summary">Trieu on es desen les dades d\'usuari</string>
   <string name="priority_storage_title">Configuració d\'emmagatzematge</string>
+  <string name="privacy_authorize_cloud_msg">"Per garantir la seguretat del compte, inicieu la sessió a i.mi.com si voleu revocar l'autorització dels serveis de Mi Cloud (inclosos els de sincronització i còpies de seguretat)."</string>
+  <string name="privacy_authorize_dialog_agree">D\'acord</string>
+  <string name="privacy_authorize_dialog_exit">Surt</string>
+  <string name="privacy_authorize_dialog_message">%1$s requereix que llegiu i accepteu %2$s. L\'aplicació necessita connexió a la xarxa per funcionar normalment. Hi esteu d\'acord?</string>
+  <string name="privacy_authorize_network_error">Connecteu-vos a la xarxa i torneu-ho a provar.</string>
+  <string name="privacy_authorize_privacy_policy">Política de privadesa</string>
+  <string name="privacy_authorize_revoke">Revoca</string>
+  <string name="privacy_authorize_revoke_dialog_msg">Després de revocar l\'autorització, l\'aplicació deixarà de recopilar dades i totes les dades relacionades se suprimiran dels servidors. Això pot fer que l\'aplicació sigui pràcticament inutilitzable. Voleu revocar l\'autorització de tota manera?</string>
+  <string name="privacy_authorize_revoke_dialog_title">Revocació de l\'autorització</string>
+  <string name="privacy_authorize_revoke_failed">"No s'ha pogut revocar l'autorització"</string>
+  <string name="privacy_authorize_revoke_success">S\'ha revocat l\'autorització amb èxit</string>
+  <string name="privacy_authorize_revoke_time">Revoca (%1$d s)</string>
+  <string name="privacy_authorize_revoke_title">Autorització i revocació</string>
+  <string name="privacy_authorize_revoking">S\'està revocant l\'autorització…</string>
+  <string name="privacy_authorize_success">Autorització concedida amb èxit</string>
+  <string name="privacy_authorize_title">Concessió de l\'autorització</string>
   <string name="privacy_close_dlg_button_ok">Desactiva</string>
   <string name="privacy_close_dlg_msg">Quan la contrasenya de protecció de privacitat està desactivada, els elements ja no estaran protegits.</string>
   <string name="privacy_close_dlg_title">Atenció</string>
@@ -3528,11 +3552,6 @@ Per fer-ho:
   <string name="sd_mount">Munta l\'emmagatzematge USB</string>
   <string name="sdcard_changes_instructions">Els canvis s\'aplicaran quan es torni a connectar el cable USB.</string>
   <string name="sdcard_format">Esborra l\'emmagatzematge USB</string>
-  <string name="sdcard_optimization">Simulació de l\'optimització de la targeta SD</string>
-  <string name="sdcard_optimization_cancel">Cancel·la</string>
-  <string name="sdcard_optimization_close">Apaga &amp; reinicia</string>
-  <string name="sdcard_optimization_open">Activa</string>
-  <string name="sdcard_optimization_summary">Feu que la targeta SD sigui molt més ràpida</string>
   <string name="sdcard_setting">Emmagatzematge USB</string>
   <string name="sdcard_settings_available_bytes_label">Bytes disponibles:</string>
   <string name="sdcard_settings_bad_removal_status">S\'ha extret l\'emmagatzematge USB quan encara s\'estava utilitzant!</string>
@@ -3736,6 +3755,8 @@ Per fer-ho:
   <string name="search_xiaomi_account">Mi Account</string>
   <string name="search_xspace">Aplicació dual;Aplicacions duals;Aplicació doble;Aplicacions Dobles;Clona l\'aplicació;Clona aplicacions;Clon d\'aplicació;Clons d\'aplicacions;Dos comptes;2 comptes</string>
   <string name="second_space">Segon espai</string>
+  <string name="secondspace_category">Segon espai</string>
+  <string name="secondspace_delete_space_title">Esborrar el segon espai</string>
   <string name="secure_keyguard_business_title">Configuració del bloqueig de pantalla</string>
   <string name="secure_lock_encryption_warning">Atès que vau activar un servei de facilitat d\'accés, el dispositiu no utilitzarà el bloqueig de pantalla per millorar el xifrat de les dades.</string>
   <string name="security_dashboard_summary">Bloqueig de pantalla, empremta</string>
@@ -3805,7 +3826,9 @@ Nota: no podeu utilitzar la vostra empremta per desbloquejar aquest dispositiu. 
   <string name="security_settings_premium_sms_desc">Envia SMS prèmium</string>
   <string name="security_settings_summary">Defineix La meva ubicació, el desbloqueig de pantalla i el bloqueig d\'emmagatzematge de certificats</string>
   <string name="security_settings_title">Seguretat</string>
+  <string name="security_status">Estat de la seguretat</string>
   <string name="security_status_title">Estat de la seguretat</string>
+  <string name="security_update">Actualització de seguretat</string>
   <string name="select_all">Selecciona-ho tot</string>
   <string name="select_application">Selecciona l\'aplicació</string>
   <string name="select_device_admin_msg">Administrador del dispositiu</string>
@@ -4380,6 +4403,8 @@ La sincronització de dades que ha ideat Google per tal de permetre l\'accés al
   <string name="testing_usage_stats">Estadístiques d\'ús</string>
   <string name="testing_wifi_info">Informació del senyal Wi-Fi</string>
   <string name="tether_and_hotspot_title">Connexió compartida d\'Internet</string>
+  <string name="tether_auto_disable_summary">Tanca automàticament el punt d\'accés quan no hi hagi cap dispositiu connectat</string>
+  <string name="tether_auto_disable_title">Tanca automàticament el punt d\'accés</string>
   <string name="tether_data_usage_limit">Límit de dades d\'una sola vegada</string>
   <string name="tether_data_usage_limit_summary">El límit de dades s\'aplicarà la propera vegada que el punt d\'accés estigui activat</string>
   <string name="tether_devices_management_title">Gestió de dispositius</string>
@@ -4684,6 +4709,7 @@ Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloq
   <string name="use_open_wifi_automatically_summary">Connecta automàticament a xarxes públiques de gran qualitat</string>
   <string name="use_open_wifi_automatically_title">Connecteu-vos a xarxes obertes</string>
   <string name="use_personalized_ad_service">Anuncis personalitzats</string>
+  <string name="use_personalized_ad_service_summary">Quan la característica de recomanació estigui desactivada, encara veureu la mateixa quantitat d\'anuncis que quan està activada, però no en funció de les dades de comportament o de la vostra informació personal.</string>
   <string name="use_privacy_password_immediate">Utilitza</string>
   <string name="use_system_language_to_select_input_method_subtypes">Utilitza l\'idioma del sistema</string>
   <string name="use_this_wlan">Roman connectat</string>
@@ -4841,6 +4867,7 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="virus_scanner_update_lib">Actualitza les definicions</string>
   <string name="vision_settings_description">Podeu personalitzar el dispositiu perquè s\'adapti a les vostres necessitats. Aquestes funcions d\'accessibilitat es poden canviar posteriorment des de Configuració.</string>
   <string name="vision_settings_title">Configuració de visió</string>
+  <string name="voice_assist">Xiao Ai</string>
   <string name="voice_category">Veu</string>
   <string name="voice_helper_title">Assistent de veu</string>
   <string name="voice_input_output_settings">Entrada i sortida de veu</string>
@@ -4993,6 +5020,9 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="wfd_menu_teardown">Atura</string>
   <string name="wfd_settings_description">Connexió amb la pantalla via Wi-Fi</string>
   <string name="wfd_settings_title">Pantalla sense fils</string>
+  <string name="wfd_status_dialog_disconnect">Desconnecta</string>
+  <string name="wfd_status_dialog_message">Els continguts de la pantalla es mostren en un altre dispositiu de visualització a través de la connexió sense fils</string>
+  <string name="wfd_status_dialog_title">Pantalla sense fils</string>
   <string name="wfd_wps_keypad">Utilitza el teclat</string>
   <string name="wfd_wps_pbc">Introdueix el PIN</string>
   <string name="whetstone_level_reboot">Aquesta configuració s\'aplicarà quan reinicieu el dispositiu.</string>
@@ -5133,7 +5163,7 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="wifi_hotspot_off_subtext">No compartiu la connexió a Internet d\'aquest telèfon a través del punt d\'accés</string>
   <string name="wifi_hotspot_title">Voleu iniciar la sessió?</string>
   <string name="wifi_in_airplane_mode">En mode d\'avió</string>
-  <string name="wifi_info_reconnect">Contrasenya incorrecta, torneu-ho a provar!</string>
+  <string name="wifi_info_reconnect">"Contrasenya incorrecta, torneu-ho a provar!"</string>
   <string name="wifi_install_credentials">Instal·la els certificats</string>
   <string name="wifi_ip_address">Adreça IP</string>
   <string name="wifi_ip_settings">Configuració IP</string>

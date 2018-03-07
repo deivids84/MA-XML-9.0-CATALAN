@@ -893,7 +893,7 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="refresh">Actualitza</string>
   <string name="refreshing">S\'està actualitzant&#8230;</string>
   <string name="refreshing_done">Fet</string>
-  <string name="release_to_refresh">Deixar anar per refrescar</string>
+  <string name="release_to_refresh">Deixeu anar per actualitzar</string>
   <string name="remind_attachment_size_limit">Els correus haurien de ser inferiors a %s MB</string>
   <string name="remove_account">Elimina el compte</string>
   <string name="remove_folder">Esborrat de %1$s</string>

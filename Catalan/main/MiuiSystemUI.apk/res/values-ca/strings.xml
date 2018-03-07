@@ -356,6 +356,8 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
   <string name="home">Pàgina d\'inici de configuració</string>
   <string name="how_to_back_home">Com tornar a l\'inici</string>
   <string name="how_to_switch_recents">Com canviar a recents</string>
+  <string name="how_to_use_drawer">Com s\'utilitza la funció de lliscament de l\'aplicació</string>
+  <string name="how_to_use_drawer_summary">Desplaceu-vos des de l\'extrem superior esquerre</string>
   <string name="how_to_use_fsg">Com s\'utilitza el gest de pantalla completa?</string>
   <string name="ime_security_warning">Aquest mètode d\'entrada pot ser capaç de recopilar tot el text que escriviu, incloses les dades personals com contrasenyes i números de targetes de crèdit. Prové de l\'aplicació %1$s. Voleu utilitzar aquest mètode d\'entrada?</string>
   <string name="immediately_destroy_activities">No mantinguis les activitats</string>

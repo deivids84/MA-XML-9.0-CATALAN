@@ -15,7 +15,7 @@
   <string name="alert_phone_occupy_backup">"No es pot utilitzar Mi PC Suite en aquests moments. Completeu la còpia de seguretat o la restauració d'elements al vostre telèfon i torneu-ho a provar."</string>
   <string name="alert_second_space_not_support_miasist">"No es pot utilitzar Mi PC Suite en el segon espai. Canvieu al primer espai."</string>
   <string name="alert_title_backup_to_miasist">Voleu fer una còpia de seguretat d\'elements amb Mi PC Suite?</string>
-  <string name="alert_title_restore_from_miasist">Voleu restaurar elements al telèfon?</string>
+  <string name="alert_title_restore_from_miasist">Voleu restaurar els elements al vostre telèfon?</string>
   <string name="already_enable_encrypt">L\'encriptació ja està activada</string>
   <string name="app_name">Còpia de seguretat</string>
   <string name="apps_and_data_item_desc">Aplicacions i dades</string>
@@ -75,8 +75,6 @@
   <string name="close_twice_auth_btn">Desactiva l\'autenticació de dos factors</string>
   <string name="close_twice_auth_note">"Nota:
 Després de crear una nova pregunta de seguretat i confirmar la data de naixement, l\'autenticació de dos factors es desactivarà. Si no veieu l\'opció de desactivar l\'autenticació de dos factors a la pàgina del compte d\'ID d\'Apple, no podreu desactivar-la."</string>
-  <string name="close_twice_auth_operation">"URL:
-https://appleid.apple.com/#!&amp;page=signin to close"</string>
   <string name="close_twice_auth_step_1">1. Obriu qualsevol navegador web en qualsevol ordinador i aneu a appleid.apple.com.</string>
   <string name="close_twice_auth_step_2">2. Accediu a l\'ID d\'Apple que voleu desactivar l\'autenticació de dos factors, aneu a la secció \"Seguretat\" de la configuració del compte i seleccioneu \"Edita\".</string>
   <string name="close_twice_auth_step_3">3. Feu clic a \"Desactiva l\'autenticació de dos factors\". Feu clic de nou per confirmar.</string>
@@ -129,6 +127,7 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
   <string name="err_bakfile_broken">"No es pot utilitzar aquesta còpia de seguretat."</string>
   <string name="err_filesystem_mount">"No es pot accedir a l'emmagatzamatge de l'encaminador"</string>
   <string name="err_low_storage">No hi ha prou espai</string>
+  <string name="err_not_allow">No compatible</string>
   <string name="err_router_disconnected">"Comproveu la connexió de l'encaminador i torneu-ho a provar."</string>
   <string name="err_router_files_delete">"No s'han pogut eliminar les còpies de seguretat de l'encaminador"</string>
   <string name="err_unknown">Error desconegut</string>
@@ -224,9 +223,9 @@ primer heu de crear una còpia de seguretat d\'iCloud "</string>
   <string name="notif_backup_complete_title">S\'ha copiat amb èxit</string>
   <string name="notif_backup_content">Còpia de seguretat de les dades d\'usuari</string>
   <string name="notif_backup_title">Còpia de seguretat de les dades</string>
-  <string name="notif_calculating_app">S\'està calculant %1$s (%2$s)…</string>
-  <string name="notif_connect_miasist">Connectat al Mi PC Suite</string>
-  <string name="notif_disconnect_miasist">No connectat al Mi PC Suite</string>
+  <string name="notif_calculating_app">Calculant %1$s (%2$s)…</string>
+  <string name="notif_connect_miasist">Connectat a Mi PC Suite</string>
+  <string name="notif_disconnect_miasist">Desconnectat de Mi PC Suite</string>
   <string name="notif_icloud_canceled_summary">Cancel·lat</string>
   <string name="notif_icloud_canceling_summary">S\'està cancel·lant…</string>
   <string name="notif_icloud_import_title">Importa les dades de l\'iCloud</string>
@@ -236,12 +235,13 @@ primer heu de crear una còpia de seguretat d\'iCloud "</string>
   <string name="notif_icloud_need_wifi_summary">S\'està esperant una Wi-Fi</string>
   <string name="notif_icloud_saved_summary">S\'ha importat amb èxit</string>
   <string name="notif_icloud_saving_summary">S\'estan restaurant les dades…</string>
+  <string name="notif_miasist_try_to_connect">Mi PC Suite està tractant de connectar-se amb el dispositiu</string>
   <string name="notif_parse_select_descript_error">"No s'ha pogut sincronitzar la llista d'elements amb còpia de seguretat."</string>
-  <string name="notif_receiving_transingsd">S\'està rebent %1$s (%2$s)…</string>
+  <string name="notif_receiving_transingsd">Rebent %1$s (%2$s)…</string>
   <string name="notif_restore_complete_title">S\'ha restaurat amb èxit</string>
   <string name="notif_restore_content">S\'estan restaurant les dades d\'usuari</string>
   <string name="notif_restore_title">Restaura les dades</string>
-  <string name="notif_sending_transingsd">S\'està enviant %1$s (%2$s)…</string>
+  <string name="notif_sending_transingsd">Enviant %1$s (%2$s)…</string>
   <string name="notif_trans_auto_reconnecting_content">Si cal, podeu cancel·lar la tasca actual.</string>
   <string name="notif_trans_auto_reconnecting_title">S\'ha interromput la connexió. S\'està tornant a connectar automàticament…</string>
   <string name="notif_trans_receiving_completed">Les dades s\'han rebut amb èxit</string>
@@ -380,9 +380,9 @@ Allibera %s com a mínim. "</string>
   <string name="trans_detail_app_apk_page_title">Seleccioneu aplicacions</string>
   <string name="trans_detail_app_data_list_title">Dades de l\'aplicació</string>
   <string name="trans_detail_app_data_page_title">Seleccioneu les dades de l\'aplicació</string>
-  <string name="trans_detail_app_data_useless_tip">Podeu restaurar-los des de l\'aplicació, sense necessitat de transferir-los.</string>
+  <string name="trans_detail_app_data_useless_tip">Podeu restaurar-los des de l\'aplicació, no cal transferir-los.</string>
   <string name="trans_detail_audio_video_doc_list_title">Àudio, vídeo i fitxers</string>
-  <string name="trans_detail_audio_video_doc_page_title">Seleccioneu àudio, vídeo i fitxers</string>
+  <string name="trans_detail_audio_video_doc_page_title">Selecciona àudio, vídeo i fitxers</string>
   <string name="trans_detail_category_account">Comptes i contactes</string>
   <string name="trans_detail_category_audio_video_doc">Àudio, vídeo i fitxers</string>
   <string name="trans_detail_category_files">Fitxers</string>
@@ -391,8 +391,8 @@ Allibera %s com a mínim. "</string>
   <string name="trans_detail_category_userdata">Aplicacions</string>
   <string name="trans_detail_category_wechat_qq">Dades de WeChat i QQ (incloent l\'historial de xat)</string>
   <string name="trans_detail_item_app_data_selected_tip">També hi ha les aplicacions corresponents seleccionades.</string>
-  <string name="trans_detail_item_app_data_too_large_tip">Sembla que l\'element és massa gran per transferir-lo.</string>
-  <string name="trans_detail_list_footer">Nota: podeu triar transferir aplicacions per separat. Tanmateix, si seleccioneu les dades de l\'aplicació, les aplicacions corresponents també es transferiran.</string>
+  <string name="trans_detail_item_app_data_too_large_tip">Sembla que l\'element és massa gran per transferir.</string>
+  <string name="trans_detail_list_footer">Nota: pots escollir transferir aplicacions separadament. Tanmateix, si seleccioneu les dades de l\'aplicació, les aplicacions corresponents també seran transferides.</string>
   <string name="trans_detail_page_tip">Com més elements seleccioneu, més temps durarà la transferència.</string>
   <string name="trans_detail_qq_data">Dades QQ (incloent l\'historial de xat)</string>
   <string name="trans_detail_sys_data_list_title">Aplicacions del sistema</string>
@@ -499,6 +499,7 @@ Mantingueu els dispositius propers l\'un de l\'altre."</string>
   <string name="trans_show_qr_code_tips">Escaneja el codi QR utilitzant el dispositiu antic</string>
   <string name="trans_start_failed_message">"No s'ha pogut iniciar la transferència, torneu-ho a provar o reinicieu el dispositiu."</string>
   <string name="trans_start_failed_title">"No s'ha pogut iniciar la transferència"</string>
+  <string name="trans_switching_5g">S\'està canviant a la Wi-Fi 5GHz…</string>
   <string name="trans_time_format_second">Menys d\'un minut</string>
   <string name="trans_time_spent">"
 Temps emprat: %s"</string>

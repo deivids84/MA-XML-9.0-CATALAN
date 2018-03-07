@@ -10,9 +10,13 @@
   <string name="announce_for_close_launcher_menu">tanca el menú</string>
   <string name="announce_for_delete_gadget_and_widget">Giny</string>
   <string name="announce_for_delete_item">S\'ha suprimit %1$s</string>
+  <string name="announce_for_drag_enter_delete_zone">en arrossegar elements accedireu a la zona de supressió</string>
   <string name="announce_for_drag_enter_folder_grid">col·loca la icona dins la carpeta</string>
+  <string name="announce_for_drag_enter_workspace_thumbnail">en arrossegar elements accedireu a la previsualització de la pantalla %1$d</string>
+  <string name="announce_for_drop">%1$s descartat</string>
   <string name="announce_for_drop_folder_grid_view">dins de la carpeta en la ubicació %1$d</string>
   <string name="announce_for_drop_folder_icon">en la carpeta %1$s</string>
+  <string name="announce_for_drop_hotseat">a la zona inferior de l\'acoblador</string>
   <string name="announce_for_drop_shortcut_icon">per crear una carpeta per %1$s,%2$s</string>
   <string name="announce_for_drop_thumbnail_container">a pantalla de vista prèvia, número %1$d</string>
   <string name="announce_for_drop_trash">zona de desinstal·lació</string>

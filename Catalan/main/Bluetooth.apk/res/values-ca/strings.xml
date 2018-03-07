@@ -53,7 +53,7 @@
   <string name="download_line5">S\'està rebent el fitxer&#8230;</string>
   <string name="download_ok">Amaga</string>
   <string name="download_succ_line5">S\'ha rebut el fitxer</string>
-  <string name="download_succ_ok">Obre\'l</string>
+  <string name="download_succ_ok">Obre</string>
   <string name="download_success">Recepció completada (%1$s).</string>
   <string name="download_title">Transferència de fitxers</string>
   <string name="enabling_progress_content">S\'està activant el Bluetooth&#8230;</string>
