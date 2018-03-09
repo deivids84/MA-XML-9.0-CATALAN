@@ -615,7 +615,6 @@
   <string name="top_videos">Comparteix el rànquing</string>
   <string name="topic_follow">Seguir</string>
   <string name="topic_followed">Seguint</string>
-  <string name="topic_message">%1$s: %2$s</string>
   <string name="topic_title">Temes</string>
   <string name="transfer_done">Fitxers moguts correctament.</string>
   <string name="transfer_private_data">Movent carpetes ocultes de la targeta SD&#8230;</string>
