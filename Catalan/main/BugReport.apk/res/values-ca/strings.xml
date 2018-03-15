@@ -270,8 +270,8 @@
   <string name="section_err_type">Tipus d\'error</string>
   <string name="section_screenshot">Captura de pantalla</string>
   <string name="select_system_app_tag">Seleccioneu un problema</string>
-  <string name="submit_dialog_cancel">"Cancel·la"</string>
-  <string name="submit_dialog_confirm">Envia</string>
+  <string name="submit_dialog_cancel">"No hi estic d'acord"</string>
+  <string name="submit_dialog_confirm">D\'acord</string>
   <string name="submit_dialog_content">"L'informe, amb els arxius adjunts i els registres, s'enviarà als servidors de MIUI. Pot contenir informació personal."</string>
   <string name="submit_dialog_content_global">"Els vostres comentaris, juntament amb els fitxers adjunts (si n'hi ha) i els registres (podeu desmarcar les caselles corresponents per als elements que no voleu pujar) s'enviaran als servidors de MIUI i a una secció restringida del Fòrum MIUI per als desenvolupadors. També es recollirà la informació sobre els vostres fils i l'activitat del fòrum per a l'anàlisi i la comunicació posterior. Els registres poden contenir informació personal i les vostres dades d'ubicació."</string>
   <string name="submit_dialog_title">Envia l\'informe</string>

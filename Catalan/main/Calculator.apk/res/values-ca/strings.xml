@@ -22,7 +22,7 @@
   <string name="cal_edit_mode">Mode d\'edició</string>
   <string name="cal_paste">Enganxa</string>
   <string name="cal_text_copied">S\'ha copiat el text</string>
-  <string name="check_phone_error_title">Sincronització desactivada</string>
+  <string name="check_phone_error_title">La sincronització està desactivada</string>
   <string name="check_phone_io_error">"No es pot connectar a la xarxa"</string>
   <string name="choose_currency">Trieu una moneda</string>
   <string name="choose_unit">Trieu una unitat</string>

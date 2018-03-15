@@ -94,7 +94,7 @@
   <string name="delete_action">Elimina</string>
   <string name="delete_app">Esborra aplicació</string>
   <string name="delete_bank_card_message">Per seguretat, les dades de la vostra targeta s\'esborraran després que tanqueu la sessió</string>
-  <string name="delete_bank_card_title">Esborrant les dades de la vostra targeta</string>
+  <string name="delete_bank_card_title">Atenció</string>
   <string name="delete_browser">Suprimeix navegador</string>
   <string name="delete_device">Esborra dispositiu</string>
   <string name="delete_device_btn">Elimina</string>
@@ -244,6 +244,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_error_user_name">El nom d\'usuari que heu introduït no és vàlid.</string>
   <string name="passport_error_verify_activator_phone_message">Assegureu-vos que el vostre servei de la targeta SIM està activat i el dispositiu està connectat a la xarxa.</string>
   <string name="passport_error_verify_activator_phone_title">"No s'ha pogut comprovar el número de telèfon"</string>
+  <string name="passport_extra_gdpr_license">La creació del Compte Mi vol dir que vostè accepteu que Xiaomi recopilarà, processarà i farà servir les seves dades personals, incloses dades de verificació (per exemple, codis de verificació), segons dades espacials (per exemple, informació sobre les formes en que utilitzeu el segon espai, i segons espais) i altres dades especificades en la nostra Política de privacitat. Consulteu la nostra Política de privacitat per conèixer com processem i fem servir les seves dades personals.</string>
   <string name="passport_failed_to_send_activate_email">"No s'ha pogut enviar el correu d'activació"</string>
   <string name="passport_find_password_on_web_msg">Visiteu account.mi.com per restaurar la vostra contrasenya.</string>
   <string name="passport_forget_password">&lt;u&gt;He oblidat la contrasenya&lt;/u&gt;</string>
@@ -437,9 +438,9 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="turning_off_find_device">S\'està desactivant Cerca el dispositiu…</string>
   <string name="unbind_sns_description">"Després que desvinculeu aquest compte, no podreu usar la vostra informació del compte %s per iniciar el vostre compte Mi."</string>
   <string name="unlock_help_notice">"Ajuda:
-· Si heu oblidat la contrasenya, aneu a id.mi.com per restaurar-la.
-· Si no podeu desbloquejar el dispositiu, aneu a i.mi.com per desactivar troba el dispositiu.
-· Indiqueu aquest número de desbloqueig al servei d\'atenció al client: %s "</string>
+1. Si heu oblidat la contrasenya, aneu a id.mi.com per restaurar-la.
+2. Si no podeu desbloquejar el dispositiu, aneu a i.mi.com per desactivar troba el dispositiu.
+3. El vostre número de desbloqueig: %s "</string>
   <string name="update_contacts">Actualitza la llibreta d\'adreces</string>
   <string name="update_email_address_dialog_message">Us cal verificar la identitat abans que pugueu actualitzar el correu electrònic.</string>
   <string name="update_email_address_dialog_title">Actualitza el correu</string>

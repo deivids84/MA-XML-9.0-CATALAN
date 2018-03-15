@@ -934,6 +934,7 @@ Proveu una safata d\'entrada diferent."</string>
          complir-se"</string>
   <string name="security_notification_content_update_title">Actualització de seguretat requerida</string>
   <string name="security_unsupported_ticker_fmt">"No es pot sincronitzar el compte «%s» a causa dels requisits de seguretat."</string>
+  <string name="see_more_content">Mostra més contingut</string>
   <string name="select_attachment_type">Trieu la font del fitxer adjunt</string>
   <string name="select_no_file">No hi ha fitxers adjunts seleccionats</string>
   <string name="select_path">Seleccioneu la ruta</string>
@@ -971,6 +972,7 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="show_images">Baixa i mostra les imatges</string>
   <string name="show_password">Mostra la contrasenya</string>
   <string name="signature"> %s</string>
+  <string name="signature_black_shark">Enviat des del meu telèfon Blackshark</string>
   <string name="silent_ringtone">Silenciós</string>
   <string name="single_new_message_notification_big_text">"%1$s 
 %2$s"</string>

@@ -280,7 +280,7 @@ Total: %3$s iuans"</string>
   <string name="user_agreement4">Política de privadesa</string>
   <string name="user_notice_identify_summary_format">"El telèfon utilitzarà la base de dades de MIUI per bloquejar trucades no desitjades quan es connecti a una xarxa Wi-Fi. En utilitzar aquest servei accepteu les nostres %1$s i %2$s."</string>
   <string name="user_notice_identify_summary_format_cta">"El telèfon utilitzarà la base de dades de MIUI per bloquejar trucades no desitjades quan es connecti a una xarxa Wi-Fi. En utilitzar aquest servei accepteu les nostres %1$s i %2$s."</string>
-  <string name="user_notice_title">Avís</string>
+  <string name="user_notice_title">Atenció</string>
   <string name="user_notice_yp_detail_summary_format">La informació de la vostra identitat de trucada està antiquada. Voleu actualitzar-la? En utilitzar aquest servei accepteu les nostres %1$s i %2$s.</string>
   <string name="user_notice_yp_detail_summary_format_cta">La informació de la vostra identitat de trucada està antiquada. Voleu actualitzar-la? En utilitzar aquest servei accepteu les nostres %1$s i %2$s.</string>
   <string name="view_orders">Mostra les comandes</string>

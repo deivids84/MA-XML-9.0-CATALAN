@@ -135,7 +135,6 @@
   <string name="app_manager_app_info_label">Informació de l\'aplicació</string>
   <string name="app_manager_app_info_name">Nom de l\'aplicació</string>
   <string name="app_manager_app_info_pkg">Nom de l\'APK</string>
-  <string name="app_manager_app_lock">Bloqueig d\'aplicacions</string>
   <string name="app_manager_app_power">"Ús de bateria: "</string>
   <string name="app_manager_app_storage">"Emmagatzematge: "</string>
   <string name="app_manager_app_traffic">"Ús de dades: "</string>
@@ -198,7 +197,6 @@
   <string name="app_manager_net_mobile">Dades mòbils</string>
   <string name="app_manager_net_wifi">Wi-Fi</string>
   <string name="app_manager_not_allow">No</string>
-  <string name="app_manager_not_support_uninstall">"No es pot desinstal·lar aquestes aplicacions"</string>
   <string name="app_manager_notify_bar">Insígnies</string>
   <string name="app_manager_notify_floating">Notificacions flotants</string>
   <string name="app_manager_notify_keyguard">Bloqueja la pantalla</string>
@@ -230,10 +228,10 @@
   <string name="app_manager_show_all_apps_opened">S\'està mostrant els resultats de totes les aplicacions…</string>
   <string name="app_manager_show_detail_infos">Mostra-ho tot</string>
   <string name="app_manager_start_by">Iniciat per %s</string>
-  <string name="app_manager_support_uninstall">Podeu desinstal·lar aquestes aplicacions</string>
   <string name="app_manager_system_mobile_disable">Desactiva les dades</string>
   <string name="app_manager_title">Administra les aplicacions</string>
   <string name="app_manager_total_size">Total</string>
+  <string name="app_manager_uninstall">Desinstal·la</string>
   <string name="app_manager_uninstall_protected_dlg_msg">En desinstal·lar les aplicacions del sistema podeu impedir que alguns components de MIUI funcionin correctament. Voleu desinstal·lar-la de totes maneres?</string>
   <string name="app_manager_uninstall_protected_dlg_title">Desinstal·lació d\'aplicacions del sistema</string>
   <string name="app_manager_uninstall_with_xspace_app_dlg_msg">Les aplicacions duals es suprimiran conjuntament amb les dades de l\'aplicació.</string>
@@ -1288,7 +1286,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="password_forget_pattern_message">Feu una còpia de seguretat de les dades localment i després realitzeu un restabliment de dades de fàbrica. Després d\'això, podreu canviar la contrasenya.</string>
   <string name="password_forget_pattern_message_none">"Les aplicacions no estan blocades. Podeu restablir la vostra contrasenya."</string>
   <string name="password_forget_pattern_reset">Restableix</string>
-  <string name="password_forget_pattern_title">Còpia de seguretat de les dades</string>
+  <string name="password_forget_pattern_title">Atenció</string>
   <string name="password_promotion_not_login_xiaomi_account_message">El bloquejador d\'aplicacions està actualitzant la contrasenya de protecció de privacitat. Pot utilitzar el seu compte Mi per restablir-la. Afegeix el seu compte Mi per a poder fer-ho.</string>
   <string name="password_promotion_postbutton_text">Vés a la Configuració</string>
   <string name="password_promotion_title">Contrasenya de protecció de la privacitat</string>
@@ -1641,7 +1639,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="sorted_dialog_title">Ordena per</string>
   <string name="sp_background_risk_dialog_summary">, feu un control detallat i corregiu els riscos de pagament</string>
   <string name="sp_background_risk_dialog_summary_wifi_approve">Esteu connectat a una xarxa Wi-Fi pública que pot ser que no sigui segura. Assegureu-vos que el vostre pagament estigui protegit abans de completar-lo.</string>
-  <string name="sp_background_risk_dialog_title">Perillós</string>
+  <string name="sp_background_risk_dialog_title">Atenció</string>
   <string name="sp_background_risk_dialog_title_wifi_approve">Alerta de Wi-Fi pública</string>
   <string name="sp_background_risk_type_messaging">L\'aplicació de missatgeria del sistema ha estat substituïda</string>
   <string name="sp_background_risk_type_root">El sistema ha estat rootejat</string>

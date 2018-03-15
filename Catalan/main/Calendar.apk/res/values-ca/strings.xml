@@ -227,7 +227,7 @@
   <string name="imported">S\'ha importat</string>
   <string name="insert_event_dialog_btn_positive">Sí</string>
   <string name="insert_event_dialog_message">Voleu afegir aquest esdeveniment al calendari?</string>
-  <string name="insert_event_dialog_title">Avís</string>
+  <string name="insert_event_dialog_title">Atenció</string>
   <string name="insert_event_toast_add_failed">"No s'ha pogut afegir"</string>
   <string name="insert_event_toast_add_success">S\'ha creat l\'esdeveniment</string>
   <string name="install_email_app">Instal·la el Correu</string>
@@ -456,7 +456,7 @@ També podeu afegir recordatoris perquè no us perdeu res important. "</string>
   <string name="user_notice_button_ok">D\'acord</string>
   <string name="user_notice_declaration_ignore">"No ho mostris més"</string>
   <string name="user_notice_message">"En utilitzar aquest producte accepteu les %1$s i %2$s de Xiaomi. Algunes característiques necessiten connexió a Internet, accés a la ubicació, als contactes i als SMS per funcionar."</string>
-  <string name="user_notice_title">Avís</string>
+  <string name="user_notice_title">Atenció</string>
   <string name="user_notification">Notificacions</string>
   <string name="user_notification_descrip">Mostra les notificacions cada vegada que obri el Calendari</string>
   <string name="view_event_calendar_label">Calendari:</string>

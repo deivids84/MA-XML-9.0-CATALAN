@@ -216,7 +216,7 @@ Proveu el següent per solucionar el problema:
   <string name="delete_frame">Voleu eliminar \"%1$s\"?</string>
   <string name="delete_navigate_view_cancel_button_text">Cancel·la</string>
   <string name="delete_navigate_view_delete_button_text">Elimina</string>
-  <string name="deny">"Denega"</string>
+  <string name="deny">"No hi estic d'acord"</string>
   <string name="device_bluetoothi">Comandament Bluetooth</string>
   <string name="device_brand">Marca</string>
   <string name="device_model">Model</string>

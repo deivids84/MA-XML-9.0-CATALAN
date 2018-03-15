@@ -545,7 +545,7 @@ Torneu-ho a provar en %2$d segons."</string>
   <string name="language_picker_section_all">Tots els idiomes</string>
   <string name="language_picker_section_suggested">Suggerit</string>
   <string name="language_selection_title">Afegeix un idioma</string>
-  <string name="last_month">El darrer mes</string>
+  <string name="last_month">Darrer mes</string>
   <string name="launchBrowserDefault">Voleu iniciar el navegador?</string>
   <string name="launch_warning_original">Inicialment, es va iniciar l\'aplicació %1$s.</string>
   <string name="launch_warning_replace">%1$s s\'està executant.</string>

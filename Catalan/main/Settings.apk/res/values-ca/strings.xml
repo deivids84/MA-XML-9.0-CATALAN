@@ -943,6 +943,8 @@ Taxa de mostreig"</string>
   <string name="carrier_enabled">Activa/Desactiva APN</string>
   <string name="carrier_enabled_summaryOff">S\'ha desactivat l\'APN</string>
   <string name="carrier_enabled_summaryOn">S\'ha activat l\'APN</string>
+  <string name="carrier_show_in_lock_screen">Mostra\'l només a la pantalla de bloqueig</string>
+  <string name="carrier_show_none">No mostris mai el nom de l\'operador</string>
   <string name="category_personal">Personal</string>
   <string name="category_work">Feina</string>
   <string name="cdma_security_settings_summary">Defineix La meva ubicació, el desbloqueig de pantalla i el bloqueig d\'emmagatzematge de credencials</string>
@@ -2473,6 +2475,8 @@ Hi ha altres usuaris presents en aquest dispositiu.
   <string name="memory_settings_title">Memòria</string>
   <string name="memory_size">Espai total</string>
   <string name="memory_summary">Mitjana de %1$s de %2$s de la memòria utilitzada</string>
+  <string name="memory_system_rom">Emmagatzematge del sistema</string>
+  <string name="memory_system_space">Emmagatzematge del sistema</string>
   <string name="memory_title">Disponible: %1$s\u0009\u0009Total: %2$s</string>
   <string name="memory_usage">Ús de la memòria</string>
   <string name="memory_usage_apps">Memòria utilitzada per les aplicacions</string>
@@ -3177,6 +3181,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="private_sms_recording_intro_header">Dibuixeu un patró de desbloqueig:</string>
   <string name="private_sms_reset_by_account">Per restablir la contrasenya, inicieu la sessió en el compte Mi</string>
   <string name="process_dex2oat_label">Optimització de l\'aplicació</string>
+  <string name="process_kernel_label">SO Android</string>
   <string name="process_mediaserver_label">Servidor multimèdia</string>
   <string name="process_provider_in_use_description">S\'està utilitzant el proveïdor %1$s.</string>
   <string name="process_service_in_use_description">Servei %1$s s\'està utilitzant.</string>
@@ -3207,7 +3212,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="proxy_action_text">Fet</string>
   <string name="proxy_clear_text">Esborra</string>
   <string name="proxy_defaultView_text">Restaura els valors per defecte</string>
-  <string name="proxy_error">Atenció!</string>
+  <string name="proxy_error">Atenció</string>
   <string name="proxy_error_dismiss">D\'acord</string>
   <string name="proxy_error_empty_host_set_port">Si el camp de l\'amfitrió és buit el camp del port també.</string>
   <string name="proxy_error_empty_port">Heu de completar el camp del port.</string>
@@ -4375,7 +4380,7 @@ La sincronització de dades que ha ideat Google per tal de permetre l\'accés al
   <string name="system_alert_window_apps_title">Aplicacions</string>
   <string name="system_alert_window_on">Sí</string>
   <string name="system_alert_window_settings">Mostra a sobre d\'altres aplicacions</string>
-  <string name="system_alert_window_summary" formatted="false">%d de %d aplicacions es poden mostrar a sobre d\'altres aplicacions</string>
+  <string name="system_alert_window_summary">%d de %d aplicacions es poden mostrar a sobre d\'altres aplicacions</string>
   <string name="system_and_device_section_title">Sistema i dispositiu</string>
   <string name="system_app">(Sistema)</string>
   <string name="system_app_settings">Aplicacions del sistema</string>
@@ -4625,7 +4630,7 @@ Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloq
   <string name="untitled_apn">Sense nom</string>
   <string name="update_new_version">Hi ha una actualització disponible</string>
   <string name="update_progress_for_updates">S\'està actualitzant (%s)</string>
-  <string name="upload_debug_log_summary">Ajudeu a millorar MIUI enviant dades d\'ús anònimes</string>
+  <string name="upload_debug_log_summary">Les estadístiques d\'ús que ens ajuden a localitzar i resoldre problemes poden contenir informació personal</string>
   <string name="upload_debug_log_title">Envia les dades de diagnòstic automàticament</string>
   <string name="usage">Ús</string>
   <string name="usage_access">Accés d\'ús</string>
@@ -4776,7 +4781,7 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="user_exit_guest_dialog_remove">Suprimeix</string>
   <string name="user_exit_guest_title">Suprimeix el convidat</string>
   <string name="user_experience_program">Programa d\'experiència d\'usuari</string>
-  <string name="user_experience_program_summary">Ajudeu a millorar MIUI enviant dades d\'ús anònimes</string>
+  <string name="user_experience_program_summary">Ajudeu-nos a millorar els nostres productes i serveis compartint les vostres estadístiques d\'ús</string>
   <string name="user_experience_program_title">Programa d\'experiència d\'usuari</string>
   <string name="user_guest">Convidat</string>
   <string name="user_image_choose_photo">Selecciona una foto de la galeria</string>
@@ -5201,7 +5206,7 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="wifi_off_airplane_on_confirm">D\'acord</string>
   <string name="wifi_off_airplane_on_content">Amb el mode avió activat, podeu engegar el Wi-Fi manualment.</string>
   <string name="wifi_off_airplane_on_not_remind">"No ho tornis a mostrar"</string>
-  <string name="wifi_off_airplane_on_title">Atenció!</string>
+  <string name="wifi_off_airplane_on_title">Atenció</string>
   <string name="wifi_on_time">Temps de connexió Wi-Fi</string>
   <string name="wifi_p2p_cancel_connect_message">Voleu cancel·lar la invitació per connectar amb %1$s?</string>
   <string name="wifi_p2p_cancel_connect_title">Voleu cancel·lar la invitació?</string>

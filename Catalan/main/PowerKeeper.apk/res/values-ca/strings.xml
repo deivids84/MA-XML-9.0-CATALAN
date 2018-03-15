@@ -36,7 +36,7 @@ L\'estalvi de bateria tractarà de forma selectiva les aplicacions importants."<
   <string name="hide_mode_desc">Quan una aplicació s\'executa en segon pla, les seves activitats seran supervisades per reduir el consum de bateria. La connexió de xarxa, els serveis d\'ubicació, la ràdio, el rellotge, etc. es poden veure afectats per aquesta funció. Aquesta configuració és adequada per a la majoria de les aplicacions, però si alguna aplicació en particular es comporta de forma incorrecta quan s\'està executant en segon pla, pot personalitzar la configuració per a cada aplicació.</string>
   <string name="hide_system_app">Amaga les aplicacions del sistema</string>
   <string name="hints_loading_text">Un moment…</string>
-  <string name="important_warning">Avís</string>
+  <string name="important_warning">Atenció</string>
   <string name="lasttime_applist_cloud">Aplicacions actualitzades:</string>
   <string name="lasttime_feature_cloud">Característiques actualitzades:</string>
   <string name="nonui_mode_config_description">"No s'encendrà la pantalla per a notificacions, desactivarà la llum de notificació, l'empremta digital i els controls tàctils quan MIUI detecti que no esteu utilitzant el dispositiu."</string>

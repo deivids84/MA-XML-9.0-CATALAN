@@ -475,6 +475,13 @@ Taxa de mostreig"</string>
   <string name="cfb_title">Desviament si ocupat</string>
   <string name="cfnrc_title">Desviament si fora de cobertura</string>
   <string name="cfnrc_title_cta">Desviament si fora de cobertura</string>
+  <string name="cfnry_time_fifteen_sec">15 s</string>
+  <string name="cfnry_time_five_sec">5 s</string>
+  <string name="cfnry_time_setting_title">Estableix el temps d\'espera</string>
+  <string name="cfnry_time_ten_sec">10 s</string>
+  <string name="cfnry_time_thirty_sec">30 s</string>
+  <string name="cfnry_time_twenty_five_sec">25 s</string>
+  <string name="cfnry_time_twenty_sec">20 s</string>
   <string name="cfnry_title">Desviament si no contesta</string>
   <string name="cfu_title">Desviament incondicional</string>
   <string name="change_data_preference_4g_only_prompt">Sembla que teniu una targeta SIM que només suporta 4G. Voleu establir-la per defecte per a les dades mòbils?</string>
@@ -502,6 +509,7 @@ Taxa de mostreig"</string>
   <string name="clir_choices_hide_number">Amaga el número</string>
   <string name="clir_choices_network_default">Per defecte de la xarxa</string>
   <string name="clir_choices_show_number">Mostra el número</string>
+  <string name="close">Desactiva</string>
   <string name="close_dialog">D\'acord</string>
   <string name="close_profile">Tanca</string>
   <string name="cloud_antispam_title">Identifica números desconeguts</string>
@@ -1193,6 +1201,7 @@ Les funcions relacionades amb el PIN2 es bloquejaran després d\'un altre intent
   <string name="preferred_network_type_title">Tipus de xarxa preferit</string>
   <string name="preferred_phone_account">Compte de trucades preferit</string>
   <string name="private_num">Número privat</string>
+  <string name="process_kernel_label">SO Android</string>
   <string name="progress_dialog_exiting_ecm">Sortint del mode de devolució de trucada d\'emergència</string>
   <string name="proxy_address_title">Adreça externa del servidor intermediari</string>
   <string name="pstn_connection_service_label">Targetes SIM integrades</string>
@@ -1543,6 +1552,7 @@ Contacteu amb el vostre operador si persisteix aquest problema."</string>
   <string name="voicemail_abbreviated">BV:</string>
   <string name="voicemail_change_pin_dialog_title">Canvia el PIN</string>
   <string name="voicemail_default">El vostre operador</string>
+  <string name="voicemail_notification_vibrate_when_title">Vibració</string>
   <string name="voicemail_notifications_preference_title">Notificacions</string>
   <string name="voicemail_number_not_set">&lt;No definit&gt;</string>
   <string name="voicemail_provider">Servei</string>

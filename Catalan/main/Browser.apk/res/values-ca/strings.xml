@@ -287,7 +287,7 @@ està a punt de passar»</string>
   <string name="error_console_header_text_maximized">Consola de JavaScript</string>
   <string name="error_console_header_text_minimized">Mostra la consola JavaScript</string>
   <string name="error_forbidden">S\'ha desactivat la sincronització a causa de problemes amb el vostre compte Mi.</string>
-  <string name="error_not_acceptable">S\'ha desactivat la sincronització.</string>
+  <string name="error_not_acceptable">La sincronització està desactivada.</string>
   <string name="error_title">"No s'ha pogut sincronitzar"</string>
   <string name="error_unauthorized">La sincronització amb el compte Mi s\'ha desactivat per massa intents d\'inici de sessió.</string>
   <string name="exit">Surt</string>
@@ -502,7 +502,7 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="mw_js_dialog_before_unload_positive_button">Surt d\'aquesta pàgina</string>
   <string name="mw_js_dialog_before_unload_title">Confirma la navegació</string>
   <string name="mw_js_dialog_title">La pàgina «%s» diu:</string>
-  <string name="mw_last_month">El darrer mes</string>
+  <string name="mw_last_month">Darrer mes</string>
   <string name="mw_license_activity_title">Llicències WebView del sistema</string>
   <string name="mw_login_dialog_ok_button_label">Inicia sessió</string>
   <string name="mw_login_dialog_password_field">Contrasenya</string>
@@ -1194,6 +1194,9 @@ El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'
   <string name="voice_connect_network">"No es pot connectar a la xarxa"</string>
   <string name="voice_description">Cerca per veu</string>
   <string name="voice_network_connection">L\'ús de la cerca per veu necessita d\'accés a la xarxa, autoritzeu la connexió de xarxa</string>
+  <string name="voice_open_permission_baidu">Aneu a la configuració, activeu els permisos de veu per a les configuracions del reconeixement de veu</string>
+  <string name="voice_open_permission_xiaoai">Aneu a la configuració i activeu els permisos de veu per al motor de veu Xiaoai</string>
+  <string name="voice_open_permission_xunfei">Aneu a la configuració i activeu els permisos de veu per a la configuració de veu</string>
   <string name="voice_search_permission">La cerca per veu requereix privilegis de veu, aneu a la configuració del navegador per obrir els permisos de veu</string>
   <string name="voice_semantic_analysis">Anàlisi semàntica després de la creació de xarxes</string>
   <string name="voice_start_description">Inicia</string>

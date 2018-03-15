@@ -159,7 +159,7 @@
   <string name="backup_stop">Atura la còpia de seguretat</string>
   <string name="backup_sync_dialog_confirm">Activa</string>
   <string name="backup_sync_dialog_tips">Activeu la sincronització amb Mi Cloud per canviar la configuració de les còpies de seguretat.</string>
-  <string name="backup_sync_dialog_title">Sincronització desactivada</string>
+  <string name="backup_sync_dialog_title">La sincronització està desactivada</string>
   <string name="backup_sync_error_btn_text">Torna-ho a provar</string>
   <string name="backup_sync_error_desc">"No s'ha pogut connectar al Mi Cloud"</string>
   <string name="backup_sync_error_title">"No s'han pogut sincronitzar els elements"</string>
@@ -1037,7 +1037,7 @@ per personalitzar la galeria"</string>
   <string name="sync_album_in_proecess">S\'està sincronitzant l\'àlbum&#8230;</string>
   <string name="sync_battery_low">Bateria baixa</string>
   <string name="sync_cloud_space_full">No hi ha prou espai a Mi Cloud</string>
-  <string name="sync_diabled_toast">Sincronització desactivada</string>
+  <string name="sync_diabled_toast">La sincronització està desactivada</string>
   <string name="sync_metatata_wait_title">S\'està esperant a la sincronització del Mi Cloud</string>
   <string name="sync_not_allow_cta_title">"No es pot accedir a la xarxa"</string>
   <string name="sync_off_title">Activeu la sincronització amb Mi Cloud per realitzar còpies de seguretat de fotos i vídeos automàticament</string>
