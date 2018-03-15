@@ -3181,7 +3181,6 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="private_sms_recording_intro_header">Dibuixeu un patró de desbloqueig:</string>
   <string name="private_sms_reset_by_account">Per restablir la contrasenya, inicieu la sessió en el compte Mi</string>
   <string name="process_dex2oat_label">Optimització de l\'aplicació</string>
-  <string name="process_kernel_label">SO Android</string>
   <string name="process_mediaserver_label">Servidor multimèdia</string>
   <string name="process_provider_in_use_description">S\'està utilitzant el proveïdor %1$s.</string>
   <string name="process_service_in_use_description">Servei %1$s s\'està utilitzant.</string>

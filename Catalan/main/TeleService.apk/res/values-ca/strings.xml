@@ -1201,7 +1201,6 @@ Les funcions relacionades amb el PIN2 es bloquejaran després d\'un altre intent
   <string name="preferred_network_type_title">Tipus de xarxa preferit</string>
   <string name="preferred_phone_account">Compte de trucades preferit</string>
   <string name="private_num">Número privat</string>
-  <string name="process_kernel_label">SO Android</string>
   <string name="progress_dialog_exiting_ecm">Sortint del mode de devolució de trucada d\'emergència</string>
   <string name="proxy_address_title">Adreça externa del servidor intermediari</string>
   <string name="pstn_connection_service_label">Targetes SIM integrades</string>
