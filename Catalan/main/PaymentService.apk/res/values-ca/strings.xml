@@ -303,8 +303,6 @@ Comproveu la vostra data local i torneu a provar."</string>
   <string name="mibi_title_password">Contraseya</string>
   <string name="mibi_title_password_threshold">Límit diari = %1$s€</string>
   <string name="mibi_title_sms_code">Introduïu el codi de verificació del telèfon mòbil</string>
-  <string name="mibi_unit_value_redeemed">%1$s Crèdits Mi s\'han bescanviat</string>
-  <string name="mibi_unit_value_remained">%1$s Crèdits Mi es mantenen</string>
   <string name="mibi_voucher_card_text">Traieu-vos l\'abric</string>
   <string name="mibi_voucher_error_password">El codi no és vàlid.</string>
   <string name="mibi_voucher_input_password_prompt">Introduïu codi</string>

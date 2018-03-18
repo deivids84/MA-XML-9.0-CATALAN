@@ -462,7 +462,6 @@ està a punt de passar»</string>
   <string name="mw_color_picker_dialog_title">Seleccioneu un color</string>
   <string name="mw_color_picker_hue">To</string>
   <string name="mw_color_picker_saturation">Saturació</string>
-  <string name="mw_color_picker_value">Valor</string>
   <string name="mw_common_google_play_services_enable_button">Activa</string>
   <string name="mw_common_google_play_services_enable_text">"%1$s no funcionarà si no activeu els serveis de Google Play."</string>
   <string name="mw_common_google_play_services_enable_title">Activació dels serveis de Google Play</string>
