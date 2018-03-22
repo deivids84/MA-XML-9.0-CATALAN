@@ -115,7 +115,7 @@ Si canvies de targeta SIM s\'enviarà un altre SMS automàticament per reactivar
   <string name="find_device_status_ok">Trobeu el vostre dispositiu des de qualsevol lloc a i.mi.com</string>
   <string name="find_device_status_ok_international">Trobeu el vostre dispositiu des de qualsevol lloc a www.mi.com/micloud</string>
   <string name="find_device_success_title">Troba el dispositiu</string>
-  <string name="forget_password">&lt;u&gt;He oblidat la contrasenya&lt;/u&gt;</string>
+  <string name="forget_password">He oblidat la contrasenya</string>
   <string name="free_space_has_received">Ja ha rebut espai Gratis aquest mes</string>
   <string name="free_space_receive_fail">"No es pot actualitzar o ja ha estat actualitzat"</string>
   <string name="get_first_month_gb">Obtenir %s espai gratis per primera vegada</string>

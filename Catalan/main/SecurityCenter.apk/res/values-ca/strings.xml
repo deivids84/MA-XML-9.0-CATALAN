@@ -718,9 +718,9 @@ S\'afegirà a les excepcions, però els elements bloquejats anterioment no apare
   <string name="forbid_autobright_summary">"La brillantor de la pantalla continuarà igual quan estigueu jugant"</string>
   <string name="forbid_autobright_title">Corregeix la lluentor de la pantalla</string>
   <string name="foreground_traffic">Portar a primer pla %s</string>
-  <string name="forget_password_button_text">&lt;u&gt;He oblidat la contrasenya&lt;/u&gt;</string>
+  <string name="forget_password_button_text">He oblidat la contrasenya</string>
   <string name="forget_password_button_text_normal">He oblidat la contrasenya</string>
-  <string name="forget_pattern">&lt;u&gt;He oblidat la contrasenya&lt;/u&gt;</string>
+  <string name="forget_pattern">He oblidat la contrasenya</string>
   <string name="free_send_net_booster">Augment de la velocitat de la xarxa gratuït</string>
   <string name="free_send_net_booster_busniess">Obtén un augment de velocitat Xunlei gratuït</string>
   <string name="free_send_net_booster_busniess_tip">Toqueu per rebre\'l</string>
@@ -1075,7 +1075,7 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="mixed_recording_intro_header">Introduïu com a mínim 4 caràcters</string>
   <string name="mixed_retry_button_text">Cancel·la</string>
   <string name="mixed_settings_help_how_to_record">Com establir la contrasenya</string>
-  <string name="modify_password_mode">&lt;u&gt;Canvia el tipus de contrasenya&lt;/u&gt;</string>
+  <string name="modify_password_mode">Canvia el tipus de contrasenya</string>
   <string name="modifypassword">Canvia la contrasenya</string>
   <string name="monitor_app_add">afegeix</string>
   <string name="monitor_app_more">Més</string>
@@ -1291,7 +1291,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="password_promotion_postbutton_text">Vés a la Configuració</string>
   <string name="password_promotion_title">Contrasenya de protecció de la privacitat</string>
   <string name="password_type">Canvia la contrasenya</string>
-  <string name="password_type_underline">&lt;u&gt;Canvia la contrasenya&lt;/u&gt;</string>
+  <string name="password_type_underline">Canvia la contrasenya</string>
   <string name="password_xspace_forget_pattern_message">Per canviar la contrasenya de segon espai, cal que elimineu el segon espai actual i crear un de nou.</string>
   <string name="path_antispam">Aplicacions del sistema/Seguretat/Llista de bloqueig</string>
   <string name="path_antivirus">Aplicacions del sistema/Seguretat/Escaneig de virus</string>
@@ -2071,7 +2071,7 @@ Dades extres en ús"</string>
   <string name="uninstall_danagerous_msg">«%s» pot danyar el vostre dispositiu, reduir el rendiment o provocar reinicis.</string>
   <string name="uninstall_danagerous_title">Desinstal·lació d\'aplicacions malicioses</string>
   <string name="unlike">No, gràcies</string>
-  <string name="unlock_pattern">&lt;u&gt;Patró&lt;/u&gt;</string>
+  <string name="unlock_pattern">Patró</string>
   <string name="unlock_pattern_to_bind_fingerprint">Introduïu la contrasenya per activar l\'empremta</string>
   <string name="unlock_set_unlock_password_summary">Combina diferents caràcters</string>
   <string name="unlock_set_unlock_password_title">Contrasenya</string>

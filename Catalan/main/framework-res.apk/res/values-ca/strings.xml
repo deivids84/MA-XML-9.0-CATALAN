@@ -148,7 +148,7 @@ L\'estalvi de bateria s\'apaga automàticament quan el dispositiu s\'està carre
   <string name="bugreport_title">Crea un informe d\'errors</string>
   <string name="byteShort">B</string>
   <string name="cancel">Cancel·la</string>
-  <string name="candidates_style">&lt;u&gt;candidats&lt;/u&gt;</string>
+  <string name="candidates_style">candidats</string>
   <string name="capability_desc_canCaptureFingerprintGestures">"Pot capturar gestos realitzats al "</string>
   <string name="capability_desc_canControlMagnification">"Controla el nivell i el posicionament del zoom de la pantalla."</string>
   <string name="capability_desc_canPerformGestures">Podeu tocar, lliscar, pessigar i realitzar altres gestos.</string>

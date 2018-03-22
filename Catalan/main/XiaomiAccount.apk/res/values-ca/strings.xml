@@ -247,7 +247,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_extra_gdpr_license">La creació del Compte Mi vol dir que vostè accepteu que Xiaomi recopilarà, processarà i farà servir les seves dades personals, incloses dades de verificació (per exemple, codis de verificació), segons dades espacials (per exemple, informació sobre les formes en que utilitzeu el segon espai, i segons espais) i altres dades especificades en la nostra Política de privacitat. Consulteu la nostra Política de privacitat per conèixer com processem i fem servir les seves dades personals.</string>
   <string name="passport_failed_to_send_activate_email">"No s'ha pogut enviar el correu d'activació"</string>
   <string name="passport_find_password_on_web_msg">Visiteu account.mi.com per restaurar la vostra contrasenya.</string>
-  <string name="passport_forget_password">&lt;u&gt;He oblidat la contrasenya&lt;/u&gt;</string>
+  <string name="passport_forget_password">He oblidat la contrasenya</string>
   <string name="passport_forget_password_no_underline">He oblidat la contrasenya</string>
   <string name="passport_get_back_pwd">Recupera la contrasenya del compte</string>
   <string name="passport_get_innetdate_agree">Comprova</string>
@@ -298,7 +298,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_quick_login_step2_title">Verificació en 2 passos</string>
   <string name="passport_quick_login_title">Introduïu la contrasenya</string>
   <string name="passport_quick_register">Registra\'t</string>
-  <string name="passport_quick_register_notice">&lt;u&gt;\"No teniu un Compte Mi? Creu-ne un.\"&lt;/u&gt;</string>
+  <string name="passport_quick_register_notice">No teniu un Compte Mi? Creu-ne un.</string>
   <string name="passport_re_get_verify_code">Obtén el codi de nou</string>
   <string name="passport_re_register">Inicia sessió de nou</string>
   <string name="passport_recycle_account_prompt">És aquest el vostre compte Mi?</string>
@@ -320,7 +320,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_register">Crea un compte</string>
   <string name="passport_register_account_goto_email">Ves a la safata d\'entrada</string>
   <string name="passport_register_account_verified_confirm">Compte verificat</string>
-  <string name="passport_register_by_email">&lt;u&gt;Crea un compte utilitzant una adreça de correu electrònic&lt;/u&gt;</string>
+  <string name="passport_register_by_email">Crea un compte utilitzant una adreça de correu electrònic</string>
   <string name="passport_register_restricted">Massa comptes associats amb aquest número de telèfon, intenteu-ne un de diferent</string>
   <string name="passport_register_restricted_title">"No es pot fer servir aquest número de telèfon"</string>
   <string name="passport_registered_phone_num">Telèfon: %s</string>
