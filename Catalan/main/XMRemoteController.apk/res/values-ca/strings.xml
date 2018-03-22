@@ -727,7 +727,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_error_verify_activator_phone_title">"No s'ha pogut comprovar el número de telèfon"</string>
   <string name="passport_failed_to_send_activate_email">"No s'ha pogut enviar el correu d'activació"</string>
   <string name="passport_find_password_on_web_msg">Visiteu account.mi.com per restaurar la vostra contrasenya.</string>
-  <string name="passport_forget_password">&lt;u&gt;He oblidat la contrasenya&lt;/u&gt;</string>
+  <string name="passport_forget_password">He oblidat la contrasenya</string>
   <string name="passport_forget_password_no_underline">He oblidat la contrasenya</string>
   <string name="passport_get_back_pwd">Recupera la contrasenya del compte</string>
   <string name="passport_get_innetdate_agree">Comprova</string>
@@ -757,7 +757,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_login_recycle_account_no">No</string>
   <string name="passport_login_recycle_account_yes">Sí</string>
   <string name="passport_login_title">Inicieu la sessió al vostre compte Mi</string>
-  <string name="passport_login_using_other_ways">&lt;u&gt;Altres maneres d\'iniciar la sessió &lt;/u&gt;</string>
+  <string name="passport_login_using_other_ways">Altres maneres d\'iniciar la sessió</string>
   <string name="passport_message_dialog_title">SMS amb els codis de verificació</string>
   <string name="passport_next">Següent</string>
   <string name="passport_no">No</string>
@@ -777,7 +777,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_quick_login_step2_title">Verificació en dues etapes</string>
   <string name="passport_quick_login_title">Introduïu la contrasenya</string>
   <string name="passport_quick_register">Registreu-vos</string>
-  <string name="passport_quick_register_notice">&lt;u&gt;\"No teniu un Compte Mi? Creu-ne un.\"&lt;/u&gt;</string>
+  <string name="passport_quick_register_notice">No teniu un Compte Mi? Creu-ne un.</string>
   <string name="passport_re_get_verify_code">Obteniu el codi un altre cop</string>
   <string name="passport_re_register">Torneu a registrar-vos</string>
   <string name="passport_recycle_account_prompt">Aquest és el vostre compte Mi?</string>
@@ -799,7 +799,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_register">Crea un compte</string>
   <string name="passport_register_account_goto_email">Ves a la safata d\'entrada</string>
   <string name="passport_register_account_verified_confirm">You\'ve already verified your account</string>
-  <string name="passport_register_by_email">&lt;u&gt;Crea un compte utilitzant una adreça de correu electrònic&lt;/u&gt;</string>
+  <string name="passport_register_by_email">Crea un compte utilitzant una adreça de correu electrònic</string>
   <string name="passport_register_restricted">Ja hi ha massa comptes associats amb aquest número de telèfon, intenteu-ne un de diferent</string>
   <string name="passport_register_restricted_title">"No es pot utilitzar aquest número de telèfon"</string>
   <string name="passport_registered_phone_num">Telèfon: %s</string>
@@ -1079,7 +1079,7 @@ Vés a la pàgina d\'inici &gt; «+» &gt; Escànner."</string>
   <string name="supported_by_kookong">Suport tècnic per Kookong</string>
   <string name="supporting_soon">Properament</string>
   <string name="swipe_loading">Un moment…</string>
-  <string name="switch_login">&lt;u&gt;Canvia de compte&lt;/u&gt;</string>
+  <string name="switch_login">Canvia de compte</string>
   <string name="switch_place">Seleccioneu una ciutat</string>
   <string name="tab_live">Programes de televisió</string>
   <string name="tab_store">Botiga</string>

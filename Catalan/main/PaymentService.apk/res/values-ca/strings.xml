@@ -116,7 +116,7 @@ Comproveu la vostra data local i torneu a provar."</string>
   <string name="mibi_error_user_id_mismatch_summary">Comproveu i torneu a iniciar la sessió al vostre compte</string>
   <string name="mibi_error_web_summary">Error del servidor</string>
   <string name="mibi_fee">%1$s Crèdit Mi</string>
-  <string name="mibi_forget_password">&lt;u&gt;He oblidat la contrasenya&lt;/u&gt;</string>
+  <string name="mibi_forget_password">He oblidat la contrasenya</string>
   <string name="mibi_format_bill_date">yyyy/MM/dd</string>
   <string name="mibi_format_date">MM. dd, yyyy</string>
   <string name="mibi_format_time">MM dd, yyyy hh:mmaa</string>
@@ -374,7 +374,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_error_verify_activator_phone_title">"No s'ha pogut comprovar el número de telèfon"</string>
   <string name="passport_failed_to_send_activate_email">"No s'ha pogut enviar el correu d'activació"</string>
   <string name="passport_find_password_on_web_msg">Aneu a account.mi.com per restaurar la vostra contrasenya.</string>
-  <string name="passport_forget_password">&lt;u&gt;He oblidat la contrasenya&lt;/u&gt;</string>
+  <string name="passport_forget_password">He oblidat la contrasenya</string>
   <string name="passport_forget_password_no_underline">He oblidat la contrasenya</string>
   <string name="passport_get_back_pwd">Recupera la contrasenya del compte</string>
   <string name="passport_get_verify_code">Obtén el codi</string>
@@ -420,7 +420,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_quick_login_step2_title">Verificació en dues passes</string>
   <string name="passport_quick_login_title">Introduïu la contrasenya</string>
   <string name="passport_quick_register">Registreu-vos</string>
-  <string name="passport_quick_register_notice">&lt;u&gt;\"No teniu un Compte Mi? Creu-ne un.\"&lt;/u&gt;</string>
+  <string name="passport_quick_register_notice">No teniu un Compte Mi? Creu-ne un.</string>
   <string name="passport_re_get_verify_code">Obteniu el codi un altre cop</string>
   <string name="passport_re_register">Torneu a registrar-vos</string>
   <string name="passport_recycle_account_prompt">Aquest és el vostre Compte Mi?</string>
