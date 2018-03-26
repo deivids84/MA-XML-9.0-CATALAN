@@ -738,7 +738,6 @@
   <string name="video_publish_watchable_tag">Seguiu-me per veure aquest vídeo</string>
   <string name="video_status_reject">Rebutjat</string>
   <string name="video_status_review">Sent ressenyat</string>
-  <string name="video_tag">\#%s#</string>
   <string name="video_tag_search_hint">Personalitza el tema</string>
   <string name="video_tag_search_title">Seleccionar tòpic</string>
   <string name="video_topic_hint">Cerca</string>
