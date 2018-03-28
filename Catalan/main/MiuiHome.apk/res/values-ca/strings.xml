@@ -80,6 +80,7 @@
   <string name="current_preview">Visualització prèvia</string>
   <string name="current_wallpaper">Actual</string>
   <string name="custom_wallpaper_picker">Navega</string>
+  <string name="defalut_launcher_title">Llançador per defecte</string>
   <string name="default_folder_title_game">Jocs</string>
   <string name="default_folder_title_recommend">Més aplicacions</string>
   <string name="default_folder_title_security">Sistema</string>
@@ -172,13 +173,16 @@
   <string name="invalid_contact_shortcut">El contacte no és vàlid</string>
   <string name="is_setting_wallpaper_message">S\'està establint el fons de pantalla&#8230;</string>
   <string name="is_system_wallpaper_message">"No es poden eliminar els recursos del sistema"</string>
+  <string name="launcher_auto_fill_empty_title">Emplena les cel·les buides</string>
   <string name="launcher_not_exist">Inici s\'ha aturat, torneu a la pantalla inicial i proveu altre cop.</string>
+  <string name="launcher_title">Pantalla d\'inici i recents</string>
   <string name="like">Preferit</string>
   <string name="liked">S\'ha agregat als favorits</string>
   <string name="loading_desktop">Un moment…</string>
   <string name="loading_wallpaper">Un moment…</string>
   <string name="local_wallpaper">Baixat</string>
   <string name="lock_screen">Bloqueja la pantalla</string>
+  <string name="lock_screen_cells_title">Bloqueja la disposició de la pantalla d\'inici</string>
   <string name="lock_screen_failed_message">"No es pot aplicar el fons de pantalla"</string>
   <string name="lock_screen_success_message">S\'ha aplicat correctament</string>
   <string name="lock_screen_wallpaper">Fons de pantalla de bloqueig</string>
@@ -205,6 +209,7 @@
   <string name="menu_wallpaper">Fons de pantalla</string>
   <string name="menu_workspace_preview">Vista prèvia de les pantalles d\'inici</string>
   <string name="mi_wallpaper">Botiga de Temes MIUI</string>
+  <string name="miui_screen_config_title">Configuració de la pantalla d\'inici</string>
   <string name="mtzgadget_missing_text">"El giny no és disponible"</string>
   <string name="multi_selecting_tips">Recolliu una aplicació arrossegant-la i deixant-la aquí</string>
   <string name="no_detail_page">No hi ha pàgina de detalls</string>
@@ -213,6 +218,11 @@
   <string name="notification_installed">S\'ha instal·lat amb èxit</string>
   <string name="notification_open_button">Obre</string>
   <string name="online_wallpaper">En línia</string>
+  <string name="open_personal_assistant_dialog_btn_cancel">Cancel·la</string>
+  <string name="open_personal_assistant_dialog_btn_confirm">Desactiva</string>
+  <string name="open_personal_assistant_dialog_desc">"No podreu fer servir el cofre d'aplicacions i rebre les seves actualitzacions. Voleu desactivar-lo ara?"</string>
+  <string name="open_personal_assistant_dialog_title">Desactiva el cofre d\'aplicacions</string>
+  <string name="open_personal_assistant_title">Activa el cofre d\'aplicacions</string>
   <string name="out_of_space">No queda més espai en aquesta pantalla</string>
   <string name="permdesc_install_shortcut">Permet a una aplicació afegir dreceres sense la intervenció de l\'usuari.</string>
   <string name="permdesc_install_widget">Permet a una aplicació afegir ginys sense la intervenció de l\'usuari.</string>
@@ -242,6 +252,8 @@
   <string name="pref_wallpaper_scroll_type_title">Alineació del fons de pantalla</string>
   <string name="preferences_general_title">Configuració addicional</string>
   <string name="preferences_title">Configuració del llançador</string>
+  <string name="preferred_app_settings_not_selected">No s\'ha seleccionat</string>
+  <string name="recents_config_title">Recents</string>
   <string name="recommend_apk_size_and_desc">%1$d MB | %2$s</string>
   <string name="recommend_apps_default_title">Buit</string>
   <string name="recommend_apps_no_data">No hi ha dades</string>
@@ -251,6 +263,7 @@
   <string name="recommend_apps_tips">"Aquesta funcionalitat necessita una connexió a internet. Per desactivar-la, toqueu el nom d'aquesta carpeta."</string>
   <string name="recommend_loading">S\'està carregant</string>
   <string name="reset_scene_prompt">La pantalla es restablirà a la disposició per defecte.</string>
+  <string name="screen_cells_config_title">Disposició de la pantalla d\'inici</string>
   <string name="screen_locked_toast">La disposició de la pantalla d\'inici està bloquejada</string>
   <string name="screen_number">Pantalla %d</string>
   <string name="select_all">Selecciona-ho tot</string>
@@ -261,6 +274,7 @@
   <string name="settings_shortcut">Configuració</string>
   <string name="share">Comparteix</string>
   <string name="show_all">Mostra-ho tot</string>
+  <string name="show_mem_info_title">Mostra informació de la memòria</string>
   <string name="sort_by_abc">Ordena pel nom</string>
   <string name="sort_by_frequency">Ordena per l\'ús</string>
   <string name="sort_by_not_defined">Ordena automàticament</string>
@@ -271,6 +285,7 @@
   <string name="status_installing">S\'està instal·lant</string>
   <string name="status_paused">En pausa</string>
   <string name="status_pending">Pendent</string>
+  <string name="title_jeejen">Pantalla d\'inici Jeejen</string>
   <string name="title_select_live_folder">Seleccioneu una carpeta</string>
   <string name="title_select_shortcut">Seleccioneu una drecera</string>
   <string name="toast_screen_icons_misplaced">S\'ha restaurat d\'un altre origen, algunes icones es poden haver desplaçat</string>

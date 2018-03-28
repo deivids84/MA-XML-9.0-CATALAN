@@ -1302,7 +1302,6 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»"</string>
   <string name="debug_networking_category">Xarxes</string>
   <string name="debug_view_attributes">Habilita l\'inspecció d\'atributs de visualització</string>
   <string name="decline_remote_bugreport_action">Rebutja-ho</string>
-  <string name="defalut_launcher_title">Llançador per defecte</string>
   <string name="default_admin_support_msg">"Aquesta acció s'ha desactivat. Per obtenir més informació, contacteu amb l'administrador de l'organització."</string>
   <string name="default_app">(Per defecte)</string>
   <string name="default_apps_title">Per defecte</string>
@@ -1753,6 +1752,7 @@ Per obtenir més informació, contacteu amb l\'administrador de l\'organització
   <string name="finish_application">Força el tancament</string>
   <string name="finish_button">Finalitza</string>
   <string name="finish_button_label">Finalitza</string>
+  <string name="firewall_restrict_android_dialog_title">Atenció</string>
   <string name="firmware_version">Android</string>
   <string name="floating_window_switch_label">Activa les finestres flotants</string>
   <string name="floating_window_switch_label_disable">Desactiva les finestres flotants</string>
@@ -1821,8 +1821,8 @@ Però ja no obtingué resposta, perquè el malalt greu acabava de morir d’una 
   <string name="force_touch_enable">Habilita el 3D tàctil</string>
   <string name="force_touch_enable_tips">Per a visualitzar el menú de dreceres de les aplicacions amb el tàctil 3D habilitat, mantingueu la icona de l\'aplicació pitjada.</string>
   <string name="forget">Oblida-la</string>
-  <string name="forget_password_button_text">He oblidat la contrasenya</string>
-  <string name="forget_pattern">Heu oblidat el patró?</string>
+  <string name="forget_password_button_text"><u>He oblidat la contrasenya</u></string>
+  <string name="forget_pattern">&lt;u&gt;Heu oblidat el patró?&lt;/u&gt;</string>
   <string name="forget_privacy_password_setting">Afegeix Compte Mi</string>
   <string name="forget_privacy_password_summary">Utilitzeu el Compte Mi per restablir la seva contrasenya</string>
   <string name="forget_wifi_message">El telèfon no es tornarà a connectar automàticament a aquesta xarxa.</string>
@@ -2026,6 +2026,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="key_gesture_function_preview">Previsualitzacions de botons i gestos</string>
   <string name="key_gesture_function_shortcut">Dreceres funcionals</string>
   <string name="key_none">Cap</string>
+  <string name="key_operation_diagram">Diagrama d\'operacions</string>
   <string name="key_position_cat">Posició dels botons</string>
   <string name="key_settings">Botons</string>
   <string name="key_settings_title">Botons</string>
@@ -2114,7 +2115,6 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="launch_google_search">Obre Google Assistant</string>
   <string name="launch_recents">Executa recents</string>
   <string name="launch_voice_assistant">Obre l\'assistent de veu</string>
-  <string name="launcher_auto_fill_empty_title">Emplena les cel·les buides</string>
   <string name="launcher_title">Pantalla d\'inici</string>
   <string name="launching_cit">S\'està iniciant CIT</string>
   <string name="launching_pho">S\'està iniciant informació del telèfon, espereu-vos.</string>
@@ -2218,7 +2218,6 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="lock_profile_wipe_warning_content_pattern">Si torneu a introduir un patró incorrecte, el perfil professional i les dades associades se suprimiran del dispositiu.</string>
   <string name="lock_profile_wipe_warning_content_pin">Si torneu a introduir un PIN incorrecte, el perfil professional i les dades associades se suprimiran del dispositiu.</string>
   <string name="lock_profile_wipe_warning_title">Darrera oportunitat</string>
-  <string name="lock_screen_cells_title">Bloqueja la disposició de la pantalla d\'inici</string>
   <string name="lock_screen_intro_skip_dialog_text">Les funcions de protecció del dispositiu no s\'activaran. No podreu impedir que altres persones utilitzin el telèfon si el perdeu o el roben.</string>
   <string name="lock_screen_intro_skip_dialog_text_frp">Les funcions de protecció del dispositiu no s\'activaran. No podreu impedir que altres persones facin servir el telèfon si el perdeu, el roben o se n\'esborra el contingut.</string>
   <string name="lock_screen_notifications_interstitial_message">Quan el dispositiu està bloquejat, com voleu que es mostrin les notificacions?</string>
@@ -2527,7 +2526,6 @@ Hi ha altres usuaris presents en aquest dispositiu.
   <string name="miui_lab_taplus_desc">Premeu i mantingueu premut per activar les accions</string>
   <string name="miui_lab_taplus_title">Taplus</string>
   <string name="miui_master_clear_summary">Suprimeix totes les dades del telèfon</string>
-  <string name="miui_screen_config_title">Configuració de la pantalla inicial</string>
   <string name="miui_updater">Actualització del sistema</string>
   <string name="mms_breathing_light_color_title">Color dels missatges</string>
   <string name="mms_breathing_light_freq_title">Freqüència de parpelleig del LED dels missatges</string>
@@ -2695,8 +2693,8 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="nfc_more_title">Més...</string>
   <string name="nfc_payment_default">Aplicació per defecte per als pagaments</string>
   <string name="nfc_payment_default_not_set">No s\'ha configurat</string>
-  <string name="nfc_payment_favor_default">Sempre</string>
-  <string name="nfc_payment_favor_open">Excepte quan hi hagi oberta una altra aplicació de pagament</string>
+  <string name="nfc_payment_favor_default">Utilitza sempre l\'aplicació per defecte</string>
+  <string name="nfc_payment_favor_open">Substitueix l\'aplicació per defecte quan s\'obre una altra aplicació de pagament</string>
   <string name="nfc_payment_how_it_works">Com funciona</string>
   <string name="nfc_payment_no_apps">Paga a les botigues amb el telèfon</string>
   <string name="nfc_payment_pay_with">En un terminal que admeti la funció Toca i Paga, paga amb:</string>
@@ -2871,11 +2869,6 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="open_demo_mode_warning_message">Quan el mode de demostració estigui activat, el rellotge de la barra d\'estat s\'aturarà, les icones de la bateria i del senyal es mostraran al màxim. Podeu activar el mode de demostració o reiniciar el dispositiu per canviar-lo.</string>
   <string name="open_miui_optimization_title">Activa l\'optimització MIUI</string>
   <string name="open_miui_optimization_warning_message">El dispositiu tornarà a arrencar per aplicar els canvis.</string>
-  <string name="open_personal_assistant_dialog_btn_cancel">Cancel·la</string>
-  <string name="open_personal_assistant_dialog_btn_confirm">Desactiva</string>
-  <string name="open_personal_assistant_dialog_desc">"No podreu fer servir el cofre d'aplicacions i rebre les seves actualitzacions. Voleu desactivar-lo ara?"</string>
-  <string name="open_personal_assistant_dialog_title">Desactiva el cofre d\'aplicacions</string>
-  <string name="open_personal_assistant_title">Activa el cofre d\'aplicacions</string>
   <string name="open_wifi_connect_summary">Premeu per veure els detalls.</string>
   <string name="open_wifi_connect_title">Connecta amb %1$s</string>
   <string name="opening_paragraph_delete_profile_unknown_company">L\'administrador d\'aquest perfil professional és:</string>
@@ -3204,6 +3197,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="profile_section_header">Notificacions de la feina</string>
   <string name="progress_scanning">S\'està cercant</string>
   <string name="provider_label">Subscripcions de tramesa automàtica</string>
+  <string name="provision_activation">Actiu</string>
   <string name="provision_back">Enrere</string>
   <string name="provision_next">Següent</string>
   <string name="provision_page_layout_confirm_message">Per aplicar aquests canvis el dispositiu s\'ha de reiniciar. Trigarà aproximadament 1 minut.</string>
@@ -3302,7 +3296,6 @@ Interfície UT: %5$s"</string>
   <string name="receiver_clean">Allibera espai</string>
   <string name="recent_location_requests_summary">Veure aplicacions que han demanat accés a la ubicació</string>
   <string name="recent_location_requests_title">Accés a la ubicació</string>
-  <string name="recents_config_title">Configuració del panell de tasques recents</string>
   <string name="recommend_item_1">Funda per al mòbil</string>
   <string name="recommend_item_3">Bateria externa</string>
   <string name="recommend_item_4">Auriculars</string>
@@ -3426,7 +3419,6 @@ Aquesta configuració afecta tots els usuaris del telèfon.»</string>
   <string name="screen">Pantalla</string>
   <string name="screen_button">Botons de la pantalla</string>
   <string name="screen_button_tips">Feu lliscar cap avall per amagar els botons de la pantalla</string>
-  <string name="screen_cells_config_title">Disposició de la pantalla d\'inici</string>
   <string name="screen_color_and_optimize">Colors i contrast</string>
   <string name="screen_color_and_optimize_disabled">"No es pot ajustar la temperatura del color en el mode lectura"</string>
   <string name="screen_color_temperature_and_saturation">Colors i saturació</string>
@@ -3929,7 +3921,6 @@ Nota: no podeu utilitzar la vostra empremta per desbloquejar aquest dispositiu. 
   <string name="show_ime">Mostra el teclat virtual</string>
   <string name="show_ime_summary">El deixa a la pantalla mentre el teclat físic està actiu</string>
   <string name="show_magnifier_when_input">Lupa</string>
-  <string name="show_mem_info_title">Mostra informació de la memòria</string>
   <string name="show_menu">Mostra el menú</string>
   <string name="show_non_rect_clip">Depura les operacions de retall no rectangulars</string>
   <string name="show_notification_channel_warnings">Mostra les advertències del canal de notificació</string>
@@ -4379,7 +4370,7 @@ La sincronització de dades que ha ideat Google per tal de permetre l\'accés al
   <string name="system_alert_window_apps_title">Aplicacions</string>
   <string name="system_alert_window_on">Sí</string>
   <string name="system_alert_window_settings">Mostra a sobre d\'altres aplicacions</string>
-  <string name="system_alert_window_summary" formatted="false">%d de %d aplicacions es poden mostrar a sobre d\'altres aplicacions</string>
+  <string name="system_alert_window_summary">%d de %d aplicacions es poden mostrar a sobre d\'altres aplicacions</string>
   <string name="system_and_device_section_title">Sistema i dispositiu</string>
   <string name="system_app">(Sistema)</string>
   <string name="system_app_settings">Aplicacions del sistema</string>

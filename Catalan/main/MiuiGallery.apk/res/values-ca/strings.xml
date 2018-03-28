@@ -1029,6 +1029,9 @@ per personalitzar la galeria"</string>
   <string name="sticker_spring">Primavera</string>
   <string name="sticker_summer">Estiu</string>
   <string name="sticker_words">Paraules</string>
+  <string name="storage_description_primary">Emmagatzematge intern</string>
+  <string name="storage_description_sdcard">Targeta SD</string>
+  <string name="storage_description_xspace">Dades d\'aplicacions duals</string>
   <string name="storage_no_space">No hi ha prou espai</string>
   <string name="sub_discard_confirm_message">Voleu desar els canvis?</string>
   <string name="sub_discard_negative_btn">Descarta</string>

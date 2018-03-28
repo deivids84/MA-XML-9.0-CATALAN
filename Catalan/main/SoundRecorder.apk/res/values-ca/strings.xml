@@ -25,6 +25,7 @@
   <string name="deleting_message">S\'està eliminant…</string>
   <string name="details">Detalls</string>
   <string name="dialog_content_storage_full">"S'ha aturat la gravació perquè no hi ha prou espai al dispositiu."</string>
+  <string name="dialog_privacy_revoke_tips">"Després de revocar l'autorització, l'aplicació deixarà de recopilar dades i totes les dades relacionades se suprimiran dels servidors. Això pot fer que l'aplicació sigui pràcticament inutilitzable. Voleu revocar l'autorització de totes maneres? Per garantir la seguretat del vostre compte, inicieu sessió a i.mi.com abans de revocar l'autorització dels serveis de Mi Cloud."</string>
   <string name="dialog_title_storage_full">No hi ha prou espai</string>
   <string name="duration_format_hour">%s h</string>
   <string name="duration_format_minute">%s m</string>

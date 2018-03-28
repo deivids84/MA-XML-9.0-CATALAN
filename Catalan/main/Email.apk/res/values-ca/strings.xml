@@ -961,7 +961,7 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="ser_resp_err_map_pserr">Nom d\'usuari o contrasenya incorrecta</string>
   <string name="ser_resp_err_map_serclosed">Servidor %s tancat</string>
   <string name="ser_resp_err_map_ssl">"Si us plau, intenti triar ' SSL/TLS (acceptar tots els certificats)' a 'Tipus de seguretat'"</string>
-  <string name="service_protocol_discribe">\"He llegit i estic d\'acord amb l\'acord de servei de correu WPS \"</string>
+  <string name="service_protocol_discribe">&lt;u&gt;\"He llegit i estic d\'acord amb l\'acord de servei de correu WPS \"&lt;/u&gt;</string>
   <string name="service_protocol_title">Acord de servei</string>
   <string name="set_network">Definir xarxa</string>
   <string name="settings_activity_title">Configuració</string>

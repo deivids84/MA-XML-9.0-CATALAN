@@ -4,11 +4,11 @@
   <string name="access_select">S\'ha seleccionat %s</string>
   <string name="access_unselect">S\'ha anul·lat la selecció de %s</string>
   <string name="accessibility_title">Cofre d\'aplicacions</string>
-  <string name="accordingto_position">Reconeix ubicacions freqüents amb el GPS</string>
+  <string name="accordingto_position">Reconeix llocs freqüents mitjançant el GPS</string>
   <string name="account_address">Adreça</string>
   <string name="add_stock">Afegeix</string>
   <string name="add_to_desktop">Afegeix a la pantalla d\'inici</string>
-  <string name="address_name_spell">Introduïu adreça</string>
+  <string name="address_name_spell">Introduïu l\'adreça</string>
   <string name="agenda">Recordatoris</string>
   <string name="agenda_assistant">Esdeveniment del calendari</string>
   <string name="agenda_assistant_account_num">Compte</string>
@@ -84,7 +84,7 @@
   <string name="ball_net_errot">"No s'ha pogut connectar a la xarxa."</string>
   <string name="ball_recent_no_data">No hi ha informació dels propers partits.</string>
   <string name="beijing">Beijing</string>
-  <string name="bicycle">Cicle</string>
+  <string name="bicycle">Bicicleta</string>
   <string name="book_assistant">Reserva un viatge</string>
   <string name="book_assistant_empty">Encara no hi ha reserves</string>
   <string name="book_assistant_go">Sortida</string>
@@ -128,7 +128,7 @@
   <string name="card_plan_fly">Sortida planificada</string>
   <string name="card_setting_btn">Personalitza</string>
   <string name="card_settings">Personalitza</string>
-  <string name="card_settings_rule">Configuració de l\'ordre de la targeta</string>
+  <string name="card_settings_rule">Configuració de l\'ordre de targetes</string>
   <string name="card_title_express">El meu lliurament</string>
   <string name="card_title_favorite">Preferits</string>
   <string name="card_title_funclaunch">Dreceres</string>
@@ -166,7 +166,7 @@
   <string name="commute">Suggeriments del mapa</string>
   <string name="commute_open">Mostra la targeta de suggeriments del mapa</string>
   <string name="commute_setting_brief">Obtingueu suggeriments de ruta i transit abans de sortir.</string>
-  <string name="company_or_school">Treball o escola</string>
+  <string name="company_or_school">Feina o escola</string>
   <string name="corpus_description_apps">Aplicacions instal·lades</string>
   <string name="corpus_hint_apps">Cerca aplicacions</string>
   <string name="corpus_label_apps">Aplicacions</string>
@@ -220,7 +220,7 @@
   <string name="didi_trip">Truca a un taxi</string>
   <string name="didi_trip_content">Calcula la tarifa i truca a un taxi</string>
   <string name="didi_trip_content_detail">Calcula la tarifa de taxi aproximada i truca a un taxi.</string>
-  <string name="drive">Condueix</string>
+  <string name="drive">Conduir</string>
   <string name="duokan_open">Afegiu la targeta Duokan</string>
   <string name="duokan_setting_brief">Continueu llegint des del lloc on ho vau deixar.</string>
   <string name="edit_amount_hint">Introdueix la quantitat</string>
@@ -332,7 +332,7 @@ Comproveu el número de seguiment."</string>
   <string name="express_inquiry_status_sign_out">Rebutjat</string>
   <string name="express_inquiry_status_unknown">Desconegut</string>
   <string name="express_install_cainiao_description">%s requereix la instal·lació de l\'aplicació Cainiao. Voleu instal·lar-la?</string>
-  <string name="express_install_cainiao_hidden">No ho tornis a mostrar</string>
+  <string name="express_install_cainiao_hidden">&lt;u&gt;No ho tornis a mostrar&lt;/u&gt;</string>
   <string name="express_install_cainiao_not_found">No s\'ha trobat el Mimarket</string>
   <string name="express_install_cainiao_ok">Instal·la</string>
   <string name="express_install_cainiao_title">Instal·la Cainiao</string>
@@ -501,10 +501,10 @@ Comproveu el número de seguiment."</string>
   <string name="function_music_recognize">Reconeix cançons</string>
   <string name="function_music_title">Música</string>
   <string name="function_not_support">"Aquesta funció no és compatible amb aquest dispositiu"</string>
-  <string name="function_open_error_content">"Aquesta drecera no funciona perquè l'aplicació s'ha desinstal·lat. Seleccioneu una drecera diferent o torneu a instal·lar l'aplicació."</string>
+  <string name="function_open_error_content">Aquesta drecera no funciona perquè l\'aplicació s\'ha desinstal·lat. Seleccioneu una drecera diferent o torneu a instal·lar l\'aplicació.</string>
   <string name="function_open_error_content_app">Aquesta aplicació s\'ha desinstal·lat. Seleccioneu una drecera diferent o torneu a instal·lar l\'aplicació.</string>
-  <string name="function_open_error_content_app_xspace">"Aquesta drecera no funciona perquè l'aplicació dual s'ha desinstal·lat. Seleccioneu una drecera diferent o creeu una nova aplicació dual."</string>
-  <string name="function_open_error_content_xspace">"Aquesta drecera no funciona perquè l'aplicació s'ha desinstal·lat. Seleccioneu una drecera diferent o creeu una nova aplicació dual."</string>
+  <string name="function_open_error_content_app_xspace">Aquesta drecera no funciona perquè l\'aplicació dual s\'ha desinstal·lat. Seleccioneu una drecera diferent o creeu una nova aplicació dual.</string>
+  <string name="function_open_error_content_xspace">Aquesta drecera no funciona perquè l\'aplicació s\'ha desinstal·lat. Seleccioneu una drecera diferent o creeu una nova aplicació dual.</string>
   <string name="function_open_error_title">"No es pot obrir «%s»"</string>
   <string name="function_qq_new_shuoshuo">Publica</string>
   <string name="function_qq_recent">Amics</string>
@@ -536,7 +536,7 @@ Comproveu el número de seguiment."</string>
   <string name="guide_button_btn_keep">Mantén</string>
   <string name="hold_down_adjustment_order">Mantén premut la icona de la dreta per arrossegar elements</string>
   <string name="home">Casa</string>
-  <string name="home_and_company">Casa i treball</string>
+  <string name="home_and_company">Casa i feina</string>
   <string name="http_stock_error">"No s'ha pogut carregar la informació"</string>
   <string name="immediate_recommendation">Recomanacions</string>
   <string name="item_type_custom">Personalitza</string>
@@ -762,7 +762,7 @@ Comproveu el número de seguiment."</string>
   <string name="pie_chart_label_telephone_charge">Comunicacions:</string>
   <string name="pie_chart_label_tenement">Lloguer:</string>
   <string name="pie_chart_label_traffic">Transport:</string>
-  <string name="place_label">Ubicacions freqüents</string>
+  <string name="place_label">Llocs freqüents</string>
   <string name="plan">Programat</string>
   <string name="preferences">Preferències</string>
   <string name="preferences_label">Preferències</string>
@@ -807,7 +807,7 @@ Comproveu el número de seguiment."</string>
   <string name="send_shortcut_failed">"Ha fallat l'enviament"</string>
   <string name="send_shortcut_success">S\'ha afegit a la pantalla d\'inici</string>
   <string name="service_unavailiable">Comproveu la connexió de xarxa i torneu-ho a provar</string>
-  <string name="setting_address">Afegeix ubicacions freqüents</string>
+  <string name="setting_address">Afegiu llocs freqüents</string>
   <string name="setting_authorization_canceled_dialog_cancel">Cancel·la</string>
   <string name="setting_authorization_canceled_dialog_message">El MIUI ja no registrarà els pagaments i retirarà aquesta targeta.</string>
   <string name="setting_authorization_canceled_dialog_ok">Elimina la targeta</string>
@@ -858,10 +858,10 @@ Comproveu el número de seguiment."</string>
   <string name="setting_map_brief_detail">Calcula les rutes i el temps necessari per a un viatge</string>
   <string name="setting_note">Notes</string>
   <string name="setting_note_brief">La forma més senzilla de prendre notes</string>
-  <string name="setting_place">Afegeix ubicacions freqüents per veure suggeriments de trànsit i rutes</string>
+  <string name="setting_place">Afegiu llocs freqüents per veure suggeriments de trànsit i ruta</string>
   <string name="setting_place_next">Següent</string>
   <string name="setting_pref_confirm">Finalitza</string>
-  <string name="setting_school_label">Afegeix l\'adreça del treball/escola</string>
+  <string name="setting_school_label">Afegeix l\'adreça de la feina/escola</string>
   <string name="setting_stock">Accions</string>
   <string name="setting_stock_brief">"Consulteu el progrés diari de les empreses que seguiu."</string>
   <string name="setting_stock_brief_list">Informació diària</string>
@@ -977,7 +977,7 @@ Comproveu el número de seguiment."</string>
   <string name="walk">A peu</string>
   <string name="weibo_name">Nou article</string>
   <string name="weibo_parent">Weibo</string>
-  <string name="which_transport">Com arribeu normalment al vostre destí?</string>
+  <string name="which_transport">Com arribeu normalment a la vostra destinació?</string>
   <string name="widget_fav">preferit</string>
   <string name="widget_fav_open">Mostra la targeta dels preferits</string>
   <string name="widget_fav_setting_brief">Deseu els preferits de diverses aplicacions aquí</string>

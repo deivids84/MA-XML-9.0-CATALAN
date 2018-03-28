@@ -326,6 +326,7 @@ està a punt de passar»</string>
   <string name="go_supermarket_title">Més aplicacions, més ràpid i menys ús de dades a l\'App Store</string>
   <string name="gold_medals">Medalles d\'or</string>
   <string name="google_bookmarks">Google</string>
+  <string name="green_kid_block_request">Els pares han blocat l\'accés a la pàgina web.</string>
   <string name="have_sent_bookmark_to_home_screen">S\'ha posat a la pantalla d\'inici</string>
   <string name="hint">Consell</string>
   <string name="history">Historial</string>
@@ -1034,7 +1035,7 @@ El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'
   <string name="snapshot_failed">"No s'ha pogut desar la pàgina"</string>
   <string name="snapshot_successed">Obre els marcadors i l\'historial -&gt; LOCAL per veure la pàgina</string>
   <string name="soft_toast_see_view">Mostra</string>
-  <string name="speech_engine_not_install">El motor de veu no està instal·lat</string>
+  <string name="speech_engine_not_install">"El motor de veu no està instal·lat"</string>
   <string name="ssl_bad_clock_date_settings">Estableix la data</string>
   <string name="ssl_bad_clock_warning" formatted="false">"No es pot establir una connexió privada a %s1 perquè la data i l'hora (%s2) del dispositiu són incorrectes."</string>
   <string name="ssl_certificate">Certificat de seguretat</string>

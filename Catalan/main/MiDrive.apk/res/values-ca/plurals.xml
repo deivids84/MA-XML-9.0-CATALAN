@@ -42,8 +42,8 @@
     <item quantity="one">&#160;%1$d element</item>
   </plurals>
   <plurals name="mins_ago">
-    <item quantity="other">Fa %1$d mins</item>
-    <item quantity="one">Fa %1$d min</item>
+    <item quantity="other">Fa %1$d minuts</item>
+    <item quantity="one">Fa %1$d minut</item>
   </plurals>
   <plurals name="hours_ago">
     <item quantity="other">Fa %1$d hores</item>

@@ -66,6 +66,7 @@
   <string name="button_not_allow">Cancel·la</string>
   <string name="button_settings_cancel">Cancel·la</string>
   <string name="button_settings_confirm">Revoca</string>
+  <string name="button_settings_confirm_to_revoke_msg">"No podreu utilitzar el temps després de revocar l'autorització."</string>
   <string name="button_settings_confirm_to_revoke_title">Voleu revocar l\'autorització?</string>
   <string name="button_sure_abandon">Voleu descartar els canvis?</string>
   <string name="card_vote_item_vs">CONTRA</string>

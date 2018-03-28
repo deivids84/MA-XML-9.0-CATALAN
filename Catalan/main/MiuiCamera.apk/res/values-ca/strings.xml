@@ -8,6 +8,8 @@
   <string name="accessibility_beauty_panel_open">El menú d\'embelliment està obert</string>
   <string name="accessibility_beauty_switch_closed">L\'embelliment està desactivat</string>
   <string name="accessibility_beauty_switch_open">L\'embelliment està activat</string>
+  <string name="accessibility_bokeh_normal">El fons difuminat de la càmera frontal està desactivat</string>
+  <string name="accessibility_bokeh_on">El fons difuminat de la càmera frontal està activat</string>
   <string name="accessibility_camera_picker">Commutador de càmera posterior i davantera</string>
   <string name="accessibility_camera_picker_finish">S\'ha canviat de càmeres amb èxit</string>
   <string name="accessibility_camera_shutter_finish">S\'ha fet una foto amb èxit</string>
@@ -24,6 +26,9 @@
   <string name="accessibility_foucs_peak">Valor màxim</string>
   <string name="accessibility_front_preview_status">Vista prèvia de la càmera frontal</string>
   <string name="accessibility_hdr">Botó activar HDR</string>
+  <string name="accessibility_hdr_auto">L\'HDR automàtic està activat</string>
+  <string name="accessibility_hdr_off">HDR està desactivat</string>
+  <string name="accessibility_hdr_on">L\'HDR està activat</string>
   <string name="accessibility_intent_done_apply">Fet</string>
   <string name="accessibility_mode_dismiss_button">Botó de tancament del mode de selecció</string>
   <string name="accessibility_more">Més</string>

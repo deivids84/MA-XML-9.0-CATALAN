@@ -34,7 +34,7 @@
   <string name="account_security_info_pref_title">Informació de seguretat</string>
   <string name="account_token_expired_msg">"El codi de verificació ha caducat, torneu a començar o tanqueu la sessió
  El vostre ID: %s"</string>
-  <string name="account_token_expired_title">Ha fallat l\'autenticació</string>
+  <string name="account_token_expired_title">"No s'ha pogut autenticar"</string>
   <string name="account_user_avatar">Foto del perfil</string>
   <string name="account_user_avatar_from_album">Trieu una foto</string>
   <string name="account_user_avatar_from_camera">Fes-te una fotografia</string>
@@ -247,7 +247,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_extra_gdpr_license">La creació del Compte Mi vol dir que vostè accepteu que Xiaomi recopilarà, processarà i farà servir les seves dades personals, incloses dades de verificació (per exemple, codis de verificació), segons dades espacials (per exemple, informació sobre les formes en que utilitzeu el segon espai, i segons espais) i altres dades especificades en la nostra Política de privacitat. Consulteu la nostra Política de privacitat per conèixer com processem i fem servir les seves dades personals.</string>
   <string name="passport_failed_to_send_activate_email">"No s'ha pogut enviar el correu d'activació"</string>
   <string name="passport_find_password_on_web_msg">Visiteu account.mi.com per restaurar la vostra contrasenya.</string>
-  <string name="passport_forget_password">He oblidat la contrasenya</string>
+  <string name="passport_forget_password"><u>He oblidat la contrasenya</u></string>
   <string name="passport_forget_password_no_underline">He oblidat la contrasenya</string>
   <string name="passport_get_back_pwd">Recupera la contrasenya del compte</string>
   <string name="passport_get_innetdate_agree">Comprova</string>
@@ -298,7 +298,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_quick_login_step2_title">Verificació en 2 passos</string>
   <string name="passport_quick_login_title">Introduïu la contrasenya</string>
   <string name="passport_quick_register">Registra\'t</string>
-  <string name="passport_quick_register_notice">No teniu un Compte Mi? Creu-ne un.</string>
+  <string name="passport_quick_register_notice">&lt;u&gt;\"No teniu un Compte Mi? Creu-ne un.\"&lt;/u&gt;</string>
   <string name="passport_re_get_verify_code">Obtén el codi de nou</string>
   <string name="passport_re_register">Inicia sessió de nou</string>
   <string name="passport_recycle_account_prompt">És aquest el vostre compte Mi?</string>
@@ -320,7 +320,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_register">Crea un compte</string>
   <string name="passport_register_account_goto_email">Ves a la safata d\'entrada</string>
   <string name="passport_register_account_verified_confirm">Compte verificat</string>
-  <string name="passport_register_by_email">Crea un compte utilitzant una adreça de correu electrònic</string>
+  <string name="passport_register_by_email">&lt;u&gt;Crea un compte utilitzant una adreça de correu electrònic&lt;/u&gt;</string>
   <string name="passport_register_restricted">Massa comptes associats amb aquest número de telèfon, intenteu-ne un de diferent</string>
   <string name="passport_register_restricted_title">"No es pot fer servir aquest número de telèfon"</string>
   <string name="passport_registered_phone_num">Telèfon: %s</string>
@@ -438,9 +438,9 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="turning_off_find_device">S\'està desactivant Cerca el dispositiu…</string>
   <string name="unbind_sns_description">"Després que desvinculeu aquest compte, no podreu usar la vostra informació del compte %s per iniciar el vostre compte Mi."</string>
   <string name="unlock_help_notice">"Ajuda:
-1. Si heu oblidat la contrasenya, aneu a id.mi.com per restaurar-la.
-2. Si no podeu desbloquejar el dispositiu, aneu a i.mi.com per desactivar troba el dispositiu.
-3. El vostre número de desbloqueig: %s "</string>
+1. Si heu oblidat la contrasenya, aneu a id.mi.com per reiniciar-la.
+2. Si no podeu reiniciar la contrasenya o algú ha bloquejat el vostre dispositiu, aneu a i.mi.com per desbloquejar-lo.
+3. El vostre número de desbloqueig: %s"</string>
   <string name="update_contacts">Actualitza la llibreta d\'adreces</string>
   <string name="update_email_address_dialog_message">Us cal verificar la identitat abans que pugueu actualitzar el correu electrònic.</string>
   <string name="update_email_address_dialog_title">Actualitza el correu</string>

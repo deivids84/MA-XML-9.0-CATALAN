@@ -5,8 +5,4 @@
     <item quantity="other">%d trucades enregistrades.</item>
     <item quantity="one">1 trucada enregistrada.</item>
   </plurals>
-  <plurals name="livetalk_left_minute">
-    <item quantity="other">Falten %d minuts</item>
-    <item quantity="one">Falta %d minut</item>
-  </plurals>
 </resources>

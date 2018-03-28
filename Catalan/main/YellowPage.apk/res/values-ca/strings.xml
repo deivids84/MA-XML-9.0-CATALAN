@@ -117,8 +117,6 @@
   <string name="mark_number_feedback">Marca</string>
   <string name="mark_number_feedback_hint">Introduïu comentaris</string>
   <string name="mark_number_feedback_invalid_hint">Introduïu els vostres comentaris</string>
-  <string name="mark_number_feedback_not_number">"No és %s número"</string>
-  <string name="mark_number_feedback_personal_number">"És un número personal"</string>
   <string name="mark_number_feedback_success">La informació s\'ha enviat correctament</string>
   <string name="mark_number_marked_maintitle">Modifica la informació</string>
   <string name="mark_number_marked_subtitle">%s (marca actual)</string>

@@ -177,6 +177,10 @@
     <item quantity="other">S\'han concedit %d permisos</item>
     <item quantity="one">S\'ha concedit %d permís</item>
   </plurals>
+  <plurals name="print_jobs_summary">
+    <item quantity="other">%1$d tasques d\'impressió</item>
+    <item quantity="one">1 tasca d\'impressió</item>
+  </plurals>
   <plurals name="print_settings_summary">
     <item quantity="other">%1$d serveis d\'impressió activats</item>
     <item quantity="one">1 servei d\'impressió activat</item>

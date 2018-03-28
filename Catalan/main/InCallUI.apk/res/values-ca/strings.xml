@@ -5,7 +5,6 @@
   <string name="antispam_marked_count">Informat per %1$d usuaris MIUI</string>
   <string name="antispam_notification_title">Número desconegut</string>
   <string name="antispam_provider">Identificat per %s</string>
-  <string name="areacode_set_default">Estableix com a predeterminat</string>
   <string name="callFailed_cb_enabled">"No podeu fer trucades mentre estigui activada la restricció de trucades."</string>
   <string name="callFailed_congestion">Xarxa ocupada</string>
   <string name="callFailed_dialToDial">Petició dial modificada a dial amb diferent número.</string>
@@ -51,7 +50,6 @@
   <string name="call_recording_notification_title_error">"No s'ha pogut enregistrar la trucada"</string>
   <string name="call_title_redialing_with_times">Tornat a marcar %d vegades</string>
   <string name="caller_manage_header">Trucada de conferència %s</string>
-  <string name="can_not_call_oneself">"No es pot trucar a aquest número"</string>
   <string name="can_not_use">"No es pot fer servir"</string>
   <string name="cancel">Cancel·la</string>
   <string name="card_title_answering">Responent la trucada</string>
@@ -86,7 +84,6 @@
   <string name="conference_caller_info_name">"Trucada de conferència de %1$s"</string>
   <string name="conference_callers_exceeded">"S'ha excedit el número de participants"</string>
   <string name="contacts_icon_label">Contactes</string>
-  <string name="default_area_code_setting">Codi d\'àrea per defecte</string>
   <string name="description_image_button_answer">Feu lliscar amunt per respondre</string>
   <string name="description_image_button_dialpad">Marcador</string>
   <string name="description_image_button_eight">vuit</string>
@@ -107,9 +104,6 @@
   <string name="description_image_button_two">dos</string>
   <string name="description_image_button_video_answer">Vídeotrucada</string>
   <string name="description_target_answer">Respondre</string>
-  <string name="dialog_activate_livetalk">Verifiqueu el número</string>
-  <string name="dialog_call_ordinary_telephone">Trucada regular</string>
-  <string name="do_not_ask">No mostrar de nou</string>
   <string name="do_not_support_video_calls_by_remote">"Les trucades de vídeo no són compatibles en l'altre dispositiu"</string>
   <string name="emergency_call_dialog_number_for_display">Número d\'emergència</string>
   <string name="incall_call_type_label_sip">Trucada d\'Internet</string>
@@ -129,19 +123,7 @@
   <string name="incoming_circle_text_message_p">Feu lliscar cap amunt</string>
   <string name="incoming_circle_text_reject">Allibera</string>
   <string name="incoming_circle_text_reject_p">Feu lliscar cap amunt</string>
-  <string name="keep_wait_call_back">Segueix esperant</string>
-  <string name="livetalk_dial">Utilitza paquet de recàrrega</string>
-  <string name="livetalk_hangup">Penja</string>
   <string name="manageConferenceLabel">Gestiona la trucada de conferència</string>
-  <string name="network_error_message">La xarxa actual és inestable. El canvi a trucada normal podria ser cobrada pel vostre operador.</string>
-  <string name="network_error_title">Error de xarxa</string>
-  <string name="no_call_back_message">La connexió està prenent massa temps. En canviar a una trucada normal el vostre operador podria cobrar-li.</string>
-  <string name="no_call_back_title">Atenció</string>
-  <string name="not_activate_sim_card_content">Verifiqueu el número telefònic per començar a utilitzar el paquet de recàrrega. Encara podeu fer una trucada normal que us cobrarà el vostre operador.</string>
-  <string name="not_activate_sim_card_content_title">Número de telèfon no verificat</string>
-  <string name="not_activate_sim_card_content_with_operator">Verifiqueu la SIM %1$s (%2$s) per fer una trucada utilitzant el paquet de càrrega. Encara podeu fer una trucada normal, el vostre operador podrà cobrar-li.</string>
-  <string name="not_support_message">No es pot trucar a aquest número. El canvi a trucada normal podria ser cobrada pel vostre operador.</string>
-  <string name="not_support_title">Número no suportat</string>
   <string name="notification_action_accept">D\'acord</string>
   <string name="notification_action_answer_video">Vídeo</string>
   <string name="notification_action_answer_voice">Veu</string>

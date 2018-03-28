@@ -512,6 +512,7 @@ Taxa de mostreig"</string>
   <string name="close">Desactiva</string>
   <string name="close_dialog">D\'acord</string>
   <string name="close_profile">Tanca</string>
+  <string name="close_volte">Desactiva VoLTE</string>
   <string name="cloud_antispam_title">Identifica números desconeguts</string>
   <string name="cmcc_ut_data_enable_prompt">Aquest servei requereix connexió de dades mòbils. Engegueu-lo per continuar.</string>
   <string name="command_error_fdn_failure">Us cal apagar primer els NMP</string>
@@ -856,7 +857,6 @@ Voleu canviar al nou proveïdor igualment?"</string>
   <string name="list_language_dtitle">Idiomes</string>
   <string name="list_language_summary">Seleccioneu l\'idioma de les notícies</string>
   <string name="list_language_title">Idioma</string>
-  <string name="livetalk_setting">Paquet de recàrrega</string>
   <string name="load_networks_progress">S\'està cercant&#8230;</string>
   <string name="local_backup_password_summary_change">Toqueu per canviar o suprimir la contrasenya per a les còpies de seguretat completes de l\'ordinador</string>
   <string name="local_backup_password_summary_none">Actualment les còpies de seguretat completes de l\'escriptori no estan protegides</string>
@@ -1146,6 +1146,7 @@ Les funcions relacionades amb el PIN2 es bloquejaran després d\'un altre intent
   <string name="power_remaining_charging_duration_only">Resten %1$s fins càrrega completa</string>
   <string name="power_remaining_duration_only">Falten uns %1$s</string>
   <string name="power_remaining_duration_only_short">Falten %1$s</string>
+  <string name="prefered_network_type_3g_promp">Heu de desactivar VoLTE abans de seleccionar 3G com el tipus de xarxa preferit. Voleu desactivar-lo ara?</string>
   <string name="preference_auto_ip_summary_disable">Desactivat</string>
   <string name="preference_category_ringtone">So i vibració</string>
   <string name="preference_data_usage_summary">Definiu el vostre pla de dades per controlar l\'ús de les dades mòbils</string>
@@ -1202,6 +1203,10 @@ Les funcions relacionades amb el PIN2 es bloquejaran després d\'un altre intent
   <string name="preferred_phone_account">Compte de trucades preferit</string>
   <string name="private_num">Número privat</string>
   <string name="progress_dialog_exiting_ecm">Sortint del mode de devolució de trucada d\'emergència</string>
+  <string name="prompt_to_turnoff_volte_when_failed">"Els serveis de VoLTE no estan disponibles. Desactiveu VoLTE per fer una trucada."</string>
+  <string name="prompt_to_turnoff_volte_when_supp_service">"El servei no està disponible. Desactiveu VoLTE a la configuració."</string>
+  <string name="prompt_when_turnon_volte_on_3g_prefered">Seleccioneu LTE com a tipus de xarxa preferit abans d\'activar VoLTE.</string>
+  <string name="prompt_when_turnon_volte_without_lte">"Les xarxes LTE ara no estan disponibles. L'activació del VoLTE us pot impedir fer trucades regulars."</string>
   <string name="proxy_address_title">Adreça externa del servidor intermediari</string>
   <string name="pstn_connection_service_label">Targetes SIM integrades</string>
   <string name="pstn_phone">Trucada de telèfon mòbil</string>
@@ -1530,6 +1535,9 @@ El període següent comença en %2$d dies (%3$s)"</string>
   <string name="verify_apps_over_usb_title">Verificació d\'aplicacions per USB</string>
   <string name="vibrate_after_connected_summary">Vibra en respondre</string>
   <string name="vibrate_after_connected_title">Vibració un cop connectat</string>
+  <string name="vice_slot_volte_data_switch_prompt">El dispositiu es connectarà a una xarxa de dades mòbils amb la targeta SIM secundària durant les trucades VoLTE en curs. Això pot generar despeses de dades addicionals. Poseu-vos en contacte amb el proveïdor local per obtenir informació sobre el vostre pla de dades.</string>
+  <string name="vice_slot_volte_data_switch_summary">Durant les trucades de VoLTE, el dispositiu es connectarà a una xarxa de dades mòbil amb la targeta SIM secundària</string>
+  <string name="vice_slot_volte_data_switch_title">Ús de dades mòbils durant les trucades de VoLTE a la targeta SIM secundària</string>
   <string name="vm_change_failed">"No s\'ha pogut canviar el número de bústia de veu.
 Contacteu amb el vostre operador si persisteix aquest problema."</string>
   <string name="vm_change_pin_error_invalid">El nou PIN conté caràcters no vàlids.</string>
@@ -1570,7 +1578,9 @@ Contacteu amb el vostre operador si persisteix aquest problema."</string>
   <string name="volte_switch_not_support_summary">"Les trucades VoLTE no són compatibles amb la targeta SIM de dades mòbils."</string>
   <string name="volte_switch_not_support_summary2">"Les trucades VoLTE no són compatibles amb l'operador."</string>
   <string name="volte_switch_summary">Utilitza VoLTE per millorar la qualitat de les trucades de veu i de vídeo</string>
+  <string name="volte_switch_summary2">Confirmeu que el vostre operador admet aquesta funció abans d\'activar-la. En cas contrari, les trucades regulars podrien veure\'s afectades.</string>
   <string name="volte_switch_title">Activa VoLTE</string>
+  <string name="volte_tips_when_turn_on">Els serveis VoLTE de China Telecom només es proporcionen a les zones amb cobertura de xarxa LTE.</string>
   <string name="vpn_settings_not_available">La configuració de la VPN no està disponible per a aquest usuari</string>
   <string name="vvm_unsupported_message_format">Tipus de missatge no compatible, truqueu a %s per escoltar-lo.</string>
   <string name="wait_for_debugger">Espera el depurador</string>
