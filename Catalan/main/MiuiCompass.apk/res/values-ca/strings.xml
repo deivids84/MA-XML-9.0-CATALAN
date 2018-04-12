@@ -40,6 +40,7 @@
   <string name="mobiledata_alert_dialog_title">Alerta d\'ús de dades</string>
   <string name="pressure_title">Pressió</string>
   <string name="shake_enter_tip">Agiteu per calibrar</string>
+  <string name="unit_degree">Graus</string>
   <string name="using_camera_confirm_cancel">Surt</string>
   <string name="using_camera_confirm_ok">D\'acord</string>
 </resources>

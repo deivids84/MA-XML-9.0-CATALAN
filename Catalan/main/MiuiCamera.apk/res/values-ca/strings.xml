@@ -27,6 +27,8 @@
   <string name="accessibility_front_preview_status">Vista prèvia de la càmera frontal</string>
   <string name="accessibility_hdr">Botó activar HDR</string>
   <string name="accessibility_hdr_auto">L\'HDR automàtic està activat</string>
+  <string name="accessibility_hdr_live">L\'HDR Live està activat</string>
+  <string name="accessibility_hdr_normal">L\'HDR Pro està activat</string>
   <string name="accessibility_hdr_off">HDR està desactivat</string>
   <string name="accessibility_hdr_on">L\'HDR està activat</string>
   <string name="accessibility_intent_done_apply">Fet</string>
@@ -47,6 +49,8 @@
   <string name="accessibility_video_capture_button">Botó de captura de vídeo</string>
   <string name="accessibility_video_pause_button">Botó de pausar vídeo</string>
   <string name="accessibility_zoom_button">Mode zoom</string>
+  <string name="ai_scene_mode_use_hint_text">"La càmera IA detecta escenes automàticament
+i optimitza les fotos segons aquesta informació"</string>
   <string name="audio_focus_exit_button_text">Tancar enfocament d\'àudio</string>
   <string name="beauty_fragment_tab_name_beauty">Bellesa</string>
   <string name="beauty_fragment_tab_name_makeup">Avançat</string>
@@ -175,9 +179,12 @@ i les barrejarà per crear-ne una de nova on cadascú quedi millor."</string>
   <string name="portait_effect_entry_japanese">Cel blau</string>
   <string name="portait_effect_entry_maze">Laberint</string>
   <string name="portait_effect_entry_mood">Emocions</string>
+  <string name="portait_effect_entry_movie">Pel·lícula</string>
   <string name="portait_effect_entry_nature">Natura</string>
   <string name="portait_effect_entry_pink">Rubor</string>
+  <string name="portait_effect_entry_riddle">Enigma</string>
   <string name="portait_effect_entry_romance">Romantic</string>
+  <string name="portait_effect_entry_story">Història</string>
   <string name="portrait_mode_depth_effect_success_hint">Efecte de profunditat</string>
   <string name="portrait_mode_lowlight_hint">"Ara és massa fosc"</string>
   <string name="portrait_mode_too_close_hint">Allunyeu-vos de l\'objecte</string>
@@ -255,7 +262,7 @@ amb un cos més clar i un retrat més bonic"</string>
   <string name="pref_camera_focusmode_entry_normal">Estàndard</string>
   <string name="pref_camera_focusmode_title">Mode d\'enfocament</string>
   <string name="pref_camera_front_ai_scene_entry_off">La càmera IA està desactivada</string>
-  <string name="pref_camera_front_ai_scene_entry_on">Escena d\'IA</string>
+  <string name="pref_camera_front_ai_scene_entry_on">Càmera IA</string>
   <string name="pref_camera_front_bokeh_entry_off">Desactivat</string>
   <string name="pref_camera_front_bokeh_entry_on">Activat</string>
   <string name="pref_camera_gradienter_title">Redreçament</string>
@@ -467,7 +474,7 @@ amb un cos més clar i un retrat més bonic"</string>
   <string name="toast_burst_snap_forbidden_when_audio_capture_open">"No es pot disparar en ràfega amb el disparador per veu activat"</string>
   <string name="toast_saving">S\'estan desant les fotos&#8230;</string>
   <string name="toast_start_audio_capture">Feu un so per fer una fota</string>
-  <string name="ubi_focus_capture_fail">"No s'ha pogut prendre la foto"</string>
+  <string name="ubi_focus_capture_fail">"No s'ha pogut fer la foto"</string>
   <string name="ubifocus_capture_warning_message">Per obtenir millors resultats, la seva imatge ha de contenir objectes propers (menys d\'1 metre de la lent) i llunyans</string>
   <string name="user_agree">D\'acord</string>
   <string name="user_agreement2">Condicions del servei</string>

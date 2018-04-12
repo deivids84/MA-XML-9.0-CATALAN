@@ -96,7 +96,7 @@
   <string name="operation_task_manage">Mostra les transferències</string>
   <string name="operation_upload">Puja</string>
   <string name="paused">Pausat</string>
-  <string name="pick_from_fileexplor_failed">Actualitzeu l\'Explorador primer.</string>
+  <string name="pick_from_fileexplor_failed">Actualitzeu el gestor de fitxers primer.</string>
   <string name="quota_info">Mi Drive: %1$s disponible, %2$s total</string>
   <string name="rename_alert">"Si canvieu l'extensió d'aquest fitxer, pot ser que no pugueu obrir-lo."</string>
   <string name="rename_failed">Ja existeix un fitxer amb el mateix nom.</string>

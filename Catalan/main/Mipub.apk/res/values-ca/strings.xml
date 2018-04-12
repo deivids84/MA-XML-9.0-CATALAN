@@ -13,7 +13,7 @@
   <string name="attach_slideshow">Presentació de diapositives</string>
   <string name="attach_sound">Àudio</string>
   <string name="attach_subject">Assumpte</string>
-  <string name="attach_take_photo">Feu una foto</string>
+  <string name="attach_take_photo">Fes una foto</string>
   <string name="attach_video">Vídeo</string>
   <string name="back_to_message_list">Torneu a la llista de missatges</string>
   <string name="batch_delete_confirm_dialog_message">Suprimir missatges de %1$s?</string>

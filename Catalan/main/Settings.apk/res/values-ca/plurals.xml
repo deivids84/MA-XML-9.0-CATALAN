@@ -37,6 +37,14 @@
     <item quantity="other">%d aplicacions tenen autorització d\'inici automàtic</item>
     <item quantity="one">%d aplicació te autorització d\'inici automàtic</item>
   </plurals>
+  <plurals name="bg_network_allow_count">
+    <item quantity="other">%d aplicacions es poden connectar a la xarxa</item>
+    <item quantity="one">%d aplicació es pot connectar a la xarxa</item>
+  </plurals>
+  <plurals name="bg_network_restrict_count">
+    <item quantity="other">"%d aplicacions no es poden connectar a la xarxa"</item>
+    <item quantity="one">"%d aplicació no es pot connectar a la xarxa"</item>
+  </plurals>
   <plurals name="connected_devices_number">
     <item quantity="other">%d dispositius</item>
     <item quantity="one">%d dispositiu</item>
@@ -84,6 +92,10 @@
   <plurals name="enterprise_privacy_number_packages_lower_bound">
     <item quantity="other">Mínim %d aplicacions</item>
     <item quantity="one">Mínim %d aplicació</item>
+  </plurals>
+  <plurals name="firewall_item_summary">
+    <item quantity="other">Connexió restringida per a %s aplicacions</item>
+    <item quantity="one">Connexió restringida per a %s aplicació</item>
   </plurals>
   <plurals name="free_wifi_connected_count">
     <item quantity="other">%1$d usuaris connectats</item>

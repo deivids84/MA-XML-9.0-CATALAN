@@ -16,7 +16,7 @@
   <string name="cancel_edit">Cancel·la</string>
   <string name="cannot_change_parames">"No es poden canviar els paràmetres mentre s'enregistra"</string>
   <string name="cannot_record">"No s'ha pogut enregistrar, torneu-ho a provar més tard."</string>
-  <string name="description_content">L\'enregistrament de la pantalla ofereix capacitats de gravació a nivell de sistema. Aquesta acció significa que descartaràs la funció de gravació de la pantalla. Confirmeu tocant Continua.</string>
+  <string name="description_content">"L'enregistrador de la pantalla ofereix capacitats de gravació a nivell de sistema. Aquesta acció significa que descartareu la funció de gravació de la pantalla. Confirmeu per continuar."</string>
   <string name="description_title">Quant a l\'enregistrament de pantalla</string>
   <string name="deselect_all">Desselecciona-ho tot</string>
   <string name="error_open_file_failed_no_app_found">"No s'ha pogut trobar una aplicació per obrir aquest fitxer"</string>
@@ -48,7 +48,7 @@
   <string name="quit_recording">Tanca l\'enregistrador de pantalla</string>
   <string name="recording_failure">"No s'ha pogut enregistrar, comenceu de nou"</string>
   <string name="recording_max_size">"L'enregistrament s'ha aturat i s'ha desat perquè l'arxiu de vídeo ha arribat al seu límit de mida. Comenceu a enregistrar des d'on ho heu deixat si encara no heu acabat."</string>
-  <string name="recording_without_mic">El micròfon està ocupat i el so del micròfon no es pot gravar</string>
+  <string name="recording_without_mic">"El micròfon està ocupat i no pot gravar el so."</string>
   <string name="resolution">Resolució</string>
   <string name="resolution_summary">Els vídeos amb una resolució més gran es veuen més nítids</string>
   <string name="screen_orientation">Orientació</string>

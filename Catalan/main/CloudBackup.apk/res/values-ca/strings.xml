@@ -28,7 +28,7 @@
   <string name="can_not_backup_in_lite_mode">"No es pot fer una còpia de seguretat en el mode bàsic"</string>
   <string name="can_not_restore_in_lite_mode">"No es pot restaurar en mode bàsic"</string>
   <string name="cancel_backup">S\'està cancel·lant la còpia de seguretat…</string>
-  <string name="cancel_recover_settings">Cancel·la</string>
+  <string name="cancel_recover_settings"><u>Cancel·la</u></string>
   <string name="cancel_restore_home">S\'està cancel·lant…</string>
   <string name="click_try_to_restore_again">Toqueu per provar-ho de nou</string>
   <string name="cloud_app_backup_success">Còpia de seguretat d\'aplicació finalitzada</string>
@@ -85,11 +85,10 @@ Nota: Les dades de les aplicacions instal·lades no es copiaran al Mi Cloud."</s
   <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
   <string name="deskclock_backup">Alarma del rellotge</string>
   <string name="desktop_downloading">S\'està baixant</string>
-  <string name="desktop_failed">Ha fallat</string>
+  <string name="desktop_failed">Error</string>
   <string name="desktop_installing">S\'està instal·lant</string>
   <string name="desktop_wait_wifi">S\'està esperant</string>
   <string name="desktop_waiting">S\'està esperant</string>
-  <string name="device_corrupt">Mi Phone (dades corruptes)</string>
   <string name="device_delete_prompt">Esborrar la còpia de seguretat «%s»?</string>
   <string name="device_xiaomi">Telèfon Mi</string>
   <string name="dialog_btn_next">Següent</string>
@@ -109,6 +108,9 @@ Nota: Les dades de les aplicacions instal·lades no es copiaran al Mi Cloud."</s
   <string name="download_settings">S\'està baixant la configuració de la pantalla d\'inici: %s%%</string>
   <string name="download_settings_fail">"No s'ha pogut baixar la configuració de la pantalla d'inici"</string>
   <string name="error_unknown">Quelcom ha fallat</string>
+  <string name="get_device_id_error">"No s'ha pogut obtenir l'ID del dispositiu"</string>
+  <string name="home_hint_global_launcher">Pantalla d\'inici Poco</string>
+  <string name="home_restore_error">"No s'ha pogut restaurar la pantalla d'inici"</string>
   <string name="lack_of_storage">No hi ha prou espai d\'emmagatzematge</string>
   <string name="latest_backup_time_loading">S\'està carregant&#8230;</string>
   <string name="managespace_delete_backup">Elimina</string>

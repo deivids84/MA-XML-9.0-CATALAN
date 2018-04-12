@@ -77,7 +77,13 @@ aquesta característica s\'afegirà al Segon espai automàticament."</string>
   <string name="dont_import">Ara no</string>
   <string name="downloading_space">S\'està baixant&#8230;</string>
   <string name="enable">Activa</string>
+  <string name="encrypt_space_delete_dialog_click_message">"*Si no necessiteu moure dades, %s"</string>
+  <string name="encrypt_space_delete_dialog_click_message_action">suprimiu i creeu el segon espai.</string>
+  <string name="encrypt_space_delete_dialog_message">"Sou a punt d'actualitzar l'Android. Després de l'actualització, les dades del segon espai es tornaran incompatibles. Per evitar-ho, moveu totes les dades al primer espai, suprimiu el segon espai i torneu-lo a crear."</string>
+  <string name="encrypt_space_delete_dialog_positive_text">Mou dades</string>
   <string name="encrypt_space_delete_dialog_title">Atenció</string>
+  <string name="encrypt_space_delete_notification_message">Suprimiu el segon espai i creeu-ne un per actualitzar el dispositiu amb èxit.</string>
+  <string name="encrypt_space_delete_notification_title">Segon espai</string>
   <string name="enter_air_space">Vés a l\'espai de treball</string>
   <string name="err_copy_contacts">"No s'han pogut copiar els contactes"</string>
   <string name="err_copy_files">"No s'han pogut copiar els fitxers"</string>
@@ -149,6 +155,7 @@ Dos espais. Un dispositiu."</string>
   <string name="msg_switch_photo">Voleu esborrar aquestes fotos del Primer espai després que s\'hagin mogut?</string>
   <string name="needSetKeyguardFirst">Establiu la contrasenya del Primer espai</string>
   <string name="needSetKeyguardFirstDes">Establiu la contrasenya del Primer espai abans de la del Segon espai</string>
+  <string name="need_network_when_bind">Connecteu-vos a la xarxa abans d\'afegir dispositius</string>
   <string name="need_network_when_create">Connecteu a la xarxa abans de crear l\'espai de treball</string>
   <string name="need_reset_passwd">Restableix la contrasenya de l\'espai de treball abans d\'entrar a l\'espai de treball</string>
   <string name="need_set_second_space_desc">Afegiu la contrasenya del Segon espai abans d\'afegir-hi l\'empremta</string>

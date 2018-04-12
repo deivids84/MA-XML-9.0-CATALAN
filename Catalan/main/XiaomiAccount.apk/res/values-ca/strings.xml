@@ -37,7 +37,7 @@
   <string name="account_token_expired_title">"No s'ha pogut autenticar"</string>
   <string name="account_user_avatar">Foto del perfil</string>
   <string name="account_user_avatar_from_album">Trieu una foto</string>
-  <string name="account_user_avatar_from_camera">Fes-te una fotografia</string>
+  <string name="account_user_avatar_from_camera">Fes una foto</string>
   <string name="account_user_base_info">Informació personal</string>
   <string name="account_user_birthday">Aniversari</string>
   <string name="account_user_details">Informació personal</string>

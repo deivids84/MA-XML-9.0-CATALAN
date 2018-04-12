@@ -934,7 +934,7 @@ Proveu una safata d\'entrada diferent."</string>
          complir-se"</string>
   <string name="security_notification_content_update_title">Actualització de seguretat requerida</string>
   <string name="security_unsupported_ticker_fmt">"No es pot sincronitzar el compte «%s» a causa dels requisits de seguretat."</string>
-  <string name="see_more_content">Mostra més contingut</string>
+  <string name="see_more_content">Mostra\'n més</string>
   <string name="select_attachment_type">Trieu la font del fitxer adjunt</string>
   <string name="select_no_file">No hi ha fitxers adjunts seleccionats</string>
   <string name="select_path">Seleccioneu la ruta</string>

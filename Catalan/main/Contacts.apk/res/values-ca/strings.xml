@@ -203,6 +203,8 @@
   <string name="contact_detail_calllog_call_note_tips">Notes</string>
   <string name="contact_detail_calllog_call_record_tips">Gravar trucada</string>
   <string name="contact_detail_calllog_empty">No hi ha historial</string>
+  <string name="contact_detail_entry_pay">Paga</string>
+  <string name="contact_detail_entry_pay_dialog_title">Seleccioneu el número de telèfon</string>
   <string name="contact_detail_menu_delete_miprofile">Esborra la targeta</string>
   <string name="contact_detail_miprofile_accept">Intercanviar targetes de contacte</string>
   <string name="contact_detail_miprofile_accept_fail_toast">"No s'han pogut intercanviar les targetes de contacte"</string>
@@ -279,7 +281,7 @@ Les targetes de contacte estan apagades"</string>
   <string name="deleteConfirmation_title">Voleu eliminar aquest contacte?</string>
   <string name="delete_call_log_message">Esborrar registre de trucades?</string>
   <string name="delete_call_log_selected_title">Esborrar registre de trucada seleccionat?</string>
-  <string name="delete_call_log_title">Seleccionar registre de trucades</string>
+  <string name="delete_call_log_title">Esborra el registre de trucades</string>
   <string name="delete_contact_calllog_title">Esborrar registre de trucades?</string>
   <string name="delete_dial_input">Elimina</string>
   <string name="delete_duplicate">Combinar</string>
@@ -782,7 +784,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="path_key_rebuild_t9_index_title">Aplicacions del sistema/Contactes/Organitza els contactes/Reconstrueix dades de l\'índex</string>
   <string name="path_key_sim_manage">Aplicacions del sistema/Contactes/Organitza els contactes/Targetes SIM</string>
   <string name="path_preference_contacts_filter">Aplicacions del sistema/Contactes/Preferències de visualització/Configura les llistes de contactes</string>
-  <string name="path_quick_dial_setting">Aplicacions del sistema/Contactes/Marcació ràpida</string>
+  <string name="path_quick_dial_setting">Aplicacions del sistema/Telèfon/ Configuració avançada/Marcació ràpida</string>
   <string name="path_remove_duplicate">Aplicacions del sistema/Contactes/Organitza els contactes/Combina els contactes duplicats</string>
   <string name="path_share_visible_contacts">Aplicacions del sistema/Contactes/Importa/Exporta contactes/Comparteix contactes</string>
   <string name="path_sim_capacity">Aplicacions del sistema/Contactes/Emmagatzematge de la targeta SIM</string>
@@ -840,6 +842,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="preference_contacts_display">Preferències de visualització</string>
   <string name="preference_contacts_filter">Configura llistes de contactes</string>
   <string name="preference_contacts_more">Organitza els contactes</string>
+  <string name="preference_contacts_moresetting">Més</string>
   <string name="preference_dial_pad_touch_tone_default">Per defecte</string>
   <string name="preference_dial_pad_touch_tone_human">Veu</string>
   <string name="preference_dial_pad_touch_tone_piano">Tecles piano</string>
@@ -847,6 +850,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="preference_dial_pad_touch_tone_title">Tons del teclat</string>
   <string name="preference_display">Pantalla</string>
   <string name="preference_displayOptions">Opcions de visualització</string>
+  <string name="preference_display_contact">Opcions de visualització</string>
   <string name="preference_export">Exporta</string>
   <string name="preference_import">Importa</string>
   <string name="preference_import_export">Importa/exporta</string>
@@ -963,7 +967,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="search_key_rebuild_t9_index_title">Organitza;Contactes;t9</string>
   <string name="search_key_sim_manage">Organitza;Contactes</string>
   <string name="search_preference_contacts_filter">Contactes;Pantalla</string>
-  <string name="search_quick_dial_setting">Contactes</string>
+  <string name="search_quick_dial_setting">Telèfon</string>
   <string name="search_remove_duplicate">Organitza;Contactes</string>
   <string name="search_results_searching">Cercant&#8230;</string>
   <string name="search_settings_description">Noms dels teus contactes</string>
@@ -972,7 +976,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="search_simple_mode">Pantalla;informació;fotos;Contactes</string>
   <string name="search_smart_group_title">Contactes;Pantalla</string>
   <string name="search_wipe_data">Organitza;Contactes</string>
-  <string name="searching_vcard_message">S\'està cercant dades vCard a la targeta SD…</string>
+  <string name="searching_vcard_message">S\'està cercant dades vCard al dispositiu…</string>
   <string name="select_all">Selecciona-ho tot</string>
   <string name="select_all_exceed">"Seleccioneu no més de %1$d, no podeu seleccionar-ho tot"</string>
   <string name="select_exceed">Seleccioneu no més de %1$d</string>
@@ -1081,8 +1085,8 @@ Per afegir un contacte a la llista de favorits:
   <string name="t9_search_guide_pinyin_title2">Per exemple, ingresseu 2 i 3 per cercar a <font fgcolor="">A</font>lex <font fgcolor="">F</font>ont</string>
   <string name="t9_search_guide_zhuyin_title1">Cerca ràpida de contactes en introduir lletres</string>
   <string name="t9_search_guide_zhuyin_title2">Per exemple, ingresseu 5 i 6 per cercar a <font fgcolor="">J</font>osep <font fgcolor="">M</font>as</string>
-  <string name="take_new_photo">Prendre foto nova</string>
-  <string name="take_photo">Prendre foto</string>
+  <string name="take_new_photo">Fes una foto nova</string>
+  <string name="take_photo">Fes una foto</string>
   <string name="titleJoinContactDataWith">Combina contactes</string>
   <string name="title_other_devices">Altres dispositius disponibles</string>
   <string name="title_paired_devices">Dispositius aparellats</string>

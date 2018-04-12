@@ -15,6 +15,7 @@ Contacteu amb el seu agent de vendes per a més detalls."</string>
   <string name="disable_find_device_error">"No es pot desactivar troba el dispositiu. %1$s"</string>
   <string name="disable_find_device_success">Troba el dispositiu està desactivat</string>
   <string name="doing_extra_login_steps">S\'està verificant l\'inici de sessió&#8230;</string>
+  <string name="emergency_call">Trucada d\'emergència</string>
   <string name="enable_find_device_error">"No es pot activar troba el dispositiu. %1$s"</string>
   <string name="enable_find_device_success">Troba el dispositiu està activat</string>
   <string name="find_device">Troba el dispositiu</string>
@@ -38,6 +39,7 @@ Si canvieu de targeta SIM, se us enviarà automàticament un altre SMS per react
   <string name="lock_msg_phone">Informació de contacte: %s</string>
   <string name="login_extra_steps">Verificació de l\'inici de sessió</string>
   <string name="login_failed">"No s'ha pogut iniciar sessió. %s."</string>
+  <string name="open_wifi_settings">Obre la configuració Wi-Fi</string>
   <string name="passport_checking_vcode">S\'està comprovant la contrasenya&#8230;</string>
   <string name="passport_error_empty_vcode">Introduïu el codi de verificació</string>
   <string name="passport_notification_need_unlock_again">Tracteu de desbloquejar-lo de nou</string>
@@ -49,6 +51,7 @@ Si canvieu de targeta SIM, se us enviarà automàticament un altre SMS per react
   <string name="phone_locked">Pot ser que aquest dispositiu estigui associat amb un compte Mi existent (%s). Inicieu sessió per activar aquest dispositiu.</string>
   <string name="phone_locked_account_email">, correu associat: %s</string>
   <string name="phone_locked_account_phone">, número de telèfon associat: %s</string>
+  <string name="return_to_call">Torna a la trucada</string>
   <string name="stop_on_empty_captcha">"El captcha no pot estar buit"</string>
   <string name="stop_on_empty_password">"La contrasenya no pot estar buida"</string>
   <string name="sys_notification_async_open_failed_content">Premeu per tornar-ho a provar o cancel·lar-lo.</string>

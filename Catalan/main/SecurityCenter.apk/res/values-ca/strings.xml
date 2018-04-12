@@ -718,9 +718,9 @@ S\'afegirà a les excepcions, però els elements bloquejats anterioment no apare
   <string name="forbid_autobright_summary">"La brillantor de la pantalla continuarà igual quan estigueu jugant"</string>
   <string name="forbid_autobright_title">Corregeix la lluentor de la pantalla</string>
   <string name="foreground_traffic">Portar a primer pla %s</string>
-  <string name="forget_password_button_text">He oblidat la contrasenya</string>
+  <string name="forget_password_button_text"><u>He oblidat la contrasenya</u></string>
   <string name="forget_password_button_text_normal">He oblidat la contrasenya</string>
-  <string name="forget_pattern">He oblidat la contrasenya</string>
+  <string name="forget_pattern">&lt;u&gt;He oblidat la contrasenya&lt;/u&gt;</string>
   <string name="free_send_net_booster">Augment de la velocitat de la xarxa gratuït</string>
   <string name="free_send_net_booster_busniess">Obtén un augment de velocitat Xunlei gratuït</string>
   <string name="free_send_net_booster_busniess_tip">Toqueu per rebre\'l</string>
@@ -766,7 +766,12 @@ S\'afegirà a les excepcions, però els elements bloquejats anterioment no apare
   <string name="gb_description_image_button_answer">Contesta</string>
   <string name="gb_description_image_button_reject">Declina</string>
   <string name="gb_description_image_button_video_answer">Videotrucada</string>
+  <string name="gb_network_status_bad">S\'ha produït un error de connexió.</string>
   <string name="gb_new_feature">Nova característica</string>
+  <string name="gb_sign_gift_button_text">Rep</string>
+  <string name="gb_sign_notification_title">Augmenta la velocitat de la xarxa per als jocs</string>
+  <string name="gb_signed_gift_loading_fail">"No s'ha pogut carregar"</string>
+  <string name="gb_signed_gift_loading_summary">Un moment…</string>
   <string name="gdpr_msg">&lt;Data&gt;\"Per utilitzar les característiques bàsiques de Seguretat, haureu d\'acceptar que Xiaomi recopili, processi i utilitzi les vostres dades personals, incloent-hi informació sobre les maneres d\'utilitzar les funcions de seguretat (per exemple, estadístiques d\'ús de dades mòbils, informació sobre aplicacions malicioses, informació bàsica sobre el vostre dispositiu) i altres tipus d\'informació que s\'especifiquen a la nostra &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Política de privadesa&amp;lt;/a&amp;gt;.\"&lt;/Data&gt;</string>
   <string name="get_sys_info">Obtenint informació…</string>
   <string name="gmscore_support_remind">Activeu aquesta funció si teniu problemes amb l\'ús de Gmail, Google Maps i altres aplicacions de Google. Això reduirà lleugerament la durada de la bateria.</string>
@@ -794,8 +799,10 @@ S\'afegirà a les excepcions, però els elements bloquejats anterioment no apare
   <string name="gs_game_shortcut">Millora la vostra experiència de joc</string>
   <string name="gs_only_self_start_for_list">Redueix els processos en segon pla per deixar més bateria pel joc</string>
   <string name="gs_open_game_booster">Augment de velocitat</string>
+  <string name="gs_open_game_booster_summary">Augmenta la velocitat de la xarxa per als jocs</string>
   <string name="gs_performance_mode">Mode rendiment</string>
   <string name="gs_performance_mode_detail">Incrementa l\'ús de la CPU per garantir el millor rendiment</string>
+  <string name="gs_sign_notification">Recordeu fer la validació a les 20h cada dia</string>
   <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Operador incorrecte?&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="guide_operator_text">"Operador actual: "</string>
   <string name="guide_quck_open">Activa</string>
@@ -1075,7 +1082,7 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="mixed_recording_intro_header">Introduïu com a mínim 4 caràcters</string>
   <string name="mixed_retry_button_text">Cancel·la</string>
   <string name="mixed_settings_help_how_to_record">Com establir la contrasenya</string>
-  <string name="modify_password_mode">Canvia el tipus de contrasenya</string>
+  <string name="modify_password_mode">&lt;u&gt;Canvia el tipus de contrasenya&lt;/u&gt;</string>
   <string name="modifypassword">Canvia la contrasenya</string>
   <string name="monitor_app_add">afegeix</string>
   <string name="monitor_app_more">Més</string>
@@ -1291,7 +1298,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="password_promotion_postbutton_text">Vés a la Configuració</string>
   <string name="password_promotion_title">Contrasenya de protecció de la privacitat</string>
   <string name="password_type">Canvia la contrasenya</string>
-  <string name="password_type_underline">Canvia la contrasenya</string>
+  <string name="password_type_underline">&lt;u&gt;Canvia la contrasenya&lt;/u&gt;</string>
   <string name="password_xspace_forget_pattern_message">Per canviar la contrasenya de segon espai, cal que elimineu el segon espai actual i crear un de nou.</string>
   <string name="path_antispam">Aplicacions del sistema/Seguretat/Llista de bloqueig</string>
   <string name="path_antivirus">Aplicacions del sistema/Seguretat/Escaneig de virus</string>
@@ -1516,7 +1523,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="report_only">Trieu un missatge per notificar</string>
   <string name="report_success">Missatge notificat</string>
   <string name="report_warning">"Voleu notificar %1$s SMS a Mi? Aquests missatges i els números de telèfon des dels que van ser enviats es pujaran als servidors de Mi per ser revisats. Qualsevol informació personal associada amb aquests missatges es tractarà de manera anònima."</string>
-  <string name="report_warning_title">Notifica els SMS</string>
+  <string name="report_warning_title">Atenció</string>
   <string name="resource_antispam">Llista de bloqueig</string>
   <string name="resource_antivirus">Anàlisi de virus</string>
   <string name="resource_app_permissions">Permisos de l\'aplicació</string>
@@ -1612,6 +1619,10 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="shutdown_cancel_reminder_detail2">"Sembla que esteu jugant a un joc. S'ha cancel·lat l'apagada programada."</string>
   <string name="signal_exception_summary">"No es pot connectar a la xarxa en aquesta àrea."</string>
   <string name="signal_exception_title">Senyal de xarxa feble</string>
+  <string name="signed_rule">Regles</string>
+  <string name="signed_rule_one">1. Reviseu d\'aquí a 10, 20 o 28 dies seguits cada mes per obtenir un augment de velocitat Xunyou durant 1, 2 o 3 dies, respectivament.</string>
+  <string name="signed_rule_three">"3. Els dies en què es realitza el registre s'anul·len al començament de cada mes. Els dies restants no es bolquen."</string>
+  <string name="signed_rule_two">2. Només es pot obtenir 1 augment de velocitat Xunyou al mes.</string>
   <string name="sim_location_diagnostic">Diagnòstic d\'ubicació</string>
   <string name="sim_location_error_dialog_message">"La targeta SIM que utilitzeu és de %1$s. Això és diferent de la ubicació establerta manualment (%2$s). Canviar l'ubicació de la SIM a %3$s?"</string>
   <string name="sim_location_error_notify_message">Premi per canviar d\'ubicació SIM.</string>
@@ -2071,7 +2082,7 @@ Dades extres en ús"</string>
   <string name="uninstall_danagerous_msg">«%s» pot danyar el vostre dispositiu, reduir el rendiment o provocar reinicis.</string>
   <string name="uninstall_danagerous_title">Desinstal·lació d\'aplicacions malicioses</string>
   <string name="unlike">No, gràcies</string>
-  <string name="unlock_pattern">Patró</string>
+  <string name="unlock_pattern">&lt;u&gt;Patró&lt;/u&gt;</string>
   <string name="unlock_pattern_to_bind_fingerprint">Introduïu la contrasenya per activar l\'empremta</string>
   <string name="unlock_set_unlock_password_summary">Combina diferents caràcters</string>
   <string name="unlock_set_unlock_password_title">Contrasenya</string>

@@ -919,6 +919,7 @@ Voleu canviar al nou proveïdor igualment?"</string>
   <string name="modem_dialog_body">La xarxa mòbil és inestable, això pot provocar interrupcions o problemes de xarxa. Voleu enviar un informe d\'error a Mi per a l\'anàlisi? Aquest informe pot contenir informació personalment identificable. L\'informe s\'utilitzarà per ajudar a solucionar aquest error i mai es compartirà en cap context comercial.</string>
   <string name="modem_dialog_title">La xarxa mòbil és inestable</string>
   <string name="msim_apn_not_set">No definit</string>
+  <string name="msim_cmcc_dds_switch_not_support">"No es poden canviar les targetes SIM a causa de les restriccions de l'operador."</string>
   <string name="msim_default_setting">Configuració per defecte</string>
   <string name="msim_disable_sim_card_btn_text">D\'acord</string>
   <string name="msim_disable_sim_card_summary_default_card">"Aquesta targeta està configurada com la SIM per defecte. Si la desactiveu, no podreu fer trucades ni utilitzar la connexió de dades. Podeu desactivar aquesta SIM després configurar-ne una altra com la vostra targeta per defecte."</string>

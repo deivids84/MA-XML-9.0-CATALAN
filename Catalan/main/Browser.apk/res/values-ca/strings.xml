@@ -109,7 +109,7 @@
   <string name="bookmark_move_to">Mou a</string>
   <string name="bookmark_needs_title">El marcador ha de tenir un nom</string>
   <string name="bookmark_needs_url">El marcador ha de contenir un URL</string>
-  <string name="bookmark_not_saved">"No s'ha pogut desar el marcador"</string>
+  <string name="bookmark_not_saved">"No s'ha pogut afegir el marcador"</string>
   <string name="bookmark_rename_group">Canvia el nom del grup</string>
   <string name="bookmark_saved">S\'ha desat als marcadors</string>
   <string name="bookmark_title">Nom del marcador</string>
@@ -161,7 +161,9 @@
   <string name="comment_app_menu">Comentari</string>
   <string name="comment_description">Comentari</string>
   <string name="comment_hint">Comentari</string>
+  <string name="comment_max_length">El vostre comentari és massa llarg.</string>
   <string name="comment_menu">Comentari</string>
+  <string name="comment_num_description">Número de comentari</string>
   <string name="common_use_phrase_bottom_bar_cn_txt">.cat</string>
   <string name="common_use_phrase_bottom_bar_text_next">Següent</string>
   <string name="common_use_phrase_bottom_bar_text_previous">Anterior</string>
@@ -292,6 +294,7 @@ està a punt de passar»</string>
   <string name="error_unauthorized">La sincronització amb el compte Mi s\'ha desactivat per massa intents d\'inici de sessió.</string>
   <string name="exit">Surt</string>
   <string name="exit_browser_warning">Voleu sortir del navegador?</string>
+  <string name="favorite">Afegeix-ho als preferits</string>
   <string name="file_dir">Canvia de carpeta</string>
   <string name="file_name">"Nom: "</string>
   <string name="file_picker">Selecciona la ruta</string>
@@ -326,7 +329,7 @@ està a punt de passar»</string>
   <string name="go_supermarket_title">Més aplicacions, més ràpid i menys ús de dades a l\'App Store</string>
   <string name="gold_medals">Medalles d\'or</string>
   <string name="google_bookmarks">Google</string>
-  <string name="green_kid_block_request">Els pares han blocat l\'accés a la pàgina web.</string>
+  <string name="green_kid_block_request">L\'accés a aquest lloc web està restringit.</string>
   <string name="have_sent_bookmark_to_home_screen">S\'ha posat a la pantalla d\'inici</string>
   <string name="hint">Consell</string>
   <string name="history">Historial</string>
@@ -367,7 +370,7 @@ està a punt de passar»</string>
   <string name="media_error_video_not_exist">"El vídeo no existeix"</string>
   <string name="menu_preferences">Configuració</string>
   <string name="menu_title_clear_all">Esborra-ho tot</string>
-  <string name="menu_title_open_file_management">Obre l\'Explorador de fitxers</string>
+  <string name="menu_title_open_file_management">Obre el gestor de fitxers</string>
   <string name="menu_title_pause_all">Atura-ho tot</string>
   <string name="menu_title_resume_all">Inicia-ho tot</string>
   <string name="miui_autologin_bar_error">"No es pot iniciar sessió"</string>
@@ -584,11 +587,7 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="mw_miuichromium_error_page_server_error">Hi ha massa dispositius intentant connectar-se</string>
   <string name="mw_miuichromium_error_page_suggestion_check_app_proxy">Comproveu la configuració de les aplicacions de servidor intermediari instal·lades al dispositiu.</string>
   <string name="mw_miuichromium_error_page_suggestion_check_connetion">Comproveu la connexió a Internet.</string>
-  <string name="mw_miuichromium_error_page_suggestion_check_mobile_proxy" formatted="false">(Dades mòbils) Restableix la %s1 configuració de l\'APN %s2.</string>
   <string name="mw_miuichromium_error_page_suggestion_check_url">"Comproveu la URL que heu introduït."</string>
-  <string name="mw_miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(Wi-Fi) Comproveu la %s1 configuració del servidor intermediari %s2.</string>
-  <string name="mw_miuichromium_error_page_suggestion_clear_cache" formatted="false">Esborra la memòria cau (%s1 Configuració %s2 - Esborra les dades).</string>
-  <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies" formatted="false">Esborra la memòria cau i les galetes (%s1 Configuració %s2 - Esborra les dades, es pot perdre la informació del vostre compte).</string>
   <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies_no_invoke">Esborreu la memòria cau i les galetes (es pot perdre la informació del vostre compte).</string>
   <string name="mw_miuichromium_error_page_suggestion_clear_cache_no_invoke">Esborra la memòria cau.</string>
   <string name="mw_miuichromium_error_page_suggestion_connect_and_retry">Torna a carregar després de connectar-se a Internet</string>
@@ -790,7 +789,7 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="open_app_confirm_message">Voleu permetre que aquesta pàgina obri %s?</string>
   <string name="open_cloud_sync">Activa la sincronització amb Mi Cloud</string>
   <string name="open_cloud_sync_desc">S\'ha afegit marcador amb èxit. Activeu la sincronització amb el Mi Cloud per sincronitzar els marcadors afegits en altres dispositius. Voleu iniciar sessió i activar-lo?</string>
-  <string name="open_file_explorer_failed">"No es pot obrir l'Explorador de fitxers"</string>
+  <string name="open_file_explorer_failed">"No es pot obrir el gestor de fitxers"</string>
   <string name="open_voice_permission">Permís per obrir la xarxa de veu</string>
   <string name="page_info">Informació de la pàgina</string>
   <string name="page_info_address">Adreça:</string>
@@ -843,7 +842,7 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="pref_enable_videos">Vídeos</string>
   <string name="pref_extras_reset_default">Restableix als valors per defecte</string>
   <string name="pref_extras_reset_default_dlg">Voleu tornar a la configuració per defecte?</string>
-  <string name="pref_extras_reset_default_summary">Restaura la configuració per defecte</string>
+  <string name="pref_extras_reset_default_summary">Restaura l\'ordre per defecte</string>
   <string name="pref_extras_reset_default_title">Altres</string>
   <string name="pref_extras_send_feedback">Envia comentaris</string>
   <string name="pref_extras_title">Configuració addicional</string>
@@ -974,7 +973,7 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="save_image_success">Imatge desada</string>
   <string name="save_page_capture_tip">Obre la taula de notificacions per veure la captura de pantalla.</string>
   <string name="save_page_capture_to_camera">S\'ha desat la captura de pantalla</string>
-  <string name="save_to_bookmark">Desa als marcadors</string>
+  <string name="save_to_bookmark">S\'ha afegit als marcadors</string>
   <string name="save_to_camera">Desa a càmera</string>
   <string name="save_to_camera_failed">"No es pot desar la imatge"</string>
   <string name="save_to_camera_success">S\'ha desat a càmera</string>
@@ -1079,6 +1078,15 @@ El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'
   <string name="suggest_access_music">Música Mi</string>
   <string name="suggest_item_delete_text">Elimina</string>
   <string name="suggest_open_app_failed">"No s'ha pogut obrir aquesta aplicació"</string>
+  <string name="suggestion_express_button_query_more">MOSTRA\'N MÉS</string>
+  <string name="suggestion_express_button_text_query">COMPROVA</string>
+  <string name="suggestion_express_exception_net">"No s'ha pogut connectar a la xarxa. Comproveu la configuració i torneu-ho a provar."</string>
+  <string name="suggestion_express_exception_number">El número és incorrecte. Comproveu el número i torneu-ho a provar.</string>
+  <string name="suggestion_express_exception_server">S\'ha produït un error del servidor. Espereu un minut o dos i torneu-ho a provar.</string>
+  <string name="suggestion_express_input_empty">"El número de seguiment no pot estar buit."</string>
+  <string name="suggestion_express_input_hint_inside">Introduïu el número de seguiment</string>
+  <string name="suggestion_express_input_hint_out">Número de seguiment:</string>
+  <string name="suggestion_express_title">Seguiment dels vostres paquets</string>
   <string name="suggestion_lottery_detail_pour">%s NOTA</string>
   <string name="suggestion_lottery_detail_price">CADA NOTA VAL MÉS QUE %s IUAN</string>
   <string name="suggestion_lottery_detail_text">AQUESTA RONDA %s</string>
@@ -1194,9 +1202,9 @@ El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'
   <string name="voice_connect_network">"No es pot connectar a la xarxa"</string>
   <string name="voice_description">Cerca per veu</string>
   <string name="voice_network_connection">L\'ús de la cerca per veu necessita d\'accés a la xarxa, autoritzeu la connexió de xarxa</string>
-  <string name="voice_open_permission_baidu">Aneu a la configuració, activeu els permisos de veu per a les configuracions del reconeixement de veu</string>
-  <string name="voice_open_permission_xiaoai">Aneu a la configuració i activeu els permisos de veu per al motor de veu Xiaoai</string>
-  <string name="voice_open_permission_xunfei">Aneu a la configuració i activeu els permisos de veu per a la configuració de veu</string>
+  <string name="voice_open_permission_baidu">Aneu a la configuració i permeteu que el motor de veu accedeixi al micròfon.</string>
+  <string name="voice_open_permission_xiaoai">Aneu a la configuració i permeteu que el motor de veu Mi AI accedeixi al micròfon.</string>
+  <string name="voice_open_permission_xunfei">Aneu a configuració i proporcioneu al Navegador Mi tots els permisos necessaris.</string>
   <string name="voice_search_permission">La cerca per veu requereix privilegis de veu, aneu a la configuració del navegador per obrir els permisos de veu</string>
   <string name="voice_semantic_analysis">Anàlisi semàntica després de la creació de xarxes</string>
   <string name="voice_start_description">Inicia</string>

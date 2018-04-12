@@ -52,6 +52,7 @@
   <string name="other_settings_upload_debug_log_title">Envia automàticament les dades del diagnòstic</string>
   <string name="other_settings_user_experience">Programa d\'Experiència d\'Usuari</string>
   <string name="other_settings_user_experience_summary">Ajudeu-nos a millorar els nostres productes i serveis compartint les vostres estadístiques d\'ús amb nosaltres. Mostra els detalls</string>
+  <string name="other_settings_user_experience_summary_index">Mostra els detalls</string>
   <string name="pref_title_data_slot">Targeta SIM de dades preferida</string>
   <string name="pref_title_voice_slot">Targeta SIM de veu preferida</string>
   <string name="privacy_policy">Política de privadesa</string>

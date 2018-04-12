@@ -562,6 +562,8 @@ Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi."</
   <string name="upgrade_space_successful">Afegits %sGB</string>
   <string name="upgrade_space_successful_total">%sGB disponibles</string>
   <string name="user_agreement">Acord d\'usuari</string>
+  <string name="user_agreement_content">"En utilitzar aquest servei, esteu d'acord amb %s."</string>
+  <string name="user_agreement_link">"Els termes de servei del Mi Cloud"</string>
   <string name="user_agreement_title">"Termes de Servei de Mi Cloud"</string>
   <string name="vcode">Codi de verificació</string>
   <string name="verify">Comprovar</string>

@@ -28,11 +28,12 @@ L\'estalvi de bateria tractarà de forma selectiva les aplicacions importants."<
   <string name="disable_hide_mode_warning">"En desactivar l'estalvi de bateria pot augmentar el consum d'energia del dispositiu."</string>
   <string name="empty_title_apps_container_list">Sense aplicacions</string>
   <string name="enable_hide_mode">Activa l\'estalvi de bateria</string>
+  <string name="enable_sleep_mode">Activeu el mode suspensió per optimitzar l\'ús de la bateria a la nit</string>
   <string name="error_filename_too_long">Nom de fitxer massa llarg.</string>
   <string name="extreme_power_config_mode_category">Mode extrem</string>
   <string name="extreme_power_config_mode_desc">Canvieu al mode extrem per desactivar la sincronització, Bluetooth, GPS, NFC, doble toc, llums de botons, pantalla de bloqueig per a notificacions i llums de notificació. MIUI se centrarà en estalviar bateria.</string>
   <string name="extreme_power_config_mode_title">Mode extrem</string>
-  <string name="failure">Ha fallat</string>
+  <string name="failure">Error</string>
   <string name="hide_mode_desc">Quan una aplicació s\'executa en segon pla, les seves activitats seran supervisades per reduir el consum de bateria. La connexió de xarxa, els serveis d\'ubicació, la ràdio, el rellotge, etc. es poden veure afectats per aquesta funció. Aquesta configuració és adequada per a la majoria de les aplicacions, però si alguna aplicació en particular es comporta de forma incorrecta quan s\'està executant en segon pla, pot personalitzar la configuració per a cada aplicació.</string>
   <string name="hide_system_app">Amaga les aplicacions del sistema</string>
   <string name="hints_loading_text">Un moment…</string>
@@ -60,6 +61,7 @@ L\'estalvi de bateria tractarà de forma selectiva les aplicacions importants."<
   <string name="power_config_apps">Estalvi de bateria</string>
   <string name="power_config_event_delete">Elimina</string>
   <string name="power_config_select_apps_title">Aplicacions</string>
+  <string name="power_consume_abnormal_night">La bateria es drena per la nit</string>
   <string name="power_hide_mode_app_list_summary">Configuració d\'aplicació</string>
   <string name="power_hide_mode_title">Bateria i rendiment</string>
   <string name="power_mode">Configuració d\'energia</string>
@@ -67,10 +69,17 @@ L\'estalvi de bateria tractarà de forma selectiva les aplicacions importants."<
   <string name="scenario_policies_summary">Apliqueu diferents estratègies d\'estalvi d\'energia per a diferents escenes.</string>
   <string name="scenario_policies_title">Escenes intel·ligents</string>
   <string name="scenario_policies_warmcontrol">Control de temperatura</string>
+  <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
+  <string name="search_result_text">"No s'ha trobat cap aplicació"</string>
   <string name="show_system_app">Mostra les aplicacions del sistema</string>
   <string name="sleep_config_enhance_description">"Cada vegada que MIUI detecta que esteu dormint, tancarà aplicacions en segon pla, restringirà l'NFC, Bluetooth, GPS, dades mòbils i ús de Wi-Fi i farà que no s'activi la pantalla per a les notificacions."</string>
   <string name="sleep_config_enhance_description_non_nfc">"Cada vegada que MIUI detecta que esteu dormint, tancarà les aplicacions de fons, restringirà el Bluetooth, GPS, dades mòbils i l'ús de Wi-Fi i la pantalla no s'encendrà en rebre notificacions."</string>
   <string name="sleep_config_enhance_title">Mode suspensió</string>
+  <string name="sleepmode_disclaimer_agree">Accepta</string>
+  <string name="sleepmode_disclaimer_cancel">Cancel·la</string>
+  <string name="sleepmode_privacy_content">"Aquesta funció utilitzarà el sistema i la informació del dispositiu del vostre telèfon. No es carregarà als nostres servidors."</string>
+  <string name="sleepmode_privacy_link">Obtén més informació sobre la privadesa i la seguretat</string>
+  <string name="sleepmode_privacy_title">Mode suspensió</string>
   <string name="sucess">Fet</string>
   <string name="update_profile_failture_not_connect_wifi">"No s'ha pogut actualitzar. Connecteu-vos a la Wi-Fi i torneu-ho a provar."</string>
   <string name="update_profile_sucess">S\'ha actualitzat des del servidor correctament</string>

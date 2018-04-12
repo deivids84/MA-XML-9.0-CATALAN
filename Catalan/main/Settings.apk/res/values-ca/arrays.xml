@@ -28,7 +28,7 @@
   </string-array>
   <string-array name="ap_identify">
     <item>Per defecte</item>
-    <item>Moblie hotspot</item>
+    <item>Portable hotspot</item>
   </string-array>
   <string-array name="apn_auth_entries">
     <item>Cap</item>
@@ -377,7 +377,7 @@
     <item>Bloqueja la pantalla</item>
     <item>Mode d\'infants</item>
     <item>Mode de mainada</item>
-    <item>Explorador de fitxers</item>
+    <item>Gestor de fitxers</item>
     <item>Bloqueig d\'aplicacions</item>
     <item>Segon espai</item>
   </string-array>
@@ -388,6 +388,24 @@
   <string-array name="data_usage_data_range">
     <item>Els darrers 30 dies</item>
     <item>Defineix el cicle d\'ús...</item>
+  </string-array>
+  <string-array name="date_of_app_all">
+    <item>Avui (dades)</item>
+    <item>Aquest mes (dades)</item>
+    <item>Darrer mes (dades)</item>
+    <item>Wi-Fi d\'avui</item>
+    <item>Wi-Fi d\'aquest mes</item>
+    <item>Wi-Fi del darrer mes</item>
+  </string-array>
+  <string-array name="date_of_traffic">
+    <item>"Avui "</item>
+    <item>"Aquest mes "</item>
+    <item>"Darrer mes "</item>
+  </string-array>
+  <string-array name="date_of_traffic_prefix">
+    <item>"Avui: "</item>
+    <item>"Aquest mes: "</item>
+    <item>"Darrer mes: "</item>
   </string-array>
   <string-array name="debug_hw_overdraw_entries">
     <item>Apagat</item>
@@ -551,7 +569,7 @@
     <item>Crea el directori: mkdir /media/mtp</item>
     <item>Confirmeu els permisos de grup d\'usuaris del grup actual</item>
     <item>Torna a iniciar la sessió</item>
-    <item>Per accedir al dispositiu muntat: mtpfs /media/mtp mitjançant l\'explorador de fitxers; igual que amb el directori local</item>
+    <item>Per accedir al dispositiu muntat: mtpfs /media/mtp a través del gestor de fitxers; igual amb el directori local.</item>
     <item>"Per a desinstal·lar el dispositiu: fusermount -u /media/mtp
 Nota: Només per a Ubuntu 8.04!"</item>
   </string-array>
@@ -775,6 +793,10 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>Off</item>
     <item>Normal</item>
     <item>Extrem</item>
+  </string-array>
+  <string-array name="traffic_type">
+    <item>"Mobile usage "</item>
+    <item>"Ús de Wi-Fi "</item>
   </string-array>
   <string-array name="transition_animation_scale_entries">
     <item>Sense animacions</item>
