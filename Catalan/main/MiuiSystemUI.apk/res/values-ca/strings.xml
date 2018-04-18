@@ -268,7 +268,7 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
   <string name="description_image_button_answer">Resposta</string>
   <string name="description_image_button_reject">Rebutja</string>
   <string name="description_target_search">Cercar</string>
-  <string name="dev_logpersist_clear_warning_message">Quan ja no monitoritzem més amb el registrador persistent, se\'ns demanarà d\'esborrar el registrador de dades resident del vostre dispositiu.</string>
+  <string name="dev_logpersist_clear_warning_message">"Quan ja no monitoritzem més amb el registrador persistent, se'ns demanarà d'esborrar el registrador de dades resident del vostre dispositiu."</string>
   <string name="dev_logpersist_clear_warning_title">Voleu netejar l\'emmagatzematge del registrador persistent?</string>
   <string name="dev_settings_warning_message">Aquesta configuració només està prevista per a usos de desenvolupament. Pot fer que el dispositiu i les aplicacions s\'interrompin o tinguin un comportament inadequat.</string>
   <string name="dev_settings_warning_title">Voleu permetre la configuració de desenvolupament?</string>
@@ -323,7 +323,7 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
   <string name="ext_media_unmountable_notification_title">Targeta SD malmesa</string>
   <string name="external_source_trusted">Permès</string>
   <string name="external_source_untrusted">No permès</string>
-  <string name="failed_to_open_app_settings_toast">No s\'ha pogut obrir la configuració de %1$s</string>
+  <string name="failed_to_open_app_settings_toast">"No s'ha pogut obrir la configuració de %1$s"</string>
   <string name="float_incall_ignore">Ignorar</string>
   <string name="float_incall_message">Missatge</string>
   <string name="force_allow_on_external">Força a les aplicacions escriure en un emmagatzematge extern</string>
@@ -423,7 +423,7 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="local_backup_password_title">Contrasenya per a còpies d\'ordinador</string>
   <string name="local_backup_password_toast_confirmation_mismatch">La nova contrasenya i la confirmació no coincideixen</string>
   <string name="local_backup_password_toast_success">S\'ha definit una contrasenya de seguretat nova</string>
-  <string name="local_backup_password_toast_validation_failure">S\'ha produit un error en definir la contrasenya de la còpia de seguretat</string>
+  <string name="local_backup_password_toast_validation_failure">"S'ha produit un error en definir la contrasenya de la còpia de seguretat"</string>
   <string name="lockscreen_carrier_default">Sense servei</string>
   <string name="long_screenshot_not_support_msg">"L'aplicació actual no és compatible amb les captures de pantalla llargues"</string>
   <string name="long_screenshot_out_of_memory_error">No s\'ha pogut perquè la imatge es massa gran</string>
@@ -738,7 +738,7 @@ d MMMM"</string>
   <string name="tts_settings">Configuració de text-a-veu</string>
   <string name="tts_settings_title">Sortida de text-a-veu</string>
   <string name="tts_status_checking">S\'està verificant&#8230;</string>
-  <string name="tts_status_not_supported">%1$s no és compatible</string>
+  <string name="tts_status_not_supported">"%1$s no és compatible"</string>
   <string name="tts_status_ok">%1$s és compatible</string>
   <string name="tts_status_requires_network">Cal connexió de xarxa per a %1$s</string>
   <string name="tts_status_title">Estat de l\'idioma per defecte</string>
@@ -803,11 +803,11 @@ d MMMM"</string>
   <string name="wifi_disabled_generic">Desactivat</string>
   <string name="wifi_disabled_network_failure">Ha fallat la configuració d\'IP</string>
   <string name="wifi_disabled_password_failure">Problema d\'autenticació</string>
-  <string name="wifi_disabled_wifi_failure">Error de connexió WiFi</string>
+  <string name="wifi_disabled_wifi_failure">"Error de connexió WiFi"</string>
   <string name="wifi_display_certification">Certificació de pantalla sense fil</string>
   <string name="wifi_display_certification_summary">Mostra les opcions de certificació de pantalla sense fil</string>
   <string name="wifi_fail_to_scan">"No es poden cercar xarxes"</string>
-  <string name="wifi_no_internet">No detectat accés a Internet, no es tornarà a connectar automàticament.</string>
+  <string name="wifi_no_internet">"No detectat accés a Internet, no es tornarà a connectar automàticament."</string>
   <string name="wifi_no_internet_no_reconnect">"No es connectarà automàticament"</string>
   <string name="wifi_not_in_range">Fora del rang</string>
   <string name="wifi_remembered">Desat</string>

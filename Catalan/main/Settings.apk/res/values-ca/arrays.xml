@@ -741,7 +741,7 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>Desactivat</item>
     <item>Tots</item>
     <item>Tot excepte la ràdio</item>
-    <item>kernel only</item>
+    <item>Kernel only</item>
   </string-array>
   <string-array name="show_non_rect_clip_entries">
     <item>Apagat</item>

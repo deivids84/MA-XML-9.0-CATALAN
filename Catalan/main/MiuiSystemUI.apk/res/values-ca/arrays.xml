@@ -138,7 +138,7 @@
     <item>Desactivat</item>
     <item>Tots</item>
     <item>Tot excepte la ràdio</item>
-    <item>kernel only</item>
+    <item>Kernel only</item>
   </string-array>
   <string-array name="select_logpersist_summaries">
     <item>Desactivat</item>
