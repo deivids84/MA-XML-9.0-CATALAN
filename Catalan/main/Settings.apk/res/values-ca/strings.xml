@@ -4481,7 +4481,6 @@ La sincronització de dades que ha ideat Google per tal de permetre l\'accés al
   <string name="tether_devices_management_title">Gestió de dispositius</string>
   <string name="tether_devices_max_number">Límit de dispositius connectats</string>
   <string name="tether_limit_dialog_title">Límit de dades mòbils</string>
-  <string name="tether_limit_value_custom">Personalitzat</string>
   <string name="tether_over_limit_dialog_cancle_btn">Restableix el punt d\'accés</string>
   <string name="tether_over_limit_dialog_message">Heu arribat al límit de dades del punt d\'accés portàtil.</string>
   <string name="tether_over_limit_dialog_title">Avís d\'ús de dades</string>
